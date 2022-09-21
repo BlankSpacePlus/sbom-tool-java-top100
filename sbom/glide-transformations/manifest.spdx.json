@@ -1,0 +1,2028 @@
+{
+  "files": [
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-ED1CB21E9FA02A6B8AF905503B40860F4E750143",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e83b5bbb95a55168dfbc24dc378f8972dfacdcef865a98865b30037b045545e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed1cb21e9fa02a6b8af905503b40860f4e750143"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-7A70D631309B675B92C6F7E8064D175C8634F25A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74cbc60e7eaec3c45197e353e658c59ed6d9c9d8b2b948096e52976a02417172"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7a70d631309b675b92c6f7e8064d175c8634f25a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-9BDA1A2991CD050CC2FBF008FD3E5A9672B63EB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c15a47b60a4eeede9ffee33433fd990d8b6236607372b9bb1f6dc51b07b78c39"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bda1a2991cd050cc2fbf008fd3e5a9672b63eb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-6B8F5769B47147A271F7D5A808B802DCB44FAB85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a07e9185cca870c556a44d5b4dff2bea516e0068ecf7984fd9c6818839bfd761"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b8f5769b47147a271f7d5a808b802dcb44fab85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-250F8E0BEED7C64DA1AE16541607A529D3E8B25D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b90b50b2194326493a9738aeddf940e70c30ba2a8f7c88711ed4d4ecd07cfc9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "250f8e0beed7c64da1ae16541607a529d3e8b25d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-F1F0B9C787872FFF199A7C7E526B702F4ADA3866",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d0eb5e499515f85bc499bb4e36a587328d8af9d48a75800626a84c06904208d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1f0b9c787872fff199a7c7e526b702f4ada3866"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.editorconfig",
+      "SPDXID": "SPDXRef-File--.editorconfig-7F7639BA04048034F6EE07FBF13654D24464136D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25586357ff9704565b756d1c18519ca1695a244d4af9598f08daa3c218c7339a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f7639ba04048034f6ee07fbf13654d24464136d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5c317cf754bba8ad745e83649e9ce7c17e2f691"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-96E10901EDD5A51B4216AF54DD2DE29250F0ED4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6369c64f8cfdec61de6aa8cfd268a3dc46011a533d4da1fec36073b61151ddf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96e10901edd5a51b4216af54dd2de29250f0ed4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/encodings.xml",
+      "SPDXID": "SPDXRef-File--.idea-encodings.xml-BD823CB5C2578EDB5F40F411154E1B43356E6056",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "846204ff31d2afd42f5e71a656f0dbcb292f062cf13a996f49998a5fa1e02293"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd823cb5c2578edb5f40f411154e1b43356e6056"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--example-proguard-rules.pro-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-xhdpi/demo.jpg",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-xhdpi-demo.jpg-736B0DFCB8D0B70447BA91C556B8F5697E992CAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ecc79fa4b513b687082b17492b75ab15f095bb7bc36f3d09c1d93c109bb259d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "736b0dfcb8d0b70447ba91c556b8f5697e992caa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-dimens.xml-44A9AA5D39A133140824AB4936A67D7E76110FAF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47c4f4dbadde8f13e930b3c4fce3982ba1c68be0d811cc1926242a6c68b980f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44a9aa5d39a133140824ab4936a67d7e76110faf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/build.gradle",
+      "SPDXID": "SPDXRef-File--transformations-build.gradle-76CCDA4262FAF7C6ADF78F5A788C19DB9A27E5E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47d8fea6fd0886988a0066c663d348e129c11421cce258a5ecc956ccbae92347"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76ccda4262faf7c6adf78f5a788c19db9a27e5e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/CropCircleWithBorderTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropCircleWithBorderTransformation.java-D53AB49C5DE1F7BA3059E0575F46F9B3D1377C60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ab1e8a534e8c213133c8da44f361b671212b65cf61860c7f423819e1e8b2a4d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d53ab49c5de1f7ba3059e0575f46f9b3d1377c60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/GPUFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-GPUFilterTransformation.java-CD6F664484135E6F009F5BFF418DD733B2D36A95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b240f13ef1649bc2194c158785ded88a81b96ab43c0ce4bd9215c9bf6306706"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd6f664484135e6f009f5bff418dd733b2d36a95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/VignetteFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-VignetteFilterTransformation.java-FE3D46DF8B395EA93AEE635CE9C282EF5858312C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25243facd938db40982fca6d141190beb17e5d71f93c596bc8c9498c53028806"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe3d46df8b395ea93aee635ce9c282ef5858312c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-97014E22BE3D39174F930BBE6C2150E0D0D4B3EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07f3a5f02cd34281740f818fb55a242288bc1d454ac7bda53267b2b3c7f7afaa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97014e22be3d39174f930bbe6c2150e0d0d4b3ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/main",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-main-B02FC7BCC6B2A3EBE041446A1D385A2604EB809B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a90fbe94fc92cca8f45567a3f09528acea2252401985480f4ae66f310c938bff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b02fc7bcc6b2a3ebe041446a1d385a2604eb809b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/codeStyles/codeStyleConfig.xml",
+      "SPDXID": "SPDXRef-File--.idea-codeStyles-codeStyleConfig.xml-2A565AFBB8E9937128BA68CBDEDBCB2E5AABB150",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23127062ded0ba48daab729209d30f0121e6c93b0ee72352b097756462a5a7c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a565afbb8e9937128ba68cbdedbcb2e5aabb150"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/java/jp/wasabeef/example/glide/MainActivity.kt",
+      "SPDXID": "SPDXRef-File--example-src-main-java-jp-wasabeef-example-glide-MainActivity.kt-B35F4624161689C95003BE9F32E4EA2D7D135D46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0120036532dca5a57c1015f062497a06e3d47ae94db3d6c5f46270eb8b4a355"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b35f4624161689c95003be9f32e4ea2d7d135d46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-xxhdpi/mask_chat_right.9.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-xxhdpi-mask-chat-right.9.png-6EB48996AB62C43A2658B648F405ECDDA8ECF3E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ad1025e243ab72e421f31d372f6d083c4da74d789346bde172e054c539b164a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6eb48996ab62c43a2658b648f405ecdda8ecf3e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values-w820dp/dimens.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-w820dp-dimens.xml-7B5EB6FA57D322514E6216025448077739F75647",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3630e4f6c72e4bf1e10fdd319e6f99f12f03e2dd02661bfeb026a183b6a4e39d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7b5eb6fa57d322514e6216025448077739f75647"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--transformations-src-main-AndroidManifest.xml-4B77F3FBB2D05BCEFE2222B40D4CDF0A7AB15103",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c81ab5df240049ee15368b8c2ab3ebf395368e7e114867c5a5eafde64d23573"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b77f3fbb2d05bcefe2222b40d4cdf0a7ab15103"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/GrayscaleTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-GrayscaleTransformation.java-C11C60D15AA083B8E3CCF757839B5990B17CA68C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ab37add54be17dcea4eb60eaef8e024cbd8f705a9a478a22ba032792df485da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c11c60d15aa083b8e3ccf757839b5990b17ca68c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/PixelationFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-PixelationFilterTransformation.java-81FD66393A41F0ED72345458ED537926E3E1A7BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ba032c4d17841d157b83524778310b8e8b0bb638af33590d9d30a0f8befdc4e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81fd66393a41f0ed72345458ed537926e3e1a7ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-FD9F4E9796D3FB824404AB793931FA8DEB9F5161",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "718197cde9c8c6f9a930e187c025a28010c3151168227e118464901eb073d6a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd9f4e9796d3fb824404ab793931fa8deb9f5161"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/main",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-main-96E10901EDD5A51B4216AF54DD2DE29250F0ED4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6369c64f8cfdec61de6aa8cfd268a3dc46011a533d4da1fec36073b61151ddf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96e10901edd5a51b4216af54dd2de29250f0ed4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/PULL_REQUEST_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-PULL-REQUEST-TEMPLATE.md-1ADBDCB4B02687B7BACA4569ACD867D42839A62B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7cbed9a474d3aed4b9f2e9220bfc3880e3a7662f7a24d193737d005082e204ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1adbdcb4b02687b7baca4569acd867d42839a62b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/build.gradle",
+      "SPDXID": "SPDXRef-File--example-build.gradle-443429C4CAD392BBA4CD462B3C40F01BE84665B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73e1a5b80a5cfbd1dc8ed0235a8247ef465781bd0c4ba6f96f3b906ef1648371"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "443429c4cad392bba4cd462b3c40f01be84665b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-xhdpi/check.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-xhdpi-check.png-94192E0701EAF4A07CE4E3A8FC92E8C1431F5639",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae059e155d11544801aaeb3641837294e0cc80d0dc3dd81045334ca6e80921de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94192e0701eaf4a07ce4e3a8fc92e8c1431f5639"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-colors.xml-1EA147FA9F5881CFBA35540F2C89636CE36FCFF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d54e38f7e54c003e3fce1ce0e0314009aa716f8e32d64bb422632aea6fecb659"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ea147fa9f5881cfba35540f2c89636ce36fcff3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./signingConfigs/debug.keystore",
+      "SPDXID": "SPDXRef-File--signingConfigs-debug.keystore-2FDCA089DED27CEC5FE6EDF2F4DBA9BB6D2C4CD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0abb6baa495c6a3ffb1d87652b89f869b0f6b398d20940cfe8d929cf5df1856"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fdca089ded27cec5fe6edf2f4dba9bb6d2c4cd7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/CropCircleTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropCircleTransformation.java-6D08EFFC5F4B15ACD4D6F1972F02755E8877B1AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ac0963cd98a9e27cf59dea84df70e492b80c8c4f12f84baddc2755ade7f3474"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d08effc5f4b15acd4d6f1972f02755e8877b1ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/ContrastFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-ContrastFilterTransformation.java-43A86B3B3CEED628C88A8F356BC3F10AA89BC539",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f95bca870a3eb2601e0bc86c26c18886b6d196d84e444f95b2bf2ea51836560"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43a86b3b3ceed628c88a8f356bc3f10aa89bc539"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-CCFFD69AC5BBAE11F4C18D252886FD82A877736D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55edbc74a22ffb91c318d78bab75f0b8153f7cd4f5bada40e0b6bae7d90261f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ccffd69ac5bbae11f4c18d252886fd82a877736d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ae7c22895c35af5f56ba1891a4dd62b4dc1f955"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/codeStyles/Project.xml",
+      "SPDXID": "SPDXRef-File--.idea-codeStyles-Project.xml-9E9A8B3767F0C3828619A2B428D866127E4799E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00f63f78b1639ec13b8ca3bef44c4190fd79db4cc823b0933bfde220d67e35f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e9a8b3767f0c3828619a2b428d866127e4799e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/java/jp/wasabeef/example/glide/MainAdapter.kt",
+      "SPDXID": "SPDXRef-File--example-src-main-java-jp-wasabeef-example-glide-MainAdapter.kt-693922E26DD2CD2EFFE5FC33A90D5B856DD6B669",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a35357236a04c521bc6fa0f7d3b2ee27d5cd48d63cc328752df65edfffd3c1e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "693922e26dd2cd2effe5fc33a90d5b856dd6b669"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-06AB1DAE4090617003A7A3644F7340754B1A64FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42b5203432c19158f51abe3b1af39bd3fb43b77775ac06ee694ac4254034172e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06ab1dae4090617003a7a3644f7340754b1a64fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-xxhdpi/mask_starfish.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-xxhdpi-mask-starfish.png-2D8E69B80094F4D7BF68EF83ADD00A5DA3A69112",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aece96299ba7f9122aa9452307b67b65b6bf241844ae661fea7ca8734c6dc166"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d8e69b80094f4d7bf68ef83add00a5da3a69112"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2685E1A923D4C79DD549889406C6FFA9E8661744",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2685e1a923d4c79dd549889406c6ffa9e8661744"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-96E10901EDD5A51B4216AF54DD2DE29250F0ED4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6369c64f8cfdec61de6aa8cfd268a3dc46011a533d4da1fec36073b61151ddf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96e10901edd5a51b4216af54dd2de29250f0ed4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE.md-7761E0BE01635F14870E737519EA4CA505D48030",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd8298371d6ade85a0c2df19c0173960cdd37fba78342effe4a94b30fef04a51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7761e0be01635f14870e737519ea4ca505d48030"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./art/demo.gif",
+      "SPDXID": "SPDXRef-File--art-demo.gif-448625AE228C9C10B0EA3C8C15D6F4042098D43C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe8ad6c8f4d1c6c72718783b653c988b75158a6f1bfabd510963d261b82e63da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "448625ae228c9c10b0ea3c8c15d6f4042098d43c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/BitmapTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-BitmapTransformation.java-C8A1077D8EA32C826EE81C189A7309968DD4181C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a87815ee68f2056a43dabd563bee6f95e8d8ba8725e4d83f7d53b5c94200ff1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8a1077d8ea32c826ee81c189a7309968dd4181c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-9A629275780A46C8250EE1037D9CCAEA360ECD9C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ffeabbddbfce165be0f86a3f119458931bb913cddaa02b1457d25950ceb5a2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a629275780a46c8250ee1037d9ccaea360ecd9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f1df7eea4156be8a871c292b549b3325e425aa2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-ed1de4c6b7f22d7b04f424e137444c57a078cd48.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-ed1de4c6b7f22d7b04f424e137444c57a078cd48.idx-BB090B627530B62F5946AE74CDA222D777516700",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64b8e404cfb9707bbf9c49cbbbc1a117a4498fbb69b856ca53417a63f24779aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb090b627530b62f5946ae74cda222d777516700"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/FUNDING.yml",
+      "SPDXID": "SPDXRef-File--.github-FUNDING.yml-EC5F6E575C60D0ADF4D34DBE5168CE2DB6A05F59",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8303ad46302a78ddb172b44952f180fda4f4c4feb8a64da28ebb325cae407fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec5f6e575c60d0adf4d34dbe5168ce2db6a05f59"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/runConfigurations.xml",
+      "SPDXID": "SPDXRef-File--.idea-runConfigurations.xml-C44721A027E69EB0E66E196E066395F9081EA243",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c08d02f01dced6b5279bb249b8fd49acdf27100d95aaa14a40fec6bf4668e647"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c44721a027e69eb0e66e196e066395f9081ea243"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./art/demo-org.jpg",
+      "SPDXID": "SPDXRef-File--art-demo-org.jpg-736B0DFCB8D0B70447BA91C556B8F5697E992CAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ecc79fa4b513b687082b17492b75ab15f095bb7bc36f3d09c1d93c109bb259d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "736b0dfcb8d0b70447ba91c556b8f5697e992caa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-AndroidManifest.xml-662D514A73299A2C70CF11779A85F03836FE3D8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39dcf49b370d3fd7acc4eaa36682de0c5cdd3cb51f6bad1b2787e9d75686b2c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "662d514a73299a2c70cf11779a85f03836fe3d8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "820e323f5506dc1dda3fad164e5fa0acd56a8266e4ea441db94e60fd9972d28a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a78f48fe9f9114f315dc79eff29452e93ffd709a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "552f9a01050827cc24c9bf50569fe8b0a121fb93297106e224986e7a4e9cc747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cac22ff594b3baf6d111f57405f27b485463a68c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-layout-activity-main.xml-7AFA8556CBE6731D96554592DD9B9AEF71BEE84E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09d445c0467d89778ec5ab91d0783e43c6d5cd39505b26ab63efea002bc23eac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7afa8556cbe6731d96554592dd9b9aef71bee84e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-strings.xml-DBA19BD39E74DE88017756A4BB56626C4483C06C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c21e896f436b3e04235d446114945d7ce61134d5b8c79d35f8bedd9f89e55083"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dba19bd39e74de88017756a4bb56626c4483c06c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-8BD712E4C739CDBB348517183CA7720DC8575517",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8753e6404e723b326c03d264db911c7c49129cad10b929517b436ac768d38022"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bd712e4c739cdbb348517183ca7720dc8575517"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/proguard-rules.txt",
+      "SPDXID": "SPDXRef-File--transformations-proguard-rules.txt-EC080650B7312971C6F21D8156D6AF8AA96BE36F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5111b731562fe50b0c5ff59f68308bde661df8339b160ccea673f2b713057ed0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec080650b7312971c6f21d8156d6af8aa96be36f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/BlurTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-BlurTransformation.java-8CCB6C43A917D05F4B0CD2AB00D1556F663EE82A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02b1296c401a9f2e5ea3c379c511a6f81260fdf6d1518a76be7977d262b54e0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ccb6c43a917d05f4b0cd2ab00d1556f663ee82a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/CropSquareTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropSquareTransformation.java-B3FFB48EABD1E70C6EBCE71DF49505715D1BDC9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ae78f82db2f56b86f0f7d0e80d7b75fc2ec4e461780eb36070f6171aa823629"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3ffb48eabd1e70c6ebce71df49505715d1bdc9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/RoundedCornersTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-RoundedCornersTransformation.java-EFAB207EA6B23F55511360FE378DF7C7BE652D6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1557b64046367b75c26da2de6b4724e3a9249ec230acbf177927b95b07344361"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "efab207ea6b23f55511360fe378df7c7be652d6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/SketchFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-SketchFilterTransformation.java-6D1040857D52300F0690FE6BC94F8923516E1E44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d6c7c313992dcf3e01ff6cd42e5d2396502c806924d6ac162b4a51c968c219f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d1040857d52300f0690fe6bc94f8923516e1e44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/MaskTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-MaskTransformation.java-A5DDAEC1A3A63A0968D8133807624F63A9FE7BF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "141005aa7887fd9ada9be4876b54736ff39720f00bb5b8bc10870544aebdca65"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5ddaec1a3a63a0968d8133807624f63a9fe7bf2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/ToonFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-ToonFilterTransformation.java-C100C077A27EF2831EBAD1E8F970DC69818BA584",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12f380ca93956d20bb2235e2cfc3711d22d11f621187b07f4c8b58b85c0893fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c100c077a27ef2831ebad1e8f970dc69818ba584"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/InvertFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-InvertFilterTransformation.java-818B847066DFFED4739E8DD1FD6D1C6281F720C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef225b96e4b50d34fa6de138010a200445fe6a3013ed2fc2dfdc8cd4bc31b05b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "818b847066dffed4739e8dd1fd6d1c6281f720c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f5bc4bf1364152b1943933b6910bafc913e7a813de5c1b0ba4723e33e58975"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae86c9f2fefeb0a12f9e350975339bc580efd813"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/internal/Utils.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-internal-Utils.java-3425CF096DCD04C545A2109F7433B86853E34751",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df19e901bcf07fd02bc71b2b6c9a36f27993242bd9b7de9e48e1b81812ccd89f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3425cf096dcd04c545a2109f7433b86853e34751"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/internal/FastBlur.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-internal-FastBlur.java-848E16323E06776428B4BD9504BA5C22E780A387",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "506bf48a397d923d96f9eb97ed4a0e910b628d835c149f0932ef95f81399eb25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "848e16323e06776428b4bd9504ba5c22e780a387"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/SepiaFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-SepiaFilterTransformation.java-BBFF9005A6C55B30AB9CD93877768315616B42FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c46f7f13ff974c3e47f093c3c1838871da06b8c184fb6c1f49b06897c3f45104"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbff9005a6c55b30ab9cd93877768315616b42ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/layout/layout_list_item.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-layout-layout-list-item.xml-30E4834F8DB64EEAF159E3C5ADAC2B1B08FF0597",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49f0206f295ba12c416493142de17d80359f0571b80869a016ad4b8a72b59630"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "30e4834f8db64eeaf159e3c5adac2b1b08ff0597"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./signingConfigs/debug.gradle",
+      "SPDXID": "SPDXRef-File--signingConfigs-debug.gradle-56C4AD2945748E53A4DD3E96D5B27D5B7F49CF14",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75f833d05a0358c2f211ac8571bb8620b3a5b9ef18c5734445b26546b314cb1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56c4ad2945748e53a4dd3e96d5b27d5b7f49cf14"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/ColorFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-ColorFilterTransformation.java-FFDAE8A8AAAC8404B7103CB56503EA343A6ADF8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89eb088195add8c08c86edfffe1b9497886c84d352f61e4d8e25ceb0847153ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffdae8a8aaac8404b7103cb56503ea343a6adf8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/BrightnessFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-BrightnessFilterTransformation.java-4B1E8433D2580C403EBDA6EA8B3452CBC0AA548C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9fd5602a26fb76fc07527b96044417fde093b1d8ae01c4fa1326370b31549d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b1e8433d2580c403ebda6ea8b3452cbc0aa548c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/SwirlFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-SwirlFilterTransformation.java-290F0473BD2FCCF144A354AB5FAC7251F7DE7890",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f239f4db43df5212b0254e8dcab663fcdfdb5eb0a71e8df42cd61513ff3f752c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "290f0473bd2fccf144a354ab5fac7251f7de7890"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-ed1de4c6b7f22d7b04f424e137444c57a078cd48.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-ed1de4c6b7f22d7b04f424e137444c57a078cd48.pack-D4620EC307B3664204A078F776E1F5D4419FC91B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "971e1e6d75b923dff861e5a16ed98f2524e92a991df20c907507fd505bd3f5e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d4620ec307b3664204a078f776e1f5d4419fc91b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/vcs.xml",
+      "SPDXID": "SPDXRef-File--.idea-vcs.xml-E692344D8C981D4806A673B29B1A6DC3B6B6D345",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e692344d8c981d4806a673b29b1a6dc3b6b6d345"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/java/jp/wasabeef/example/glide/Ext.kt",
+      "SPDXID": "SPDXRef-File--example-src-main-java-jp-wasabeef-example-glide-Ext.kt-4E0827EFCD406BE318B3643FA6BBB5C632B6FC99",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5754b849781d634a759e33289773e58cf299bb2ead2d563e78bd48724c930ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e0827efcd406be318b3643fa6bbb5c632b6fc99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/drawable-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-drawable-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6e7620e6c5d9bf8020f7216117d8cb799f7936f232e28732443b1fe79521d6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dc154e4ffff91ab2b070a4ce0ad15e50571bea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-styles.xml-6EDF67C5CE3127CDC6F93C3C9C86085163387046",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84f5e754836c8988550c29e85f6fa3c5c6449c05950f945f89507dda502618d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6edf67c5ce3127cdc6f93c3c9c86085163387046"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/androidTest/java/jp/wasabeef/glide/transformations/ApplicationTest.java",
+      "SPDXID": "SPDXRef-File--transformations-src-androidTest-java-jp-wasabeef-glide-transformations-ApplicationTest.java-D100492FC4966331358392D4F4386639C741A56C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3543d6fe6d3ed8e67723e86d21d57ac77c12ac6c3b842d6739c303745b1187d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d100492fc4966331358392d4f4386639c741a56c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/CropTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropTransformation.java-303FF159CDDC88BA87A2719C4D66FC9E4B43B011",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68e5ad30ab95c00c6f248ba2d809e9febe0a8b3ccb2ff4f1238bdff080ff0eab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "303ff159cddc88ba87a2719c4d66fc9e4b43b011"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/gpu/KuwaharaFilterTransformation.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-KuwaharaFilterTransformation.java-9D50C7B0EB27FC40279150FFB78CD8B16A0D962C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bff933a2afd921869bcc1bd0f67bfc5fe849b378967f2e4137bc6d374f31bce3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d50c7b0eb27fc40279150ffb78cd8b16a0d962c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./transformations/src/main/java/jp/wasabeef/glide/transformations/internal/RSBlur.java",
+      "SPDXID": "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-internal-RSBlur.java-D5EEC0698173198CA1ED078D9D98F1C1B68328B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "709682ce2397cba6ee4659de48b73e99c83d4441e3df8fad32a99ea10e8a7a7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5eec0698173198ca1ed078d9d98f1c1b68328b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "glide-transformations",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "3b7c3d5b0f0cfe059f8058558385fdebfbd53b1f"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.3.0",
+      "supplier": "Organization: https://github.com/wasabeef/glide-transformations",
+      "hasFiles": [
+        "SPDXRef-File--.idea-vcs.xml-E692344D8C981D4806A673B29B1A6DC3B6B6D345",
+        "SPDXRef-File--.git-objects-pack-pack-ed1de4c6b7f22d7b04f424e137444c57a078cd48.pack-D4620EC307B3664204A078F776E1F5D4419FC91B",
+        "SPDXRef-File--transformations-src-androidTest-java-jp-wasabeef-glide-transformations-ApplicationTest.java-D100492FC4966331358392D4F4386639C741A56C",
+        "SPDXRef-File--example-src-main-res-values-styles.xml-6EDF67C5CE3127CDC6F93C3C9C86085163387046",
+        "SPDXRef-File--example-src-main-res-drawable-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+        "SPDXRef-File--example-src-main-java-jp-wasabeef-example-glide-Ext.kt-4E0827EFCD406BE318B3643FA6BBB5C632B6FC99",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-SwirlFilterTransformation.java-290F0473BD2FCCF144A354AB5FAC7251F7DE7890",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-KuwaharaFilterTransformation.java-9D50C7B0EB27FC40279150FFB78CD8B16A0D962C",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropTransformation.java-303FF159CDDC88BA87A2719C4D66FC9E4B43B011",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-BrightnessFilterTransformation.java-4B1E8433D2580C403EBDA6EA8B3452CBC0AA548C",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-ColorFilterTransformation.java-FFDAE8A8AAAC8404B7103CB56503EA343A6ADF8C",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-SepiaFilterTransformation.java-BBFF9005A6C55B30AB9CD93877768315616B42FF",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-internal-FastBlur.java-848E16323E06776428B4BD9504BA5C22E780A387",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-internal-Utils.java-3425CF096DCD04C545A2109F7433B86853E34751",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-ToonFilterTransformation.java-C100C077A27EF2831EBAD1E8F970DC69818BA584",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-SketchFilterTransformation.java-6D1040857D52300F0690FE6BC94F8923516E1E44",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-RoundedCornersTransformation.java-EFAB207EA6B23F55511360FE378DF7C7BE652D6A",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-BlurTransformation.java-8CCB6C43A917D05F4B0CD2AB00D1556F663EE82A",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-8BD712E4C739CDBB348517183CA7720DC8575517",
+        "SPDXRef-File--example-src-main-res-layout-activity-main.xml-7AFA8556CBE6731D96554592DD9B9AEF71BEE84E",
+        "SPDXRef-File--example-src-main-res-drawable-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+        "SPDXRef-File--art-demo-org.jpg-736B0DFCB8D0B70447BA91C556B8F5697E992CAA",
+        "SPDXRef-File--.github-FUNDING.yml-EC5F6E575C60D0ADF4D34DBE5168CE2DB6A05F59",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
+        "SPDXRef-File--art-demo.gif-448625AE228C9C10B0EA3C8C15D6F4042098D43C",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE.md-7761E0BE01635F14870E737519EA4CA505D48030",
+        "SPDXRef-File--.git-logs-HEAD-96E10901EDD5A51B4216AF54DD2DE29250F0ED4A",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-06AB1DAE4090617003A7A3644F7340754B1A64FE",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-VignetteFilterTransformation.java-FE3D46DF8B395EA93AEE635CE9C282EF5858312C",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-GPUFilterTransformation.java-CD6F664484135E6F009F5BFF418DD733B2D36A95",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropCircleWithBorderTransformation.java-D53AB49C5DE1F7BA3059E0575F46F9B3D1377C60",
+        "SPDXRef-File--transformations-build.gradle-76CCDA4262FAF7C6ADF78F5A788C19DB9A27E5E5",
+        "SPDXRef-File--example-src-main-res-values-dimens.xml-44A9AA5D39A133140824AB4936A67D7E76110FAF",
+        "SPDXRef-File--example-src-main-res-drawable-xhdpi-demo.jpg-736B0DFCB8D0B70447BA91C556B8F5697E992CAA",
+        "SPDXRef-File--example-proguard-rules.pro-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.idea-encodings.xml-BD823CB5C2578EDB5F40F411154E1B43356E6056",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-96E10901EDD5A51B4216AF54DD2DE29250F0ED4A",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--CHANGELOG.md-250F8E0BEED7C64DA1AE16541607A529D3E8B25D",
+        "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-internal-RSBlur.java-D5EEC0698173198CA1ED078D9D98F1C1B68328B9",
+        "SPDXRef-File--example-src-main-res-drawable-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-BitmapTransformation.java-C8A1077D8EA32C826EE81C189A7309968DD4181C",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2685E1A923D4C79DD549889406C6FFA9E8661744",
+        "SPDXRef-File--example-src-main-res-drawable-xxhdpi-mask-starfish.png-2D8E69B80094F4D7BF68EF83ADD00A5DA3A69112",
+        "SPDXRef-File--example-src-main-java-jp-wasabeef-example-glide-MainAdapter.kt-693922E26DD2CD2EFFE5FC33A90D5B856DD6B669",
+        "SPDXRef-File--.idea-codeStyles-Project.xml-9E9A8B3767F0C3828619A2B428D866127E4799E4",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-CCFFD69AC5BBAE11F4C18D252886FD82A877736D",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-ContrastFilterTransformation.java-43A86B3B3CEED628C88A8F356BC3F10AA89BC539",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropCircleTransformation.java-6D08EFFC5F4B15ACD4D6F1972F02755E8877B1AB",
+        "SPDXRef-File--signingConfigs-debug.keystore-2FDCA089DED27CEC5FE6EDF2F4DBA9BB6D2C4CD7",
+        "SPDXRef-File--example-src-main-res-values-colors.xml-1EA147FA9F5881CFBA35540F2C89636CE36FCFF3",
+        "SPDXRef-File--example-src-main-res-drawable-xhdpi-check.png-94192E0701EAF4A07CE4E3A8FC92E8C1431F5639",
+        "SPDXRef-File--example-build.gradle-443429C4CAD392BBA4CD462B3C40F01BE84665B1",
+        "SPDXRef-File--.github-PULL-REQUEST-TEMPLATE.md-1ADBDCB4B02687B7BACA4569ACD867D42839A62B",
+        "SPDXRef-File--.git-logs-refs-heads-main-96E10901EDD5A51B4216AF54DD2DE29250F0ED4A",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-FD9F4E9796D3FB824404AB793931FA8DEB9F5161",
+        "SPDXRef-File--build.gradle-F1F0B9C787872FFF199A7C7E526B702F4ADA3866",
+        "SPDXRef-File--LICENSE-6B8F5769B47147A271F7D5A808B802DCB44FAB85",
+        "SPDXRef-File--gradle.properties-ED1CB21E9FA02A6B8AF905503B40860F4E750143",
+        "SPDXRef-File--signingConfigs-debug.gradle-56C4AD2945748E53A4DD3E96D5B27D5B7F49CF14",
+        "SPDXRef-File--example-src-main-res-layout-layout-list-item.xml-30E4834F8DB64EEAF159E3C5ADAC2B1B08FF0597",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-InvertFilterTransformation.java-818B847066DFFED4739E8DD1FD6D1C6281F720C4",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-MaskTransformation.java-A5DDAEC1A3A63A0968D8133807624F63A9FE7BF2",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-CropSquareTransformation.java-B3FFB48EABD1E70C6EBCE71DF49505715D1BDC9D",
+        "SPDXRef-File--transformations-proguard-rules.txt-EC080650B7312971C6F21D8156D6AF8AA96BE36F",
+        "SPDXRef-File--example-src-main-res-values-strings.xml-DBA19BD39E74DE88017756A4BB56626C4483C06C",
+        "SPDXRef-File--example-src-main-res-drawable-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+        "SPDXRef-File--example-src-main-AndroidManifest.xml-662D514A73299A2C70CF11779A85F03836FE3D8D",
+        "SPDXRef-File--.idea-runConfigurations.xml-C44721A027E69EB0E66E196E066395F9081EA243",
+        "SPDXRef-File--.git-objects-pack-pack-ed1de4c6b7f22d7b04f424e137444c57a078cd48.idx-BB090B627530B62F5946AE74CDA222D777516700",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-9A629275780A46C8250EE1037D9CCAEA360ECD9C",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-gpu-PixelationFilterTransformation.java-81FD66393A41F0ED72345458ED537926E3E1A7BA",
+        "SPDXRef-File--transformations-src-main-java-jp-wasabeef-glide-transformations-GrayscaleTransformation.java-C11C60D15AA083B8E3CCF757839B5990B17CA68C",
+        "SPDXRef-File--transformations-src-main-AndroidManifest.xml-4B77F3FBB2D05BCEFE2222B40D4CDF0A7AB15103",
+        "SPDXRef-File--example-src-main-res-values-w820dp-dimens.xml-7B5EB6FA57D322514E6216025448077739F75647",
+        "SPDXRef-File--example-src-main-res-drawable-xxhdpi-mask-chat-right.9.png-6EB48996AB62C43A2658B648F405ECDDA8ECF3E2",
+        "SPDXRef-File--example-src-main-java-jp-wasabeef-example-glide-MainActivity.kt-B35F4624161689C95003BE9F32E4EA2D7D135D46",
+        "SPDXRef-File--.idea-codeStyles-codeStyleConfig.xml-2A565AFBB8E9937128BA68CBDEDBCB2E5AABB150",
+        "SPDXRef-File--.git-refs-heads-main-B02FC7BCC6B2A3EBE041446A1D385A2604EB809B",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-97014E22BE3D39174F930BBE6C2150E0D0D4B3EF",
+        "SPDXRef-File--.editorconfig-7F7639BA04048034F6EE07FBF13654D24464136D",
+        "SPDXRef-File--gradlew-9BDA1A2991CD050CC2FBF008FD3E5A9672B63EB6",
+        "SPDXRef-File--.gitignore-7A70D631309B675B92C6F7E8064D175C8634F25A"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "glide-transformations 4.3.0",
+  "documentNamespace": "https://transformations.glide.wasabeef.jp/glide-transformations/4.3.0/m1U1SLmJJE6DDbPzmGZ6ew",
+  "creationInfo": {
+    "created": "2022-09-21T00:36:23Z",
+    "creators": [
+      "Organization: https://github.com/wasabeef/glide-transformations",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,4768 @@
+{
+  "files": [
+    {
+      "fileName": "./deploy_website.sh",
+      "SPDXID": "SPDXRef-File--deploy-website.sh-F647D6C28243BF1A6703A4840F9094D49F6A853C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a174165ba98a530be8d408f8ef0764646cbce1f27aff19655793ce338272c85a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f647d6c28243bf1a6703a4840f9094d49f6a853c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./checkstyle.xml",
+      "SPDXID": "SPDXRef-File--checkstyle.xml-FFE8B863E45B649A72BC6CCB46E003D1E2A53DDE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a7ff8426d02a62b5322d1423c3ee4671534d745841d4b39c38175c537d9d42f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffe8b863e45b649a72bc6ccb46e003d1e2a53dde"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.md-FEFBC01137281FA97BA1F4E6AFC0668BBD92D59E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2722397c588dde2ddb906b06b4a704ecc48730ccdfd1ed4ccbe606111133c5aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fefbc01137281fa97ba1f4e6afc0668bbd92d59e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-84FBFFC7403666B5432A2D2FA454EC0184C2C3E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba7b75d89c90541691afd3a0bfece0de015c0d0210b8cb41f71e0af29d9bb07d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84fbffc7403666b5432a2d2fa454ec0184c2c3e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-703639DA67E1D03A7B80182674D9B638F858C202",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5cc76dd07e444e35677e500891b716daf76e9e9cfcea93feb67b8933829a8df9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "703639da67e1d03a7b80182674d9b638f858c202"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-4919A25CB7AB725FB35D8B4A6CF6A77D3610E19C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce16e09bfc3a705c2a2f9ce40ae8099e9836353a82e0b4311679c7dc092616c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4919a25cb7ab725fb35d8b4a6cf6a77d3610e19c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.buildscript/settings.xml",
+      "SPDXID": "SPDXRef-File--.buildscript-settings.xml-2CA6AC9D5A0198D0EDCE875CA0D0E262F1839687",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "024de41d09154f6bb18605a5f6cc94d0554a10006b4fa7531753afb58fa9d170"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ca6ac9d5a0198d0edce875ca0d0e262f1839687"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-8B37B58E728877D3EFB58C45E02C23C48969B18C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f700815192b3b58facf1a972e7665d29dbcdcd657b0b01cbf7ae430d95a89eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b37b58e728877d3efb58c45e02c23c48969b18c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-7EDA1AB5CA6DA7245971AC2F1043E8F61B08CA5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c09c8b685d3e512da9ca5150fb8d9df24cdb2efdbf3730c9a075bbc8a7c7f66c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7eda1ab5ca6da7245971ac2f1043e8f61b08ca5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/extension-graph-setvalues/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-extension-graph-setvalues-src-main-java-test-TestApp.java-6BBB8E8873F09FBE586F113526C9B42012C6EBB3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4991f380a30e3148e1ffb99305f8574699a6e89f67c8f3695b096010cbca83e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bbb8e8873f09fbe586f113526c9b42012c6ebb3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inject-on-class/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inject-on-class-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inner-classes-complaint-injection/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-verify.bsh-E7EB7DDFA88D0D734B29EFA2ED9778B9BB9D5556",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89291eb3bbcae46647fecc31bad9d9a80e2bf2ff493bdc4e73615f54cffc75a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7eb7ddfa88d0d734b29efa2ed9778b9bb9d5556"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/missing-at-inject-constructor/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-verify.bsh-F5A8D5C06F9CE4C5BAD9182F9F7B9505BBB4A100",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56558e9f89046f8c1f06218a92811be78a9f97734277b939789a4d400fcaeaad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5a8d5c06f9ce4c5bad9182f9f7b9505bbb4a100"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-provides-methods/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-provides-methods-pom.xml-33FA913B38F74B76F5244580EE9EF760018DB2C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8964daa343570160712b5918cef96a63f8bc7e1359eb77671de2164d74ef888e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33fa913b38f74b76f5244580ee9ef760018db2c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/private-inject/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-private-inject-pom.xml-F61B88D3E342C36CE263652D951E62526E7FFFDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9c7aa3837238a4cb609cbe2f18c6f9a03885ad14d0b92f41cc43c471988180d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f61b88d3e342c36ce263652d951e62526e7fffdd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-6A830C21824E9062055AEA1E74E956B00DF6EE32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf2a93fb20eb22ef883d3986b0b8f432cf18ec4a11e20a3df1a800a11f80bf58"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a830c21824e9062055aea1e74e956b00df6ee32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.buildscript/deploy_snapshot.sh",
+      "SPDXID": "SPDXRef-File--.buildscript-deploy-snapshot.sh-6ACE555C3FB2B280956BEA9E7A11365DBCB02305",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed3eb854374e69bbcd73d1dcda7c8e5f20f86da56ef2a1980438ec0f9e7cd1f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ace555c3fb2b280956bea9e7a11365dbcb02305"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-70F16119E7EC7A1966A813B9CD7A23B1C67D01B7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a40f1dc4c721b0b964fb3adba80e05b93f67260fc7a35f64117a609f5f15080"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70f16119e7ec7a1966a813b9cd7a23b1c67d01b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-FFA2CBD663BC08C0D7F4F7117A58D22CE8195ABF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3880bebeb6dbf266f24dc8eb9cc278d12cb0d9eddaa97d896e639476bb3819e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffa2cbd663bc08c0d7f4f7117a58d22ce8195abf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/extension-graph/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-extension-graph-pom.xml-4D6F7C0DAFD68E1BE50725C64F5EC060A8079796",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0f66834a935a6cbe879ce6a44355d2a97ec408197352d7cac616ae8d6a8ec00a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d6f7c0dafd68e1be50725c64f5ec060a8079796"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/include-non-module/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-include-non-module-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inject-parameterized-type/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inject-parameterized-type-src-main-java-test-TestApp.java-8C86BA95BCAF31949027F7EDEA78D17E1779AAED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19b34d7be98051dc095cdcdde6618829b928f71bfaa21f3a7d09b32d366c147b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c86ba95bcaf31949027f7edea78d17e1779aaed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/method-injection/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-method-injection-src-main-java-test-TestApp.java-8574CE2F8BA7FBDB7D3330A9A230568281F1C89D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91fed60241e72697815fbdf2b0c28fe48cc286684cd0f2f522ec18e2b84acdd6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8574ce2f8ba7fbdb7d3330a9a230568281f1c89d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/module-type-validation/src/main/java/test/TestModule.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-module-type-validation-src-main-java-test-TestModule.java-1493E227AE814380F0BD5F5845A64FBAECB1C3D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc3ec42878d783a4a546daf696ce09b773721c8e5268a832c38d051ada22f560"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1493e227ae814380f0bd5f5845a64fbaecb1c3d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-3B70057CAC159DF4807EFEA4717F68690B852965",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03597914c333b978c385356622115806fea3e2223b883e4cd6de070590962634"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3b70057cac159df4807efea4717f68690b852965"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-FFA2CBD663BC08C0D7F4F7117A58D22CE8195ABF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3880bebeb6dbf266f24dc8eb9cc278d12cb0d9eddaa97d896e639476bb3819e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffa2cbd663bc08c0d7f4f7117a58d22ce8195abf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/default-package-injected-type/src/main/java/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-default-package-injected-type-src-main-java-TestApp.java-2203A256EC183BFB16D3D6B2C8A1E4FF84AC62B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89628a13e7f9e033a99606da2903245aa3e9261a0383678dcbd86df61c60c1f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2203a256ec183bfb16d3d6b2c8a1e4ff84ac62b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/final-field-inject/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-final-field-inject-src-main-java-test-TestApp.java-64CA5329851D44EB00E1988CED5EE569DAE254DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d281f8d4efac7164f1d495a31479f69bdb7cae2343a619c31ed16fa6fb70853"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "64ca5329851d44eb00e1988ced5ee569dae254da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inject-parameterized-type/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inject-parameterized-type-pom.xml-18285BDC8B00EA25DF41BEC64C48424C86A30073",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e157b1e8836e198921079d345af4cbde7fbc5e6979dd05822e89e52c706fce70"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18285bdc8b00ea25df41bec64c48424c86a30073"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/method-injection/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-method-injection-verify.bsh-631E405721364C7DF2A0474BB96003CBE1738062",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca93322da1380dedbde296da486f40bb0ba01c638af469e5d232bc78555f8cca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "631e405721364c7df2a0474bb96003cbe1738062"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/module-type-validation/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-module-type-validation-verify.bsh-D406910A6C9B96C49B565C76A06A36DE11244A56",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45378e3316650574276d887c5ad05b2c8f2a9329b260a0625c8a1a94cd3770bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d406910a6c9b96c49b565c76a06a36de11244a56"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-BA3E1BB2C17B22829B05102E32C36291526E5A6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8db298710e22aefb2e2c3710b7fbbf743ffd28efc2dee95eb4c5dfef5970c660"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba3e1bb2c17b22829b05102e32c36291526e5a6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-FFA2CBD663BC08C0D7F4F7117A58D22CE8195ABF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3880bebeb6dbf266f24dc8eb9cc278d12cb0d9eddaa97d896e639476bb3819e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffa2cbd663bc08c0d7f4f7117a58d22ce8195abf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/default-package-injected-type/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-default-package-injected-type-pom.xml-A65844798CC7247B966148DC43ADFC2833EDB87B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d73ab482ccd2c945e2341cdef365c1be66734827c5583300f9570fe5f9a9ab29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a65844798cc7247b966148dc43adfc2833edb87b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/final-field-inject/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-final-field-inject-verify.bsh-3EB103AC3D2481046306E41BE0CFDAABE6561355",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2f826aedc033ee7081d033a817bf8c7981721ca0826dc10ae5ff042915f4fb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3eb103ac3d2481046306e41be0cfdaabe6561355"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inject-on-class/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inject-on-class-src-main-java-test-TestApp.java-6503EC6309FF0E30834076E81FFFD0BE2356E360",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "224c657a2704b8c21b9d463d466f79057757af315842e0276985eb417503f3fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6503ec6309ff0e30834076e81fffd0be2356e360"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/method-injection/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-method-injection-pom.xml-1526DD983CCF80B70DC950DAA8644C0D41F27FBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4bc7dfae0e74dfb7951fd93c33fbea6cb7954da984fca0ae9b7e1f4cf548c722"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1526dd983ccf80b70dc950daa8644c0d41f27fbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/module-type-validation/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-module-type-validation-pom.xml-57B9165D8072A7DCE9815804E2A03074BE5275E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c11787b8878912f1149e3595959fc25099a36520caa8ca0e34b61507ef2080bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57b9165d8072a7dce9815804e2a03074be5275e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-10a3469ff2a607e763b017b898c90b8588f8489d.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-10a3469ff2a607e763b017b898c90b8588f8489d.idx-46B524366130B9A632D24EAC3D9E2CD492FAFA21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28026501717aa01f69c736365aa558787e4c48427f32d4c67c5cdbf6600100e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46b524366130b9a632d24eac3d9e2cd492fafa21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-qualifiers/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-qualifiers-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70bb8aa71d65ee30cc9a7bb62a1e8a669e2542d0a597b56610619729b1143182"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb84656c3eb2e744027e0bbe4da018af9c66692a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-qualifiers/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-qualifiers-pom.xml-E4DE5F628C1C67CBFC329AD3EED58A3F5A47D6B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4abee0760a5452016aabe06235b4726209d365e3f8562f38cdc6cb29f854dd30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4de5f628c1c67cbfc329ad3eed58a3f5a47d6b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/extension-graph/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-extension-graph-src-main-java-test-TestApp.java-706708D7BC620EB48162B0C29446C9A3F6E32193",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23fa2f1f0263d5d6fa4913125463695951d961a6b5911b197f43e624104c2cbf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "706708d7bc620eb48162b0c29446c9a3f6e32193"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-not-in-module/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-not-in-module-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70bb8aa71d65ee30cc9a7bb62a1e8a669e2542d0a597b56610619729b1143182"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb84656c3eb2e744027e0bbe4da018af9c66692a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-qualifiers/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-qualifiers-verify.bsh-9D4BEFA66555687394FD029347115D10AE6213BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2ee35f19eb78883949cbc818f931b67b4133a4486753563b7572c4c69a17d90"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d4befa66555687394fd029347115d10ae6213bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provide-provider-or-lazy/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-errors/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70bb8aa71d65ee30cc9a7bb62a1e8a669e2542d0a597b56610619729b1143182"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb84656c3eb2e744027e0bbe4da018af9c66692a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-with-throws-clause/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/private-inject/src/main/java/test/TestFoo.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-private-inject-src-main-java-test-TestFoo.java-023421AA752C7286E882C745A1783946C7C59B7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cacaa8d09596782f9bbce2157ee3314476e3d33668ac425124a24b8d06b4f6be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "023421aa752c7286e882c745a1783946c7c59b7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/final-field-inject/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-final-field-inject-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70bb8aa71d65ee30cc9a7bb62a1e8a669e2542d0a597b56610619729b1143182"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb84656c3eb2e744027e0bbe4da018af9c66692a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inject-on-class/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inject-on-class-pom.xml-1526DD983CCF80B70DC950DAA8644C0D41F27FBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4bc7dfae0e74dfb7951fd93c33fbea6cb7954da984fca0ae9b7e1f4cf548c722"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1526dd983ccf80b70dc950daa8644c0d41f27fbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/include-non-module/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-include-non-module-pom.xml-A9691BBC45AE379480D0EAA560CFE8498F8EC997",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24e0a9903b967742a58b8a1b0d64359232637bd3d5ec29bc0bd64c5feb6f0ef2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9691bbc45ae379480d0eaa560cfe8498f8ec997"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/same-provides-method-name/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-same-provides-method-name-src-main-java-test-TestApp.java-6F1F7320A8AFD869FC9CE1C5F935D1B5630E7471",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43c30d177f9e3b3889d0456c3cd73beb94362ee1d5a3d2176b037831997be702"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f1f7320a8afd869fc9ce1c5f935d1b5630e7471"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-not-in-module/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-not-in-module-src-main-java-test-TestApp.java-AC05910839F06E38EA60A68853CBC823AF138E12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e22bb642f682a1cbd9a90ae5e04a8a4c5c71488ba0466d294901d24e31dd614"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac05910839f06e38ea60a68853cbc823af138e12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-warnings/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-warnings-pom.xml-768458608439D4F8F54F949DE89B012D7286D836",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "435b2366440e3908e79f2b365a6fa5463e7c328a1b48dac3e86ee54a3f1d3e41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "768458608439d4f8f54f949de89b012d7286d836"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inner-classes-complaint-injection/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provide-provider-or-lazy/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-pom.xml-11360C051575C1B002BC23AC80034CCDCA9544BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18ac38acfcd32bd569f551c0e8c532b42c9fbc9c6d568eac569f1ca1447c1a46"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11360c051575c1b002bc23ac80034ccdca9544bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/missing-at-inject-constructor/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inner-classes-complaint-injection/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-src-main-java-test-TestApp.java-DA509F9167C67B6202D876200E86B1CB0C33C020",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42a8100131f3be9a9f7119f5c1317bf75df6a03952c798d31bb78523f46c18d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da509f9167c67b6202d876200e86b1cb0c33c020"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-pom.xml-C152EDA61D5BD1F30DDB8AA0BBE8E06CD2BCE69D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d086704fe0d1f465788bc7372a862a60ef9ec32803c1da87264a3969f97d94fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c152eda61d5bd1f30ddb8aa0bbe8e06cd2bce69d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/uninjectable-supertype/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-uninjectable-supertype-src-main-java-test-TestApp.java-E508C5526C82B93256F26D5A0CA97AA560D7331A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c198234e4a20af6702ca2c5ce1e3b26e74ca84dd1a6ef3b7b83fdc46f9242b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e508c5526c82b93256f26d5a0ca97aa560d7331a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-errors/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-src-main-java-test-TestApp.java-50DE5FF7A2FDD9571CF49AFB0298C3EF86396144",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4aa7e4797a2cd898dc85a4a30923033594683c08e0f52340201d6b21f11283eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50de5ff7a2fdd9571cf49afb0298c3ef86396144"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-with-throws-clause/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-pom.xml-6962AFCBE350F8E58802DA180154D19617555273",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32bd4f8ca738dbeeff89879c527c9ac021ec9d3430ddaabd624691d9845b167d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6962afcbe350f8e58802da180154d19617555273"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GeneratorKeys.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GeneratorKeys.java-F53D2F519FFE1EDA3807DF618E13D1B3708B28AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10d3e881b92d247d0545327b5b661550641130cb4403fc04af1cd1f1be52ed37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f53d2f519ffe1eda3807df618e13d1b3708b28ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/missing-at-inject-constructor/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-src-main-java-test-TestApp.java-378C5BD9608F5676C6268683A5626EB19C48860B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6a4d1bc69377a99c2514dcd4eec4dbf2bbc5e40fe0cfe52823e0c9a33f738c4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "378c5bd9608f5676c6268683a5626eb19c48860b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-modules-setvalues/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-modules-setvalues-pom.xml-71B4FEB46708FBD394BDAA48EF24FC2CB25698B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b360ec601ff5c9c5ed88d7031f2183ed4da50b06ad1568a2682239f34e6b9615"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "71b4feb46708fbd394bdaa48ef24fc2cb25698b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/final-field-inject/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-final-field-inject-pom.xml-33A79EEF5B53737D3165FC85221088D43FA39EFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b75efd3f5ab0eb9620191598fcff026bf2ac5a6826cd420a9fdade3ca3f3f12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33a79eef5b53737d3165fc85221088d43fa39eff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/uninjectable-supertype/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-uninjectable-supertype-pom.xml-6F8D28DC055AAA625C985DF80A1483348145EEA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "136c49259b4782d2be650d234c338fe7f1f2d0702bfc75eeff6f0b12cc78a6cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f8d28dc055aaa625c985df80a1483348145eea1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphAnalysisProcessor.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisProcessor.java-E772A20B7D8ABC469BB0B95C25DB2EE4B095DA89",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5773b679ec65bf61285a36e5e09ed16f19e5e8e1a331ab2267c18960ce04f775"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e772a20b7d8abc469bb0b95c25db2ee4b095da89"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-warnings/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-warnings-verify.bsh-07F75EB098CA6CA985E59E8FA1107111D4D196D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bded6c45214c3edecc1562179d4ac7340b675bc05c1209e91ee0a6493d6bd10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07f75eb098ca6ca985e59e8fa1107111d4d196d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-provides-methods/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-provides-methods-verify.bsh-C725F69FD14A351A78AE70A6E4CE7B1E28F1C6C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b24fe13f0e59fa4c7523010da4fa3115fa7ed833e80337f34d00e38b199b8ef2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c725f69fd14a351a78ae70a6e4ce7b1e28f1c6c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-qualifiers/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-qualifiers-src-main-java-test-TestApp.java-DDF9D0EA746483516BD27F25BDF46AED7454F8D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e1ce90bd0a8ebd7b2e2b90e4ede3c5526122565c03e8f3e5f113465ae7d9e3d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddf9d0ea746483516bd27f25bdf46aed7454f8d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inject-on-class/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inject-on-class-verify.bsh-63529C033F69CC8AB65AE1FA11718A1A22B7B591",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a232bb796db0b5f8750919cae7489a549dae18bbca1ec5374bbbde4f053c648"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63529c033f69cc8ab65ae1fa11718a1a22b7b591"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/resources/META-INF/services/javax.annotation.processing.Processor",
+      "SPDXID": "SPDXRef-File--compiler-src-main-resources-META-INF-services-javax.annotation.processing.Processor-5A56E9DE70D05EF251DBAF81FEB08679EA2C9FD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bd698fe96326aed4b16a911ec21132def37c334571a2909ba8b8c90d42d969c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a56e9de70d05ef251dbaf81feb08679ea2c9fd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/method-injection/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-method-injection-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphAnalysisLoader.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisLoader.java-849DDD1C50A53D48B45DB889E2777768E9699D1F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53b910207bbcfd7ee48d20c3e663adab37db3018d2560fa18ef3953bbe722e35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "849ddd1c50a53d48b45db889e2777768e9699d1f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/InjectAdapterProcessor.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-InjectAdapterProcessor.java-DF317A05FCDA43008ABBA777A9DABE692240EC54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e67a749258d171420c5480b0c07c4313ee1f464f770d13ce6147ac53b5fcf00"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df317a05fcda43008abba777a9dabe692240ec54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/module-type-validation/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-module-type-validation-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/private-inject/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-private-inject-verify.bsh-F38706A97DDAE8E3AD4AF523B2279B7F6F110683",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f340ddb4e366b0fc9d4bd8a56601dcecfb9abe51e3eebc7084347a9db4f0300f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f38706a97ddae8e3ad4af523b2279b7f6f110683"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/valid-use-of-qualifiers/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-valid-use-of-qualifiers-pom.xml-A784665CD396F63CB418238D35A9CF2C729055E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e6f54dde1e556ed20599ce5e2ab73f026311aee4ec6d15d1f3f9aa35b85c4af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a784665cd396f63cb418238d35a9cf2c729055e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provide-provider-or-lazy/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-verify.bsh-E52AA7729E0BECD708439C19E0799EADE959710B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a496e50f878ef5519e24f55aefa5dea2bf9013361406ff09d024c403d585d79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e52aa7729e0becd708439c19e0799eade959710b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/codegen/ModuleAdapterGenerationTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-codegen-ModuleAdapterGenerationTest.java-7D2C4D298F8918B15BA78C029CCEEC56D1563ED2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30c4ac4c82db78f3038e3c18d333dbdea41c026f0c1857aebd5a3a097ba56a7d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d2c4d298f8918b15ba78c029cceec56d1563ed2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/ValidationProcessor.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-ValidationProcessor.java-10CB2EA89B34557E7764A977B73BD8F0C2E29446",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95ccca2754128406bfee528e7e7d77076ea86bbda52a73c6e89e0cb8f75b8b3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10cb2ea89b34557e7764a977b73bd8f0c2e29446"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-provides-methods/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-provides-methods-src-main-java-test-TestApp.java-5380021E7ADFFD57B43A7C3A964E1BBF377435A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28e8ed9d5b7670ebe8b23e2d3428b6a3d88f86b4d429edb28f1bbc2559398c72"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5380021e7adffd57b43a7c3a964e1bbf377435a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-not-in-module/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-not-in-module-pom.xml-CC19102DE9F09DD2813A8EFB6AC6C56857477EED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "962cbe08f96a39ecb87102613f0ce774604b656cb51509b762148e20928b1aef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc19102de9f09dd2813a8efb6ac6c56857477eed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphAnalysisStaticInjection.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisStaticInjection.java-9BEFC23C01A6AFB6F27F9043F144FEB8155230B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6eaa73eb0a848ccbabc5c396d43fdd6c1490441345b65b9fdf036c87e226967b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9befc23c01a6afb6f27f9043f144feb8155230b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/testing/it/BuildLogValidator.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-testing-it-BuildLogValidator.java-C95156E8277215CFD2026AC8043CB6E755B2EEC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e0ea918a54e22b6d122190f3b93eecd55296fea5d90a66bfe071b7b73706d9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c95156e8277215cfd2026ac8043cb6e755b2eec5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-with-throws-clause/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-verify.bsh-18817BA3BBF3AA1364AB05D76833DBA070A9CC5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81a01ebc7b2e02ce3907f3ad70f594be4ccc8cae76a2f98a5c8f938620ebf57b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18817ba3bbf3aa1364ab05d76833dba070a9cc5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/private-inject/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-private-inject-src-main-java-test-TestApp.java-A6EF3E6660003D6058BF4778BCD388BF03DA3DFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d5caef9fed9c0d736d14011d003f3faf29d8beb80f66ca281f47bc7c657f9b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6ef3e6660003d6058bf4778bcd388bf03da3dff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/codegen/InjectAdapterGenerationTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-codegen-InjectAdapterGenerationTest.java-7F0C82603866F12A34E5BB66CD50169EE51841F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c27e2c3736044cca93a39fbac6a2fb1ea3c337f96f3d802c82d88e284112ca95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f0c82603866f12a34e5bb66cd50169ee51841f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-errors/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-pom.xml-C331C25BC0839C1A1469BD13411172CDF8DCC8FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c5df8946ed48d594943989bbf411ccf604506822418833762097b49fde693516"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c331c25bc0839c1a1469bd13411172cdf8dcc8fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/internal/codegen/DotWriterTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-internal-codegen-DotWriterTest.java-AB72D56E0B880C1658AD836718B9929C178A04C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63c7794ebec84d18e6d8d7de0b3069e526411297884bf1cac8469f8db834a978"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab72d56e0b880c1658ad836718b9929c178a04c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/validation/ScopeAnnotationUseTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-ScopeAnnotationUseTest.java-0AC365C322C47505F594C0DCF37F845345914AAE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b56efcb46bfd2e3e4b712df90f692f9a971643ff431a74c6f33dce2b7111a22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ac365c322c47505f594c0dcf37f845345914aae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/validation/CyclicDependencyTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-CyclicDependencyTest.java-E65CDCB9F01D0B4E9088398B9C6DBD39F5BDDB16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d9c978bf87fc0e5259ff83f4c5f15eb1f072b4d9375f65528fbd1ebd68d3bd1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e65cdcb9f01d0b4e9088398b9c6dbd39f5bddb16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-10a3469ff2a607e763b017b898c90b8588f8489d.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-10a3469ff2a607e763b017b898c90b8588f8489d.pack-B2D75B5746C8571B82F715A053C406F673AB6D46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "244034d5621ec6dacc36a3d7798cbc550ffde9eacd457aa060595f2d296323b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2d75b5746c8571b82f715a053c406f673ab6d46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-warnings/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-warnings-src-main-java-test-TestApp.java-7DC66EAC2A5F827FEE52E861887F9D25D61C0791",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2913983fd09b2773a5c08aab65339fbf6f237dd65617ff4b3a7ea6e4af32864f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7dc66eac2a5f827fee52e861887f9d25d61c0791"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-not-in-module/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-not-in-module-verify.bsh-616CF2950790C7F03DFE709EC5B648A857625104",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82debcb3941729639191ed017146304fc21a88817771fa9e5e2357f0ca7ae541"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "616cf2950790c7f03dfe709ec5b648a857625104"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/static-injected-binding-doesnt-fail-providers/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-static-injected-binding-doesnt-fail-providers-pom.xml-BCB1D2E7030CA088FDAC0329E2765586DBCB215E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eae48569378baa51888d42a7292e62d2d21095b23e4dbd4a7aaaa551cfcbb907"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bcb1d2e7030ca088fdac0329e2765586dbcb215e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/MembersInjector.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-MembersInjector.java-0B08618C971E29DED376BA4C4B04AFE5B3E059DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13d42ba1f714c402b6d880a8fbe507dbefe17906beb768e2ad3376acbcc941d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b08618c971e29ded376ba4c4b04afe5b3e059de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/validation/LibraryModuleTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-LibraryModuleTest.java-D456C3004099A118BE8F09374B98F3DEBD297032",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a16c1cca471fda65dc186f62ca7d708bdbb35b91d1fa8110c285463ebb76c0ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d456c3004099a118be8f09374b98f3debd297032"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/operation/FailureModeErrorsTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-operation-FailureModeErrorsTest.java-ABD8652A4F58798AA830D39A9D88C830031B15C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9d529130082324035c9118e2a33759859cc23d037839a979f015fb748e8980d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "abd8652a4f58798aa830d39a9d88c830031b15c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/ArrayQueue.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-ArrayQueue.java-F76CB1367B98AA20B5A1E5C4C0D3283077C0CAA7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe9ec801403107273db2719cb31278a1345d3acc99c2a82282e34cc264df97f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f76cb1367b98aa20b5a1e5c4c0d3283077c0caa7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/qualifiers-on-invalid-elements-errors/verify.bsh",
+      "SPDXID": "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-verify.bsh-61E7D713784EBFC45503800C019F94B0655C8C71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3861156cf4f768705d13a5591e13f9cd4f8c0e8b591f9e68c58fedc299ada37e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "61e7d713784ebfc45503800c019f94b0655c8c71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/extension-graph-setvalues/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-extension-graph-setvalues-pom.xml-CA6AEBA426C90718DF440658A6B01FE2974D477A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c77e2a51b4d445f195c308b8d9fa18c997ed5865ad6cabe760b9188da40c757"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca6aeba426c90718df440658a6b01fe2974d477a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/valid-use-of-qualifiers/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-valid-use-of-qualifiers-src-main-java-test-TestApp.java-3533488528DA30DAC230C29DE637EFF6C274F3D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50db63db270ddcce017e43f81080c51016b56a565b9d2d7beb9d8b334ac5d633"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3533488528da30dac230c29de637eff6c274f3d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphAnalysisErrorHandler.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisErrorHandler.java-BEA246BA26BB9C1E6D088E6BBEB9B4BBD8312990",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89fd1a81a69c0331d68535d4835429d7dc35c9582bcfea0d849fca651bc4a52c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bea246ba26bb9c1e6d088e6bbeb9b4bbd8312990"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/Provides.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-Provides.java-873D6FBC3C8D4CAFCF4D64B02A2CF686CA20D2E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f33b0c3f08888ede32fddf19cb7b67d99b48f33ecfc717c128bd60ef42d4d84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "873d6fbc3c8d4cafcf4d64b02a2cf686ca20d2e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/validation/SimpleMissingDependencyTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-SimpleMissingDependencyTest.java-8F7FE36E05638DBD2E13B9D6F6802F6967419943",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e609ca42950f9c008d1279cc57a58b1815f56b1074fb690ae37352d9d72426e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f7fe36e05638dbd2e13b9d6f6802f6967419943"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/FailoverLoader.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-FailoverLoader.java-B0B47D22C7AB236E4EF975AE21C665AF6F2130D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27c69f2885be7c3db1842666dd089b8b839553dd3dd9f0fd227acb9dabfc3ae7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b0b47d22c7ab236e4ef975ae21c665af6f2130d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/include-non-module/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-include-non-module-src-main-java-test-TestApp.java-C3AF546EA64111F86B4384FB0243B8A6C65534A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3199bda229d699de7a45a107b7d174ff77d96ce915c66b1c2628d4405b84c560"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3af546ea64111f86b4384fb0243b8a6c65534a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/static-injected-binding-doesnt-fail-providers/src/main/java/test/Test.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-static-injected-binding-doesnt-fail-providers-src-main-java-test-Test.java-2290BEC25C3170709F1C9577AF38C5F160E6D1FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d8c9005a38b16c897bdca89b8c271ce2fe078b50e664d52c31f363026347640"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2290bec25c3170709f1c9577af38c5f160e6d1fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphVisualizer.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphVisualizer.java-39C628BF877EF2A82B5F7B71D4F42E212679A6D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1012484f553ed71dbbf88acc568038f309e7c8734d917a8c1cc1834236062397"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39c628bf877ef2a82b5f7b71d4f42e212679a6d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/Linker.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-Linker.java-02079D1EFADCBB0589F9519E55E8E318BEF0CDA3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f28fd1d817c62b3d2345ca0a48a8debb68bad5a21e6466d692df4c0ccd540a53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02079d1efadcbb0589f9519e55e8e318bef0cda3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/ProblemDetector.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-ProblemDetector.java-B206A649E6D002DE796594336B52743D73C790A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "83dd6bae4482507e883f155f4167ce9f428db7e6fd487f79cd691af195e3b8ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b206a649e6d002de796594336b52743d73c790a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/Loader.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-Loader.java-A72D3016DC0272DE353CB3468E1BAF9C1BD63E7C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b7765ef4687ec079f3956af35c959abf8650f24e7562c259a477fbde1f75c66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a72d3016dc0272de353cb3468e1baf9c1bd63e7c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/Binding.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-Binding.java-DC1C8F6267258EAEB12BBD7A9C3694F6BB8E7989",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9a7912ebdd6b5d13c97b74da0e7b2bd6287bad6de9375b27788c2919d9e901c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc1c8f6267258eaeb12bbd7a9c3694f6bb8e7989"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/inner-classes-complaint-injection/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-pom.xml-29EAF75A7AB3C921BFE891464695A4E418313A88",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39d92f6e1b1607eda5d36ec4e75f9a33e2385c6c88632138867a95188e2981fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29eaf75a7ab3c921bfe891464695a4e418313a88"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/ModuleAdapterProcessor.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-ModuleAdapterProcessor.java-4230809EB9B7514C987ED720DF584863B3457BEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "843b2b81d28a89993fc2a8e8c851eaa960889ed2b9852fe8574c1522072f5eeb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4230809eb9b7514c987ed720df584863b3457bec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/StaticInjection.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-StaticInjection.java-CB10C6FC3F008CD290FDAA73A688847EC90FC203",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36e740d00a50b328c4d22598e972cd2b8147b9ba223fdca1235cd95161570f6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb10c6fc3f008cd290fdaa73a688847ec90fc203"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphAnalysisInjectBinding.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisInjectBinding.java-93FFC0DE181182B2B774401D3A2100E7A8010593",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00863d1bd5817576dfcc0412ae73faca5dc546d859b1136fd6fcce933c0e6c2c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93ffc0de181182b2b774401d3a2100e7a8010593"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/ExtensionTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-ExtensionTest.java-608C48F63F06568F8890A35B443C8EB3FD7FFACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56353251d88253cf8cbbe08c7d94ede98c8cedde1e9f129155b542b8c168761a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "608c48f63f06568f8890a35b443c8eb3fd7ffacf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/internal/codegen/GraphAnalysisLoaderTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-internal-codegen-GraphAnalysisLoaderTest.java-EE8C1F8637E53DD3B0C2799D9880616BDC4F8A27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4e573936e0b6f7db4f34883f2c528309ffea01305dd61da771814071f8f21da1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee8c1f8637e53dd3b0c2799d9880616bdc4f8a27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/ThrowingErrorHandler.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-ThrowingErrorHandler.java-473C9C68D2E262DA9CB46CD61E4D4961F6C23887",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4ecafae6aab420e9c57dbac54433fe552ef7ae0e04faf8be20accbf809d749d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "473c9c68d2e262da9cb46cd61e4d4961f6c23887"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/missing-at-inject-constructor/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-pom.xml-37A95DAF1FA65951322008AF55A6D572468D0AF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31dec1765ee566b879fbf8d4ca2ad70bfe293309cb9f04dcc8a69368f1802a24"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37a95daf1fa65951322008af55a6d572468d0af3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/ProcessorTestUtils.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-ProcessorTestUtils.java-8C53CA5442CEE7B7751E33929F88A95A9D265D1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d4810a8decf571c907b83034b7069bdb1bab8d7f7b1b03b3218b4dfafff6dbb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c53ca5442cee7b7751e33929f88a95a9d265d1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/Memoizer.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-Memoizer.java-355721825B30EEAAA2AC7B84F324746EDCDCAD7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d6d0132218bc6a8b691c24b8a367bbfe3a522944971ba4a5899bff3666af7e1d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "355721825b30eeaaa2ac7b84f324746edcdcad7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/InjectionOfLazyTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-InjectionOfLazyTest.java-37B78CA5C1A6FCD71313E478AE74AF7272E56481",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8b78d35e2b0543de70e6035c90c30d792cbf62cf9fd290c8557caf4682ca990"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37b78ca5c1a6fcd71313e478ae74af7272e56481"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/Util.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-Util.java-2808DDADB3BA25FB0B5DEA391A34ADA65DDC96FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f9af4b3fcef63eeb89fb926bf883642fe46610454969eed33702cacd3bf8cf5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2808ddadb3ba25fb0b5dea391a34ada65ddc96ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/ModuleTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-ModuleTest.java-3EE4799ED2905ADDA65958DA5C971AA8E9AA69AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed22ccb40f88f11261851187a9d6cd982fc450d84a5fec555f0b2c7a7f74f38a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ee4799ed2905adda65958da5c971aa8e9aa69ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/operation/PrimitiveInjectionTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-operation-PrimitiveInjectionTest.java-5A09CD964B900675CAA254EED75676AE7AA93AB4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8dcbfb1b8f57aeba3d6e825eba99d36370ecc96977f2b3c77e9f941a05ebcfe4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a09cd964b900675caa254eed75676ae7aa93ab4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/multiple-modules-setvalues/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-multiple-modules-setvalues-src-main-java-test-TestApp.java-F80EE20263CD037865D53888CAC480097F1E2D23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06104c8a142500e378f6b9f469185684c7a7997a2932a4de1555f720bfaafb07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f80ee20263cd037865d53888cac480097f1e2d23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/private-inject/invoker.properties",
+      "SPDXID": "SPDXRef-File--compiler-src-it-private-inject-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e271d6f8c67c8c26ab4c8b472629953fce8a5168ba70b45b03ff7e1cea2ae33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6cd4757ed674c4483ab29245d73d2d32f100c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/validation/CyclicModuleIncludesTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-CyclicModuleIncludesTest.java-40EC1318F1D224C02DAD8413E86B48972513FA3F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "640845d74a4df1a76a996fb9af797eb70c094777759a5fb66a882ad2f8deada6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40ec1318f1d224c02dad8413e86b48972513fa3f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/loaders/GeneratedAdapters.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-loaders-GeneratedAdapters.java-E7C817B34C0A5AE2EEA7DDD32C2F230CC67D7493",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99b2ec8f40ad5926f7babe12edb59b46adacd6972626963055d3be3225c33ab3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7c817b34c0a5ae2eea7ddd32c2f230cc67d7493"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/InjectionTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-InjectionTest.java-FD1F1FA8A48D74B19AA8893AED9E396D0BE9E177",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6d55d075e15380c836cc228dede814ae79ecd9ee162909d9d40c8c5111efe7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd1f1fa8a48d74b19aa8893aed9e396d0be9e177"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/ThreadSafetyTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-ThreadSafetyTest.java-FA098340B49E9782098B733E81D0E5967F4B4469",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d97edb8ef3d6f909d4cf024485f05fedfb5b385bc57d57f3eea09d596de53344"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa098340b49e9782098b733e81d0e5967f4b4469"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/codegen/GenericInjectAdapterGenerationTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-codegen-GenericInjectAdapterGenerationTest.java-5432E62411E33E9595CCFEC057E049E40BF337DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bf169b2cfb1cb3c3308bb5086a4fa65f7b5945ee08b848dbfcb36b6a30ac84b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5432e62411e33e9595ccfec057e049e40bf337de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/internal/TestingLoader.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-internal-TestingLoader.java-85BB79A8FBB0C8A6C66F7DE6956F9571DC9033B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8a3fb8cea84a1b39d282364c8d944747bde074996019a3e9cac9c2e34ece3b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "85bb79a8fbb0c8a6c66f7de6956f9571dc9033b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/Module.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-Module.java-056DC73CA3274E8773F77CA74EC1E9FCD129A73A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "383caf33ff3d607dabedcf553e0e13ef222dc06c9ff29124067ceec8ae0c8867"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "056dc73ca3274e8773f77ca74ec1e9fcd129a73a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/InjectStaticsTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-InjectStaticsTest.java-AB6544C2FA2E79F6B3F8DC02D4FD9123E9822739",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "804a0de583161fdffe11309e0d15021d2a892ea8f8c6fd2362de5806b252c3c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab6544c2fa2e79f6b3f8dc02d4fd9123e9822739"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provide-provider-or-lazy/src/main/java/test/TestModule.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-src-main-java-test-TestModule.java-56C5924A22E1A7C4525FAFEBF67FF83B04345AED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0479ef0253bbdac0cfebd4bf68816410314366194bb7bb727434ed703851c7a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56c5924a22e1a7c4525fafebf67ff83b04345aed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/pom.xml",
+      "SPDXID": "SPDXRef-File--core-pom.xml-8AF5C9D4E71C0C8618FBB5337801974613D533E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01308b9335d9e49576c88f0eb26d71a50750acf1c8948e5380ff57790c1c1273"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8af5c9d4e71c0c8618fbb5337801974613d533e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/pom.xml",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-pom.xml-40BA5118DDFC9740C19A1ABB40DDFFBC413D3E7B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2357ef244fd07acf1a03478ad165a81205af795438133a8da468ba090e51a22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40ba5118ddfc9740c19a1abb40ddffbc413d3e7b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/UnusedProviderTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-UnusedProviderTest.java-DB841A3D6E61F774C033CD3FA52A236695F1251C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2581f85e38284201e1b992fd1aa480ea149d15fbc1919519ebd763db435a0fe5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db841a3d6e61f774c033cd3fa52a236695f1251c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/validation/GeneratedTypesNotReadyTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-GeneratedTypesNotReadyTest.java-0D38D257B344D5962EA5DFFCD4B5969C05C99E4E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c31028cee47bc7bc1fe5c3b4ea693aec99d89d3eee5d9c6ad84ec33bd71a53d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d38d257b344d5962ea5dffcd4b5969c05c99e4e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/ForActivity.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ForActivity.java-69A4130F0FE2419831688139F44BA2C744452775",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ab7a5210ae82a129530b9030e95126cf3790bf1945258471c3b17092ef71101"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69a4130f0fe2419831688139f44ba2c744452775"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-AndroidManifest.xml-D77C3AAECBFC8A6DC58AFCF140A6122AEEC63E08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d4914bc7edcf2545fb2b6c88e3723d473f43efa3bde505b742ba33891a849d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d77c3aaecbfc8a6dc58afcf140a6122aeec63e08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/pom.xml",
+      "SPDXID": "SPDXRef-File--examples-simple-pom.xml-CA1E181F48D8E7DC3DAB7A2F52E027FD22F7D3C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf59e3db346909a2a90c4bc2561f8d29d1ffb7aeced9fa21d67f0426d4b4d45d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca1e181f48d8e7dc3dab7a2f52e027fd22f7d3c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/Thermosiphon.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-Thermosiphon.java-BC89B0467D396734364E5A6CD799433BA971266C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "201ee80ad3e62743c0be2acf6ef836db962ff2054de7e2b127353122d8fd5f6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc89b0467d396734364e5a6cd799433ba971266c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/icon-github.png",
+      "SPDXID": "SPDXRef-File--website-static-icon-github.png-1E60484807A1992794C27E02ED41FE064BFEA7DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c05008fabe4d4dbaaf50995f953387c64a735143b20ea5d1d9c85f31298d5f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1e60484807a1992794c27e02ed41fe064bfea7dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/Keys.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-Keys.java-5D8463D2A769CF7A619DC04D9B46CB0C349E8853",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b796fb9a095c6c412c4b53af66c11caddf768e0f5d78e40713496d404b0e677"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d8463d2a769cf7a619dc04d9b46cb0c349e8853"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/ProvidesBinding.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-ProvidesBinding.java-600C5BB9DB58F8B6391F8F31061FF95DEB72FB88",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07b2cbcf318ac4c4f2fe50fe2780ba5fc65d98342b1deacf31f62afdb3c0a331"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "600c5bb9db58f8b6391f8f31061ff95deb72fb88"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/ExtensionWithSetBindingsTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-ExtensionWithSetBindingsTest.java-3C7155D1C2AEB0A88471209F44E87B0CA3EAD798",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2983ba42359a90463bf8f3f9a7f1c49097810a163a0426a2934eed6fd1d8e58a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c7155d1c2aeb0a88471209f44e87b0ca3ead798"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/ProblemDetectorTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-ProblemDetectorTest.java-6223B2D14952E1B6D1242B48DD585426660D3A35",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a26478d17d11eea9b678a8d6f901122e358fe90f9523cea01013d3365e8a379"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6223b2d14952e1b6d1242b48dd585426660d3a35"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/README.md",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-README.md-3F55887AF2B93B7771B1B56305BBA7C26F7C28A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e6ef993f11e5b09bf48b14b87f406929f35730d40c945dc901992018cbbd887b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f55887af2b93b7771b1b56305bba7c26f7c28a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/ForApplication.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ForApplication.java-9CA80B762023DCA45606EC32B4631C52147525D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f96f43267fbdd373d0e477e9b397466f66371c6c055bdb7f2f85dfe5f0243c73"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ca80b762023dca45606ec32b4631c52147525d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/java/com/example/dagger/simple/AndroidModule.java",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-AndroidModule.java-A3CA2C38CF288AE9690567AF0D3FE50FE2E6BEB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2280e685dfe76f236fd3355f253ece90ce51128ff9314df1eef1c16c54d30167"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3ca2c38cf288ae9690567af0d3fe50fe2e6beb1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/CoffeeApp.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-CoffeeApp.java-BA4FAB0AFDB88B1FE131CFE08F0E49389D9577E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6de3855cfe09979f8a3427dd5ac3f21d622c7698bb3cec545e425889d9db7e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba4fab0afdb88b1fe131cfe08f0e49389d9577e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/BindingsGroup.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-BindingsGroup.java-C6E246C6D71E8E32DE7CE9F68DC7F0DBBABCDB56",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24468a69d6ca46fe81633d7b584f5b1ff7bea22e8467789df46dfb6bb34a2da6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6e246c6d71e8e32de7ce9f68dc7f0dbbabcdb56"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/ModuleAdapter.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-ModuleAdapter.java-13366D42AF5EDBE2D4513564A7D11BA7A03776D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63c1bf807f351fb6e1931fb2f8a62a9c189055fc91bffc005903fbbc826b6b53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13366d42af5edbe2d4513564a7d11ba7a03776d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/loaders/ReflectiveAtInjectBinding.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-loaders-ReflectiveAtInjectBinding.java-59560037C8195515846B5BD4B402F30FCFA0E089",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed8075c20072520dbfb36a8f4efb859be933ceb4fc4c6beef676ccc8aef2f9c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "59560037c8195515846b5bd4b402f30fcfa0e089"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/LazyInjectionTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-LazyInjectionTest.java-C95D265B479B59A5565675FACC20B51F0228C42F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b0c931e6823aea7e6ff9170587885bbce544e7023d0dd340e0b568eb6820be9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c95d265b479b59a5565675facc20b51f0228c42f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/internal/FailoverLoaderTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-internal-FailoverLoaderTest.java-0486D222193E7A3ACAE97FACF0A2302475ACFFBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ace5733d9f3d22827fd62a3faea520699b3ba0c6a901cfd12a9794ee284e0ef2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0486d222193e7a3acae97facf0a2302475acffbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-AndroidManifest.xml-316D48864B46D7E6E2FE6D80F28C001DA44094E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "118d05d3a7094a36c3d8042e6306517b6b2338165c5035d62839cc518ed01e29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "316d48864b46d7e6e2fe6d80f28c001da44094e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/ui/ActivityTitleController.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ui-ActivityTitleController.java-4B2571635563022A2138F496D5C36FA9A4DE91CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92d0cb6a166c1b77d562f7ddc6a0f4ef64ae287376c4674c8397717dfcf70109"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b2571635563022a2138f496d5c36fa9a4de91cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/java/com/example/dagger/simple/DemoApplication.java",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-DemoApplication.java-E56DB6FA8B68ADB56AAABACD632E230766070B96",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82d68f3b610eeecc9a20cd7b18a3a5e34cb024e092ad0320a1b454e0551ed22f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e56db6fa8b68adb56aaabacd632e230766070b96"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/CoffeeMaker.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-CoffeeMaker.java-8AE436D51E77F0961077A0FBF37F034BB83EDD72",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3708816bf55e2b1142b4db6f3d095b57b72758c78e3e6bfbd4960ee9c4eb5818"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ae436d51e77f0961077a0fbf37f034bb83edd72"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/DemoApplication.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-DemoApplication.java-BE45DEFB8B2FCEB3A5A3DF5020D3D7DAA4FFC024",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb46712fb0618cff4c6c9e93cb3a1ecf63d1751a695f4d43d244562c49e11a84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "be45defb8b2fceb3a5a3df5020d3d7daa4ffc024"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-res-values-strings.xml-BA234F127BF351FFF92FBA2D7507FDA8B27451A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6e76b0e91beba096352315d255d16dc347b9e78e38fa74b7a9b7abc2e317fb6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba234f127bf351fff92fba2d7507fda8b27451a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/java/com/example/dagger/simple/ForApplication.java",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-ForApplication.java-17CE6473AE9ED40B84FD690DC100D29187134425",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d920651afc79da040805d9989550ab999875aaffd8f2992345c233affe4eabeb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "17ce6473ae9ed40b84fd690dc100d29187134425"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/Heater.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-Heater.java-97151CC63BD9476BB52A8B607951102C50742FFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b3b9ea75a0935c25d3ef7bda9783bcd87288b68c2d7977f0866fa637f535c620"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97151cc63bd9476bb52a8b607951102c50742ffd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/provides-method-with-throws-clause/src/main/java/test/TestApp.java",
+      "SPDXID": "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-src-main-java-test-TestApp.java-E3EC7D49B524571D0509F3EA26FF39C31DE1F3A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b4575ffff2f964b407ffc4321d1ceef036c1475066a863c57f00f423bb532c62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3ec7d49b524571d0509f3ea26ff39c31de1f3a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/it/same-provides-method-name/pom.xml",
+      "SPDXID": "SPDXRef-File--compiler-src-it-same-provides-method-name-pom.xml-888FC2B928A38286FD96764076A719084823997C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "103f84ed2171ba2f7e36148851b0ab16133d8392372892829bde8b8dd20c986b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "888fc2b928a38286fd96764076a719084823997c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/AdapterJavadocs.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-AdapterJavadocs.java-04FD53BB5023575773E468A1DD540692236E3838",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6695f62daa760f5336699dabead6d46f10df64e7a80aaff841aed17a6603cbce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04fd53bb5023575773e468a1dd540692236e3838"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/ObjectGraph.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-ObjectGraph.java-75791D0A262569186CA52088FCF136B78B7BCE14",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "496297b8de47948519e0721ff72684eb96cecc68835569bfa158bb8d7f54f9c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "75791d0a262569186ca52088fcf136b78b7bce14"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/LazyBinding.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-LazyBinding.java-5AAB55F58D5CA37BD070362471D122D4F1E17ADC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0172032756c0fb42fc231a8db8f8e7241ac86dae2d04740881cd116ef4063c05"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5aab55f58d5ca37bd070362471d122d4f1e17adc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/SetBinding.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-SetBinding.java-BBB41A0CF3CB25FCAF1677093496FC4E355B89F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8848d85bc38d67a320f0902c9a4ac7d95d35fb51a3ae2ee3b130ad1ec8dc8c12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbb41a0cf3cb25fcaf1677093496fc4e355b89f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/test/java/coffee/CoffeeMakerTest.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-test-java-coffee-CoffeeMakerTest.java-4C947274B4973A78F9826D44240A9251D89EFD51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe02bd4d7ee59cb8d9b8a5249921b514094a46488461db1631f5403f56ff5e6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c947274b4973a78f9826d44240a9251d89efd51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/bootstrap-combined.min.css",
+      "SPDXID": "SPDXRef-File--website-static-bootstrap-combined.min.css-4D32DD884B3C90FBE3996477B4D576090C00030B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3aa8b70679df35787d12cb588eb6a9477e33fa62711d73f08d15b8b011df1490"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d32dd884b3c90fbe3996477b4d576090c00030b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/main/java/dagger/internal/codegen/GraphVizWriter.java",
+      "SPDXID": "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphVizWriter.java-96A006FBA2FFFC2BACADA90D7F97A4B4A93ACEDE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29cc8ea59866ba84e10b128550459299da94a8662d0791b200c61d3b6293b8e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96a006fba2fffc2bacada90d7f97a4b4a93acede"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/ExtensionWithStateTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-ExtensionWithStateTest.java-14B9C281D0897B686D6C082BC6880D519747CA9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4b2c73dacc112a18c4a09d78e66af21c846c28c10fce049942509be066318ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14b9c281d0897b686d6c082bc6880d519747ca9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/icon-square.png",
+      "SPDXID": "SPDXRef-File--website-static-icon-square.png-E18FEE42151C8CBAAE74475DA84C870B0E39BCF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8566ddcca84a1588a159050ebe2707b778e8fb096375db6818fb24de9a2a977"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e18fee42151c8cbaae74475da84c870b0e39bcf4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/internal/KeysTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-internal-KeysTest.java-5CF1461323E0D2F5E1E6104EEF17CD330F0F8FA3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0c5be5f0a691e13dbfd5f2056e777a57c96435709b88c617e4ccb95c4a70bb58"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cf1461323e0d2f5e1e6104eef17cd330f0f8fa3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/internal/TestingModuleAdapter.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-internal-TestingModuleAdapter.java-97FB4216D5A0B5E082397F6150BE0AA0DA3973B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbe0104346d767a81a606f5aee11ee43fd14cec36fc39f3a6b2cc6e8ae9838bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97fb4216d5a0b5e082397f6150be0aa0da3973b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/SetBindingTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-SetBindingTest.java-42C3536516E69617C7B5095A7219ECD182EEE9DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1f2915b5b247569144b92fdb898f47e46b7e1d8a6cc66c7f2e7ae3f5744831e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "42c3536516e69617c7b5095a7219ecd182eee9da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/index.html",
+      "SPDXID": "SPDXRef-File--website-index.html-BD4195107D47F1C583773BCC61303B2BC6FAB9C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b18a37ce7f4e637aa9d6280be8f2783845be1b8ef6a3d86077f3f5cd52fdf0a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd4195107d47f1c583773bcc61303b2bc6fab9c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/internal/codegen/GraphVisualizerTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-internal-codegen-GraphVisualizerTest.java-25D0D2D0D2966DB27B398369FEC5D6A87453E988",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a45a90967741a1d0e353b706fb5d27105cbd229c98d73c9618f0aa24182a05f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25d0d2d0d2966db27b398369fec5d6a87453e988"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/DemoBaseActivity.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-DemoBaseActivity.java-7BD3D8EA8DEE6E88C0475C46C9D6F318CDDFFEEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb1228f01c61735856028ac354e8c86ef080b0cdaf3148bcc4cc64df38231391"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7bd3d8ea8dee6e88c0475c46c9d6f318cddffeea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/ActivityModule.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ActivityModule.java-967DA0D8D17E1F0DD4DB07F3D51BAE66E007E094",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f3f26337dcd30d1a0253d6e7722df11df6d55637830cac03f9e6650ae35715a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "967da0d8d17e1f0dd4db07f3d51bae66e007e094"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/pom.xml",
+      "SPDXID": "SPDXRef-File--examples-pom.xml-551F7BB6F6133ED8D900D948CC02B1A01778860F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93d2867e41ccc575895cde14c72d8e9ca53c73188ea26645c2e4fdebf7133fde"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "551f7bb6f6133ed8d900d948cc02b1a01778860f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/prettify.js",
+      "SPDXID": "SPDXRef-File--website-static-prettify.js-D592E6F771C2955CEA3764D819221B91BC343961",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16432af5d130db1efbf834932820f55e4c44e5def3cf109f806af900419592d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d592e6f771c2955cea3764d819221b91bc343961"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./compiler/src/test/java/dagger/tests/integration/operation/SimpleInjectionTest.java",
+      "SPDXID": "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-operation-SimpleInjectionTest.java-9DBD5A65B951B3A80D256202ED2038580EC9F130",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba8df8da3cdccbab012e0009c9e856d712c8a547f2629d847c73ee8cff7cfe2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9dbd5a65b951b3a80d256202ed2038580ec9f130"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/jquery-maven-artifact.min.js",
+      "SPDXID": "SPDXRef-File--website-static-jquery-maven-artifact.min.js-679772F26DF4762BB9879C4B3155732DB394E894",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "363c1ae93a8e0e44bfe9398f2117b5402046c8b0f8fa399655fd6574986765a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "679772f26df4762bb9879c4b3155732db394e894"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/pom.xml",
+      "SPDXID": "SPDXRef-File--examples-android-simple-pom.xml-47252C48FB299E11891A898F5746469D9236D6A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8916b22f3c4182253314d9df6177ceda673814030c2dc6170cff177a19e6fe1c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47252c48fb299e11891a898f5746469d9236d6a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/ui/HomeActivity.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ui-HomeActivity.java-95E9B285BC9DC3DA1FA8D23B195CBF1DDDDBDBAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "449224bc82d5a33bc1149367d956e8746c0285883c8959d37129f41d14cefe43"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95e9b285bc9dc3da1fa8d23b195cbf1ddddbdbaa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/DemoBaseFragment.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-DemoBaseFragment.java-725B197F44461F35B33469022A69A52E9A56BA5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d52d6ca16e5e34781fa45307abb4d0a4c9e48e71b0c814dc834a3a8965a3f8d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "725b197f44461f35b33469022a69a52e9a56ba5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/Lazy.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-Lazy.java-DE00352C27FDAB75A2336610B063137865DA02F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1062e94aa57d8c6cd0bd45defed0b9347ef81982e3630e07e644706ef12c0f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de00352c27fdab75a2336610b063137865da02f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/README.md",
+      "SPDXID": "SPDXRef-File--examples-android-simple-README.md-BAE6035348C1754E7BA1F2D524F0FBE9F7654849",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46adb33002d70098d36fc6797e89127644d09c788da776a32d18f3dd5f727fa5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bae6035348c1754e7ba1f2d524f0fbe9f7654849"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/java/com/example/dagger/simple/ui/HomeActivity.java",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-ui-HomeActivity.java-F31A45D9A77418063E208646216B04F9922BC7D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e34e960c381db950f00e9b85c9dee9a070f1c437713db2061c1db169dd19a6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f31a45d9a77418063e208646216b04f9922bc7d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/java/com/example/dagger/simple/DemoBaseActivity.java",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-DemoBaseActivity.java-C4726EE488A9364532DFAB0ABC57106B70E4500D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7834ca54daac5f7a15383dde6455681ce8ee16a4234490d5ef8ef07277fba028"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4726ee488a9364532dfab0abc57106b70e4500d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/BuiltInBinding.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-BuiltInBinding.java-B3F5A0B15D0B4E9D91AD4ACDE6B55AAB88F89A9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c29c7d640456e2c080b7eac5de7bfc04a87b234d915b89eabcac51e59238666b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3f5a0b15d0b4e9d91ad4acde6b55aab88f89a9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-res-values-strings.xml-90395230A517C933643C374C1D93AFEAEA38E323",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "930ff8c98481000e166cfcd210bedf3a026d354f597a75a86992dc89a94661df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "90395230a517c933643c374c1d93afeaea38e323"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/Pump.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-Pump.java-6A4D858AE832938280E1D47D748B1CA94D4D0EF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e61d542e51d4d229d9fabc869580fc836d1dacfd6af31e10a5dd9832e9620ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a4d858ae832938280e1d47d748b1ca94d4d0ef8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/DripCoffeeModule.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-DripCoffeeModule.java-2D4C97FBD8A88FE2FFAC4A6EEA39AF4FB5E48AE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bcef55d5f17a8b11225af42543b17823fe36b2678c9a89284fa6fbd472bf87e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d4c97fbd8a88fe2ffac4a6eea39af4fb5e48ae7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/PumpModule.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-PumpModule.java-CB1CFF133772B75AF8737F37E40AE7C9AB6B0BBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "143c6c7b116c24c9578122dadf8a99734d784f82711a78f596bf37fa52f562dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb1cff133772b75af8737f37e40ae7c9ab6b0bbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/app-theme.css",
+      "SPDXID": "SPDXRef-File--website-static-app-theme.css-9203F4963355CE05F04D7569B29E04D0ACE80B25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47173f4aff95a7f1cc7487d22892f166223efcbdb75014500745852c5218f692"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9203f4963355ce05f04d7569b29e04d0ace80b25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/Modules.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-Modules.java-6DB53DC15080D14668386C0608F5E67547AD69C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7523463619e6c1f93e2dd80c14e09f26da5ac69b907579dd89f71b331842420e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6db53dc15080d14668386c0608f5e67547ad69c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/html5shiv.min.js",
+      "SPDXID": "SPDXRef-File--website-static-html5shiv.min.js-08491746F67D5028B2817578A20963B0F38A349B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84e69e527e237e8af573ce4dfc252e05e6d4554782e7d2a4af8f7dbc3ead067b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08491746f67d5028b2817578a20963b0f38a349b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/main/java/dagger/internal/loaders/ReflectiveStaticInjection.java",
+      "SPDXID": "SPDXRef-File--core-src-main-java-dagger-internal-loaders-ReflectiveStaticInjection.java-E69A589FBDB5CE0A325AFBBA239167794D658948",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0c55dbd4d19758bab4238fe5d72075835933c64b8242b0da045198b53f7cf16c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e69a589fbdb5ce0a325afbba239167794d658948"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/jquery.smooth-scroll.min.js",
+      "SPDXID": "SPDXRef-File--website-static-jquery.smooth-scroll.min.js-15D23B7AA9998F08D7CD4C2A80DAB5831A2FB270",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6f0f07fbd925e692f7a77a26f90cbe5557adb38d14066641ea9b60d1219174c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15d23b7aa9998f08d7cd4c2a80dab5831a2fb270"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/MembersInjectorTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-MembersInjectorTest.java-35047E8D1EC932A3DDAA2B717116B21FB1ED504D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b876571ea51d11b2bfb0dec5bb09c0b20445553058e3390560bd5e68245978d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35047e8d1ec932a3ddaa2b717116b21fb1ed504d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/bootstrap.min.js",
+      "SPDXID": "SPDXRef-File--website-static-bootstrap.min.js-81354DCFC6D99A1A43678DD9719D0D279271A02E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96708c6d8e2d1d3e2cd83c34b4e30311c6c6bb405caef24c66d9c7a336b4bed2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81354dcfc6d99a1a43678dd9719d0d279271a02e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./core/src/test/java/dagger/internal/SingletonBindingTest.java",
+      "SPDXID": "SPDXRef-File--core-src-test-java-dagger-internal-SingletonBindingTest.java-94D7E3377CE4C0A7DAD7E49456E3B8BEF3522E14",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f2c093e5b844873c874611645d9be829289006226a7bdd950d82e80ef25becc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94d7e3377ce4c0a7dad7e49456e3b8bef3522e14"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/AndroidModule.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-AndroidModule.java-4051CF1B8385F26F98BE6FED3604914C1645E5E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "209da4802cbca10dc860b2852feb91264b056538e7806c4fc9a4b5d352a214bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4051cf1b8385f26f98be6fed3604914c1645e5e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-activity-graphs/src/main/java/com/example/dagger/activitygraphs/ui/HomeFragment.java",
+      "SPDXID": "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ui-HomeFragment.java-D6CEE07EBF8740C7B9A6C1EB67BE704DC5A4996D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ad1df8f942716ffe8df63f0c4a55ae65836f883c8f56ce8efb3e3eaa5e2233a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6cee07ebf8740c7b9a6c1eb67be704dc5a4996d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/android-simple/src/main/java/com/example/dagger/simple/DemoModule.java",
+      "SPDXID": "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-DemoModule.java-C5602076590DAE82C64FF4BF3A68F7BFE61C3F7C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "796c7635ff7d12f3b703a7673db504297d5d7c65289fd59afa7ab58188404f6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5602076590dae82c64ff4bf3a68f7bfe61c3f7c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./examples/simple/src/main/java/coffee/ElectricHeater.java",
+      "SPDXID": "SPDXRef-File--examples-simple-src-main-java-coffee-ElectricHeater.java-11C52FC16454A2DBE48DCF047DF30F9DCE50C0DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6345a557bf66e37aa9614100aa7c12e84414f4502ff8531770dddb51da7e114e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11c52fc16454a2dbe48dcf047df30f9dce50c0db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/app.css",
+      "SPDXID": "SPDXRef-File--website-static-app.css-D61BD3BADA596BD31100F6148A9CF1A994A159B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf383fcb4becee19e3f6bf881a6c7b44f7fc73210c90af80422fd0c542dce26a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d61bd3bada596bd31100f6148a9cf1a994a159b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./website/static/logo-square.png",
+      "SPDXID": "SPDXRef-File--website-static-logo-square.png-A84F9562B95873143D682EFB027EF130E8389EAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31e1aee5f633130ef677b209a51cd4f438af4cfa62cc202d9e87d4f3cc28efd3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a84f9562b95873143d682efb027ef130e8389eaa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "dagger",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "6762850b93203f260202588e9683780b4f3525a3"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2.6-SNAPSHOT",
+      "supplier": "Organization: https://github.com/square/dagger",
+      "hasFiles": [
+        "SPDXRef-File--website-static-logo-square.png-A84F9562B95873143D682EFB027EF130E8389EAA",
+        "SPDXRef-File--website-static-app.css-D61BD3BADA596BD31100F6148A9CF1A994A159B2",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ui-HomeFragment.java-D6CEE07EBF8740C7B9A6C1EB67BE704DC5A4996D",
+        "SPDXRef-File--core-src-test-java-dagger-internal-SingletonBindingTest.java-94D7E3377CE4C0A7DAD7E49456E3B8BEF3522E14",
+        "SPDXRef-File--core-src-test-java-dagger-MembersInjectorTest.java-35047E8D1EC932A3DDAA2B717116B21FB1ED504D",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-DripCoffeeModule.java-2D4C97FBD8A88FE2FFAC4A6EEA39AF4FB5E48AE7",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-Pump.java-6A4D858AE832938280E1D47D748B1CA94D4D0EF8",
+        "SPDXRef-File--core-src-main-java-dagger-internal-BuiltInBinding.java-B3F5A0B15D0B4E9D91AD4ACDE6B55AAB88F89A9D",
+        "SPDXRef-File--core-src-main-java-dagger-Lazy.java-DE00352C27FDAB75A2336610B063137865DA02F1",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ui-HomeActivity.java-95E9B285BC9DC3DA1FA8D23B195CBF1DDDDBDBAA",
+        "SPDXRef-File--examples-android-simple-pom.xml-47252C48FB299E11891A898F5746469D9236D6A7",
+        "SPDXRef-File--core-src-main-java-dagger-internal-loaders-ReflectiveStaticInjection.java-E69A589FBDB5CE0A325AFBBA239167794D658948",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-PumpModule.java-CB1CFF133772B75AF8737F37E40AE7C9AB6B0BBF",
+        "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-DemoBaseActivity.java-C4726EE488A9364532DFAB0ABC57106B70E4500D",
+        "SPDXRef-File--examples-android-simple-README.md-BAE6035348C1754E7BA1F2D524F0FBE9F7654849",
+        "SPDXRef-File--website-static-jquery-maven-artifact.min.js-679772F26DF4762BB9879C4B3155732DB394E894",
+        "SPDXRef-File--core-src-main-java-dagger-internal-Modules.java-6DB53DC15080D14668386C0608F5E67547AD69C8",
+        "SPDXRef-File--website-static-app-theme.css-9203F4963355CE05F04D7569B29E04D0ACE80B25",
+        "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-ui-HomeActivity.java-F31A45D9A77418063E208646216B04F9922BC7D7",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-DemoBaseFragment.java-725B197F44461F35B33469022A69A52E9A56BA5E",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-operation-SimpleInjectionTest.java-9DBD5A65B951B3A80D256202ED2038580EC9F130",
+        "SPDXRef-File--website-static-prettify.js-D592E6F771C2955CEA3764D819221B91BC343961",
+        "SPDXRef-File--examples-pom.xml-551F7BB6F6133ED8D900D948CC02B1A01778860F",
+        "SPDXRef-File--website-index.html-BD4195107D47F1C583773BCC61303B2BC6FAB9C7",
+        "SPDXRef-File--core-src-test-java-dagger-internal-TestingModuleAdapter.java-97FB4216D5A0B5E082397F6150BE0AA0DA3973B0",
+        "SPDXRef-File--core-src-test-java-dagger-internal-KeysTest.java-5CF1461323E0D2F5E1E6104EEF17CD330F0F8FA3",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-AndroidModule.java-4051CF1B8385F26F98BE6FED3604914C1645E5E9",
+        "SPDXRef-File--website-static-jquery.smooth-scroll.min.js-15D23B7AA9998F08D7CD4C2A80DAB5831A2FB270",
+        "SPDXRef-File--examples-android-simple-src-main-res-values-strings.xml-90395230A517C933643C374C1D93AFEAEA38E323",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ActivityModule.java-967DA0D8D17E1F0DD4DB07F3D51BAE66E007E094",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-DemoBaseActivity.java-7BD3D8EA8DEE6E88C0475C46C9D6F318CDDFFEEA",
+        "SPDXRef-File--compiler-src-test-java-dagger-internal-codegen-GraphVisualizerTest.java-25D0D2D0D2966DB27B398369FEC5D6A87453E988",
+        "SPDXRef-File--core-src-test-java-dagger-SetBindingTest.java-42C3536516E69617C7B5095A7219ECD182EEE9DA",
+        "SPDXRef-File--website-static-icon-square.png-E18FEE42151C8CBAAE74475DA84C870B0E39BCF4",
+        "SPDXRef-File--core-src-test-java-dagger-ExtensionWithStateTest.java-14B9C281D0897B686D6C082BC6880D519747CA9D",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphVizWriter.java-96A006FBA2FFFC2BACADA90D7F97A4B4A93ACEDE",
+        "SPDXRef-File--website-static-bootstrap-combined.min.css-4D32DD884B3C90FBE3996477B4D576090C00030B",
+        "SPDXRef-File--examples-simple-src-test-java-coffee-CoffeeMakerTest.java-4C947274B4973A78F9826D44240A9251D89EFD51",
+        "SPDXRef-File--core-src-main-java-dagger-internal-SetBinding.java-BBB41A0CF3CB25FCAF1677093496FC4E355B89F6",
+        "SPDXRef-File--core-src-main-java-dagger-internal-LazyBinding.java-5AAB55F58D5CA37BD070362471D122D4F1E17ADC",
+        "SPDXRef-File--core-src-main-java-dagger-ObjectGraph.java-75791D0A262569186CA52088FCF136B78B7BCE14",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-AdapterJavadocs.java-04FD53BB5023575773E468A1DD540692236E3838",
+        "SPDXRef-File--compiler-src-it-same-provides-method-name-pom.xml-888FC2B928A38286FD96764076A719084823997C",
+        "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-src-main-java-test-TestApp.java-E3EC7D49B524571D0509F3EA26FF39C31DE1F3A8",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-Heater.java-97151CC63BD9476BB52A8B607951102C50742FFD",
+        "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-ForApplication.java-17CE6473AE9ED40B84FD690DC100D29187134425",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-res-values-strings.xml-BA234F127BF351FFF92FBA2D7507FDA8B27451A0",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-DemoApplication.java-BE45DEFB8B2FCEB3A5A3DF5020D3D7DAA4FFC024",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-CoffeeMaker.java-8AE436D51E77F0961077A0FBF37F034BB83EDD72",
+        "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-DemoApplication.java-E56DB6FA8B68ADB56AAABACD632E230766070B96",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ui-ActivityTitleController.java-4B2571635563022A2138F496D5C36FA9A4DE91CB",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-AndroidManifest.xml-316D48864B46D7E6E2FE6D80F28C001DA44094E5",
+        "SPDXRef-File--core-src-test-java-dagger-internal-FailoverLoaderTest.java-0486D222193E7A3ACAE97FACF0A2302475ACFFBF",
+        "SPDXRef-File--core-src-test-java-dagger-LazyInjectionTest.java-C95D265B479B59A5565675FACC20B51F0228C42F",
+        "SPDXRef-File--core-src-main-java-dagger-internal-loaders-ReflectiveAtInjectBinding.java-59560037C8195515846B5BD4B402F30FCFA0E089",
+        "SPDXRef-File--core-src-main-java-dagger-internal-ModuleAdapter.java-13366D42AF5EDBE2D4513564A7D11BA7A03776D6",
+        "SPDXRef-File--core-src-main-java-dagger-internal-BindingsGroup.java-C6E246C6D71E8E32DE7CE9F68DC7F0DBBABCDB56",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-CoffeeApp.java-BA4FAB0AFDB88B1FE131CFE08F0E49389D9577E0",
+        "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-AndroidModule.java-A3CA2C38CF288AE9690567AF0D3FE50FE2E6BEB1",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ForApplication.java-9CA80B762023DCA45606EC32B4631C52147525D9",
+        "SPDXRef-File--examples-android-activity-graphs-README.md-3F55887AF2B93B7771B1B56305BBA7C26F7C28A6",
+        "SPDXRef-File--core-src-test-java-dagger-ProblemDetectorTest.java-6223B2D14952E1B6D1242B48DD585426660D3A35",
+        "SPDXRef-File--core-src-test-java-dagger-ExtensionWithSetBindingsTest.java-3C7155D1C2AEB0A88471209F44E87B0CA3EAD798",
+        "SPDXRef-File--core-src-main-java-dagger-internal-ProvidesBinding.java-600C5BB9DB58F8B6391F8F31061FF95DEB72FB88",
+        "SPDXRef-File--core-src-main-java-dagger-internal-Keys.java-5D8463D2A769CF7A619DC04D9B46CB0C349E8853",
+        "SPDXRef-File--website-static-icon-github.png-1E60484807A1992794C27E02ED41FE064BFEA7DD",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-Thermosiphon.java-BC89B0467D396734364E5A6CD799433BA971266C",
+        "SPDXRef-File--examples-simple-pom.xml-CA1E181F48D8E7DC3DAB7A2F52E027FD22F7D3C1",
+        "SPDXRef-File--examples-android-simple-src-main-AndroidManifest.xml-D77C3AAECBFC8A6DC58AFCF140A6122AEEC63E08",
+        "SPDXRef-File--examples-android-activity-graphs-src-main-java-com-example-dagger-activitygraphs-ForActivity.java-69A4130F0FE2419831688139F44BA2C744452775",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-GeneratedTypesNotReadyTest.java-0D38D257B344D5962EA5DFFCD4B5969C05C99E4E",
+        "SPDXRef-File--core-src-test-java-dagger-UnusedProviderTest.java-DB841A3D6E61F774C033CD3FA52A236695F1251C",
+        "SPDXRef-File--examples-android-activity-graphs-pom.xml-40BA5118DDFC9740C19A1ABB40DDFFBC413D3E7B",
+        "SPDXRef-File--core-pom.xml-8AF5C9D4E71C0C8618FBB5337801974613D533E5",
+        "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-src-main-java-test-TestModule.java-56C5924A22E1A7C4525FAFEBF67FF83B04345AED",
+        "SPDXRef-File--core-src-test-java-dagger-InjectStaticsTest.java-AB6544C2FA2E79F6B3F8DC02D4FD9123E9822739",
+        "SPDXRef-File--core-src-main-java-dagger-Module.java-056DC73CA3274E8773F77CA74EC1E9FCD129A73A",
+        "SPDXRef-File--core-src-test-java-dagger-internal-TestingLoader.java-85BB79A8FBB0C8A6C66F7DE6956F9571DC9033B1",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-codegen-GenericInjectAdapterGenerationTest.java-5432E62411E33E9595CCFEC057E049E40BF337DE",
+        "SPDXRef-File--core-src-test-java-dagger-ThreadSafetyTest.java-FA098340B49E9782098B733E81D0E5967F4B4469",
+        "SPDXRef-File--core-src-test-java-dagger-InjectionTest.java-FD1F1FA8A48D74B19AA8893AED9E396D0BE9E177",
+        "SPDXRef-File--core-src-main-java-dagger-internal-loaders-GeneratedAdapters.java-E7C817B34C0A5AE2EEA7DDD32C2F230CC67D7493",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-CyclicModuleIncludesTest.java-40EC1318F1D224C02DAD8413E86B48972513FA3F",
+        "SPDXRef-File--compiler-src-it-private-inject-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-multiple-modules-setvalues-src-main-java-test-TestApp.java-F80EE20263CD037865D53888CAC480097F1E2D23",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-operation-PrimitiveInjectionTest.java-5A09CD964B900675CAA254EED75676AE7AA93AB4",
+        "SPDXRef-File--core-src-test-java-dagger-ModuleTest.java-3EE4799ED2905ADDA65958DA5C971AA8E9AA69AB",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-Util.java-2808DDADB3BA25FB0B5DEA391A34ADA65DDC96FF",
+        "SPDXRef-File--core-src-test-java-dagger-InjectionOfLazyTest.java-37B78CA5C1A6FCD71313E478AE74AF7272E56481",
+        "SPDXRef-File--core-src-main-java-dagger-internal-Memoizer.java-355721825B30EEAAA2AC7B84F324746EDCDCAD7A",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-ProcessorTestUtils.java-8C53CA5442CEE7B7751E33929F88A95A9D265D1E",
+        "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-pom.xml-37A95DAF1FA65951322008AF55A6D572468D0AF3",
+        "SPDXRef-File--core-src-main-java-dagger-internal-ThrowingErrorHandler.java-473C9C68D2E262DA9CB46CD61E4D4961F6C23887",
+        "SPDXRef-File--compiler-src-test-java-dagger-internal-codegen-GraphAnalysisLoaderTest.java-EE8C1F8637E53DD3B0C2799D9880616BDC4F8A27",
+        "SPDXRef-File--core-src-test-java-dagger-ExtensionTest.java-608C48F63F06568F8890A35B443C8EB3FD7FFACF",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisInjectBinding.java-93FFC0DE181182B2B774401D3A2100E7A8010593",
+        "SPDXRef-File--core-src-main-java-dagger-internal-StaticInjection.java-CB10C6FC3F008CD290FDAA73A688847EC90FC203",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-ModuleAdapterProcessor.java-4230809EB9B7514C987ED720DF584863B3457BEC",
+        "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-pom.xml-29EAF75A7AB3C921BFE891464695A4E418313A88",
+        "SPDXRef-File--core-src-main-java-dagger-internal-Binding.java-DC1C8F6267258EAEB12BBD7A9C3694F6BB8E7989",
+        "SPDXRef-File--core-src-main-java-dagger-internal-Loader.java-A72D3016DC0272DE353CB3468E1BAF9C1BD63E7C",
+        "SPDXRef-File--core-src-main-java-dagger-internal-ProblemDetector.java-B206A649E6D002DE796594336B52743D73C790A9",
+        "SPDXRef-File--core-src-main-java-dagger-internal-Linker.java-02079D1EFADCBB0589F9519E55E8E318BEF0CDA3",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphVisualizer.java-39C628BF877EF2A82B5F7B71D4F42E212679A6D1",
+        "SPDXRef-File--compiler-src-it-static-injected-binding-doesnt-fail-providers-src-main-java-test-Test.java-2290BEC25C3170709F1C9577AF38C5F160E6D1FD",
+        "SPDXRef-File--compiler-src-it-include-non-module-src-main-java-test-TestApp.java-C3AF546EA64111F86B4384FB0243B8A6C65534A7",
+        "SPDXRef-File--core-src-main-java-dagger-internal-FailoverLoader.java-B0B47D22C7AB236E4EF975AE21C665AF6F2130D3",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-SimpleMissingDependencyTest.java-8F7FE36E05638DBD2E13B9D6F6802F6967419943",
+        "SPDXRef-File--core-src-main-java-dagger-Provides.java-873D6FBC3C8D4CAFCF4D64B02A2CF686CA20D2E3",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisErrorHandler.java-BEA246BA26BB9C1E6D088E6BBEB9B4BBD8312990",
+        "SPDXRef-File--compiler-src-it-valid-use-of-qualifiers-src-main-java-test-TestApp.java-3533488528DA30DAC230C29DE637EFF6C274F3D8",
+        "SPDXRef-File--compiler-src-it-extension-graph-setvalues-pom.xml-CA6AEBA426C90718DF440658A6B01FE2974D477A",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-verify.bsh-61E7D713784EBFC45503800C019F94B0655C8C71",
+        "SPDXRef-File--core-src-main-java-dagger-internal-ArrayQueue.java-F76CB1367B98AA20B5A1E5C4C0D3283077C0CAA7",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-operation-FailureModeErrorsTest.java-ABD8652A4F58798AA830D39A9D88C830031B15C6",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-LibraryModuleTest.java-D456C3004099A118BE8F09374B98F3DEBD297032",
+        "SPDXRef-File--core-src-main-java-dagger-MembersInjector.java-0B08618C971E29DED376BA4C4B04AFE5B3E059DE",
+        "SPDXRef-File--compiler-src-it-static-injected-binding-doesnt-fail-providers-pom.xml-BCB1D2E7030CA088FDAC0329E2765586DBCB215E",
+        "SPDXRef-File--compiler-src-it-provides-method-not-in-module-verify.bsh-616CF2950790C7F03DFE709EC5B648A857625104",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-warnings-src-main-java-test-TestApp.java-7DC66EAC2A5F827FEE52E861887F9D25D61C0791",
+        "SPDXRef-File--.git-objects-pack-pack-10a3469ff2a607e763b017b898c90b8588f8489d.pack-B2D75B5746C8571B82F715A053C406F673AB6D46",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-CyclicDependencyTest.java-E65CDCB9F01D0B4E9088398B9C6DBD39F5BDDB16",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-validation-ScopeAnnotationUseTest.java-0AC365C322C47505F594C0DCF37F845345914AAE",
+        "SPDXRef-File--compiler-src-test-java-dagger-internal-codegen-DotWriterTest.java-AB72D56E0B880C1658AD836718B9929C178A04C8",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-pom.xml-C331C25BC0839C1A1469BD13411172CDF8DCC8FE",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-codegen-InjectAdapterGenerationTest.java-7F0C82603866F12A34E5BB66CD50169EE51841F6",
+        "SPDXRef-File--compiler-src-it-private-inject-src-main-java-test-TestApp.java-A6EF3E6660003D6058BF4778BCD388BF03DA3DFF",
+        "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-verify.bsh-18817BA3BBF3AA1364AB05D76833DBA070A9CC5C",
+        "SPDXRef-File--compiler-src-test-java-dagger-testing-it-BuildLogValidator.java-C95156E8277215CFD2026AC8043CB6E755B2EEC5",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisStaticInjection.java-9BEFC23C01A6AFB6F27F9043F144FEB8155230B2",
+        "SPDXRef-File--compiler-src-it-provides-method-not-in-module-pom.xml-CC19102DE9F09DD2813A8EFB6AC6C56857477EED",
+        "SPDXRef-File--compiler-src-it-multiple-provides-methods-src-main-java-test-TestApp.java-5380021E7ADFFD57B43A7C3A964E1BBF377435A1",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-ValidationProcessor.java-10CB2EA89B34557E7764A977B73BD8F0C2E29446",
+        "SPDXRef-File--compiler-src-test-java-dagger-tests-integration-codegen-ModuleAdapterGenerationTest.java-7D2C4D298F8918B15BA78C029CCEEC56D1563ED2",
+        "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-verify.bsh-E52AA7729E0BECD708439C19E0799EADE959710B",
+        "SPDXRef-File--compiler-src-it-valid-use-of-qualifiers-pom.xml-A784665CD396F63CB418238D35A9CF2C729055E5",
+        "SPDXRef-File--compiler-src-it-private-inject-verify.bsh-F38706A97DDAE8E3AD4AF523B2279B7F6F110683",
+        "SPDXRef-File--compiler-src-it-module-type-validation-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-InjectAdapterProcessor.java-DF317A05FCDA43008ABBA777A9DABE692240EC54",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisLoader.java-849DDD1C50A53D48B45DB889E2777768E9699D1F",
+        "SPDXRef-File--compiler-src-it-method-injection-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-main-resources-META-INF-services-javax.annotation.processing.Processor-5A56E9DE70D05EF251DBAF81FEB08679EA2C9FD0",
+        "SPDXRef-File--compiler-src-it-inject-on-class-verify.bsh-63529C033F69CC8AB65AE1FA11718A1A22B7B591",
+        "SPDXRef-File--compiler-src-it-multiple-qualifiers-src-main-java-test-TestApp.java-DDF9D0EA746483516BD27F25BDF46AED7454F8D9",
+        "SPDXRef-File--compiler-src-it-multiple-provides-methods-verify.bsh-C725F69FD14A351A78AE70A6E4CE7B1E28F1C6C6",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-warnings-verify.bsh-07F75EB098CA6CA985E59E8FA1107111D4D196D5",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GraphAnalysisProcessor.java-E772A20B7D8ABC469BB0B95C25DB2EE4B095DA89",
+        "SPDXRef-File--compiler-src-it-uninjectable-supertype-pom.xml-6F8D28DC055AAA625C985DF80A1483348145EEA1",
+        "SPDXRef-File--compiler-src-it-final-field-inject-pom.xml-33A79EEF5B53737D3165FC85221088D43FA39EFF",
+        "SPDXRef-File--compiler-src-it-multiple-modules-setvalues-pom.xml-71B4FEB46708FBD394BDAA48EF24FC2CB25698B2",
+        "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-src-main-java-test-TestApp.java-378C5BD9608F5676C6268683A5626EB19C48860B",
+        "SPDXRef-File--compiler-src-main-java-dagger-internal-codegen-GeneratorKeys.java-F53D2F519FFE1EDA3807DF618E13D1B3708B28AE",
+        "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-pom.xml-6962AFCBE350F8E58802DA180154D19617555273",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-src-main-java-test-TestApp.java-50DE5FF7A2FDD9571CF49AFB0298C3EF86396144",
+        "SPDXRef-File--compiler-src-it-uninjectable-supertype-src-main-java-test-TestApp.java-E508C5526C82B93256F26D5A0CA97AA560D7331A",
+        "SPDXRef-File--compiler-pom.xml-C152EDA61D5BD1F30DDB8AA0BBE8E06CD2BCE69D",
+        "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-src-main-java-test-TestApp.java-DA509F9167C67B6202D876200E86B1CB0C33C020",
+        "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-pom.xml-11360C051575C1B002BC23AC80034CCDCA9544BB",
+        "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-warnings-pom.xml-768458608439D4F8F54F949DE89B012D7286D836",
+        "SPDXRef-File--compiler-src-it-provides-method-not-in-module-src-main-java-test-TestApp.java-AC05910839F06E38EA60A68853CBC823AF138E12",
+        "SPDXRef-File--compiler-src-it-same-provides-method-name-src-main-java-test-TestApp.java-6F1F7320A8AFD869FC9CE1C5F935D1B5630E7471",
+        "SPDXRef-File--compiler-src-it-include-non-module-pom.xml-A9691BBC45AE379480D0EAA560CFE8498F8EC997",
+        "SPDXRef-File--compiler-src-it-inject-on-class-pom.xml-1526DD983CCF80B70DC950DAA8644C0D41F27FBF",
+        "SPDXRef-File--compiler-src-it-final-field-inject-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--compiler-src-it-private-inject-src-main-java-test-TestFoo.java-023421AA752C7286E882C745A1783946C7C59B7E",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--compiler-src-it-provides-method-with-throws-clause-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-qualifiers-on-invalid-elements-errors-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+        "SPDXRef-File--compiler-src-it-provide-provider-or-lazy-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-multiple-qualifiers-verify.bsh-9D4BEFA66555687394FD029347115D10AE6213BB",
+        "SPDXRef-File--compiler-src-it-provides-method-not-in-module-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--compiler-src-it-extension-graph-src-main-java-test-TestApp.java-706708D7BC620EB48162B0C29446C9A3F6E32193",
+        "SPDXRef-File--compiler-src-it-multiple-qualifiers-pom.xml-E4DE5F628C1C67CBFC329AD3EED58A3F5A47D6B4",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--compiler-src-it-multiple-qualifiers-invoker.properties-BB84656C3EB2E744027E0BBE4DA018AF9C66692A",
+        "SPDXRef-File--.git-objects-pack-pack-10a3469ff2a607e763b017b898c90b8588f8489d.idx-46B524366130B9A632D24EAC3D9E2CD492FAFA21",
+        "SPDXRef-File--compiler-src-it-module-type-validation-pom.xml-57B9165D8072A7DCE9815804E2A03074BE5275E8",
+        "SPDXRef-File--compiler-src-it-method-injection-pom.xml-1526DD983CCF80B70DC950DAA8644C0D41F27FBF",
+        "SPDXRef-File--compiler-src-it-inject-on-class-src-main-java-test-TestApp.java-6503EC6309FF0E30834076E81FFFD0BE2356E360",
+        "SPDXRef-File--compiler-src-it-final-field-inject-verify.bsh-3EB103AC3D2481046306E41BE0CFDAABE6561355",
+        "SPDXRef-File--compiler-src-it-default-package-injected-type-pom.xml-A65844798CC7247B966148DC43ADFC2833EDB87B",
+        "SPDXRef-File--.git-logs-HEAD-FFA2CBD663BC08C0D7F4F7117A58D22CE8195ABF",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-BA3E1BB2C17B22829B05102E32C36291526E5A6E",
+        "SPDXRef-File--compiler-src-it-module-type-validation-verify.bsh-D406910A6C9B96C49B565C76A06A36DE11244A56",
+        "SPDXRef-File--compiler-src-it-method-injection-verify.bsh-631E405721364C7DF2A0474BB96003CBE1738062",
+        "SPDXRef-File--compiler-src-it-inject-parameterized-type-pom.xml-18285BDC8B00EA25DF41BEC64C48424C86A30073",
+        "SPDXRef-File--compiler-src-it-final-field-inject-src-main-java-test-TestApp.java-64CA5329851D44EB00E1988CED5EE569DAE254DA",
+        "SPDXRef-File--compiler-src-it-default-package-injected-type-src-main-java-TestApp.java-2203A256EC183BFB16D3D6B2C8A1E4FF84AC62B4",
+        "SPDXRef-File--.git-logs-refs-heads-master-FFA2CBD663BC08C0D7F4F7117A58D22CE8195ABF",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-3B70057CAC159DF4807EFEA4717F68690B852965",
+        "SPDXRef-File--compiler-src-it-module-type-validation-src-main-java-test-TestModule.java-1493E227AE814380F0BD5F5845A64FBAECB1C3D1",
+        "SPDXRef-File--compiler-src-it-method-injection-src-main-java-test-TestApp.java-8574CE2F8BA7FBDB7D3330A9A230568281F1C89D",
+        "SPDXRef-File--compiler-src-it-inject-parameterized-type-src-main-java-test-TestApp.java-8C86BA95BCAF31949027F7EDEA78D17E1779AAED",
+        "SPDXRef-File--compiler-src-it-include-non-module-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-extension-graph-pom.xml-4D6F7C0DAFD68E1BE50725C64F5EC060A8079796",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-FFA2CBD663BC08C0D7F4F7117A58D22CE8195ABF",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--README.md-70F16119E7EC7A1966A813B9CD7A23B1C67D01B7",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.buildscript-deploy-snapshot.sh-6ACE555C3FB2B280956BEA9E7A11365DBCB02305",
+        "SPDXRef-File--.travis.yml-6A830C21824E9062055AEA1E74E956B00DF6EE32",
+        "SPDXRef-File--compiler-src-it-private-inject-pom.xml-F61B88D3E342C36CE263652D951E62526E7FFFDD",
+        "SPDXRef-File--compiler-src-it-multiple-provides-methods-pom.xml-33FA913B38F74B76F5244580EE9EF760018DB2C5",
+        "SPDXRef-File--compiler-src-it-missing-at-inject-constructor-verify.bsh-F5A8D5C06F9CE4C5BAD9182F9F7B9505BBB4A100",
+        "SPDXRef-File--compiler-src-it-inner-classes-complaint-injection-verify.bsh-E7EB7DDFA88D0D734B29EFA2ED9778B9BB9D5556",
+        "SPDXRef-File--compiler-src-it-inject-on-class-invoker.properties-A6CD4757ED674C4483AB29245D73D2D32F100C5B",
+        "SPDXRef-File--compiler-src-it-extension-graph-setvalues-src-main-java-test-TestApp.java-6BBB8E8873F09FBE586F113526C9B42012C6EBB3",
+        "SPDXRef-File--.git-refs-heads-master-7EDA1AB5CA6DA7245971AC2F1043E8F61B08CA5D",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-8B37B58E728877D3EFB58C45E02C23C48969B18C",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.buildscript-settings.xml-2CA6AC9D5A0198D0EDCE875CA0D0E262F1839687",
+        "SPDXRef-File--pom.xml-4919A25CB7AB725FB35D8B4A6CF6A77D3610E19C",
+        "SPDXRef-File--examples-simple-src-main-java-coffee-ElectricHeater.java-11C52FC16454A2DBE48DCF047DF30F9DCE50C0DB",
+        "SPDXRef-File--examples-android-simple-src-main-java-com-example-dagger-simple-DemoModule.java-C5602076590DAE82C64FF4BF3A68F7BFE61C3F7C",
+        "SPDXRef-File--website-static-html5shiv.min.js-08491746F67D5028B2817578A20963B0F38A349B",
+        "SPDXRef-File--CHANGELOG.md-703639DA67E1D03A7B80182674D9B638F858C202",
+        "SPDXRef-File--.gitignore-84FBFFC7403666B5432A2D2FA454EC0184C2C3E1",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--deploy-website.sh-F647D6C28243BF1A6703A4840F9094D49F6A853C",
+        "SPDXRef-File--website-static-bootstrap.min.js-81354DCFC6D99A1A43678DD9719D0D279271A02E",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--CONTRIBUTING.md-FEFBC01137281FA97BA1F4E6AFC0668BBD92D59E",
+        "SPDXRef-File--checkstyle.xml-FFE8B863E45B649A72BC6CCB46E003D1E2A53DDE",
+        "SPDXRef-File--LICENSE.txt-47B573E3824CD5E02A1A3AE99E2735B49E0256E4"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "dagger 1.2.6-SNAPSHOT",
+  "documentNamespace": "https://dagg.squareup.com/dagger/1.2.6-SNAPSHOT/06L29qH0CUyKPm0J9sHKPw",
+  "creationInfo": {
+    "created": "2022-09-21T03:26:33Z",
+    "creators": [
+      "Organization: https://github.com/square/dagger",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

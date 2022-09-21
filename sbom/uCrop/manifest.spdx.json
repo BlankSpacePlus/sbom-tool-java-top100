@@ -1,0 +1,3548 @@
+{
+  "files": [
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-8BEBAD8B79229FA80D4CDDF18E59CC769F6EBA4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad09244283328eafbcf183e778079f48220496f4049df22300f265332b227132"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bebad8b79229fa80d4cddf18e59cc769f6eba4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-507DB91108FB26A3B7E297B2D1665888A947B48C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "311d629ee44bec997f73e4db66ca7325ec88cd65c620f863e971de67aea311d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "507db91108fb26a3b7e297b2d1665888a947b48c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-ACC018F438A61EDBF494505D2478150A094DCADA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f73789eab57a39eee846b25a430613530836bcb092705023bf4025e3d054147e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acc018f438a61edbf494505d2478150a094dcada"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitattributes",
+      "SPDXID": "SPDXRef-File--.gitattributes-1A80BEE4922E3930366930253D54B626E997AD78",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30141d1e2643c093ecdee7ee57c19008c7a857e4e0007bdd0ab0bb359ed25205"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a80bee4922e3930366930253d54b626e997ad78"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./mavenpush.gradle",
+      "SPDXID": "SPDXRef-File--mavenpush.gradle-5B1F20EE2AC95AC835F883B25233402C52053DD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2267538460a087952bb681eb8b65869591ad704948c26a09d6fd7623ba3f2c5d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b1f20ee2ac95ac835f883b25233402c52053dd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1f7bbd6029d20bafae22755bf7c2ea3782bcf5251991694e1318a2d1943fd09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bc8eed14c590a2e5ff425d83ef11c552643576"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-CB587AC979C5A12EA2FAD8CA5AF781961C1B0668",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bda5cfbd39e60865d1109488bdc0ef20a99b0a24a91e9a932948d1bd5f9f2e41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb587ac979c5a12ea2fad8ca5af781961c1b0668"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/yalantis/ucrop/sample/BaseActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-BaseActivity.java-3CECAB489F9D80E8BE09086E5B5867656318934D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23f7af9b948543e1c9bb6416c46adace8df8c7b5d1c450f4e47cc1f6dc1a7f9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3cecab489f9d80e8be09086e5b5867656318934d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_sample.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-sample.xml-E698FF48A7E30963FBCF37B2391D93968A0A4219",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6412d03858888184ac896129463374830cd1f91dc1e3456950a1a0fe635d7a1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e698ff48a7e30963fbcf37b2391d93968a0a4219"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-colors.xml-A82806729EA1D96BFEC62B7E60661CD426748E67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9671229c41e8a8d97ddedc365fff5f51fc3afcd46d6eb048288a18aa28bbe1a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a82806729ea1d96bfec62b7e60661cd426748e67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--ucrop-proguard-rules.pro-7992784792A2315A994358A22F7594C120A2CAA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5581fef00737c5c7aba4c8cd32f05dc06245f3bb5998e1d15fe4b18636f4910b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7992784792a2315a994358a22f7594c120a2caa9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/callback/BitmapLoadCallback.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-BitmapLoadCallback.java-DA3F097AC3617F84CF3258C49F35A17F7C7C3FDA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "20571d69bed5ce950620403d7d602e51bce305da1b9bfbf41ca5607c8a672077"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da3f097ac3617f84cf3258c49f35a17f7c7c3fda"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/task/BitmapLoadTask.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-task-BitmapLoadTask.java-382E535325E6D5F2ABDBBFD9C16D72E3DF28863B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9db69e1dc88bc045716423aebd6ef7d5673e322834db853a82d30b0b2e7686c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "382e535325e6d5f2abdbbfd9c16d72e3df28863b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/RotationGestureDetector.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-RotationGestureDetector.java-FF67C01EE01AB7034F0743B14435339C851A19E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78c97f179e9348fb9315821e28fe0aa915fa97c9f0f4e85d571cde4b37d2682e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff67c01ee01ab7034f0743b14435339c851a19e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-63E9663242A34C33F8DB19ACA40371086E505AF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9988335590f3ce44f05adc971a5d31c47c63855280f6e35ef53aefc77353197"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63e9663242a34c33f8db19aca40371086e505af0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-056D4DB20010F5D34C9C049583A2A9FDBD855A47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "542b5bf3c3d7cd505f80b6e4db4698b8c1e4506c23de1bf709eb9341e10b416d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "056d4db20010f5d34c9c049583a2a9fdbd855a47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/develop",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-develop-A2781A9483080963B72D44C22C75B9F7BC1212E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b6b87b2f82b8182d40a84a1fef123d1c5187e43f017fdc5e22667d04118bd28"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a2781a9483080963b72d44c22c75b9f7bc1212e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-B4D3AC7A0E38F4BE466D0CCFF718ADDBC91B3E0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96cfef7ff500c9c42221ecc4c363cc8e9e0f3837028058fabbd32ab824288360"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4d3ac7a0e38f4be466d0ccff718addbc91b3e0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_result.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-result.xml-CA63219EF72BC514F42B360090C769CA0A8BFA5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c410d19e3886ea1dc0db20b60fe022556824bab16fe0d6d2d36e698db7bb6696"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca63219ef72bc514f42b360090c769ca0a8bfa5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxxhdpi-ic-launcher.png-0BC176228EFB199E165BEF3E77A9C188DA3CEE97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50cb6dbaf69038315e11f5300b2887ccb1abedba8a097a6c4d12f43bb342aa8c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0bc176228efb199e165bef3e77a9c188da3cee97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/gradle.properties",
+      "SPDXID": "SPDXRef-File--ucrop-gradle.properties-5B2806F8F1E282025EF363AB5C6B484CEC2E7640",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1021c7cb6faf6170dbd5774866321f2872b1f517e85069362db8909aa5716dcb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b2806f8f1e282025ef363ab5c6b484cec2e7640"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/callback/BitmapCropCallback.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-BitmapCropCallback.java-3EAE2FDD3B7B298D8412C72BCE81CAADD114C85F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7072f47916190d4960035cae0d6cdbf97713702ddb07ffee8f4468b59a09d03d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3eae2fdd3b7b298d8412c72bce81caadd114c85f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/task/BitmapCropTask.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-task-BitmapCropTask.java-480B524D3A90421D900BB75A436832F17EA6731E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce6a70a8172d1005b8c5c3f74db5237d8af0e5fad125f6343e1f258ba3c46dc0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "480b524d3a90421d900bb75a436832f17ea6731e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/RectUtils.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-RectUtils.java-FC346F710B7E8CE228A223A5571194B5B74B4513",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9f86b943b08e1dad70ba5e13dfcdedb3d232c536fa378e60c5863dbe141bf37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc346f710b7e8ce228a223a5571194b5b74b4513"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/widget/AspectRatioTextView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-widget-AspectRatioTextView.java-D25D8456112D4C104A64F4ED9C8AAEAF2748642D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ddb69e26b6c3b065dc1c9dc856549e2a6e84ff820efccd632fc4d5fc474898b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d25d8456112d4c104a64f4ed9c8aaeaf2748642d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jniLibs/armeabi/libucrop.so",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jniLibs-armeabi-libucrop.so-EDA5F32747CBB0A2475485FDD040AA43C191A303",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e550bfc02cdb861dccd56132f68c6a47ea74d6ccd59fee504dc14d2e7b81444"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eda5f32747cbb0a2475485fdd040aa43c191a303"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_crop.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-crop.xml-B14CC2F989E2DC715E259693190F34ED38C7023B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efec5ec46a1fd1501ae2e010aaf73270bab9f69d2e8bc32aa898dc372a99c366"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b14cc2f989e2dc715e259693190f34ed38c7023b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_scale_unselected.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-scale-unselected.xml-4EA30C1CCADB2C481B8DAAA89F66A969D0C7F716",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e66bdb44ba5960b3fbc844f32584b8d155b65691ce4aa1d6171e14575fb51aef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ea30c1ccadb2c481b8daaa89f66a969d0c7f716"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-hdpi/ucrop_ic_angle.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-hdpi-ucrop-ic-angle.png-72A415351C2265FD6927BEAC987A430D0622C346",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d810a53112605d48ead26bdabb4ae6d49fa48eed36eda616a30258d865389cfd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72a415351c2265fd6927beac987a430d0622c346"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-xxhdpi/ucrop_ic_angle.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-xxhdpi-ucrop-ic-angle.png-5F132C87DD60E1F68C2D721D0E8370605CF34BA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "664d33772610e5a1c02cb29c52ae7fdf1f10de417062bb027288b2f11ce398f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f132c87dd60e1f68c2d721d0e8370605cf34ba8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_layout_rotate_wheel.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-layout-rotate-wheel.xml-69EB9E5A7E13A385F7A30E83F370595E75E50381",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "813568ee73c9207f501e85e541ccfd24fbd88b09ff53fddd1b67d94f70666e30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69eb9e5a7e13a385f7a30e83f370595e75e50381"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-strings.xml-B6A366CA3AB2073231734E0B6A308AB7A7F63807",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c6b8291c59ba68b6893f80a43bc690cd233155c73fcb420e884d23638781de7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6a366ca3ab2073231734e0b6a308ab7a7f63807"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-in/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-in-strings.xml-64E27C54D0BCBBB43290D2301CBDECA334F21E27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c14c3ac0a2219c35588376ef7a5d51152202e0a483828fc799e12c648ef38bef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "64e27c54d0bcbbb43290d2301cbdeca334f21e27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-6E71BA11D32259F81DFA1C9B4D112A3D82639CF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41a34fab423718447d4989319a26f44d5f8337f007b468f167979d7bdf660baa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e71ba11d32259f81dfa1c9b4d112a3d82639cf4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-AB7C50732BDD199CEEFA67AF77A83B2376DB56A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf798937686a3e3a213157911686bb422c83ea66d515d99360d7d2f47a92ccf4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab7c50732bdd199ceefa67af77a83b2376db56a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-C505B57C506E9E0C4C5F6EC439A5FAE3AB4032DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "426fbbd6155b0f7fd45e35ca71fc3543bd9d3993309698ed31104bdc7860eb48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c505b57c506e9e0c4c5f6ec439a5fae3ab4032dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-8a30a50e64b2d33bb3cb73a7102739fdd1382c84.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-8a30a50e64b2d33bb3cb73a7102739fdd1382c84.idx-3DF346F4982BE4A17FC17E750B84C65CF48B91AA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9c2dc99701bc5513ae934c458086b32198315c3e179be7095ea2f1f8032f700"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3df346f4982be4a17fc17e750b84c65cf48b91aa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-CDDC933E1B438973BF159B98ABAA0CA7CDD9E167",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d929ef965f292d3ef94ea72effab94f535439644409403f33ab75816757c2328"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cddc933e1b438973bf159b98abaa0ca7cdd9e167"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/ic_done.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-ic-done.xml-2A85C1E1C0C34BB4E53922CEFA620078DE0FDD63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1348b1a0d17707f29c442e61fc4f42bae7acb26acc0bbecf19cc2d70b78a4f79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a85c1e1c0c34bb4e53922cefa620078de0fdd63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-5FFD89EB42F100C8233FAF25B1DD27A1D0306F57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e95db352a8df32e5485582185ff48561d04f7aa7269d71f2577f0da2a2e9989e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ffd89eb42f100c8233faf25b1dd27a1d0306f57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/.gitignore",
+      "SPDXID": "SPDXRef-File--ucrop-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/UCropFragmentCallback.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropFragmentCallback.java-B4E1A8022093EAE0047964AC0E38508466AD5221",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97a1ce73c14a0393e1e3ef7f831348d4ffd095b20a71ac44c469f99e1abf1700"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4e1a8022093eae0047964ac0e38508466ad5221"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/model/ExifInfo.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-ExifInfo.java-02A4A48A9BE358A89DD3AB7264F08E61EF018527",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45938b9698179b7d493d85ff51a0ea0eb93b81883eb5c7c0dd12d8e611f1e781"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02a4a48a9be358a89dd3ab7264f08e61ef018527"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/FileUtils.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-FileUtils.java-B5FFDAA4EDFFA4FEE136FD41BD41E789F3C6C9D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "674ff0bc550f7c0894ba76960a0b7cfe6f2b5d0be3d40c85daa4fbef52e65c5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5ffdaa4edffa4fee136fd41bd41e789f3c6c9d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/TransformImageView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-TransformImageView.java-5ECC422866684A8C84C528EC065BA58CFEBC465B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "602e07998372b66fdf7135fc3d974921ea78f28a13d02d489a148e0eb3fad781"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ecc422866684a8c84c528ec065ba58cfebc465b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jni/uCrop.cpp",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jni-uCrop.cpp-DFB3FD55DAD2D450FAC2FD0FA79F7E81295DD72A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ee3678a7fa252a933780516d2726fdbf0074855e8f0eab5a8250a3fd488e7285"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfb3fd55dad2d450fac2fd0fa79f7e81295dd72a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/color/ucrop_scale_text_view_selector.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-color-ucrop-scale-text-view-selector.xml-50D8B24A1279404CA6EF073690432EFF50ABD3C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a7090687a97e3f9dbffbf12548fbaeeb2e0aa5b96b7df244280329629b76315"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50d8b24a1279404ca6ef073690432eff50abd3c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_rotate_unselected.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-rotate-unselected.xml-E7D4E5D6F3DFD00CE27E2D6ABF0C093161665EFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e12d214e25ed5ffa9a38a79529181c4b03f0a116b0da6385ab37baf51188d7b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7d4e5d6f3dfd00ce27e2d6abf0c093161665efc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_vector_loader_animated.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-vector-loader-animated.xml-F640F909CA0E2071F347F281C0E80E7032EEAEC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3507202ccfbd2b4c72a7c7670a7050c3d13280aba2436e76bfc59180292982b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f640f909ca0e2071f347f281c0e80e7032eeaec2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-xhdpi/ucrop_ic_angle.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-xhdpi-ucrop-ic-angle.png-F0DB4B55F4A5BB8B6436E8A15CD177AD665BB35F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80036194e1a9055e5e99d6166f803dc518da54b32e911fe64eefd311f73a3173"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0db4b55f4a5bb8b6436e8a15cd177ad665bb35f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_controls.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-controls.xml-23CC844D07C42B0CD6C4AFDB53B6E0CC67074512",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "593e788d8474423548ba8bc2865330523b8ab916d9c9c69da902c5800c9c1acf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23cc844d07c42b0cd6c4afdb53b6e0cc67074512"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-dimens.xml-DFDF941C09E8502B6624D5D95B39AB9F17901B31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c45886398d370f56bf2241585622975f7caa7f19e8ce25fa794e0f170cca0bc3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfdf941c09e8502b6624d5d95b39ab9f17901b31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf68b95a4029e352fe1ee002bb367ac1b686f9ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-DD8E8826088C2A83B5EBE1E83FA0AA5F0ED56F98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8dd7e69cf77bff3e6717335270c85d60f7aee7f9e917566d94e0afd8c9d31317"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd8e8826088c2a83b5ebe1e83fa0aa5f0ed56f98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE.md-F2812CCEFA82208AEC4200BE1F19DFFCAD7E2B1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26b44230063c7dd8f2508ad3b273c956544753e92555326076d96794f5ac5dc1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2812ccefa82208aec4200be1f19dffcad7e2b1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/yalantis/ucrop/sample/ResultActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-ResultActivity.java-B7448FE5B7768268DB8988D5BAA09D0E6F2B791B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b5ab4e0c005c98ea9d9b984102b66e8dd98a5278208bd67d2742953d721ab9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b7448fe5b7768268db8988d5baa09d0e6f2b791b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/include_settings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-include-settings.xml-45BC5B91175E746A6D470C2CBE997398815B6A9E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22f6edb1dbb1d091909dd06e79e4ce04fc4a6ce81647019710ee09b3b9a83d7d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "45bc5b91175e746a6d470c2cbe997398815b6a9e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-dimens.xml-201ABD4C49A2F76A43426ECC08C762E68484EDC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b4ad5ce76401a798a62cdb54ab982f56b814a982f5cd14b81a47f749571629cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "201abd4c49a2f76a43426ecc08c762e68484edc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-AndroidManifest.xml-FD53C4134E98A931D9D7BC5E7C87211C52DADE46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09fd077377659739b8ba2959d9b872a81042008f6b0ae2d5248b4ed9af1dc31d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd53c4134e98a931d9d7bc5e7c87211c52dade46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/callback/CropBoundsChangeListener.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-CropBoundsChangeListener.java-227C2A9680EFF3AEF0B3B0D0A603EE4A56BD4EED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "972c15879768dfdedd3f9694d951888728babec128e9196deea279ade71a3732"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "227c2a9680eff3aef0b3b0d0a603ee4a56bd4eed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/BitmapLoadUtils.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-BitmapLoadUtils.java-2654DEBF5FC44DB25A86917F47FFADF12B3E358E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24c23c6d465dae2cb518175941392529385dc281379b03567ddbd860f4e1e34e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2654debf5fc44db25a86917f47ffadf12b3e358e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/SelectedStateListDrawable.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-SelectedStateListDrawable.java-78530F259E4CB5E167715A02E6764A77E19F6253",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d6a9f0be50665347de1b56cc639ce42b10897f54058516c8e5c11f9504f03cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78530f259e4cb5e167715a02e6764a77e19f6253"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jni/Android.mk",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jni-Android.mk-9F5FE6FA597A31240BD84CD09C7416E0682B0475",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a85a3e2561b88c7a14c0aa2a9276116599054cb5a30a71b24d9aaa00241a7596"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f5fe6fa597a31240bd84cd09c7416e0682b0475"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jniLibs/x86/libucrop.so",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jniLibs-x86-libucrop.so-82825D93DC5582B784C9D238100FA189A2A056C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67e1aac0dbf92c423d458cb2bb8f1f4cce5dca63dc131012edc327551689edf1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82825d93dc5582b784c9d238100fa189a2a056c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_cross.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-cross.xml-6169A1F7FE337AB7D241EE34BF55B3E656ADC6ED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a56dd83d3087a3315ac9ef5fcf797b0ee6564fd06d15270a94289c95d530827d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6169a1f7fe337ab7d241ee34bf55b3e656adc6ed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_scale.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-scale.xml-64F7628E435F1BBF7D728D587859F0A87A891BC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f8af8062199281babc91db868381790c9dd5234a22af26d5652be69817eb6ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "64f7628e435f1bbf7d728d587859f0a87a891bc9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-ldpi/ucrop_ic_angle.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ldpi-ucrop-ic-angle.png-4A732387AAC3C6CF40DC27131293048B12B569CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3a1c301fd546c4627f49550b2781aff041f530503a73cae8a47f2bed44ae380"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a732387aac3c6cf40dc27131293048b12b569cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./preview.png",
+      "SPDXID": "SPDXRef-File--preview.png-F70ED268495DDB28951B33ACEA749C8176740359",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bcb39dc01391e76c6c594eaa28221c404f375e32118d8102e8b6892391bb43b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f70ed268495ddb28951b33acea749c8176740359"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-AB7C50732BDD199CEEFA67AF77A83B2376DB56A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf798937686a3e3a213157911686bb422c83ea66d515d99360d7d2f47a92ccf4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab7c50732bdd199ceefa67af77a83b2376db56a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/.gitignore",
+      "SPDXID": "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/bg_rounded_rectangle.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-bg-rounded-rectangle.xml-E93F3F9F87986C07581C282282B97084F1C38199",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e44319256dd557de0880cf3595b410d4bf9cbc1f4a947bf130e635603a1c394"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e93f3f9f87986c07581c282282b97084f1c38199"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-C0EF131167662A6AB033AD42818217B758B8B056",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9bcbc642bfc191efe6097a6bb9160a30adb758c2c858a0fa30a4306d3bee6fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c0ef131167662a6ab033ad42818217b758b8b056"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/xml/file_provider_paths.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-xml-file-provider-paths.xml-09A48B7E54FEFE3E61EC336C73B0D64A233E4953",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86cda84c78a0d1eafff6ea42acbc8705a2d20fb6f541dcc2a323bdc9042dec71"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09a48b7e54fefe3e61ec336c73b0d64a233e4953"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/UCropFragment.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropFragment.java-4A0969B3F458E6A7BB168AD299866D5393220BE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e779c59e42300bd86167b6f500a68275d67664eb73fcc979740422f8c6f447ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a0969b3f458e6a7bb168ad299866d5393220be1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/model/CropParameters.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-CropParameters.java-28CA132DA2B8BC8DEC6F1C0DCEFFF92BF749A0E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24159732a2c3e95739b605acc405f0da566488878f6d5c897462fab8d20d830d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28ca132da2b8bc8dec6f1c0dcefff92bf749a0e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/FastBitmapDrawable.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-FastBitmapDrawable.java-859A73A63A52D95865AC38069988530775AFB710",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19c5ae69d730568f69dc421175ee98ecb5f5e0d775619b908666ea8ec9841bd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "859a73a63a52d95865ac38069988530775afb710"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/OverlayView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-OverlayView.java-D835BBE7A484F4B57F707DCE12B7F345B6BC0728",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d50af079be76092292e8f72919f6c8306ad7d4e595d862f417c47e577f6d1a1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d835bbe7a484f4b57f707dce12b7f345b6bc0728"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jni/com_yalantis_ucrop_task_BitmapCropTask.h",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jni-com-yalantis-ucrop-task-BitmapCropTask.h-CB58F098DAEE0D12DA9DFB021ECD00BB8684F134",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80a0a0527df3fe4cf537daace361d1e2da878c4636fd4e9f1df7d2a59d3857dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb58f098daee0d12da9dfb021ecd00bb8684f134"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/anim/ucrop_loader_circle_scale.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-anim-ucrop-loader-circle-scale.xml-61C5736151359847E16FEB8CA3BA4506B25B7DAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "04a72c837c4e4eec486664bda83b694dfaaca4cfe822667b3a93959126e053f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "61c5736151359847e16feb8ca3ba4506b25b7daa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_rotate.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-rotate.xml-E06F141182001B3FE3C22E1F8F372F89AB450C38",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e3ca39f15f81ceef92a6c8ad900b16c0fd868910407ba6805b08516c1a7efff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e06f141182001b3fe3c22e1f8f372f89ab450c38"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./preview.gif",
+      "SPDXID": "SPDXRef-File--preview.gif-521CFE7BB1BF128364F6A9E708478F3AD93C54BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "04303b4cdbae5719068de26eb38b661e76d4d99f720ee4dc6a5bd834b0c65a85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "521cfe7bb1bf128364f6a9e708478f3ad93c54bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-CBDE89B3209AFA662759630BE2F44F96144D4752",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e518b4b7c2afa6a97a022711583bb648cda9ec5cc44704a2ca25a1c8836ea339"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cbde89b3209afa662759630be2f44f96144d4752"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/develop",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-develop-AB7C50732BDD199CEEFA67AF77A83B2376DB56A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf798937686a3e3a213157911686bb422c83ea66d515d99360d7d2f47a92ccf4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab7c50732bdd199ceefa67af77a83b2376db56a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-67DC9EFE732303DDABC01C84ADBB10D8F3F79529",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "882bbd17faed136f31709babd0cfc60ea2f094aeb663bf62ba02997c232c8eae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67dc9efe732303ddabc01c84adbb10d8f3f79529"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/yalantis/ucrop/sample/SampleApp.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-SampleApp.java-18E329638183ABFA21B03A35F3A0B42CBB4CE69A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3153505f9092965630edd052b33150e58fb2f4191558baacd3f0a5df5f64c67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18e329638183abfa21b03a35f3a0b42cbb4ce69a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-1DB5367B6347BFB4AFA8BC91323E3C73DEEB0E7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "701b609a1496948798eaad03caea6a19e889436b39339b6637768e4ade51ccf2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1db5367b6347bfb4afa8bc91323e3c73deeb0e7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-fi/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-fi-strings.xml-F77BA3A85BDF95229B981AD60DFF7A05693F5A2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccf99d5262bbd0880a620acbf9107dddba8fb29e3a2e558ebc0f8639b3df5237"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f77ba3a85bdf95229b981ad60dff7a05693f5a2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-xxxhdpi/ucrop_ic_angle.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-xxxhdpi-ucrop-ic-angle.png-116F56D919744D2E90395E6D75A35C9388E5E193",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "400de3514b649a42e72c824a994ce6740ebb8c2e9d885ca681a8942584bba408"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "116f56d919744d2e90395e6d75a35c9388e5e193"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/themes.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-themes.xml-B33D14139A51DFB919F3A87748D912EC2A8D799F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e645436c1ec466e2f459669b961b05faca51ce49a912cd3feb82a4c76538c285"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b33d14139a51dfb919f3a87748d912ec2a8d799f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_vector_loader.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-vector-loader.xml-21E0FFC32201FC7EF6B01B93E1A0666A08844DA3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bd2d6780550b7eb90a48081418c87a064198af6cc69413ec8ce303a245f6c6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21e0ffc32201fc7ef6b01b93e1a0666a08844da3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/widget/HorizontalProgressWheelView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-widget-HorizontalProgressWheelView.java-910B4056670F35CAFC07E4079F39A74DF251E2C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9eb20dcb1065b121563ff550ae2bfd20c7912bb2f43a5ddcef7096b3a6a3c43"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "910b4056670f35cafc07e4079f39a74df251e2c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-ru/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-ru-strings.xml-2118834313F8E5A9C4C22AB172FD264DCF380FE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e58a540f74e877482613ceb76b66971f37ba34c26f251c955f622764599a4996"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2118834313f8e5a9c4c22ab172fd264dcf380fe5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-th/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-th-strings.xml-CF56B4941A0B1F86699FBAF8B48B2F4E7F2037CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9637787e6a75de27ed4cb3c4adc0823913319b1ecde80ea1c6dbf832b04d4a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf56b4941a0b1f86699fbaf8b48b2f4e7f2037cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_view.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-view.xml-582E291EFF7BD0772F24BD8BC184DA5D227CA7D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a2fe548a50a9b95ec90eaf33ca46186a4a09781d12a8453f4c268b81369eef4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "582e291eff7bd0772f24bd8bc184da5d227ca7d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-mdpi/ucrop_ic_done.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-mdpi-ucrop-ic-done.png-255DE802C99F1EB0E1E3B14CDA4A43F78E52274A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "259cb0eb1db91391d4963319c6903f464d1917a67df148fd44bd428a7325707e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "255de802c99f1eb0e1e3b14cda4a43f78e52274a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/values.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-values.xml-9816505A886839FBF010608494485440C58F13B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f75a50d2a5f9b4396fd82eb103ec41a1d3cc0b8f366b2014ea05dffab7470ade"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9816505a886839fbf010608494485440c58f13b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_aspect_ratio.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-aspect-ratio.xml-FECBEB69CAEBC1D5F050754D75544D6108B9AAB4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02da9910ef55ccdceec7ceb5c3ee61d66da869238327fd2a869a876b4a95a951"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fecbeb69caebc1d5f050754d75544d6108b9aab4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/UCropActivity.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropActivity.java-CC3DE4CF2586F8472926D99C2125AE71FB584995",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ff4e700397b8a002947b53e88995dc872377490450f25f1d3b91f3659ebffa56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc3de4cf2586f8472926d99c2125ae71fb584995"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-ja/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-ja-strings.xml-FBACC9F16E11C4944E625A860E50364FE3FE1DF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec11eca684108446e5d87f3d2e8979e9717f7d2296e079aeb50c18c942e9e7b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fbacc9f16e11c4944e625a860e50364fe3fe1df0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jniLibs/armeabi-v7a/libucrop.so",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jniLibs-armeabi-v7a-libucrop.so-CE7041F36B99989E524B4EE129FF2F0334AA5EB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d5767f6748494dd9a6a91160838d3d1019d7e64aa5f15ecf15cd15748a8cac0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce7041f36b99989e524b4ee129ff2f0334aa5eb1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-colors.xml-0BFA843B2EB0442ED91A2685740B68623C60413A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e98b7b8577099f8874dd1f4df83a5cce69ef84481b95e866f8eb3afe1ece55de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0bfa843b2eb0442ed91a2685740b68623c60413a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/model/AspectRatio.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-AspectRatio.java-25EF6C47F6C60618D512F17B0C8A572C55C93446",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8db7ad087bedb63d21f5f6491d86416cefa1be1dc16cbf1d460ab0019b3478ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25ef6c47f6c60618d512f17b0c8a572c55c93446"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-zh/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-zh-strings.xml-1AC82E71A0B2434C62667B03B40F67BD3D5ED9CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e6923078536eda42462b6c88aa675f9f365ba0ca47e81784bd6d4a0431518a4e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ac82e71a0b2434c62667b03b40f67bd3d5ed9cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_crop_unselected.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-crop-unselected.xml-ACC56A6B2B34505ACD5A31E9C5F8CEF8ABC1519D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d46ebb9cad427c11f9ef2eafa0482baf6c534ac9fccf332f8e98e3a462a9dba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acc56a6b2b34505acd5a31e9c5f8cef8abc1519d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-fa/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-fa-strings.xml-D47D97B5BA4D8E8A0F222260725F8BF0E6FF5B86",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "173e18564196c32b70409fae089cd85e5920b200cbbb6c1fad41c73a02871454"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d47d97b5ba4d8e8a0f222260725f8bf0e6ff5b86"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/EglUtils.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-EglUtils.java-7CFFCBD2EDBAFD54657462B87237905DFD948894",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66cc49bb337486840f1ba304f5047fb5931edb5bd7fdf7aca153107cae243fb8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7cffcbd2edbafd54657462b87237905dfd948894"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_rotate.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-rotate.xml-AB5D080DF51A616B82978B17CEF558490B4FDEC8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c434b30b4ebe59de65cbee330409e220ef3d516e51a371456471715244e85dd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab5d080df51a616b82978b17cef558490b4fdec8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-pt/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-pt-strings.xml-97AF7A3F8DA8D188F7B6F3C09A7B5C476A7B1064",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e870658b77a516fe4998c9ea2e8e4da1b06757e21d18a865ff97dc1115214556"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97af7a3f8da8d188f7b6f3c09a7b5c476a7b1064"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-hdpi/ucrop_ic_done.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-hdpi-ucrop-ic-done.png-EE113E4D3B348C9A8E4E835518E23C2FF6A0F674",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8beec255bb4bcab360a6ae6ac4b6534fb06fd63ce2606239ba8024e3e3a79aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee113e4d3b348c9a8e4e835518e23c2ff6a0f674"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/GestureCropImageView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-GestureCropImageView.java-54D721A33CABC1FD9A178AC8B1F2D29657258836",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba6a14721d1d3afcc9a5efb45206a8f8f4234a9044d36dd1c894cafb2079adba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "54d721a33cabc1fd9a178ac8b1f2d29657258836"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-xxhdpi/ucrop_ic_done.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-xxhdpi-ucrop-ic-done.png-E6A2F1439557E7AEBDC634FFB9CB3C08ED229008",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c42490b0426dc018b549fcf93a49c11a0559d8bd86c504bf8e45a4c25302a41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6a2f1439557e7aebdc634ffb9cb3c08ed229008"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_layout_scale_wheel.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-layout-scale-wheel.xml-495AA13DE60CB0D4D479099223E5806B5EE5FFA6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7970208bf1a3b5d5e837194e3cbe4107e7351e361951544826ae9a4df68bc757"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "495aa13de60cb0d4d479099223e5806b5ee5ffa6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-styles.xml-AC8A7EC1F09B9E8D367FB770BB4FE5F5786A899E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4b2dc857869132fa8d41eeca683553dcf3ac44c9dac9c51d7b05dd70dc39255"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac8a7ec1f09b9e8d367fb770bb4fe5f5786a899e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-it/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-it-strings.xml-C17410805741D3CAF6A3ACA9EF004E3CE4EC092A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5dd748e4977e17f21e6cac9dc1e62cddbbe15de2aa4dc25d151ba85e852c17d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c17410805741d3caf6a3aca9ef004e3ce4ec092a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-tr/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-tr-strings.xml-1FD694D7187E68DD0FAC8AB42556B333CAC8A69F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e22642189283b89cd60614088af874d6d24e7cff4d7fa5d6233f22158dc7cb26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fd694d7187e68dd0fac8ab42556b333cac8a69f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jni/CImg.h",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jni-CImg.h-1B82AADB3BF3EEFAD123E8B7FCCF304058A057D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "710422941dbdea2b9d3ab3bcb724c9c4b04a87733e2de160ed227b28392a3a84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b82aadb3bf3eefad123e8b7fccf304058a057d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/anim/ucrop_loader_circle_path.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-anim-ucrop-loader-circle-path.xml-2D60A38662355DAE60576607C7319AF62A2B104C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50fdef32f26782455e06329f59ef1a28173a7cb2c097cc95a85f383167637591"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d60a38662355dae60576607c7319af62a2b104c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-E614E3B2EDC63A9CC423437DEA087C91962254F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2b82129ab64751fd40437007bd2f7f2afb3c6e41a9198e628650b22d5824a14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e614e3b2edc63a9cc423437dea087c91962254f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_reset.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-reset.xml-4E827A98B756AA2345CAF3888F51D72A3107CD10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e25bbfd4839e2213efb09270d54e2696af29c3438cde263eb7edf1dc04fd702e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e827a98b756aa2345caf3888f51d72a3107cd10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_vector_ic_crop.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-vector-ic-crop.xml-8A9E510F4E428AAEA7400BA426B528EF339C21D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "024badb7fa6ca3e8223dd0830062229fd4a503e368af5abe8cd83ab9a33e9455"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a9e510f4e428aaea7400ba426b528ef339c21d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/yalantis/ucrop/sample/SampleActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-SampleActivity.java-4433DDF1356349B12E79723E1CAFA9EB080725C0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46bf7e3aa3f0b56ec45156d83172ca20aeff3dc155539708e5591fef19bfe9c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4433ddf1356349b12e79723e1cafa9eb080725c0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/menu/menu_result.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-menu-menu-result.xml-D8DFBD3B55A34F6E8A88CF88646BD2C548034BBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f64dc75d897850c25918bf09e2dbe8285c48d6edba808b93ba2d4a8a95b047ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8dfbd3b55a34f6e8a88cf88646bd2c548034bba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-mdpi/ucrop_ic_angle.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-mdpi-ucrop-ic-angle.png-F2907E78EA7846E4D8711C802477849AF3C6E145",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68f04a19b25bb76f09858feb1dc17af33608d0cde16982c8e96ab56d286484b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2907e78ea7846e4d8711c802477849af3c6e145"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_activity_photobox.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-activity-photobox.xml-A262D03E004B24EA2577C4EC8951DAA5385C742C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec0977bf1d57f60737c7de657202d9558b4095a1995bb7b518dff10323cd7696"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a262d03e004b24ea2577c4ec8951daa5385c742c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-strings.xml-494F79E7A50D9425BF44377685EB8E20C10B5A76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03a8150164b4b6b289fb746c3f0b8934bae9bcdab5849f87986be2c6a12a757f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "494f79e7a50d9425bf44377685eb8e20c10b5a76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/attrs.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-attrs.xml-34F11F3825600ACC1F8B364BD1E31483648F0318",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c41bbc77f4373b6848d982e5172ec7f449e60d228541997917d5043d73450849"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "34f11f3825600acc1f8b364bd1e31483648f0318"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/UCrop.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCrop.java-2BC9B05277790F91F1E445879952E5C8C386118E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b86e8fc0e794a38ed6bd9ff4e024609b10b3bd65fc36a569d6e2eeeaf22d29d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2bc9b05277790f91f1e445879952e5c8c386118e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-es/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-es-strings.xml-0FE88A7F905D418F3674E107D5D56DC5F7D648B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d28da03a0025fdf87581f7f95783eadbade891f6a9f2d3b4378b1ef5c15db3b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fe88a7f905d418f3674e107d5d56dc5f7d648b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-nl/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-nl-strings.xml-2EED71D4A1591494606CD090DF30932CFC859E07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afacfbcb64310c7f0425a1a9f1076c6aeb7eb61717238324d1bb6ad81fca0610"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2eed71d4a1591494606cd090df30932cfc859e07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/callback/OverlayViewChangeListener.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-OverlayViewChangeListener.java-C4927F7DBA1EBE85CF541346E12202C333D9EE12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "719f025d27893f635ee53ed93d56c4aa078fc61f56c144dbc696654d1c5ac0e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4927f7dba1ebe85cf541346e12202c333d9ee12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/CubicEasing.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-CubicEasing.java-856E85A2621E4F413C8B9F00C49B21A766968ED1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad85f41f569288a687db713c2b67377378bd940e828e7d4de7024e13cb4cb6b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "856e85a2621e4f413c8b9f00c49b21a766968ed1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/CropImageView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-CropImageView.java-56B752CBFC238CB550A6CE5326DCD42B6D7A8658",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81f8fbeebfb6ef1d3a7907278cb341b729b82b179f377f5e75595cc781dd051f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56b752cbfc238cb550a6ce5326dcd42b6d7a8658"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jni/Application.mk",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jni-Application.mk-3163F29A133851FF8FE6CED1AC5D64BFCB976606",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "412e14f03e928eb084918fb45f49142775757a3fdbf80ed1cfe582d9de1dbe51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3163f29a133851ff8fe6ced1ac5d64bfcb976606"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jniLibs/x86_64/libucrop.so",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jniLibs-x86-64-libucrop.so-BD70F85C67829AA5936320404681D28ACEA0E573",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6fabcc9ede4137c9592b3c71cfd63adc2f4afe6460cb8c0c2b4128c7608fe2d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd70f85c67829aa5936320404681d28acea0e573"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_next.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-next.xml-34AB170B7169552E051BA9F4525FF9BB103E829B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9365f8f8c5bb3356d5e7da977970edf79b39248c78ab7b8192a189f05917fa8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "34ab170b7169552e051ba9f4525ff9bb103e829b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_shadow_upside.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-shadow-upside.xml-528EFA6FA528EA0A8BFFFD54D99FBABF65A1B085",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a862cd58f224354bbb7db06523fb970fc24299b97eea8ffb793cc9622b7eaca3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "528efa6fa528ea0a8bfffd54d99fbabf65a1b085"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-ldpi/ucrop_ic_done.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ldpi-ucrop-ic-done.png-53558344AC98C17655E9D16B0A4256D3C5DB3E25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed80e007580fa47b5d4f1d46d791a6f3fbc957ccd284d5c0338d67b6fba72427"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53558344ac98c17655e9d16b0a4256d3c5db3e25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-xxxhdpi/ucrop_ic_done.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-xxxhdpi-ucrop-ic-done.png-8453BF7CA678E16F383457157C0C99D1BE9EB321",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac5f95234cb7b3f5c0c50c8b522654aadef8e7efbdc15651355133cdddc80851"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8453bf7ca678e16f383457157c0c99d1be9eb321"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/menu/ucrop_menu_activity.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-menu-ucrop-menu-activity.xml-7E80F8FF151B532E2077E3AC930A745E95201B7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb4f11c5230ced577686b46f799cfeb8017685d0c32ae9a512ba8da74a1cee0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e80f8ff151b532e2077e3ac930a745e95201b7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-de/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-de-strings.xml-53BF88180909161F3279F6A5DB9C3558BD9E82B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b4c8fd8334e2876b0c0bd16905c45d15ce260c0e0a18452e18a29334a63c628"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53bf88180909161f3279f6a5db9c3558bd9e82b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-ko/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-ko-strings.xml-A7028B477AEAAB13C1579DF6857A5071C400E13C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af10a96ef91994b36d4300055a326eecf7b7274a5d7d4685879949471f8cd9c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7028b477aeaab13c1579df6857a5071c400e13c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-zh-rTW/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-zh-rTW-strings.xml-9090280A78111611DFC60B645D9CB0EA56351AAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60af70292be35a49a4d7966b25a7bf99e22a85c4e63d007e3a9891e783aad456"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9090280a78111611dfc60b645d9cb0ea56351aac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-8a30a50e64b2d33bb3cb73a7102739fdd1382c84.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-8a30a50e64b2d33bb3cb73a7102739fdd1382c84.pack-7501F3E6337D2A229D095A29D357231DC6C6A7F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "854b2e45ef39c5c8088c4b541af01fdd38d9b7d15e68c56499e243240fb31454"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7501f3e6337d2a229d095a29d357231dc6c6a7f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--sample-proguard-rules.pro-7992784792A2315A994358A22F7594C120A2CAA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5581fef00737c5c7aba4c8cd32f05dc06245f3bb5998e1d15fe4b18636f4910b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7992784792a2315a994358a22f7594c120a2caa9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/ic_file_download.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-ic-file-download.xml-8DBA44E8C12E5D5A6041FF642E62605A8B783D69",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31e382fc8863c5825ca3218ac5d9c77708512e1a763b32996d8a4bb7447bc6f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8dba44e8c12e5d5a6041ff642e62605a8b783d69"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-A9549F3E50B4E64A43718E76399DD85F06DA8CAF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3db351eafbf80c721630f7777ad6f69a9d95a673a96fb7261287d1ea1823e007"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9549f3e50b4e64a43718e76399dd85f06da8caf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/build.gradle",
+      "SPDXID": "SPDXRef-File--ucrop-build.gradle-16281833E6FC1FC72C0743B579FFF9EF2CC35F4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b6c3e9ff3c41c83dec869a5cbaa420e51f32e0b6d00da3f697fa9c5a13c445e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16281833e6fc1fc72c0743b579fff9ef2cc35f4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/UCropHttpClientStore.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropHttpClientStore.java-448F49137B04EC8B0341A4EDC38AD391BC13DDC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad640781375647b031d187423d4ef5f362663af0eb30010ae8f16ce6a96f64f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "448f49137b04ec8b0341a4edc38ad391bc13ddc5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/model/ImageState.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-ImageState.java-E9D1F46A75525A3E5E6F2248C76F91E4BBC9B943",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2e6f54fb428dbd3f7a0445f0411cac4281f6dad6da61e4f1b097cd0526a6b99"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9d1f46a75525a3e5e6f2248c76f91e4bbc9b943"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/util/ImageHeaderParser.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-ImageHeaderParser.java-6FD7E6ADD6AFF53F65F60993D5E7E25C73CA6F32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d24825fc72a13f35353336709bb920885b1028cc01e1801ff50a222f71283b71"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6fd7e6add6aff53f65f60993d5e7e25c73ca6f32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/java/com/yalantis/ucrop/view/UCropView.java",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-UCropView.java-DADA0696D45D2BB4B74A6F14E53F871BF0B186F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6114a9217d7c5a66252e075561ec584f6e5de4e7eb78e7eb5adc420d7848a0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dada0696d45d2bb4b74a6f14e53f871bf0b186f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/jniLibs/arm64-v8a/libucrop.so",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-jniLibs-arm64-v8a-libucrop.so-0D112917B511EA65C030A8C48D0B624B364FF7C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a4fcf83f28c26fd2f54b0e44c2a75ee0104c764315d0945043e3385797150ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d112917b511ea65c030a8c48d0b624b364ff7c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_crop.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-crop.xml-0FAB36A2576E8B2AA037A61C167B26B857C9A3D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9d47dd72eba7e5d9630c1a9a2367774d6a3d19807e426420669da5dc08106a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fab36a2576e8b2aa037a61c167b26b857c9a3d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_ic_scale.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-scale.xml-C03C531F78934D7F6534FE9E80469856AB821AB8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96f977fbe84e16faa3692c314ca1db73603a2c0595cefe7bc4d235884ea9f7a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c03c531f78934d7f6534fe9e80469856ab821ab8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable/ucrop_wrapper_controls_shape.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-wrapper-controls-shape.xml-4874095447773683963B872D89A2D0BA1B95E918",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1890af0930da16a71ad81f53a1f266093bbab4857ac92b06179c9411b881e017"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4874095447773683963b872d89a2d0ba1b95e918"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/drawable-xhdpi/ucrop_ic_done.png",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-drawable-xhdpi-ucrop-ic-done.png-B3702CE26558F9C83BF214C6AC86D7AA7A25EDDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59a14c110d04b12387d18328e78dfe0deb2303d7a76a6607b6b31d1263a04fc3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3702ce26558f9c83bf214c6ac86d7aa7a25eddd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/layout/ucrop_fragment_photobox.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-layout-ucrop-fragment-photobox.xml-9C1F2B7A2CE9C926BD1F7DF1B9E36AADB2A55475",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47fb71ddd0a1acbe3111edffd257e39b0536fed9f8aed3fd4699583b83a700b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c1f2b7a2ce9c926bd1f7df1b9e36aadb2a55475"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values/public.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-public.xml-F4636F63E2B092E4AC7ED2BDB6A98FAAD158D9AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cefb18c0303ab30f8edcaceae1563bb6aaf5d000118d17301bf67db0cec7bd4a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f4636f63e2b092e4ac7ed2bdb6a98faad158d9ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-fr/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-fr-strings.xml-2D66680B00E042A7866F88F2111FFCA2470D2F33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b7091a46c66db5eead8d1cea53e93137931594488593e78eff85120cb73dd68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d66680b00e042a7866f88f2111ffca2470d2f33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ucrop/src/main/res/values-sk/strings.xml",
+      "SPDXID": "SPDXRef-File--ucrop-src-main-res-values-sk-strings.xml-52EA6F00DCDE1C1EBEE389C5728F2D1A8D719CAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d815211178fe1c62dd8b915645ee602cb833c61f7ed729f95f299149d69824e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52ea6f00dcde1c1ebee389c5728f2d1a8d719cab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "uCrop",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "4a430b20657d7e49e7ef911fe65d3d220ee99dc8"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.2.8-native",
+      "supplier": "Organization: https://github.com/Yalantis/uCrop",
+      "hasFiles": [
+        "SPDXRef-File--ucrop-src-main-res-values-sk-strings.xml-52EA6F00DCDE1C1EBEE389C5728F2D1A8D719CAB",
+        "SPDXRef-File--ucrop-src-main-res-values-zh-rTW-strings.xml-9090280A78111611DFC60B645D9CB0EA56351AAC",
+        "SPDXRef-File--ucrop-src-main-res-drawable-xhdpi-ucrop-ic-done.png-B3702CE26558F9C83BF214C6AC86D7AA7A25EDDD",
+        "SPDXRef-File--ucrop-src-main-jniLibs-arm64-v8a-libucrop.so-0D112917B511EA65C030A8C48D0B624B364FF7C8",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-ImageHeaderParser.java-6FD7E6ADD6AFF53F65F60993D5E7E25C73CA6F32",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropHttpClientStore.java-448F49137B04EC8B0341A4EDC38AD391BC13DDC5",
+        "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-A9549F3E50B4E64A43718E76399DD85F06DA8CAF",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ldpi-ucrop-ic-done.png-53558344AC98C17655E9D16B0A4256D3C5DB3E25",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-shadow-upside.xml-528EFA6FA528EA0A8BFFFD54D99FBABF65A1B085",
+        "SPDXRef-File--ucrop-src-main-jniLibs-x86-64-libucrop.so-BD70F85C67829AA5936320404681D28ACEA0E573",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-OverlayViewChangeListener.java-C4927F7DBA1EBE85CF541346E12202C333D9EE12",
+        "SPDXRef-File--ucrop-src-main-res-values-fr-strings.xml-2D66680B00E042A7866F88F2111FFCA2470D2F33",
+        "SPDXRef-File--ucrop-src-main-res-values-public.xml-F4636F63E2B092E4AC7ED2BDB6A98FAAD158D9AD",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-fragment-photobox.xml-9C1F2B7A2CE9C926BD1F7DF1B9E36AADB2A55475",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-wrapper-controls-shape.xml-4874095447773683963B872D89A2D0BA1B95E918",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-scale.xml-C03C531F78934D7F6534FE9E80469856AB821AB8",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-crop.xml-0FAB36A2576E8B2AA037A61C167B26B857C9A3D0",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-ImageState.java-E9D1F46A75525A3E5E6F2248C76F91E4BBC9B943",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-reset.xml-4E827A98B756AA2345CAF3888F51D72A3107CD10",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-GestureCropImageView.java-54D721A33CABC1FD9A178AC8B1F2D29657258836",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-next.xml-34AB170B7169552E051BA9F4525FF9BB103E829B",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-CubicEasing.java-856E85A2621E4F413C8B9F00C49B21A766968ED1",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCrop.java-2BC9B05277790F91F1E445879952E5C8C386118E",
+        "SPDXRef-File--ucrop-src-main-res-values-attrs.xml-34F11F3825600ACC1F8B364BD1E31483648F0318",
+        "SPDXRef-File--sample-src-main-res-values-strings.xml-494F79E7A50D9425BF44377685EB8E20C10B5A76",
+        "SPDXRef-File--ucrop-src-main-res-values-zh-strings.xml-1AC82E71A0B2434C62667B03B40F67BD3D5ED9CF",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-AspectRatio.java-25EF6C47F6C60618D512F17B0C8A572C55C93446",
+        "SPDXRef-File--.git-objects-pack-pack-8a30a50e64b2d33bb3cb73a7102739fdd1382c84.pack-7501F3E6337D2A229D095A29D357231DC6C6A7F1",
+        "SPDXRef-File--ucrop-src-main-res-values-es-strings.xml-0FE88A7F905D418F3674E107D5D56DC5F7D648B6",
+        "SPDXRef-File--ucrop-src-main-res-values-pt-strings.xml-97AF7A3F8DA8D188F7B6F3C09A7B5C476A7B1064",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-EglUtils.java-7CFFCBD2EDBAFD54657462B87237905DFD948894",
+        "SPDXRef-File--ucrop-src-main-jniLibs-armeabi-v7a-libucrop.so-CE7041F36B99989E524B4EE129FF2F0334AA5EB1",
+        "SPDXRef-File--ucrop-src-main-res-values-ja-strings.xml-FBACC9F16E11C4944E625A860E50364FE3FE1DF0",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-aspect-ratio.xml-FECBEB69CAEBC1D5F050754D75544D6108B9AAB4",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-UCropView.java-DADA0696D45D2BB4B74A6F14E53F871BF0B186F3",
+        "SPDXRef-File--sample-src-main-res-drawable-ic-file-download.xml-8DBA44E8C12E5D5A6041FF642E62605A8B783D69",
+        "SPDXRef-File--ucrop-src-main-res-values-ko-strings.xml-A7028B477AEAAB13C1579DF6857A5071C400E13C",
+        "SPDXRef-File--ucrop-src-main-res-values-de-strings.xml-53BF88180909161F3279F6A5DB9C3558BD9E82B3",
+        "SPDXRef-File--ucrop-src-main-res-menu-ucrop-menu-activity.xml-7E80F8FF151B532E2077E3AC930A745E95201B7E",
+        "SPDXRef-File--ucrop-src-main-res-drawable-xxxhdpi-ucrop-ic-done.png-8453BF7CA678E16F383457157C0C99D1BE9EB321",
+        "SPDXRef-File--ucrop-src-main-jni-Application.mk-3163F29A133851FF8FE6CED1AC5D64BFCB976606",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-CropImageView.java-56B752CBFC238CB550A6CE5326DCD42B6D7A8658",
+        "SPDXRef-File--ucrop-src-main-res-values-nl-strings.xml-2EED71D4A1591494606CD090DF30932CFC859E07",
+        "SPDXRef-File--sample-src-main-res-menu-menu-result.xml-D8DFBD3B55A34F6E8A88CF88646BD2C548034BBA",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-vector-ic-crop.xml-8A9E510F4E428AAEA7400BA426B528EF339C21D1",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-E614E3B2EDC63A9CC423437DEA087C91962254F5",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-layout-scale-wheel.xml-495AA13DE60CB0D4D479099223E5806B5EE5FFA6",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-crop-unselected.xml-ACC56A6B2B34505ACD5A31E9C5F8CEF8ABC1519D",
+        "SPDXRef-File--ucrop-src-main-res-values-colors.xml-0BFA843B2EB0442ED91A2685740B68623C60413A",
+        "SPDXRef-File--ucrop-src-main-res-values-values.xml-9816505A886839FBF010608494485440C58F13B5",
+        "SPDXRef-File--ucrop-src-main-res-values-th-strings.xml-CF56B4941A0B1F86699FBAF8B48B2F4E7F2037CD",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-vector-loader.xml-21E0FFC32201FC7EF6B01B93E1A0666A08844DA3",
+        "SPDXRef-File--ucrop-src-main-res-drawable-xxxhdpi-ucrop-ic-angle.png-116F56D919744D2E90395E6D75A35C9388E5E193",
+        "SPDXRef-File--ucrop-src-main-res-drawable-mdpi-ucrop-ic-angle.png-F2907E78EA7846E4D8711C802477849AF3C6E145",
+        "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-SampleActivity.java-4433DDF1356349B12E79723E1CAFA9EB080725C0",
+        "SPDXRef-File--ucrop-src-main-res-values-it-strings.xml-C17410805741D3CAF6A3ACA9EF004E3CE4EC092A",
+        "SPDXRef-File--ucrop-src-main-res-values-styles.xml-AC8A7EC1F09B9E8D367FB770BB4FE5F5786A899E",
+        "SPDXRef-File--ucrop-src-main-res-drawable-xxhdpi-ucrop-ic-done.png-E6A2F1439557E7AEBDC634FFB9CB3C08ED229008",
+        "SPDXRef-File--ucrop-src-main-res-drawable-hdpi-ucrop-ic-done.png-EE113E4D3B348C9A8E4E835518E23C2FF6A0F674",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-rotate.xml-AB5D080DF51A616B82978B17CEF558490B4FDEC8",
+        "SPDXRef-File--ucrop-src-main-res-values-fa-strings.xml-D47D97B5BA4D8E8A0F222260725F8BF0E6FF5B86",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropActivity.java-CC3DE4CF2586F8472926D99C2125AE71FB584995",
+        "SPDXRef-File--ucrop-src-main-res-drawable-mdpi-ucrop-ic-done.png-255DE802C99F1EB0E1E3B14CDA4A43F78E52274A",
+        "SPDXRef-File--ucrop-src-main-res-values-ru-strings.xml-2118834313F8E5A9C4C22AB172FD264DCF380FE5",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-widget-HorizontalProgressWheelView.java-910B4056670F35CAFC07E4079F39A74DF251E2C1",
+        "SPDXRef-File--sample-src-main-res-values-themes.xml-B33D14139A51DFB919F3A87748D912EC2A8D799F",
+        "SPDXRef-File--ucrop-src-main-res-values-fi-strings.xml-F77BA3A85BDF95229B981AD60DFF7A05693F5A2B",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-view.xml-582E291EFF7BD0772F24BD8BC184DA5D227CA7D9",
+        "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-1DB5367B6347BFB4AFA8BC91323E3C73DEEB0E7F",
+        "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-SampleApp.java-18E329638183ABFA21B03A35F3A0B42CBB4CE69A",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-67DC9EFE732303DDABC01C84ADBB10D8F3F79529",
+        "SPDXRef-File--.git-logs-refs-heads-develop-AB7C50732BDD199CEEFA67AF77A83B2376DB56A6",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-CBDE89B3209AFA662759630BE2F44F96144D4752",
+        "SPDXRef-File--preview.gif-521CFE7BB1BF128364F6A9E708478F3AD93C54BB",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-rotate.xml-E06F141182001B3FE3C22E1F8F372F89AB450C38",
+        "SPDXRef-File--ucrop-src-main-res-anim-ucrop-loader-circle-scale.xml-61C5736151359847E16FEB8CA3BA4506B25B7DAA",
+        "SPDXRef-File--ucrop-src-main-jni-com-yalantis-ucrop-task-BitmapCropTask.h-CB58F098DAEE0D12DA9DFB021ECD00BB8684F134",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-OverlayView.java-D835BBE7A484F4B57F707DCE12B7F345B6BC0728",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-FastBitmapDrawable.java-859A73A63A52D95865AC38069988530775AFB710",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-CropParameters.java-28CA132DA2B8BC8DEC6F1C0DCEFFF92BF749A0E9",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropFragment.java-4A0969B3F458E6A7BB168AD299866D5393220BE1",
+        "SPDXRef-File--sample-src-main-res-xml-file-provider-paths.xml-09A48B7E54FEFE3E61EC336C73B0D64A233E4953",
+        "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-C0EF131167662A6AB033AD42818217B758B8B056",
+        "SPDXRef-File--sample-src-main-res-drawable-bg-rounded-rectangle.xml-E93F3F9F87986C07581C282282B97084F1C38199",
+        "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-AB7C50732BDD199CEEFA67AF77A83B2376DB56A6",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--preview.png-F70ED268495DDB28951B33ACEA749C8176740359",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ldpi-ucrop-ic-angle.png-4A732387AAC3C6CF40DC27131293048B12B569CB",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-scale.xml-64F7628E435F1BBF7D728D587859F0A87A891BC9",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-cross.xml-6169A1F7FE337AB7D241EE34BF55B3E656ADC6ED",
+        "SPDXRef-File--ucrop-src-main-jniLibs-x86-libucrop.so-82825D93DC5582B784C9D238100FA189A2A056C8",
+        "SPDXRef-File--ucrop-src-main-jni-Android.mk-9F5FE6FA597A31240BD84CD09C7416E0682B0475",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-SelectedStateListDrawable.java-78530F259E4CB5E167715A02E6764A77E19F6253",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-BitmapLoadUtils.java-2654DEBF5FC44DB25A86917F47FFADF12B3E358E",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-CropBoundsChangeListener.java-227C2A9680EFF3AEF0B3B0D0A603EE4A56BD4EED",
+        "SPDXRef-File--ucrop-src-main-AndroidManifest.xml-FD53C4134E98A931D9D7BC5E7C87211C52DADE46",
+        "SPDXRef-File--sample-src-main-res-values-dimens.xml-201ABD4C49A2F76A43426ECC08C762E68484EDC4",
+        "SPDXRef-File--sample-src-main-res-layout-include-settings.xml-45BC5B91175E746A6D470C2CBE997398815B6A9E",
+        "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-ResultActivity.java-B7448FE5B7768268DB8988D5BAA09D0E6F2B791B",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE.md-F2812CCEFA82208AEC4200BE1F19DFFCAD7E2B1B",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-DD8E8826088C2A83B5EBE1E83FA0AA5F0ED56F98",
+        "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+        "SPDXRef-File--ucrop-src-main-res-values-dimens.xml-DFDF941C09E8502B6624D5D95B39AB9F17901B31",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-controls.xml-23CC844D07C42B0CD6C4AFDB53B6E0CC67074512",
+        "SPDXRef-File--ucrop-src-main-res-drawable-xhdpi-ucrop-ic-angle.png-F0DB4B55F4A5BB8B6436E8A15CD177AD665BB35F",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-vector-loader-animated.xml-F640F909CA0E2071F347F281C0E80E7032EEAEC2",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-rotate-unselected.xml-E7D4E5D6F3DFD00CE27E2D6ABF0C093161665EFC",
+        "SPDXRef-File--ucrop-src-main-res-color-ucrop-scale-text-view-selector.xml-50D8B24A1279404CA6EF073690432EFF50ABD3C9",
+        "SPDXRef-File--ucrop-src-main-jni-uCrop.cpp-DFB3FD55DAD2D450FAC2FD0FA79F7E81295DD72A",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-TransformImageView.java-5ECC422866684A8C84C528EC065BA58CFEBC465B",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-FileUtils.java-B5FFDAA4EDFFA4FEE136FD41BD41E789F3C6C9D4",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-model-ExifInfo.java-02A4A48A9BE358A89DD3AB7264F08E61EF018527",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-UCropFragmentCallback.java-B4E1A8022093EAE0047964AC0E38508466AD5221",
+        "SPDXRef-File--ucrop-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-5FFD89EB42F100C8233FAF25B1DD27A1D0306F57",
+        "SPDXRef-File--sample-src-main-res-drawable-ic-done.xml-2A85C1E1C0C34BB4E53922CEFA620078DE0FDD63",
+        "SPDXRef-File--sample-build.gradle-CDDC933E1B438973BF159B98ABAA0CA7CDD9E167",
+        "SPDXRef-File--.git-objects-pack-pack-8a30a50e64b2d33bb3cb73a7102739fdd1382c84.idx-3DF346F4982BE4A17FC17E750B84C65CF48B91AA",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-C505B57C506E9E0C4C5F6EC439A5FAE3AB4032DC",
+        "SPDXRef-File--.git-logs-HEAD-AB7C50732BDD199CEEFA67AF77A83B2376DB56A6",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-6E71BA11D32259F81DFA1C9B4D112A3D82639CF4",
+        "SPDXRef-File--ucrop-src-main-res-values-in-strings.xml-64E27C54D0BCBBB43290D2301CBDECA334F21E27",
+        "SPDXRef-File--ucrop-src-main-res-values-strings.xml-B6A366CA3AB2073231734E0B6A308AB7A7F63807",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-layout-rotate-wheel.xml-69EB9E5A7E13A385F7A30E83F370595E75E50381",
+        "SPDXRef-File--ucrop-src-main-res-drawable-xxhdpi-ucrop-ic-angle.png-5F132C87DD60E1F68C2D721D0E8370605CF34BA8",
+        "SPDXRef-File--ucrop-src-main-res-drawable-hdpi-ucrop-ic-angle.png-72A415351C2265FD6927BEAC987A430D0622C346",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-scale-unselected.xml-4EA30C1CCADB2C481B8DAAA89F66A969D0C7F716",
+        "SPDXRef-File--ucrop-src-main-res-drawable-ucrop-ic-crop.xml-B14CC2F989E2DC715E259693190F34ED38C7023B",
+        "SPDXRef-File--ucrop-src-main-jniLibs-armeabi-libucrop.so-EDA5F32747CBB0A2475485FDD040AA43C191A303",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-view-widget-AspectRatioTextView.java-D25D8456112D4C104A64F4ED9C8AAEAF2748642D",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-RectUtils.java-FC346F710B7E8CE228A223A5571194B5B74B4513",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-task-BitmapCropTask.java-480B524D3A90421D900BB75A436832F17EA6731E",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-BitmapCropCallback.java-3EAE2FDD3B7B298D8412C72BCE81CAADD114C85F",
+        "SPDXRef-File--ucrop-gradle.properties-5B2806F8F1E282025EF363AB5C6B484CEC2E7640",
+        "SPDXRef-File--sample-src-main-res-mipmap-xxxhdpi-ic-launcher.png-0BC176228EFB199E165BEF3E77A9C188DA3CEE97",
+        "SPDXRef-File--sample-src-main-res-layout-activity-result.xml-CA63219EF72BC514F42B360090C769CA0A8BFA5C",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-B4D3AC7A0E38F4BE466D0CCFF718ADDBC91B3E0A",
+        "SPDXRef-File--.git-refs-heads-develop-A2781A9483080963B72D44C22C75B9F7BC1212E3",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-056D4DB20010F5D34C9C049583A2A9FDBD855A47",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-63E9663242A34C33F8DB19ACA40371086E505AF0",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-util-RotationGestureDetector.java-FF67C01EE01AB7034F0743B14435339C851A19E9",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-task-BitmapLoadTask.java-382E535325E6D5F2ABDBBFD9C16D72E3DF28863B",
+        "SPDXRef-File--ucrop-src-main-java-com-yalantis-ucrop-callback-BitmapLoadCallback.java-DA3F097AC3617F84CF3258C49F35A17F7C7C3FDA",
+        "SPDXRef-File--ucrop-proguard-rules.pro-7992784792A2315A994358A22F7594C120A2CAA9",
+        "SPDXRef-File--sample-src-main-res-values-colors.xml-A82806729EA1D96BFEC62B7E60661CD426748E67",
+        "SPDXRef-File--sample-src-main-res-layout-activity-sample.xml-E698FF48A7E30963FBCF37B2391D93968A0A4219",
+        "SPDXRef-File--sample-src-main-java-com-yalantis-ucrop-sample-BaseActivity.java-3CECAB489F9D80E8BE09086E5B5867656318934D",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-CB587AC979C5A12EA2FAD8CA5AF781961C1B0668",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--ucrop-build.gradle-16281833E6FC1FC72C0743B579FFF9EF2CC35F4F",
+        "SPDXRef-File--sample-proguard-rules.pro-7992784792A2315A994358A22F7594C120A2CAA9",
+        "SPDXRef-File--ucrop-src-main-res-layout-ucrop-activity-photobox.xml-A262D03E004B24EA2577C4EC8951DAA5385C742C",
+        "SPDXRef-File--ucrop-src-main-res-anim-ucrop-loader-circle-path.xml-2D60A38662355DAE60576607C7319AF62A2B104C",
+        "SPDXRef-File--ucrop-src-main-jni-CImg.h-1B82AADB3BF3EEFAD123E8B7FCCF304058A057D1",
+        "SPDXRef-File--ucrop-src-main-res-values-tr-strings.xml-1FD694D7187E68DD0FAC8AB42556B333CAC8A69F",
+        "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+        "SPDXRef-File--mavenpush.gradle-5B1F20EE2AC95AC835F883B25233402C52053DD0",
+        "SPDXRef-File--.gitattributes-1A80BEE4922E3930366930253D54B626E997AD78",
+        "SPDXRef-File--.gitignore-ACC018F438A61EDBF494505D2478150A094DCADA",
+        "SPDXRef-File--build.gradle-507DB91108FB26A3B7E297B2D1665888A947B48C",
+        "SPDXRef-File--gradle.properties-8BEBAD8B79229FA80D4CDDF18E59CC769F6EBA4A"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "uCrop 2.2.8-native",
+  "documentNamespace": "https://uCrop.yalantis.com/uCrop/2.2.8-native/AyR32ldsL0m6bli3n4zBNQ",
+  "creationInfo": {
+    "created": "2022-09-20T16:45:41Z",
+    "creators": [
+      "Organization: https://github.com/Yalantis/uCrop",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

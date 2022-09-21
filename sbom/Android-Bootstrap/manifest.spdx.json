@@ -1,0 +1,3408 @@
+{
+  "files": [
+    {
+      "fileName": "./circle.yml",
+      "SPDXID": "SPDXRef-File--circle.yml-49C46963B0A2DB88C88A0CC4159831BE3E5C2DE9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c83a213217c27e72cb924b271ed483b232f8ce96d30e34c5a55373b8c3462195"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49c46963b0a2db88c88a0cc4159831be3e5c2de9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-2B61BDF174C7E8994CC72BE9438F13464F76F22C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "83ac075a485264e3ef1b94dd9984a5968db819d0cf0380e286dbc19ada8179a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b61bdf174c7e8994cc72be9438f13464f76f22c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-B87477F80D0E9B4AB3BD01FE4AE6CCE33D977B28",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e26d3412066e149f8fc88767dc9fd186761b7e40ab6b9444adc302631ac4e01"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b87477f80d0e9b4ab3bd01fe4ae6cce33d977b28"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-D19C194C350A198EAE2661E0AB98518EC3592883",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7582cd13248590ed254f652d16a6bea56090aab249cfcbef74a5367ac364f911"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d19c194c350a198eae2661e0ab98518ec3592883"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-5BF78F2744B03079F66B47BD15480B2B6F997306",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ab3ff211f4bfc2d61062a4c28c7f78dd29891e51bc34ad4e64bfe99a40478ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5bf78f2744b03079f66b47bd15480b2b6f997306"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-CA555218CFD2247FBD9ED5FD5FBA66D8D2CA2380",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed2d0bb882a33f94a5bdcf37bf21364a94903b35d9cc78f9fc0d2e7277a35483"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca555218cfd2247fbd9ed5fd5fba66d8d2ca2380"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ADD_FONT.md",
+      "SPDXID": "SPDXRef-File--ADD-FONT.md-041102E3BC8364717D19F0024B7604F71381C5B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25aecf0ff19ed4fb0a525a668f86fb6162e9a8d91099bb5fc00009ee44367cb0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "041102e3bc8364717d19f0024b7604f71381c5b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf68b95a4029e352fe1ee002bb367ac1b686f9ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-F0667547F7D0FFA2EDBB811EDE0EAC5FFFBCFE6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79949ac95ec0d86f7b3be71545878007075c2d52e60be596f3bdda11d5b7288f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0667547f7d0ffa2edbb811ede0eac5fffbcfe6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-6B5C17F494677344CC7136817318F8BC7AEF8EA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8311e9e666fde1368365990d5a72566b2d9706d1fd73e59084c293457e65c3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b5c17f494677344cc7136817318f8bc7aef8ea8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/proguard-project.txt",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-proguard-project.txt-87A189515A2DF10A1EFDA8B6AD445569DFA20BE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de725d9a2a6cc4d00d2490d17eb277abb160551e0df617e3129e8589da32e0c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87a189515a2df10a1efda8b6ad445569dfa20be1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapAlert.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapAlert.java-367119F6BF15FACFA2A6E271300279E81EE1B816",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9aba76e971bcd57baeba78a8f125088ee851db757a8fae40c1e5dc561675e426"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "367119f6bf15facfa2a6e271300279e81ee1b816"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapEditText.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapEditText.java-C79959AB78212B81F10943CF686DFB6A7872C5BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43b07f9782227455dd988dda15d375caa7acd37efb0a913878c304fe69712eeb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c79959ab78212b81f10943cf686dfb6a7872c5bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/IconResolver.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-IconResolver.java-B3A03D2AAC5C26A4BCFC03DFD9249B0494557FD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbf6c66c922e55cea16a1e8abe6242f619f218199d9aae945698e118c2529b22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3a03d2aac5c26a4bcfc03dfd9249b0494557fd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/defaults/DefaultBootstrapSize.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-DefaultBootstrapSize.java-8FA814BB43DAFA63E9A6BFB833913867DB7D0994",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88ce29da98fabe2eb23506f7aa6014ec096291af3f817633d1006d065955e086"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8fa814bb43dafa63e9a6bfb833913867db7d0994"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BorderView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BorderView.java-800044760F079956882DA0A28E97AE5ABF317A82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e730997f1f0ccf83635c0ce91801446b3781cb952c1db140c60f85ca8524e3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "800044760f079956882da0a28e97ae5abf317a82"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/font/MaterialIcons.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-MaterialIcons.java-826E0B2540BCDEEDA46FF70C4E7F986797F810D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96f23146b158b55efe106cbb9b95a4e7f241da9c06e263b3fee1cfd3b1873cb3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "826e0b2540bcdeeda46ff70c4e7f986797f810d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/res/values/attrs_materialIcon.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs-materialIcon.xml-84DEBB6190F36D810C3B038FCC95ADEF89974B43",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88e7a863f188624b3541b1de42063afc3a2e049c09203e89601a2312fbc45c50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84debb6190f36d810c3b038fcc95adef89974b43"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_button_group.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-button-group.png-3A3E51B8D5DE3C9B1540CFA013DF9E537FB22097",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71dbcd812b2526171f8fd7ae4f15578f88acd3d5eeff19e1098cab39cda560ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a3e51b8d5de3c9b1540cfa013df9e537fb22097"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_well.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-well.png-FE2C2780FB55D79A52A918681B3A715C770A797A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f45a8773ee276aff3c5ba6862a08bec2cb69bdc28fdfe914c38be90ef610d9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe2c2780fb55d79a52a918681b3a715c770a797a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapBadgeExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapBadgeExample.java-4104F3902CE5DBC9F6B997391D85A1738ED55A9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca058b4a804f668d180940ec71b4486dbb3ceaebcff270d0d7ab0160e4228aae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4104f3902ce5dbc9f6b997391d85a1738ed55a9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/build.gradle",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-build.gradle-F18A3755807C0BE43A4BA083DCA0BEAF01E3B2AA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecc4028bbb17154ecccc54da4e5958c74e56e407f717b5529a913832b37d1e52"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f18a3755807c0be43a4ba083dca0beaf01e3b2aa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BetaApi.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BetaApi.java-52AC3BD4DFF0E94DFB37C2D7F542694B73CC1905",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd244c1d6ab4ba59c9bc796a1d986163819395fec2e31a914811d16b352c795c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52ac3bd4dff0e94dfb37c2d7f542694b73cc1905"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapDropDown.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapDropDown.java-854E62B5163FDE4E452062E5731666706DA96022",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e97d4f17f49693098b693f83bb5c227a74e838a15a11a744d733af52fb2ae3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "854e62b5163fde4e452062e5731666706da96022"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapWell.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapWell.java-BC75347E4CBECE61FEE582F0DBC959E8576ADAB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74e2d8833fed252383bb0cd9eb19687a53b8b4e6d083ffdc8758b65724fa125e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc75347e4cbece61fee582f0dbc959e8576adab7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/defaults/DefaultBootstrapHeading.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-DefaultBootstrapHeading.java-3ACD06AF6A476008ACA89090664E01281C7D96BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9465d9734db672258bc9b029bd44fd733d76449d38f044cbef271a63b2450f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3acd06af6a476008aca89090664e01281c7d96ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BootstrapTextView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapTextView.java-7C2D66D5E2BF3B33EE432FBF6EA9254313574F0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5cca0c48e4c0572a254adf5756ba13d9afbc515077e0cb441e28fc5067eadb0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c2d66d5e2bf3b33ee432fbf6ea9254313574f0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/font/IconSet.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-IconSet.java-1F5B47CD402D0EF25EE4E954A9387155C2A949B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63fe2f1d33ad5f6b6586c60b2c0116737c2ffcebe3b6874296347297f92da0ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f5b47cd402d0ef25ee4e954a9387155c2a949b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/res/values/attrs_font_awesome.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs-font-awesome.xml-B77028CEF6FBA88334A58E5BA9DE52F25142F06F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccbac64d8b790ea59b6afc0acbac8437ca5e8ae44c32d8f2c3dc22c6c14bc2ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b77028cef6fba88334a58e5ba9de52f25142f06f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_button.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-button.png-3E85F99134B29B4699A73BE4DDC963F58E1055A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56b5f59e5f05bd036279e3bcd703e5538b2e2483d1d3a904cf9e15934bda8b3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e85f99134b29b4699a73be4ddc963f58e1055a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_thumbnail.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-thumbnail.png-A331579D2CFD57A5994FC784D7722F7525A37922",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e6d3dc575c10c09ff5114ae4c74e047f8d12e4bb95779007a5cb5cf8adea665c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a331579d2cfd57a5994fc784d7722f7525a37922"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapAlertExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapAlertExample.java-09BE27A317AABD5AFCF5579DD86C006162964216",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6225592d9ba4dbbb51bb669e0c15953d1bcd5e0709d3750d3febc79d09771444"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09be27a317aabd5afcf5579dd86c006162964216"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapProgressBarExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapProgressBarExample.java-5B59AA43D9E1E9A6A2D1749CEAA8E116B406007A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b1d5841c0f1c74e020d9e9103895f058be85b7a30d23cca5ef21a1723a55f28"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b59aa43d9e1e9a6a2d1749ceaa8e116b406007a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/author.jpeg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-author.jpeg-0CC570DE75AE499F9C068138E3ABD0C9F4AB645E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a629709e7e8d03636e62faf64a54aa2c38c34ecba38deb0ef439a9a143289c32"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0cc570de75ae499f9c068138e3abd0c9f4ab645e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/portrait_image.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-portrait-image.png-DEC5E4B3AE8DF87E6DD792EB3DD74A0AABC7AE74",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7742418d64ab58bbb9c80999324ee1e237492dc828427a3f1ab710f217ba7c24"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dec5e4b3ae8df87e6dd792eb3dd74a0aabc7ae74"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_button.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-button.xml-0EA7865053BA5FE4BF98DCE5781828CBC4D791D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "247114a00285bbd9ab8d3f5daef005b49530f82881a1392e079a9367855781bd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ea7865053ba5fe4bf98dce5781828cbc4d791d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_thumbnail.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-thumbnail.xml-05D579ADDF5A7ECFDFA2C8CB86492B3048570837",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57ac222d98ad621a746b6f5b950a071fb0fa1fe5d5e092067f78b8d1ef609080"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05d579addf5a7ecfdfa2c8cb86492b3048570837"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-431A0174036E0AF9FBD20B79BAB6F3874E2F663E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "787f1c8e5c0ab970eb08a51fbdba6175d48d724ed3d1855e8c3a31603e31e9aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "431a0174036e0af9fbd20b79bab6f3874e2f663e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-6B5C17F494677344CC7136817318F8BC7AEF8EA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8311e9e666fde1368365990d5a72566b2d9706d1fd73e59084c293457e65c3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b5c17f494677344cc7136817318f8bc7aef8ea8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/push.gradle",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-push.gradle-D52D75F53357FC0FAC23E1CD9B6752A1FB7C994F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fef61560e24681ef473cbc563398dad94165ccf68c791e786b217120ca26f2ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d52d75f53357fc0fac23e1cd9b6752a1fb7c994f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapBadge.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapBadge.java-4789710B38570827989997F67EA348EF95E82543",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4b425900f90788c92ee13dfdacd2f3523a9695cb8ca22cfbe5252cc16bf668f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4789710b38570827989997f67ea348ef95e82543"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapGroup.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapGroup.java-B097681B10FA178E792B0892FED4ABCC79D4DD98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dffbbac48a641f283c75d6510083079303bc1e01417081cb43c3774374b2ad3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b097681b10fa178e792b0892fed4abcc79d4dd98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/TypefaceProvider.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-TypefaceProvider.java-A7EDA76B707BCB1F4A10CEB74B01E96BD178AB70",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46ced2507483d5da89e75ba06a7ba6b0bb3520c40e4b3557c50227e2f9fe6367"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7eda76b707bcb1f4a10ceb74b01e96bd178ab70"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/defaults/ExpandDirection.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-ExpandDirection.java-B4BDEE75BB580D1090908BB76C5004CF66330021",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "980ce9d0f7d053f84441d73b1c08ae1fdced62c4c6f2f6d4281b5a026a4bc529"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4bdee75bb580d1090908bb76c5004cf66330021"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/ButtonModeView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-ButtonModeView.java-3ACCAC8FB7AFB2E7101896D3BA7DCFD88D9E1188",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "087df89ffe62b2cf9c0f90cd7011fecd983a20e8bb7afebf942b2cb34c0bb996"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3accac8fb7afb2e7101896d3ba7dcfd88d9e1188"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/font/Typicon.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-Typicon.java-D5D532259CF2C0E63241DA4EAEBC5D5F972F4B95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5c4678e81be9194955164cd3cb5595fc3d1c64d3d12ff8c48c64a2cb5dd1816"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5d532259cf2c0e63241da4eaebc5d5f972f4b95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/res/values/attrs_typicons.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs-typicons.xml-BBC63A876EFC3A9472A53EC021235B354D3A623E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "402cf05cf9f2c7cf45398f95459d10b3c4ef4f9d69630037108b7c8f047560f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbc63a876efc3a9472a53ec021235b354d3a623e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_circle_thumbnail.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-circle-thumbnail.png-682F5464D972C263FD92465CFFFB5A43AFFE36F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7643f3d3f6b706e43f60c9f7d671aa3ea99fbc354e8085469aa6949fac4065b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "682f5464d972c263fd92465cfffb5a43affe36f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/.gitignore",
+      "SPDXID": "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/AwesomeTextView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-AwesomeTextView.java-B11E779C17A587DCDEEF9D4248039CFEDC2C8B03",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85f8dcd9845b41408618a5c5d7e3a4bc2236bb29ea95729b86a537627659a3d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b11e779c17a587dcdeef9d4248039cfedc2c8b03"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapDrawableFactory.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapDrawableFactory.java-50103A8EAAC9759D4E16531597CA13264BDC2B8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a78640a7b585a31befdc8d05bf69be554727033507d50cd147a5de1419cf0bbb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50103a8eaac9759d4e16531597ca13264bdc2b8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapThumbnail.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapThumbnail.java-9F6A47B5250BB368DCB6077CB4608866C176BD3D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9849e183afd46e4d02be96a2e9373f4d12b398c1addac8af455ae805de1bff78"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f6a47b5250bb368dcb6077cb4608866c176bd3d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/defaults/DefaultBootstrapBrand.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-DefaultBootstrapBrand.java-A29A451F48621B9D3481B5721EA1D4D2A4A52D94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "704b264510076b1d58ca032773898408a9e3bc5e9e1b0258cff2c1a1c1ee43cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a29a451f48621b9d3481b5721ea1d4d2a4a52d94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BootstrapSizeView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapSizeView.java-3F31E6E1C30363ACB9DD9115F6B6213C7E0B64CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b5e97c5727475c0ca1e7e0e58fc7cc73207cf8a7bb768a8e47070d0538a203f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f31e6e1c30363acb9dd9115f6b6213c7e0b64ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/font/FontAwesome.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-FontAwesome.java-A66918CF4F36F3240E40A2AE67DAEDA6C302BAB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a2708b5c5bd2bf71a4c72a5fb799fe2c9afb9589c6be14b0551c5572736a19e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a66918cf4f36f3240e40a2ae67daeda6c302bab1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/res/values/attrs.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs.xml-94E0C919715A51D4D30142B106FA940B9EAF2235",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "874b8ff71ba66af4f19e51b251266bd75b275c153523348971b09d64bc566e4a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94e0c919715a51d4d30142b106fa940b9eaf2235"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/awesome_text_view.png",
+      "SPDXID": "SPDXRef-File--images-awesome-text-view.png-B5CC2A4739788A366EE728CFE94AB39AC3AD20EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f96348a4fd73fc16b9236d590047aa671750a8831534c19776844e1d9cda4d7b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5cc2a4739788a366ee728cfe94ab39ac3ad20ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_progress_bar_group.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-progress-bar-group.png-188EE49B6A388A1ACDABCC13934EF295DC8A9729",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2cd487be5c8f1325720a1d2d5d879088197c8f78d577f193d2de72668abe2fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "188ee49b6a388a1acdabcc13934ef295dc8a9729"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BaseActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BaseActivity.java-B4FA876779F0FD2DBB392184B4F3548779816A97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26c90b4171997ad9cee9a95f9babd4d25c94960377a40d1fa77e55655d384276"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4fa876779f0fd2dbb392184b4f3548779816a97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-2AB70E833A50603BBBC82C49F4938CF064D1F0E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a98a194700adb89c473b3cd52b18160b5ec884e6a41cd6fc1a478f85728cd734"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ab70e833a50603bbbc82c49f4938cf064d1f0e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-40048b0b3488f9e2754ee9a16d448bfffab598d2.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-40048b0b3488f9e2754ee9a16d448bfffab598d2.idx-E2413A27BB521A0B7EEF1A602EDF3C24A9626D50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88ff2764b705cb56e2cdc09e6cdf481a0420251a39df00314cf437e265a51861"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2413a27bb521a0b7eef1a602edf3c24a9626d50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/assets/fontawesome-webfont-v470.ttf",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-assets-fontawesome-webfont-v470.ttf-13B1EAB65A983C7A73BC7997C479D66943F7C6CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapButton.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapButton.java-BC1156EC7B05F706CAB5C2C801C481BC0187CADF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1fc3f2f8dda734031c297cbeb55784f3471b12d79cdb7dd5710f5deb378109b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc1156ec7b05f706cab5c2c801c481bc0187cadf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapProgressBar.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapProgressBar.java-FC083F987E000DC31BE981B46B5A3DFA66F35EBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4dddfd0ef7e28aa6fde77b5dfa9997b66682e28e17046dc3d7271822a665709"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc083f987e000dc31be981b46b5a3dfa66f35eba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/attributes/BootstrapHeading.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-attributes-BootstrapHeading.java-8D493B8736E40058E4FC972DE52EBD5C15E0DD98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb8c3f531974099eb39a757e6fe67c1c023ad304b845b394b6f52de32d1b74df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d493b8736e40058e4fc972de52ebd5c15e0dd98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BootstrapBadgeView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapBadgeView.java-5D64BC35BD17794CAAE6CCD8B28DB7B3EDA496B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "477a911e5335982bface92c418ac0d1d5fa2448afadd969fe3e2b727bb39f4c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d64bc35bd17794caae6ccd8b28db7b3eda496b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/ProgressView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-ProgressView.java-C407BFEBD318D14F1E29F9E9648654C2E2ACEB22",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4817c398d61ba47e199677851e1f603a3996c80f0708ea5dd20df913ea056847"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c407bfebd318d14f1e29f9e9648654c2e2aceb22"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/utils/DimenUtils.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-DimenUtils.java-EE7B4B06F292B3BE64BDE7AAB8C012FD3DB47910",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e442ed613b9d85075fa41c5252f7e35fc1337087186def72cc44c28f1f683da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee7b4b06f292b3be64bde7aab8c012fd3db47910"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-res-values-dimens.xml-97A84A84CEE8D0C02A03EC329E5C3A76C6CF1F47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28bd2d0880c3c2372af331a02a55e70c8b36eac6d27fdce8742abb7d6fffb974"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97a84a84cee8d0c02a03ec329e5c3a76c6cf1f47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_edit_text.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-edit-text.png-EAB72A1772683B8E51A2724D2EBAEAA379E7E3E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a3d9ae8e13b06eafd0840633357c6b3faa780a0974441d0a3283221bace1e07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eab72a1772683b8e51a2724d2ebaeaa379e7e3e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--sample-proguard-rules.pro-029DF7EF962DC4EDADDD69E7781316B8A5D4D66B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d124e30bf9363a37a86e735b74523d8a33f985faf87706010be434759907d383"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "029df7ef962dc4edaddd69e7781316b8a5d4d66b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapCircleThumbnailExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapCircleThumbnailExample.java-FC2EE07EBCCCED2819FCB58CAB323FBA9C22F532",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71731607d3dfd6241a048c155a3099d60c9fc0e328f939da26a61f51223739a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc2ee07ebccced2819fcb58cab323fba9c22f532"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/CustomBootstrapStyle.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-CustomBootstrapStyle.java-0274990651C00F5ABBE26B1B968FA97D4CC636B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96f335a166dc6df526f87ac7f02ff7c4f0821b1e56ddc6180de018771c7ae143"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0274990651c00f5abbe26b1b968fa97d4cc636b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/flower.jpg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-flower.jpg-CD3CDAF21D63425F7A02DEE4D3BB77A7190384DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "426682fc508d6ab030bfef27f41265a744a81e8f8824c588fd9dcc7e36b43485"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd3cdaf21d63425f7a02dee4d3bb77a7190384db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-E9F2C196177C4ACB66D63735AFC9BDEA67D37F9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2043b13256019c3a2c82261881da04f82429dd9a065eafd6da4799eb4f180c81"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9f2c196177c4acb66d63735afc9bdea67d37f9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_edit_text_view.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-edit-text-view.xml-8D1B5F17C712E20AE956C9A9FA6A07C8D0CCFAF9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ded2e4c1c6f1c2717ae222cc2fd09f948ed46d524e3d813d4ea057476021184f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d1b5f17c712e20ae956c9a9fa6a07c8d0ccfaf9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-5B4617E7490070CF8BD7442D04A699FB91DA58F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b3c78adc733855165738248602abcf170c6d6be004006c48a8c93666f5f5b58e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b4617e7490070cf8bd7442d04a699fb91da58f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-D279183F458FE966807F6C1872A9B53A19F6CD37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "016c7a95f9429b8a90f362f2c7dca01bef58363c2353e8d23617431b7785445d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d279183f458fe966807f6c1872a9b53a19f6cd37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-E6DFD9B59E5E5F4F625202034DBCD059F4F69991",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa31adca046c0b3c32c954cfedd24dc82417575996dee7bf522f960a5784e554"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6dfd9b59e5e5f4f625202034dbcd059f4f69991"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/assets/typicons-v207.ttf",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-assets-typicons-v207.ttf-2DC9A89BCBE7CC129BD6BD924F6D03FE4310F04E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91935ab8b9cd9252a73fb300a898a321a2d71f5cfda3e3ec8216a372a878505b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2dc9a89bcbe7cc129bd6bd924f6d03fe4310f04e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapCircleThumbnail.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapCircleThumbnail.java-D591F7493B1F077B995F50A7F4D991C124DF7CBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "196b344e1d20214a7f1c50098ec879e5c42b235660fb216896ba6517f4289d98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d591f7493b1f077b995f50a7f4d991c124df7cba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapText.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapText.java-FA56249B5234B5AC8E28ED6DE5B6FA5C2950C84B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca04baa1e0f5cc0bba3913e7562215a362c3a09700783a24e634d3d63b8a59be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa56249b5234b5ac8e28ed6de5b6fa5c2950c84b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/defaults/ButtonMode.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-ButtonMode.java-D5FAE203E85C41E89AC628A08C07BE703D8DD36E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ac7b6122dd7de5ef31719eb9c14309d159c55306aadb1dafef32fca9cb109a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5fae203e85c41e89ac628a08c07be703d8dd36e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BootstrapHeadingView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapHeadingView.java-86B483A14A3A03297D7E4708D463C1E150D0640A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b80c2ddf9faa3bf763bacc04c298d58ec52bd01f29db081f0976332dd22a421e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "86b483a14a3a03297d7e4708d463c1e150d0640a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/font/AwesomeTypefaceSpan.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-AwesomeTypefaceSpan.java-F6B1BB7D87C6885A91581EF501312CACAE151A90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66519c28b507c5d88df0bbcc03ba5170b6eaa851942c9020e05db844ba40c08b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6b1bb7d87c6885a91581ef501312cacae151a90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/utils/ViewUtils.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-ViewUtils.java-452E61D25447B82A07D62C1F665A46D6A3E712F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eaa1406a777fc4e49f848b739e1a487a002f8c3df3e24d6f6e230743b39944bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "452e61d25447b82a07d62c1f665a46d6a3e712f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-AAAB361A15D71F7F1107A05F51CA41CA1CD2C8BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0dd08fd48ecd0ce80219f09362548145fd2be28f05c596f8cf6090cfa9079b48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aaab361a15d71f7f1107a05f51ca41ca1cd2c8bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_progress_bar.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-progress-bar.png-25921DAC89F890812989B3239CF9E4C240D89D44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea59e3d76a2ccaeb70a4a58f34935c6610dad5ba54a5c4f8c6f80274e04a1d4e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25921dac89f890812989b3239cf9e4c240d89d44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/AwesomeTextViewExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-AwesomeTextViewExample.java-358D99D2D621FBC8E2FAD7B326422CE542257968",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c376de1240a10f9dfa7642db35939232bfc795134f0349f20580abf2a5239a57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "358d99d2d621fbc8e2fad7b326422ce542257968"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapEditTextExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapEditTextExample.java-B7A91FFDCBA271C98775747BD7DE58DA7D5AAD01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49b81c3c69083bf8c1e14caeae74b90a6e8f645684332f19be9be4ac2554b7ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b7a91ffdcba271c98775747bd7de58da7d5aad01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/SampleApplication.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-SampleApplication.java-D7E5EAA40FA1F9DC3D9123E9D73DF825DE880FAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f921ad09b5af0b4c828b8f6a7c02e69df6c1e69d89de1529c02a264ff97eb272"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7e5eaa40fa1f9dc3d9123e9d73df825de880fab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/landscape_image.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-landscape-image.png-D62E81667F29B396578F38A56D4FAD0207618387",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3661e9aef3f5959bd8df3fd76777027d6f912c9b4b8e3f0eb2dfe6151b618f2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d62e81667f29b396578f38a56d4fad0207618387"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./TODO.md",
+      "SPDXID": "SPDXRef-File--TODO.md-AFE472CE5444ADF54B0B0BBF189C4F56F474B751",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "732b3952e62533b5e61ef899ab7ca1f2f8502029f2921e96ae87d2414a727db2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afe472ce5444adf54b0b0bbf189c4f56f474b751"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-F7C399084EECB3F8EAAA6821F187EF96980CED5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ba3aedfd48fa9f63679570ccf1767a157a7ea606abd7260fe679b28c479e8c7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f7c399084eecb3f8eaaa6821f187ef96980ced5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-6B5C17F494677344CC7136817318F8BC7AEF8EA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8311e9e666fde1368365990d5a72566b2d9706d1fd73e59084c293457e65c3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b5c17f494677344cc7136817318f8bc7aef8ea8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-AndroidManifest.xml-8CD80DFEB97C49ED5F000E18FDB8678D7EB1FDEB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e86ca949a3d469757a10d1ccdc8fcc09126d4a4420f5b7b41041aace8e9b824"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cd80dfeb97c49ed5f000e18fdb8678d7eb1fdeb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapBaseThumbnail.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapBaseThumbnail.java-4B23D24CD8D303176AF1077CB7AF115B01CA127F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6eef803266c55276248bec20e50ce41f5bd0105c3f6b97df7a83af1bde656e26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b23d24cd8d303176af1077cb7af115b01ca127f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapLabel.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapLabel.java-D653F33EF6798A6938D537F2AA1A619B45C6E227",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5bd8ba35844d2279e64d77bd2775b7422bf979fbd31275cdfe31d66c8121bbb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d653f33ef6798a6938d537f2aa1a619b45c6e227"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/attributes/BootstrapBrand.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-attributes-BootstrapBrand.java-444B4004ECD777B71D5AB8D527FA07927A89AD58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e5b50aaf0da0b453be79e496bde0cd2d023d8bb5d3d1435fc2c223879e923a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "444b4004ecd777b71d5ab8d527fa07927a89ad58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BadgeContainerView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BadgeContainerView.java-33902B74506491426439449A85B2C7F0F0F233BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8da2cc3786335c8e0cd2522232cdb5be270fbdf57475b8521fc2a33cf2f11f84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33902b74506491426439449a85b2c7f0f0f233bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/OutlineableView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-OutlineableView.java-C5D3B53F6A16724F49495545E1487F162A45638D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c92d75729b379e683db6d451d2f766448d9477b5b814186c3803a1ffe1e8a33a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5d3b53f6a16724f49495545e1487f162a45638d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/utils/ColorUtils.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-ColorUtils.java-5CF6D89AB1DFAD84A88F378AFDA12B041DBEF111",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3cd23ca74f98adcda150bde4b42427cd0d752ecb1103726119efb8ef335c1da7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cf6d89ab1dfad84a88f378afda12b041dbef111"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-res-values-colors.xml-2FE7713A9E6F9DAA57B0B62409CE90A7165F720A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "064c6dfe950fb73ceb0184d38381b860a18854df674b4657d9cf199020c4e200"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fe7713a9e6f9daa57b0b62409ce90a7165f720a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_dropdown.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-dropdown.png-4AACCFC8092F1A5EFC1CE2CDE4F8F9731F9A2E13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34d4cc8985129ab01643e332b46b7764ed439e353e727f0887c01441dac9d79b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4aaccfc8092f1a5efc1ce2cde4f8f9731f9a2e13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-63EA2FE753A87F5B4CA6E8012D2FF8175529BADA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "139368f934addbc0c8d5fc8422c4757756bb2e86e9891d6308ff1465321bfd0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63ea2fe753a87f5b4ca6e8012d2ff8175529bada"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapButtonGroupExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapButtonGroupExample.java-4C899661E174DA3C0DAB2C7355594CE6162AC6F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9650be46c0b5dc2779bb705efc66ecdd8531f8abe2805ca0fab00bcb5a43de6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c899661e174da3c0dab2c7355594ce6162ac6f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapWellExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapWellExample.java-E3771E9ACA1B5C0583DF849E383B786CEC8296F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1340e582f318bbfb24aad3f0c285fdf8c1d2ec043be331e1b2e7e615017e35eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3771e9aca1b5c0583df849e383b786cec8296f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/daffodil_large.jpg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-daffodil-large.jpg-E0B923BE3E0C0C25F70FD3D4293F2A4FC33246D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "177c44aba98b8f08c64992622300810e3c4f113b4d5da597240d47df937c4fa4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0b923be3e0c0c25f70fd3d4293f2a4fc33246d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_base.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-base.xml-1ADDA60F6B59BF87B32F1DCE59C8745FD14EAFBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd1bb8dbcd873ac85e4a07bb82824a3724392230a30a53d8def7d6ede41407e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1adda60f6b59bf87b32f1dce59c8745fd14eafbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapLabelExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapLabelExample.java-29ABBE0654EB3B6AA4BA99BEC40F2ADD96B03F6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f3f65d59cac492f50ef790edbaab6ca3132254f347693bb0b848a7fb3c057a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29abbe0654eb3b6aa4ba99bec40f2add96b03f6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_dropdown.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-dropdown.xml-3CDB05FFB25F9A855A514D8E2115BBCECB6E186A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b623fd8f3494d20a44a1d95647b3977d7765f9ffb2f0cf59d293554cda46c2ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3cdb05ffb25f9a855a514d8e2115bbcecb6e186a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapProgressBarGroupExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapProgressBarGroupExample.java-224903E79888E75DB2FCA0E5E8B3D250C5ECDE1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f95b6c9795d72c7eb74f1e301ea7844ef8137f37a5bc6edc88ed53b92840549f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "224903e79888e75db2fca0e5e8b3d250c5ecde1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_alert.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-alert.xml-9479270B11353EA89EE2F20EE73BD3F145A45F9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "33a1d8e7a7560b2079f344eed1682ab58c08f6d82a0b5817f5b1401a885719d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9479270b11353ea89ee2f20ee73bd3f145a45f9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/alpha.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-alpha.png-EC3CC924E5A58B12A809AE8E323D2B1CAB292763",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad585dba1e6be5df3f11f1414d51fff4d75855f470ea4a1229f4c184cdeda475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec3cc924e5a58b12a809ae8e323d2b1cab292763"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-dimens.xml-0EE57F81C540061FB79EF7AEC6533E9A2642CF99",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4156b398b90b3aa0f74f28665b012d3420d77304bcb084a17142cbc2d856e1b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ee57f81c540061fb79ef7aec6533e9a2642cf99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-0ACC7E6E36F1E8F02191FEE5436A73280739CE8F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b84f46d77399a4326eca2a1f9137b9ad4010c27777d7ce0daac7693751b88e78"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0acc7e6e36f1e8f02191fee5436a73280739ce8f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/perfect_square.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-perfect-square.png-0F01B0AC1B99F9C8BE6DACD1949B93CB9EFDFF94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5be419d1412d99b6c69e16f8caabe20328077d35963399e065840e0ff5595761"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f01b0ac1b99f9c8be6dacd1949b93cb9efdff94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/author_small.jpeg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-author-small.jpeg-F0876529194597FB514CCFC20DC60B7549FEDDDB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "782474c1a677f64a8b454ba4dd670999dcf241aa3752b6af8dcd955b4cf8ecda"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0876529194597fb514ccfc20dc60b7549fedddb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapButtonExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapButtonExample.java-50BE1B2695C1A1E8B1DB8FB73E424A086609D167",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9aceb56962ed6a9d58a8b0fda30fc08f72dde89f7c8cfd0f024d6e02b55ddbb8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50be1b2695c1a1e8b1db8fb73e424a086609d167"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_progress_bar.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-progress-bar.xml-11EE607233C0099707B3ABB8357BE7F284027CF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "958d1893a2c3f630a5f19f9010e84c40d4f724162d3230544646cde6bb5229ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11ee607233c0099707b3abb8357be7f284027cf7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxxhdpi-ic-launcher.png-AFAF76D973A11299331AF83D0EFBC251DFBF1748",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2becf000895b34ad9538297c2d1968aa9397d4b46eaf5b13f27a6aa76f2ca3b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afaf76d973a11299331af83d0efbc251dfbf1748"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/small_daffodils.jpeg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-small-daffodils.jpeg-C32B27EFD63E0B33087294CB32B557EF6C778866",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ed628c9264b62ff30decc914dc48a4001ec77a25c5a9dc3850f69ec95d71f5d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c32b27efd63e0b33087294cb32b557ef6c778866"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_badge.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-badge.xml-09F63C277673D54E22726F778C35D97DF56399E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3808a41d4e71026794d2f2024f45186e301c9b6f646372e798a3bdda3bfb7ca3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09f63c277673d54e22726f778c35d97df56399e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapThumbnailExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapThumbnailExample.java-0FE10985DE63E31DA4282A1B71CDEA310EA184F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e32a8b5bc9bc7a543abb0e44b30c36c659a302e3d63c02e33ef3283553593020"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fe10985de63e31da4282a1b71cdea310ea184f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_progress_bar_group.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-progress-bar-group.xml-15784E367C72EC137D87F34258698E51909294B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef3d78d36b5cc9cad6bfbc395246429d4247784614ad31e6a28a39b8d5f08fbc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15784e367c72ec137d87f34258698e51909294b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/caterpillar.jpg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-caterpillar.jpg-36CB6408B8FCA5DE85313F4D0FE484FB80DF1141",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89f1bc909a9713243c98efdfa41b109160afa6b6305c5879f66a672772b60a0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36cb6408b8fca5de85313f4d0fe484fb80df1141"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_button_group.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-button-group.xml-156BA3755E713083D9B3C028580C89EAA3D5A33B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a053ffd64d46332a6272c6fa8a590e95bfd2c9e14b0f00e7e12ff36bd8e3800"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "156ba3755e713083d9b3c028580c89eaa3d5a33b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-colors.xml-3C2C0999B4742B818CAC483CC7A1BBEBED4853DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "024f0050fe4ab54df1137fde32e27a4e30a897ed5754c2fc29490aeb1d4b508e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c2c0999b4742b818cac483cc7a1bbebed4853dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/stars.jpg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-stars.jpg-079385193CF550454C3ECC60D0F8BA2970F3A5AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d4b33dbf1e2b9ca2d9ed91066715524577b9bfa112ba57f59b5c5ed9e357b29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "079385193cf550454c3ecc60d0f8ba2970f3a5ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_well.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-well.xml-D9AF1AFA53A0A2D1F4000B4C9F8091F280EA398D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "acb87a76c25663c5b2d6ada8ee55ac473f3969579e467905d0a149016d3b5020"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9af1afa53a0a2d1f4000b4c9f8091f280ea398d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-strings.xml-C4013645ACAF78F74C49F38F7CED33D91B18BE30",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f14779f25ef4be5bfbc5c220b560f62372e5b3fe880f69de9c0332166d7ee7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4013645acaf78f74c49f38f7ced33d91b18be30"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_circle_thumbnail.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-circle-thumbnail.xml-02C00D05B4F641053403650EF6ACE08FBE4761B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "586b79424bc1a7cd7e8c93f00e210d2903f78a734cfadb62c5fca903f39f410e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02c00d05b4f641053403650ef6ace08fbe4761b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-00058B016A2913000F0E252366C73CF310569E96",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78b5be344ad43d72c6785e692bdb19a854b14039ab1252d65c246152fa763f8c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "00058b016a2913000f0e252366c73cf310569e96"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-styles.xml-90D3A5616557DC15ED9AD451FFEA05742E4156EB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c05736b8afcd48d80dabea8f9917478c7f526c71b437177532c99d8c58e3d04"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "90d3a5616557dc15ed9ad451ffea05742e4156eb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-40048b0b3488f9e2754ee9a16d448bfffab598d2.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-40048b0b3488f9e2754ee9a16d448bfffab598d2.pack-43965C04B2C59EFF13C648A8DEA7CDFF421E62D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e87bf3542b943250b31df2609c35179a2fe8a335f9d481965a9c0eba2c2f3ea6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43965c04b2c59eff13c648a8dea7cdff421e62d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/assets/MaterialIcons-Regular.ttf",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-assets-MaterialIcons-Regular.ttf-FC05DE31234E0090F7DDC28CE1B23AF4026CB1DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7f4a3ab562048f28dd1fa691601bc43363a61d0f876d16d8316c52e4f32d696"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc05de31234e0090f7ddc28ce1b23af4026cb1da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapButtonGroup.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapButtonGroup.java-29E06D0EAED5EAAB02C79A45DA0DB915B26DEB1D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c819565cb1ca0d5e19e76c8f7c4296b75bb1927b3f7b509de750036343c9fb56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29e06d0eaed5eaab02c79a45da0db915b26deb1d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/BootstrapProgressBarGroup.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapProgressBarGroup.java-6440D5A66D075F6F14110A45078E4DBADE386C86",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac1d3e68cf13c91d9bdc530c754d866c07fbaca7649be20135088d4a93cc5c88"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6440d5a66d075f6f14110a45078e4dbade386c86"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/attributes/ViewGroupPosition.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-attributes-ViewGroupPosition.java-098C3E170927130994E531D02C210B1CFCDA3038",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1da11c9f474d63ce701b710349f477575387b4b9be352af50d2c828f4c3a336d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "098c3e170927130994e531d02c210b1cfcda3038"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/BootstrapBrandView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapBrandView.java-187AFF7F522294398DCB0DCB2153F6E293408822",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0fa62100b7b585fed6a33a032ccf0a22a80db091ffbd755800cbeba9a058f52"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "187aff7f522294398dcb0dcb2153f6e293408822"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/api/view/RoundableView.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-RoundableView.java-81A3D0B5911F34F7AADA9C788F9B854BE2E6D2AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e03f63520e87db6014fe2fde3568f1a6ef35be15602f08471fc04b670b29a628"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81a3d0b5911f34f7aada9c788f9b854be2e6d2ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AndroidBootstrap/src/main/java/com/beardedhen/androidbootstrap/utils/DrawableUtils.java",
+      "SPDXID": "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-DrawableUtils.java-CF36E9E0DCFF443D6C0F3D657597F50118E9C9B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a3880776dc3e2f42553193946d72e1ba190b373c4bb697b75ff8323fe95d50f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf36e9e0dcff443d6c0f3d657597f50118e9c9b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-92D0B85FB15EC7CA7AA72EAAB4D5F7FAAC9297D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16caeaf66d57a0d1d2087fef6a97efa62de8da69afa5b908f40db35afc4342da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "92d0b85fb15ec7ca7aa72eaab4d5f7faac9297d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./images/bootstrap_label.png",
+      "SPDXID": "SPDXRef-File--images-bootstrap-label.png-544D2A116C744D7E0D188DB99B117048D29EE5F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e43492247f062966878cb2d6854327855286c4ce57803d70fadb6f63f469a7c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "544d2a116c744d7e0d188db99b117048d29ee5f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-28F56DBB0F82E513A16F9C084DFB4244899FA597",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e53c48ca85275fba9a08e096c106c44fe71f8b184fa69777b45d57027853253"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28f56dbb0f82e513a16f9c084dfb4244899fa597"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/BootstrapDropDownExample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapDropDownExample.java-85C4F98B34B809550FF64F2BB0798CC846744DBB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef21d6dc80fe46e6bc9decf2d86ddafcfa3fad367eae5e56b56704d237a84abd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "85c4f98b34b809550ff64f2bb0798cc846744dbb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/fractalwrench/androidbootstrap/sample/HomeActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-HomeActivity.java-DAB6FF7AA7804F8F48A0BFD04BD04063A941ADDA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e349010ebd213c221edab24a604ed3e2762039e37255582f2cec94aa54278024"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dab6ff7aa7804f8f48a0bfd04bd04063a941adda"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/ladybird.jpg",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-ladybird.jpg-7185324C8B66472693B23ED68717AB8321E2EFA5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "769493fadb305a7a8014b53528d243c238c6471d33b700b23a347ed7b66c0719"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7185324c8b66472693b23ed68717ab8321e2efa5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_awesome_text_view.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-awesome-text-view.xml-425E45D348666303AC6D979E562D94E3560ADE2A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afb8dde3bcfebe6114f9b91e4536eb2edccb6c7dea0c2480ec3a62a4d8fa83af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "425e45d348666303ac6d979e562d94e3560ade2a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/example_bootstrap_label.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-label.xml-8A0CBDDA8486E356AB2B28DCB43CAE163013A373",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80f3b26ccd96c32ae080efdaa1a6be57cc112a07261914fdb03e9dc457b1acce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a0cbdda8486e356ab2b28dcb43cae163013a373"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-6D1D871BAF73B44FA56B496BFE1AF65020370A8A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75e11ce31ec53e845f52d2d0af682c72ee76dea8f8af5cdd78fc0e2ece95c023"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d1d871baf73b44fa56b496bfe1af65020370a8a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Android-Bootstrap",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "182cba26be11ec65b21c230c113d5e21290c61de"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.3.1",
+      "supplier": "Organization: https://github.com/Bearded-Hen/Android-Bootstrap",
+      "hasFiles": [
+        "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-6D1D871BAF73B44FA56B496BFE1AF65020370A8A",
+        "SPDXRef-File--sample-src-main-res-values-styles.xml-90D3A5616557DC15ED9AD451FFEA05742E4156EB",
+        "SPDXRef-File--sample-src-main-res-drawable-ladybird.jpg-7185324C8B66472693B23ED68717AB8321E2EFA5",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapBrandView.java-187AFF7F522294398DCB0DCB2153F6E293408822",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-attributes-ViewGroupPosition.java-098C3E170927130994E531D02C210B1CFCDA3038",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapButtonGroup.java-29E06D0EAED5EAAB02C79A45DA0DB915B26DEB1D",
+        "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-00058B016A2913000F0E252366C73CF310569E96",
+        "SPDXRef-File--sample-src-main-res-values-strings.xml-C4013645ACAF78F74C49F38F7CED33D91B18BE30",
+        "SPDXRef-File--sample-src-main-res-drawable-stars.jpg-079385193CF550454C3ECC60D0F8BA2970F3A5AB",
+        "SPDXRef-File--sample-src-main-res-drawable-caterpillar.jpg-36CB6408B8FCA5DE85313F4D0FE484FB80DF1141",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-label.xml-8A0CBDDA8486E356AB2B28DCB43CAE163013A373",
+        "SPDXRef-File--sample-src-main-res-layout-example-awesome-text-view.xml-425E45D348666303AC6D979E562D94E3560ADE2A",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-28F56DBB0F82E513A16F9C084DFB4244899FA597",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-92D0B85FB15EC7CA7AA72EAAB4D5F7FAAC9297D1",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-DrawableUtils.java-CF36E9E0DCFF443D6C0F3D657597F50118E9C9B9",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-RoundableView.java-81A3D0B5911F34F7AADA9C788F9B854BE2E6D2AD",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapProgressBarGroup.java-6440D5A66D075F6F14110A45078E4DBADE386C86",
+        "SPDXRef-File--AndroidBootstrap-src-main-assets-MaterialIcons-Regular.ttf-FC05DE31234E0090F7DDC28CE1B23AF4026CB1DA",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-circle-thumbnail.xml-02C00D05B4F641053403650EF6ACE08FBE4761B5",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-well.xml-D9AF1AFA53A0A2D1F4000B4C9F8091F280EA398D",
+        "SPDXRef-File--sample-src-main-res-values-colors.xml-3C2C0999B4742B818CAC483CC7A1BBEBED4853DC",
+        "SPDXRef-File--sample-src-main-res-drawable-small-daffodils.jpeg-C32B27EFD63E0B33087294CB32B557EF6C778866",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-badge.xml-09F63C277673D54E22726F778C35D97DF56399E3",
+        "SPDXRef-File--sample-src-main-res-mipmap-xxxhdpi-ic-launcher.png-AFAF76D973A11299331AF83D0EFBC251DFBF1748",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapButtonExample.java-50BE1B2695C1A1E8B1DB8FB73E424A086609D167",
+        "SPDXRef-File--sample-src-main-res-drawable-perfect-square.png-0F01B0AC1B99F9C8BE6DACD1949B93CB9EFDFF94",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-HomeActivity.java-DAB6FF7AA7804F8F48A0BFD04BD04063A941ADDA",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapDropDownExample.java-85C4F98B34B809550FF64F2BB0798CC846744DBB",
+        "SPDXRef-File--images-bootstrap-label.png-544D2A116C744D7E0D188DB99B117048D29EE5F5",
+        "SPDXRef-File--.git-objects-pack-pack-40048b0b3488f9e2754ee9a16d448bfffab598d2.pack-43965C04B2C59EFF13C648A8DEA7CDFF421E62D1",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-button-group.xml-156BA3755E713083D9B3C028580C89EAA3D5A33B",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-progress-bar-group.xml-15784E367C72EC137D87F34258698E51909294B8",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapThumbnailExample.java-0FE10985DE63E31DA4282A1B71CDEA310EA184F4",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-progress-bar.xml-11EE607233C0099707B3ABB8357BE7F284027CF7",
+        "SPDXRef-File--sample-src-main-res-drawable-author-small.jpeg-F0876529194597FB514CCFC20DC60B7549FEDDDB",
+        "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-0ACC7E6E36F1E8F02191FEE5436A73280739CE8F",
+        "SPDXRef-File--sample-src-main-res-values-dimens.xml-0EE57F81C540061FB79EF7AEC6533E9A2642CF99",
+        "SPDXRef-File--sample-src-main-res-drawable-alpha.png-EC3CC924E5A58B12A809AE8E323D2B1CAB292763",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-alert.xml-9479270B11353EA89EE2F20EE73BD3F145A45F9B",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapProgressBarGroupExample.java-224903E79888E75DB2FCA0E5E8B3D250C5ECDE1E",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-dropdown.xml-3CDB05FFB25F9A855A514D8E2115BBCECB6E186A",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapLabelExample.java-29ABBE0654EB3B6AA4BA99BEC40F2ADD96B03F6A",
+        "SPDXRef-File--sample-src-main-res-layout-activity-base.xml-1ADDA60F6B59BF87B32F1DCE59C8745FD14EAFBF",
+        "SPDXRef-File--sample-src-main-res-drawable-daffodil-large.jpg-E0B923BE3E0C0C25F70FD3D4293F2A4FC33246D7",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapWellExample.java-E3771E9ACA1B5C0583DF849E383B786CEC8296F3",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapButtonGroupExample.java-4C899661E174DA3C0DAB2C7355594CE6162AC6F6",
+        "SPDXRef-File--sample-build.gradle-63EA2FE753A87F5B4CA6E8012D2FF8175529BADA",
+        "SPDXRef-File--images-bootstrap-dropdown.png-4AACCFC8092F1A5EFC1CE2CDE4F8F9731F9A2E13",
+        "SPDXRef-File--AndroidBootstrap-src-main-res-values-colors.xml-2FE7713A9E6F9DAA57B0B62409CE90A7165F720A",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-ColorUtils.java-5CF6D89AB1DFAD84A88F378AFDA12B041DBEF111",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-OutlineableView.java-C5D3B53F6A16724F49495545E1487F162A45638D",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BadgeContainerView.java-33902B74506491426439449A85B2C7F0F0F233BD",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-attributes-BootstrapBrand.java-444B4004ECD777B71D5AB8D527FA07927A89AD58",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapLabel.java-D653F33EF6798A6938D537F2AA1A619B45C6E227",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapBaseThumbnail.java-4B23D24CD8D303176AF1077CB7AF115B01CA127F",
+        "SPDXRef-File--AndroidBootstrap-src-main-AndroidManifest.xml-8CD80DFEB97C49ED5F000E18FDB8678D7EB1FDEB",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-6B5C17F494677344CC7136817318F8BC7AEF8EA8",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--README.md-F7C399084EECB3F8EAAA6821F187EF96980CED5C",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--TODO.md-AFE472CE5444ADF54B0B0BBF189C4F56F474B751",
+        "SPDXRef-File--sample-src-main-res-drawable-landscape-image.png-D62E81667F29B396578F38A56D4FAD0207618387",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-SampleApplication.java-D7E5EAA40FA1F9DC3D9123E9D73DF825DE880FAB",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapEditTextExample.java-B7A91FFDCBA271C98775747BD7DE58DA7D5AAD01",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-AwesomeTextViewExample.java-358D99D2D621FBC8E2FAD7B326422CE542257968",
+        "SPDXRef-File--images-bootstrap-progress-bar.png-25921DAC89F890812989B3239CF9E4C240D89D44",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-AAAB361A15D71F7F1107A05F51CA41CA1CD2C8BB",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-ViewUtils.java-452E61D25447B82A07D62C1F665A46D6A3E712F1",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-AwesomeTypefaceSpan.java-F6B1BB7D87C6885A91581EF501312CACAE151A90",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapHeadingView.java-86B483A14A3A03297D7E4708D463C1E150D0640A",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-ButtonMode.java-D5FAE203E85C41E89AC628A08C07BE703D8DD36E",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapText.java-FA56249B5234B5AC8E28ED6DE5B6FA5C2950C84B",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapCircleThumbnail.java-D591F7493B1F077B995F50A7F4D991C124DF7CBA",
+        "SPDXRef-File--AndroidBootstrap-src-main-assets-typicons-v207.ttf-2DC9A89BCBE7CC129BD6BD924F6D03FE4310F04E",
+        "SPDXRef-File--.git-refs-heads-master-E6DFD9B59E5E5F4F625202034DBCD059F4F69991",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-D279183F458FE966807F6C1872A9B53A19F6CD37",
+        "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-5B4617E7490070CF8BD7442D04A699FB91DA58F5",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-edit-text-view.xml-8D1B5F17C712E20AE956C9A9FA6A07C8D0CCFAF9",
+        "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-E9F2C196177C4ACB66D63735AFC9BDEA67D37F9A",
+        "SPDXRef-File--sample-src-main-res-drawable-flower.jpg-CD3CDAF21D63425F7A02DEE4D3BB77A7190384DB",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-CustomBootstrapStyle.java-0274990651C00F5ABBE26B1B968FA97D4CC636B2",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapCircleThumbnailExample.java-FC2EE07EBCCCED2819FCB58CAB323FBA9C22F532",
+        "SPDXRef-File--sample-proguard-rules.pro-029DF7EF962DC4EDADDD69E7781316B8A5D4D66B",
+        "SPDXRef-File--images-bootstrap-edit-text.png-EAB72A1772683B8E51A2724D2EBAEAA379E7E3E1",
+        "SPDXRef-File--AndroidBootstrap-src-main-res-values-dimens.xml-97A84A84CEE8D0C02A03EC329E5C3A76C6CF1F47",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-utils-DimenUtils.java-EE7B4B06F292B3BE64BDE7AAB8C012FD3DB47910",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-ProgressView.java-C407BFEBD318D14F1E29F9E9648654C2E2ACEB22",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapBadgeView.java-5D64BC35BD17794CAAE6CCD8B28DB7B3EDA496B2",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-attributes-BootstrapHeading.java-8D493B8736E40058E4FC972DE52EBD5C15E0DD98",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapProgressBar.java-FC083F987E000DC31BE981B46B5A3DFA66F35EBA",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapButton.java-BC1156EC7B05F706CAB5C2C801C481BC0187CADF",
+        "SPDXRef-File--AndroidBootstrap-src-main-assets-fontawesome-webfont-v470.ttf-13B1EAB65A983C7A73BC7997C479D66943F7C6CB",
+        "SPDXRef-File--.git-objects-pack-pack-40048b0b3488f9e2754ee9a16d448bfffab598d2.idx-E2413A27BB521A0B7EEF1A602EDF3C24A9626D50",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--settings.gradle-2AB70E833A50603BBBC82C49F4938CF064D1F0E3",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BaseActivity.java-B4FA876779F0FD2DBB392184B4F3548779816A97",
+        "SPDXRef-File--images-bootstrap-progress-bar-group.png-188EE49B6A388A1ACDABCC13934EF295DC8A9729",
+        "SPDXRef-File--images-awesome-text-view.png-B5CC2A4739788A366EE728CFE94AB39AC3AD20EC",
+        "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs.xml-94E0C919715A51D4D30142B106FA940B9EAF2235",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-FontAwesome.java-A66918CF4F36F3240E40A2AE67DAEDA6C302BAB1",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapSizeView.java-3F31E6E1C30363ACB9DD9115F6B6213C7E0B64CE",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-DefaultBootstrapBrand.java-A29A451F48621B9D3481B5721EA1D4D2A4A52D94",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapThumbnail.java-9F6A47B5250BB368DCB6077CB4608866C176BD3D",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapDrawableFactory.java-50103A8EAAC9759D4E16531597CA13264BDC2B8D",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-AwesomeTextView.java-B11E779C17A587DCDEEF9D4248039CFEDC2C8B03",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--images-bootstrap-circle-thumbnail.png-682F5464D972C263FD92465CFFFB5A43AFFE36F6",
+        "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs-typicons.xml-BBC63A876EFC3A9472A53EC021235B354D3A623E",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-Typicon.java-D5D532259CF2C0E63241DA4EAEBC5D5F972F4B95",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-ButtonModeView.java-3ACCAC8FB7AFB2E7101896D3BA7DCFD88D9E1188",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-ExpandDirection.java-B4BDEE75BB580D1090908BB76C5004CF66330021",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-TypefaceProvider.java-A7EDA76B707BCB1F4A10CEB74B01E96BD178AB70",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapGroup.java-B097681B10FA178E792B0892FED4ABCC79D4DD98",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapBadge.java-4789710B38570827989997F67EA348EF95E82543",
+        "SPDXRef-File--AndroidBootstrap-push.gradle-D52D75F53357FC0FAC23E1CD9B6752A1FB7C994F",
+        "SPDXRef-File--.git-logs-refs-heads-master-6B5C17F494677344CC7136817318F8BC7AEF8EA8",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-431A0174036E0AF9FBD20B79BAB6F3874E2F663E",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-thumbnail.xml-05D579ADDF5A7ECFDFA2C8CB86492B3048570837",
+        "SPDXRef-File--sample-src-main-res-layout-example-bootstrap-button.xml-0EA7865053BA5FE4BF98DCE5781828CBC4D791D8",
+        "SPDXRef-File--sample-src-main-res-drawable-portrait-image.png-DEC5E4B3AE8DF87E6DD792EB3DD74A0AABC7AE74",
+        "SPDXRef-File--sample-src-main-res-drawable-author.jpeg-0CC570DE75AE499F9C068138E3ABD0C9F4AB645E",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapProgressBarExample.java-5B59AA43D9E1E9A6A2D1749CEAA8E116B406007A",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapAlertExample.java-09BE27A317AABD5AFCF5579DD86C006162964216",
+        "SPDXRef-File--images-bootstrap-thumbnail.png-A331579D2CFD57A5994FC784D7722F7525A37922",
+        "SPDXRef-File--images-bootstrap-button.png-3E85F99134B29B4699A73BE4DDC963F58E1055A2",
+        "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs-font-awesome.xml-B77028CEF6FBA88334A58E5BA9DE52F25142F06F",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-IconSet.java-1F5B47CD402D0EF25EE4E954A9387155C2A949B3",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BootstrapTextView.java-7C2D66D5E2BF3B33EE432FBF6EA9254313574F0D",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-DefaultBootstrapHeading.java-3ACD06AF6A476008ACA89090664E01281C7D96BA",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapWell.java-BC75347E4CBECE61FEE582F0DBC959E8576ADAB7",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapDropDown.java-854E62B5163FDE4E452062E5731666706DA96022",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BetaApi.java-52AC3BD4DFF0E94DFB37C2D7F542694B73CC1905",
+        "SPDXRef-File--AndroidBootstrap-build.gradle-F18A3755807C0BE43A4BA083DCA0BEAF01E3B2AA",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--sample-src-main-java-com-fractalwrench-androidbootstrap-sample-BootstrapBadgeExample.java-4104F3902CE5DBC9F6B997391D85A1738ED55A9D",
+        "SPDXRef-File--images-bootstrap-well.png-FE2C2780FB55D79A52A918681B3A715C770A797A",
+        "SPDXRef-File--images-bootstrap-button-group.png-3A3E51B8D5DE3C9B1540CFA013DF9E537FB22097",
+        "SPDXRef-File--AndroidBootstrap-src-main-res-values-attrs-materialIcon.xml-84DEBB6190F36D810C3B038FCC95ADEF89974B43",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-font-MaterialIcons.java-826E0B2540BCDEEDA46FF70C4E7F986797F810D7",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-view-BorderView.java-800044760F079956882DA0A28E97AE5ABF317A82",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-api-defaults-DefaultBootstrapSize.java-8FA814BB43DAFA63E9A6BFB833913867DB7D0994",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-IconResolver.java-B3A03D2AAC5C26A4BCFC03DFD9249B0494557FD0",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapEditText.java-C79959AB78212B81F10943CF686DFB6A7872C5BD",
+        "SPDXRef-File--AndroidBootstrap-src-main-java-com-beardedhen-androidbootstrap-BootstrapAlert.java-367119F6BF15FACFA2A6E271300279E81EE1B816",
+        "SPDXRef-File--AndroidBootstrap-proguard-project.txt-87A189515A2DF10A1EFDA8B6AD445569DFA20BE1",
+        "SPDXRef-File--.git-logs-HEAD-6B5C17F494677344CC7136817318F8BC7AEF8EA8",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-F0667547F7D0FFA2EDBB811EDE0EAC5FFFBCFE6A",
+        "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+        "SPDXRef-File--ADD-FONT.md-041102E3BC8364717D19F0024B7604F71381C5B8",
+        "SPDXRef-File--LICENSE.txt-CA555218CFD2247FBD9ED5FD5FBA66D8D2CA2380",
+        "SPDXRef-File--gradlew-5BF78F2744B03079F66B47BD15480B2B6F997306",
+        "SPDXRef-File--build.gradle-D19C194C350A198EAE2661E0AB98518EC3592883",
+        "SPDXRef-File--gradle.properties-B87477F80D0E9B4AB3BD01FE4AE6CCE33D977B28",
+        "SPDXRef-File--.gitignore-2B61BDF174C7E8994CC72BE9438F13464F76F22C",
+        "SPDXRef-File--circle.yml-49C46963B0A2DB88C88A0CC4159831BE3E5C2DE9"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Android-Bootstrap 2.3.1",
+  "documentNamespace": "https://androidbootstrap.beardedhen.com/Android-Bootstrap/2.3.1/MvSHlNaI-0m-fTNQM07gGw",
+  "creationInfo": {
+    "created": "2022-09-21T03:31:22Z",
+    "creators": [
+      "Organization: https://github.com/Bearded-Hen/Android-Bootstrap",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

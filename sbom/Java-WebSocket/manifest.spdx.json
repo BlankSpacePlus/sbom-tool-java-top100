@@ -1,0 +1,4548 @@
+{
+  "files": [
+    {
+      "fileName": "./checkstyle-suppressions.xml",
+      "SPDXID": "SPDXRef-File--checkstyle-suppressions.xml-B648F24C40DBBA07590CD789E7AE2C18B03BD50E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5dabd9ece38197987f5a750db5ec250232339753040e89ef829371b132579f54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b648f24c40dbba07590cd789e7ae2c18b03bd50e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-C98E80E36C35E5B370C82BF7203AAA46983C71DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "801b33c862448931eb8b03f2f765c84419b4090305d916a5723f09853e91d213"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c98e80e36c35e5b370c82bf7203aaa46983c71da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-701E70CC9CE4871F0592AE72C4FDED4106E51A88",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7de9bd43b1be95ca2ddd07fe11f8d0d6ec8ba467b0005e7d9cdd9c2637c0d842"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "701e70cc9ce4871f0592ae72c4fded4106e51a88"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-F898CCF2BFC1AE1BCEE30C293551D665CA52CFDB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40ba690dc01546a33b0fa337bafe5f03b5814b4e69e3c6070cf9dc5ad8f2139e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f898ccf2bfc1ae1bcee30c293551d665ca52cfdb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-77431A85DF94E7A84816A51F3B6000EA11657EE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac42b1d56fc7a36a6f8095165f30e53b22fe0505f2e018a786499a4bac2902c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77431a85df94e7a84816a51f3b6000ea11657ee5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-0C20647C272F5AF191DB51CFBA8A7ADE4784C1A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c65bee3b1c30d194def8d7ea2d1fed35ce6325bfe69719a246a8c74c85166961"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c20647c272f5af191db51cfba8a7ade4784c1a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eclipse-java-google-style.xml",
+      "SPDXID": "SPDXRef-File--eclipse-java-google-style.xml-0D5DFEB76F4A6D39982B37E584CDD1ACF7EC2D9C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd29ea612b1ebb1f72a087d3f830ff910f6446b5f3809a08d2407bbb2dc06c18"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d5dfeb76f4a6d39982b37e584cdd1acf7ec2d9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./intellij-java-google-style.xml",
+      "SPDXID": "SPDXRef-File--intellij-java-google-style.xml-E1A495B4EC4F7E1531E92C623198A362AC14B758",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8402407e586871770b06c875ac45d1aee96ed3f59740668b4bd5806b1ca832aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1a495b4ec4f7e1531e92c623198a362ac14b758"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-A8CF66689BC6A510B54E9E88435257D31D6438FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9c7c6bbb2e3ad2fbf2dbada5dc0541501c1030e71f89b2266353bc7b73c787c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a8cf66689bc6a510b54e9e88435257d31d6438fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE/question.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE-question.md-CA58DE25686612F4BC423C6024A0042F97CCC03E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "201f5b9ab43442abb2e1854c75068286b6b6cdc367c0ec40f5b1644bbec775d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca58de25686612f4bc423c6024a0042f97ccc03e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ChatServer.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ChatServer.java-5F52B9F7C2CFA5BE0A28EA07B823E8D09B0947DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "992d3ab1a5c23abf98ecea7103c737a45caedf1c0b5e2f5b9054228851bba50c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f52b9f7c2cfa5be0a28ea07b823e8d09b0947dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/SecWebSocketProtocolClientExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-SecWebSocketProtocolClientExample.java-9EC9BD62177973F1D6E64D744109B8BF9B81CD57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f76bf560d4279b5e6b8ae96eb0a942c85ba31c7eebdd15632fa594b974def561"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ec9bd62177973f1d6e64d744109b8bf9b81cd57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/SSLServerExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-SSLServerExample.java-55BCD3C7C4CAD1AFBEEB890E12EF6ABCC7A29CAE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00b8af332cf1ac7cc2146ceed6e9727820e21514f8ea5a4edc0b8b28736b5dab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55bcd3c7c4cad1afbeeb890e12ef6abcc7a29cae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WebSocket.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WebSocket.java-7FA12173535F398E6E59109EED108CA9D77D11D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ba18f55a90f8029713bd7460bc4b2b89508abed5a15c81ec4f093f7747c8379"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7fa12173535f398e6e59109eed108ca9d77d11d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/client/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-client-package-info.java-6F3BB07021161D42060EDF04087DEBDBF6B39341",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31ca7db8be11439e2d7f11f74828993011b73bf4df5fca60de784aed384388ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f3bb07021161d42060edf04087debdbf6b39341"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/enums/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-enums-package-info.java-53C1090392AF99D4794BE59125490EC8C1DCB486",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a53d07c6fe0a46f79ce74b35a726c21dfca2e70a298cb07bc1c441a65deb950"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53c1090392af99d4794be59125490ec8c1dcb486"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./autobahn reports/clients/index.html",
+      "SPDXID": "SPDXRef-File--autobahn-reports-clients-index.html-BDE4DE74EB75702DE3425AB65B865EAC2302A30C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a84403f7e97d468ac9147ab5d1f5f24e37cce222b5fa6fc00e150c39f9832cca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bde4de74eb75702de3425ab65b865eac2302a30c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/FragmentedFramesExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-FragmentedFramesExample.java-0C6B9B466503512212A31C3E37F9188FFE482EF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2eb4025461ee4b92629a70f518619b673541a6a85304dc80c3dd749af4999b4a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c6b9b466503512212a31c3e37f9188ffe482ef5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ServerStressTest.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ServerStressTest.java-C0B3D5C056A39F5D120BA1DA0583E96749CD9BC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4327c2dd6b45b50b70bdecf0a8ca9e5b9cd287747f433e625ee9a6ffb1497f55"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c0b3d5c056a39f5d120ba1da0583e96749cd9bc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/AbstractWrappedByteChannel.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-AbstractWrappedByteChannel.java-DB94E94D0AB7D532CB060D958D8FB1F05737039A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "11a38f7078d62ed58b0b77da0c26b82cb70b6d03e60e6c0e8bf17f3d118154a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db94e94d0ab7d532cb060d958d8fb1f05737039a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WebSocketListener.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WebSocketListener.java-CF3A5665E5B3939B25D89ADEC8A468A54DB3CECF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87a6fd93789802199497e013d879033330acf14675697dcd100312a2b6304761"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf3a5665e5b3939b25d89adec8a468a54db3cecf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/drafts/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-drafts-package-info.java-8E20EE7867319461F39502BF143CD9B73EF65FFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5218c7eeae289c0390dc710b878d643c323c2fa10ed468bfadae03c348917f6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e20ee7867319461f39502bf143cd9b73ef65ffd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/PULL_REQUEST_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-PULL-REQUEST-TEMPLATE.md-9A7F807CEC5DDC25A2B385C942853A1C11D5AB90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec073879b46b9e9327fa2bc9efd2f05b436610de71bb20f3d70d67014b720fc3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a7f807cec5ddc25a2b385c942853a1c11d5ab90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./autobahn reports/servers/index.html",
+      "SPDXID": "SPDXRef-File--autobahn-reports-servers-index.html-739F7A832E1B44F43CA70D834C515DD9D3A2E494",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecc0c5904f32f9c290cfea3be74529f808d6bfaaf8632cf6a6293e8491e690cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "739f7a832e1b44f43ca70d834c515dd9d3a2e494"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/PerMessageDeflateExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-PerMessageDeflateExample.java-2807966287644355F3114DAAC34763CF1901E8B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4139b20d24bb5c51ec79583fbe18fc2da9cbbda3a431b2a75ec27f7e4e22880b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2807966287644355f3114daac34763cf1901e8b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/simplelogger.properties",
+      "SPDXID": "SPDXRef-File--src-main-example-simplelogger.properties-822500132853F123979E898BB11D3A887B8B85C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3964f2239b892fc62e9d6cdedd730b7523429c553e50397788245335966d5dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "822500132853f123979e898bb11d3a887b8b85c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/SocketChannelIOHelper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-SocketChannelIOHelper.java-EB95A8B295A8F52B47DAFF5087914F960A3A1C54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8de23853b4db739cd9a77cd57eb5ffcfac4cee75139fa75f0078b10122b04a90"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb95a8b295a8f52b47daff5087914f960a3a1c54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-76EF55BEF3A9169101704D8DFE38D09599DEC30D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d4668d17723ca4a5b12460698a57da0a42cb20e40096175f593e161dfe5beda"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76ef55bef3a9169101704d8dfe38d09599dec30d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-A1674B107C8980466DB93E8A2115BD88D486D4AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42c084c608b4b630b56a4e4fc04a7ddee7406a64a3db29edb4396318f9d90bc5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1674b107c8980466db93e8a2115bd88d486d4ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/sonar.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-sonar.yml-419203E43448F17208F953C0F7CC4DCB08D35814",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62192e1e7e6041e76c7f9ef6904fee60f93d9221a7bd4e04c0dba3dce685efaa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "419203e43448f17208f953c0f7cc4dcb08d35814"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ExampleClient.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ExampleClient.java-BD59899AF3621CE9F7F8343EF7FF9734065BF73D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e8329917714256a0590a9f34a377078729c62282f1908543d9b606bfd8646b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd59899af3621ce9f7f8343ef7ff9734065bf73d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ServerRejectHandshakeExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ServerRejectHandshakeExample.java-8E32AB4DE4F51C77F6D1B74E5AB59FAC63D5B4AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2b5f1f5bd302c22d45e6ca4aa09063ee3e5cdc76e42b58de646dbce01297ef1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e32ab4de4f51c77f6d1b74e5ab59fac63d5b4ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/AbstractWebSocket.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-AbstractWebSocket.java-B1C61F9153AB371FD1F34C145AFF8C2BCBD42E7B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1bb85b3101824284e5b347f99a3e54e489f36a3ecb199b3234929684835692c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1c61f9153ab371fd1f34c145aff8c2bcbd42e7b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WebSocketImpl.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WebSocketImpl.java-D722AFC296D725B41DC6653E1917D8CDDFBE1D36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "577c6fccbc36269e411356194630a4b95f2b18769fdf832fe740a8c50793de3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d722afc296d725b41dc6653e1917d8cddfbe1d36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-6AD62352D42D8B2604C65381D366F1B46F1D2A04",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12b6c988855169bf5a9500f501cd815243551102a76f1ca84b7b695870ee7207"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ad62352d42d8b2604c65381d366f1b46f1d2a04"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-A8CF66689BC6A510B54E9E88435257D31D6438FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9c7c6bbb2e3ad2fbf2dbada5dc0541501c1030e71f89b2266353bc7b73c787c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a8cf66689bc6a510b54e9e88435257d31d6438fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE/feature_request.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE-feature-request.md-3257658D2CD57BA4AB0A108B7A45C27B78BE7C7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d28451dd66b6e01e79493dd7062b132c105ae6359f4f1264cf70aac2c02897b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3257658d2cd57ba4ab0a108b7a45c27b78be7c7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ChatClient.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ChatClient.java-774727E7E1A2FEC70509876D7C2C2E5074BCD8D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0827cbaa69cd9ba332c29d59756f922b0caac0dacc54b78ddc40ede28669261"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "774727e7e1a2fec70509876d7c2c2e5074bcd8d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ReconnectClientExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ReconnectClientExample.java-8169321084A1A22AECCC125324B8E91E5C69223B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ddcaaac18e7eda643810e6a00d3c2560b078784c84ccd51818f1b41ea31079e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8169321084a1a22aeccc125324b8e91e5c69223b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/SSLServerCustomWebsocketFactoryExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-SSLServerCustomWebsocketFactoryExample.java-1ADD26B602374EBFC644B541D8F9EA5B604D75E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b21e19c06199207350c4820ef117c5504542d2708d636695c5fb77ad2b3e1ff3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1add26b602374ebfc644b541d8f9ea5b604d75e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sonar-project.properties",
+      "SPDXID": "SPDXRef-File--sonar-project.properties-591B48B2741DB520156815F8BA926A9517DA893D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c4ceb542c588572742b01ca4fe6b2e84ee5f401a890a914be3950d3a7576a86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "591b48b2741db520156815f8ba926a9517da893d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-A2730ADDCBFC9AE4132B5590B903E5BF36547788",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99ffec5f1fe7589a640d4e26418fc5a64837f382ac5e868e593aaf130761e973"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a2730addcbfc9ae4132b5590b903e5bf36547788"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-A8CF66689BC6A510B54E9E88435257D31D6438FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9c7c6bbb2e3ad2fbf2dbada5dc0541501c1030e71f89b2266353bc7b73c787c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a8cf66689bc6a510b54e9e88435257d31d6438fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE/bug_report.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE-bug-report.md-B7C4490E20FBECA950BEACB3350ECAD5DCD0B9AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ef76fcede546bb36fb97c869232fa89f52397333e2d62b708cf576756051702"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b7c4490e20fbeca950beacb3350ecad5dcd0b9af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./autobahn reports/servers/index.json",
+      "SPDXID": "SPDXRef-File--autobahn-reports-servers-index.json-1FBBB35A9CE250C51F66B2459E0972357091D684",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3a6ab7f31e884194502ba3dfb5227c1b9d207260d808fe0c1827a34c90acffc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fbbb35a9ce250c51f66b2459e0972357091d684"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ProxyClientExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ProxyClientExample.java-0F9ACFA7E6D79D109BE33B355D0B5A8AB89DF5D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8336565f261ee8905def30f7e90e54989fbe0125ce09d2e931d88071f4ae82bd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f9acfa7e6d79d109be33b355d0b5a8ab89df5d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/SSLClientExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-SSLClientExample.java-CE3236DFA97110CE91B08BAEA636A126A55B3215",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62156ead1eb11a8207bb7fb050b2f45bd3f579e5b1721c2201765cd66279cf2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce3236dfa97110ce91b08baea636a126a55b3215"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/SSLSocketChannel.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-SSLSocketChannel.java-09D181A214D74AA3E139B490EDE535A1462866FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06539f38645ac93b071509b490f8ca67b68bc8d88a742e1891e7032ef82227df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09d181a214d74aa3e139b490ede535a1462866fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.markdown",
+      "SPDXID": "SPDXRef-File--README.markdown-031F41A813BDEA4B13EAF874AE45C1CEBE3D62E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02e95e5ddc1589b0b4cbee833fd6dd96905e7788f68333d97d823e807be8c0cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "031f41a813bdea4b13eaf874ae45c1cebe3d62e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-25ff49a035a0a9e17cddb93181b1aecdf227239a.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-25ff49a035a0a9e17cddb93181b1aecdf227239a.idx-00FA97A360C5824F5DAC519CBF85B1D50304CF97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d25b8d14f00a2d3d487789f15b08a4c0e02d7fa2497e86ba981b4530adba9d93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "00fa97a360c5824f5dac519cbf85b1d50304cf97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/checkstyle.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-checkstyle.yml-268EA7CA02A98D1EB607E684FF22A1CA4BE2A61F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01d4c60c9d85c92cbe39e65a2724e742f60efbeb63f1fe06560e836c8e8db154"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "268ea7ca02a98d1eb607e684ff22a1ca4be2a61f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ChatServerAttachmentExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ChatServerAttachmentExample.java-55B483024A731591D5F4592E3BA0415DB0B0C69A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b95c966fcfbfd8da976bfdec852005ec7ea9ecf6c19861284bb7314bd097aad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55b483024a731591d5f4592e3ba0415db0b0c69a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/SecWebSocketProtocolServerExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-SecWebSocketProtocolServerExample.java-13937060336BC6CC1E86845957044092B156C166",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e390ab264c320559e785a7b48a29d345163cb3ed6a35c5de46a51c20c047e24"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13937060336bc6cc1e86845957044092b156c166"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/InvalidHandshakeException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidHandshakeException.java-3ABC596C903D2B973BC89FEA79B787DA8582A30C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a923f85ef6fd4ce1879bbcfaf6b13f1169ecf7c9e38e36d5381473524a9ce8d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3abc596c903d2b973bc89fea79b787da8582a30c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WebSocketServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WebSocketServerFactory.java-392DD24B4E2DDFF3761C624F498EFB12217138FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "04c8ab068c1d897c1a25d6030691053bde12af579abeec639e2ef69072c55b23"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "392dd24b4e2ddff3761c624f498efb12217138fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/SSLServerLetsEncryptExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-SSLServerLetsEncryptExample.java-974084177DBBC53F53B4F159D7C135151D72C035",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "821b5b4b10b11b776f063782655b80629fe32aae7eaaaf62c58fe5c09369c1b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "974084177dbbc53f53b4f159d7c135151d72c035"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WrappedByteChannel.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WrappedByteChannel.java-393B6A97744D49A919F3286B0FE8BD0492F20789",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc10979c392485fc65abc2569e364e665480c16dc282fc528afc9028f33ae116"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "393b6a97744d49a919f3286b0fe8bd0492f20789"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/drafts/Draft_6455.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-drafts-Draft-6455.java-0A7C358A132AE7D67028141939E8D833E5AB735C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10bf9843cb1b47532fa2a83afb38daab85983bf19d0a4d9f6f237d54976d7f67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a7c358a132ae7d67028141939e8d833e5ab735c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/IncompleteHandshakeException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-IncompleteHandshakeException.java-4BB8E7D0D38D5AE412B82D0F67669BED8A6F2BF6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f7fd47bad715f59a10eb41cd7a2430a2ac18ae00796cb075eca91ae747c8f54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4bb8e7d0d38d5ae412b82d0f67669bed8a6f2bf6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/extensions/ExtensionRequestData.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-extensions-ExtensionRequestData.java-FB0337DF4D97DA49721FC21E264213912F73896B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "37060a4cd404aebd732dc9805dd6c89a3a62a1587549148c9dadc6d95c9ed12a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb0337df4d97da49721fc21e264213912f73896b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/SSLSocketChannel2.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-SSLSocketChannel2.java-364CDB50DD52F94EC96A1099071E50B4E58EBEEE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb4d12e5b28d908e7bdabf7d03daf5614123d75c89b988cf35dc8e29ad6e2cc5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "364cdb50dd52f94ec96a1099071e50b4e58ebeee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WebSocketAdapter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WebSocketAdapter.java-624D15DD840FB392E51540679B98AFB50E06AB50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "edb8d5cdcb8621412c7af094b46da35902512d10c2a3e757d97bfb7f5a83457b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "624d15dd840fb392e51540679b98afb50e06ab50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/enums/HandshakeState.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-enums-HandshakeState.java-771EFA20755703CF7AF8FC38B6BD8FF0B8791E8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "11ab70d6958453afd31d199eeb390e234db8990bb4ec447dd9e2e5a75e319012"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "771efa20755703cf7af8fc38b6bd8ff0b8791e8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/IncompleteException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-IncompleteException.java-9CDFE8697133A8D858CAF860D5A77830EF4F6E9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f9f6d119016f282d4bc2da66b1a79f43ec1428020f4715f4ff639c9f808ccb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9cdfe8697133a8d858caf860d5a77830ef4f6e9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/WebsocketNotConnectedException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-WebsocketNotConnectedException.java-6139C871E9EE94678D51E383E5FDE16CB7326558",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8565830f204b3166cff06ca3586ed84b1620abcec0785604143a3bb2c6498aa9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6139c871e9ee94678d51e383e5fde16cb7326558"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-25ff49a035a0a9e17cddb93181b1aecdf227239a.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-25ff49a035a0a9e17cddb93181b1aecdf227239a.pack-D5BC2BC69FFA7B901A34B923F7F1522F2AD17A60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4815c3d663735b43639adb1c42916fb19e06318fd505c6ff679b57eced056a71"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5bc2bc69ffa7b901a34b923f7f1522f2ad17a60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/enums/CloseHandshakeType.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-enums-CloseHandshakeType.java-600115FB62C7957EBD8DD987171D8D76E9886551",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86bba1eb3da104a910a071553dfa9b0acd4a7afee4f08e1363d960b9552f2fa5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "600115fb62c7957ebd8dd987171d8d76e9886551"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/DataFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-DataFrame.java-DAD9E44307E6C8CC26213C45C21AF44125BD08D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb9a6c3ceecd00de3ff85d2813ecf135333f1f95e17e1b5590337c03901571da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dad9e44307e6c8cc26213c45c21af44125bd08d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-package-info.java-A923B9066B5B99E78AAAF1AA2E08C5BD4BBC5190",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aaee5955475252c1980a2ec2c9ebe5763ea3ead97bc5123892c442251af453a1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a923b9066b5b99e78aaaf1aa2e08c5bd4bbc5190"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/client/DnsResolver.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-client-DnsResolver.java-6357C4BC35EF716BFA515CB27B5EFC43B437C606",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1c1d3b2710dfa7498f7f3bd2d5ab51b5c68a8bb6e6cdc5c84f6abe5cbb4a7c4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6357c4bc35ef716bfa515cb27b5efc43b437c606"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/BinaryFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-BinaryFrame.java-126E0F50679B4185DD7621D37ED053276704EABD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afd781ea6e88bb157602b3c580e2180cc87fb0c41a01c04a48ae7599984f9ebc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "126e0f50679b4185dd7621d37ed053276704eabd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/client/WebSocketClient.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-client-WebSocketClient.java-F0F4A77654F3C48E33E6DE1488B864746FD6AFA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd58c7d5696fd1c6c41406cfeba32512fa8b4274fab86d76778220e651f7e0ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0f4a77654f3c48e33e6de1488b864746fd6afa2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/enums/ReadyState.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-enums-ReadyState.java-08A9E311D7CF056ABFBFB686F601C8CEE7E784C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aadd651319f27b30803e46a987567dcfb416fc550babe5a41e27173a43b50824"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08a9e311d7cf056abfbfb686f601c8cee7e784c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/LimitExceededException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-LimitExceededException.java-DA21118EF1C095130FAC3FF72566F57FFA6B0605",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c66b030a86e4d6c429804edb447dbb01ed8eac58931e1b0ed10ddf791386ce7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da21118ef1c095130fac3ff72566f57ffa6b0605"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/extensions/IExtension.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-extensions-IExtension.java-4DD61853870678E3E0AFF404AD90ADB98B25CFB9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e286f4b58d83581973cbc74618c5be4d1a3dce2cd2e14adef66b34096d9b378"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4dd61853870678e3e0aff404ad90adb98b25cfb9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/Framedata.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-Framedata.java-068BAB6832DD204C4819E8170C1A1AA15047F2F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "981ef9f4ff2bb13406daf4bff6d2d49b38ca45ccaea1070f23c455c9f3a4177f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "068bab6832dd204c4819e8170c1a1aa15047f2f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/HandshakeBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakeBuilder.java-A629972BEF3FA020E6537E4F840731F7F2ECDC93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7f934d771939e09ce98b5e601e695361572b86bed20228585499125cd60d03a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a629972bef3fa020e6537e4f840731f7f2ecdc93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/interfaces/ISSLChannel.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-interfaces-ISSLChannel.java-3C4FAE4D7DD927AF5C753B73FEBF5AE625583718",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca451f81ddb7ce8a6b1c571efad2b1331b621098e6f09318cd812b04d17014ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c4fae4d7dd927af5c753b73febf5ae625583718"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/server/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-server-package-info.java-7EFB3CD58540D5D51DAD16EAEA6D5ADE91428E9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "acdb77d91dd19b42cfa39884256a0b19329ce990e7ab198b1b5db63020c8849e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7efb3cd58540d5d51dad16eaea6d5ade91428e9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/AllTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-AllTests.java-757483AF2525DFF5931A7F438CDF378DDF826C03",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "352440b9a3baeb62a7f9657cd3613c8e4d17f42f64177aa11a4b032b13c016b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "757483af2525dff5931a7f438cdf378ddf826c03"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/drafts/AllDraftTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-drafts-AllDraftTests.java-E8F1303798BD00656CC1A484CA85C8FAF7F551BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9cdcc598275ee664d0e35d42b6e00f52a2505ea911dfddaff6ea423e43c97a39"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e8f1303798bd00656cc1a484ca85c8faf7f551ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/InvalidDataExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidDataExceptionTest.java-3C20931996D0147A8140D80619E41CC9324599EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81d6333f93e7141aa6e804564f82d0af16d0911d4bf2dd89497fb10ba5f6503b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c20931996d0147a8140d80619e41cc9324599ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/extensions/CompressionExtensionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-extensions-CompressionExtensionTest.java-4A19E7424E073A21D982DFD264E1BD3F531C0EF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd3821f161a9c1a9524a54214b1b3d70daf70da790b62aefc46116c9a865e858"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a19e7424e073a21d982dfd264e1bd3f531c0ef3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/PingFrameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-PingFrameTest.java-02A617937EE740879F87FEBD748C4C63CBA6FDAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59de3058eb488fa707848fa74f44b26f3fb0f4baccca9cabd6d46e333318eb91"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02a617937ee740879f87febd748c4c63cba6fdab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue580Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue580Test.java-EDD262EF11CC27D282386598A1118A7B0320A8A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce45521b51e0a567931252ae2c8901d842baf5dda8847add7be68d9626390453"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "edd262ef11cc27d282386598a1118a7b0320a8a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue732Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue732Test.java-433B7F7E7A46ABFA9FCFEF9941B95D3C86B3A784",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "acfcdb5a36ad58558f88494dfe13c8fa0fdf81f759d9e271e6f4d4e4d21915e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "433b7f7e7a46abfa9fcfef9941b95d3c86b3a784"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue879Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue879Test.java-ABDEB26C5C78B9CD053D9341303DE7A8A3A48A8F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd86e57577ffefbb1d52607474c0b84999eeb90bf45b96dfeab71f7514b00824"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "abdeb26c5c78b9cd053d9341303de7a8a3a48a8f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/ClientHandshakeBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-ClientHandshakeBuilder.java-CB5E45534432E10A32B5674112551136FF3B2C54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4f7c5be33276e64824ae1e2b17a526bd2c8eeb05b96a095fe472b3771cdc68c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb5e45534432e10a32b5674112551136ff3b2c54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/ServerHandshakeBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-ServerHandshakeBuilder.java-BE6315F91DB3E5E90326BD22CAB4D8F9A5759A1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c540d0df41bc4146019776b6541e3e1b21ddd9a38e80767a1a75d89ed29f732f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "be6315f91db3e5e90326bd22cab4d8f9a5759a1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/server/DefaultWebSocketServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-server-DefaultWebSocketServerFactory.java-9E4AA487628DC9DCF400BB6B87EAA57B46DD1917",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49890fad77a1c8ba42ab99656c7063cd4fcb0e764894956851d7e40eb2d5ef7e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e4aa487628dc9dcf400bb6b87eaa57b46dd1917"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/util/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-util-package-info.java-D2A286C84199FC144FC1A83ED951A310825EC978",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4b6a96e1788ba905a1f46ff532793cc3b44532a192db4576feb09c4e2ea4c19"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2a286c84199fc144fc1a83ed951a310825ec978"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/client/SchemaCheckTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-client-SchemaCheckTest.java-645D6A13B0FBB110FBE5401D1E771B050923428B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0cbf05b1c739cc3046ca4528b452dfcbdd5814119079141ce2d0815e9cfbf19a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "645d6a13b0fbb110fbe5401d1e771b050923428b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/IncompleteHandshakeExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-IncompleteHandshakeExceptionTest.java-BE4753349DC8BD8A47FAA4F27A5CDF29E4841B07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4281458e2f49e8e415cef044c82dd7ca7396abf6f60bed1e125c5ffe4c3e12f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "be4753349dc8bd8a47faa4f27a5cdf29e4841b07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/extensions/AllExtensionTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-extensions-AllExtensionTests.java-C2BF43E3101F9AC79B045FA1429CF6D3D4471F12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "534f87e11fc073fc925e7162bfd2a1c260836f08a8d775b9e4a652abd8184169"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2bf43e3101f9ac79b045fa1429cf6d3d4471f12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/FramedataImpl1Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-FramedataImpl1Test.java-89791B48374DF5924741F3411B6ECBD445F3071C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ed2cf03cf5dcae2a196dda1729bba968b5781c3ce76722a18897139dd219090"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89791b48374df5924741f3411b6ecbd445f3071c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue256Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue256Test.java-B3526282E45DE698429DBFFEF23D81634A42DCFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00b62ce7b7fde595770cd1f229e3719fa41379781eaed71c9d52c43a6a9f50bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3526282e45de698429dbffef23d81634a42dcff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue713Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue713Test.java-508432016D990280188187FBDDD58C7263B6489B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40dd8bfa5a9b737314d46ee6a25c05efd2cbc566fabc9e4d55e5bad1df3cb6b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508432016d990280188187fbddd58c7263b6489b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue855Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue855Test.java-E92DFBAF61290FBA96844284EC3091921A7D4F93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "98507b179f042b365e9f3c055f368dbb28d7865d056690b3426fdc766a7cb7a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e92dfbaf61290fba96844284ec3091921a7d4f93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/misc/OpeningHandshakeRejectionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-misc-OpeningHandshakeRejectionTest.java-77B244613A9B6134FBCE14E57B389AC681F958BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cacd4eec2b291a4da0baae4f1e990e3a993294e33753ef5e9dfefc0bc486ae81"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77b244613a9b6134fbce14e57b389ac681f958ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/server/SSLParametersWebSocketServerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-server-SSLParametersWebSocketServerFactoryTest.java-DAF0D2835FFDC2F26E748E3C5B1A34F3FC65B342",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ecfb87a0fb9bcfdf8792e1be180dd47d12257d865495bd03f7b71fd557697fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "daf0d2835ffdc2f26e748e3c5b1a34f3fc65b342"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/ThreadCheck.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-ThreadCheck.java-0B5EF330DC9805223EBA15B577AAF27B5032B09D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "614f4ff2416ebacd02d39e2969c648445424caf6fd13dd301fbcfb939d93eb30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b5ef330dc9805223eba15b577aaf27b5032b09d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/ci.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-ci.yml-A862715EE96EA3309C8DBFAE327B51CB58D4D69C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fdff2fae5540c8fc2f5855f066086393c4c18d62b8d33c56882e3cbf1c1e4894"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a862715ee96ea3309c8dbfae327b51cb58d4d69c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/CustomHeaderClientExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-CustomHeaderClientExample.java-F9A45630835371FE71730B0931EA47D3D8D35A4B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be4697d03bcf755c7008f59decd0f0567b814bd9c6c229636518c338b85e892f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9a45630835371fe71730b0931ea47d3d8d35a4b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/ServerAdditionalHeaderExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-ServerAdditionalHeaderExample.java-D8D97E225DB4EF7E84A59C93542BCB8D37FF75E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a29cbba2148dd9dc428c550315e011d291a7e57c9b2f230d6565b5dbe12a4c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8d97e225db4ef7e84a59c93542bcb8d37ff75e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/example/TwoWaySSLServerExample.java",
+      "SPDXID": "SPDXRef-File--src-main-example-TwoWaySSLServerExample.java-F6F4803C2AC52A98B0426683848D2FF960E49946",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db14b61e71fdf7e24fb6bd941492326a1ab61e7eafab47a9e53190418574103e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6f4803c2ac52a98b0426683848d2ff960e49946"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/WebSocketFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-WebSocketFactory.java-E96A474178AD37446D3C7E354AA9A827D559C80C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bbee652ea63eefc7b38b713c18c53f0b591bc07bf18e3af21d145ba2d50a53f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e96a474178ad37446d3c7e354aa9a827d559c80c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/drafts/Draft.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-drafts-Draft.java-7E095B83F8C024752617F7BFB2A3CC1CEFAD3262",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7687b3e3bc836cf1c6fe233839172a79d73ec97fd67169e592a2ece0f0124e50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e095b83f8c024752617f7bfb2a3cc1cefad3262"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/enums/Role.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-enums-Role.java-62F27F4BCF0616A2E2755FC6FE4D37896EB64D53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a752c218cb1af3f53c3fed3e721408459a1144d871c1040c66d94e9a61e9fb54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62f27f4bcf0616a2e2755fc6fe4d37896eb64d53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/NotSendableException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-NotSendableException.java-AF379DE7B9F3D691388BEA07174173906C9BEF25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d6f8fa0ea65cec7b77d880fb2b4c271bc505ef566062b4aae03091a145e9a071"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "af379de7b9f3d691388bea07174173906c9bef25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/extensions/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-extensions-package-info.java-CC337698264C3809D9202B3401CC81DCFB78CAAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd80b913f406f7bec4a047af580c470279b31b757c4ccaeceddce9f8533db8dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc337698264c3809d9202b3401cc81dcfb78caad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/FramedataImpl1.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-FramedataImpl1.java-908C48D0DC379A6A5282C2E60A6703C9CCB82216",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f30e4b8ad4435d9e1c5f31d7dd4466d96fdf2617e248d868b3c302f293289e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "908c48d0dc379a6a5282c2e60a6703c9ccb82216"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/Handshakedata.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-Handshakedata.java-965D536B8801928552D867D4C1B8703F80A77710",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7fe8fe394b4462ab2fe00a5dff536f5264147116744406d155dc9d938f45e20b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "965d536b8801928552d867d4c1b8703f80a77710"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/interfaces/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-interfaces-package-info.java-704389BD3B9C92ABDAD90A6555B2334CA8529469",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d3d50fd7e396edd2a44a608f5bf63d7d2413144c8409060b06063809ddba6a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "704389bd3b9c92abdad90a6555b2334ca8529469"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/server/SSLParametersWebSocketServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-server-SSLParametersWebSocketServerFactory.java-C54E5FFAD7B13DCF3528DBF2092F005F3B934CC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31d25ed3db73e304475768f8b32de9023e3d2205a3a9e41042fa0f0be5d20a8f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c54e5ffad7b13dcf3528dbf2092f005f3b934cc7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/keystore.jks",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-keystore.jks-478B2FAD5187DD522984CA87B421E00BBEF65869",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3062f54375e58bae209a0323016af3c040fce336a0e05b50a9c624b3b93a2d3d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "478b2fad5187dd522984ca87b421e00bbef65869"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/InvalidEncodingException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidEncodingException.java-610BDD3EB9434FB04AF0F0F7D04B0441BC0F4E58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e6b8d4907309f92172c7198656640ef821e963b40a9c70fd589ca9bf1eb407f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "610bdd3eb9434fb04af0f0f7d04b0441bc0f4e58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/extensions/CompressionExtension.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-extensions-CompressionExtension.java-627B9F1C15CC7D5A0C187DECF2D36198BAC5E33B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06ae5e7fed8a42bbf76b3a2e7f10c47d8cee9b759a0fba3c016e936bfb0d4c80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "627b9f1c15cc7d5a0c187decf2d36198bac5e33b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/ContinuousFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-ContinuousFrame.java-211ED671C36668E6579B97499535A524A6B41369",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b1af5565c21354e0f0be3d87d9643bc26acbbce64b9ddfa6cb0bc3efe282fa2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "211ed671c36668e6579b97499535a524a6b41369"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/TextFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-TextFrame.java-7DA730A520B3C4D5CA005CBAD100B7472453C4F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3afaa6b48d947398080fd7851b89f7590dd4080031ee3ca0916ed72599d2282b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7da730a520b3c4d5ca005cbad100b7472453c4f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-package-info.java-225B096B2FE840A1D421701BD2EF7AEF5A54D14A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e8edd6c3112bab803d5a8c1e71ec0b43e17d30ad54fffe11d0229d2922b5e4c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "225b096b2fe840a1d421701bd2ef7aef5a54d14a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/server/CustomSSLWebSocketServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-server-CustomSSLWebSocketServerFactory.java-061FA48FAFAB61465CBC7A31C92008A62FFB95B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "034ab778a32092bf3e37131673fcdb52776d689b03b9f78d003758931d055f90"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "061fa48fafab61465cbc7a31c92008a62ffb95b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/util/Charsetfunctions.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-util-Charsetfunctions.java-F55DC71CC38A13421437F2DBF73106A1D8F2378B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57b38623c69d0f7ee4ac82deec3bb0ab693dd5aab872c2b05d939b88f8b63063"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f55dc71cc38a13421437f2dbf73106a1d8f2378b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/client/AttachmentTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-client-AttachmentTest.java-03A6DCF66145527B93B6A1694520CE6DF6A51004",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "136d8e5f2ff91ba2dd985d363e345dd05ca243a569aed77293c5f4dad77904b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03a6dcf66145527b93b6a1694520ce6df6a51004"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/AllExceptionsTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-AllExceptionsTests.java-570F95EE8B38D6A354191220B5582FE00444A71F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c189bf6a3c99f6a7af9cb3307e824f062c1c421678c2d651cc6d06bbdb87449f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "570f95ee8b38d6a354191220b5582fe00444a71f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/NotSendableExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-NotSendableExceptionTest.java-194519166433B4E25E69312F2F6011AC2DE7B982",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b93045ee347e998edca0ed38ee62c267e7b2f1b2ae2d628a37c9991dc4b812a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "194519166433b4e25e69312f2f6011ac2de7b982"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/CloseFrameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-CloseFrameTest.java-1DBC636122FC019D5FA7414B7ED8F5CFECEF0C3C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1dfa1cb1c042cf2341c47a1cf2d3c528031390831d70ffa233f0ae5068cceab6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1dbc636122fc019d5fa7414b7ed8f5cfecef0c3c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue1160Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue1160Test.java-708C82F8257189276EBC706C55A47310F09C751A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e58b141949a472f46d86e021d29a0c03009ced61513cb8c405cca660fb31c28"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "708c82f8257189276ebc706c55a47310f09c751a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue666Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue666Test.java-345601E0D904D697DB51F992B2967EEB71F02E36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5eafe215f59fd594e9ea4d640d782061e71a71353fa762d5dbee2fc349da37fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "345601e0d904d697db51f992b2967eeb71f02e36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue834Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue834Test.java-7B03B29E4D3DABC0F248783860E42A5A18031970",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "adba575d67403156fd0f8dad9ca18839b22a837dbb95af828aa650191ba36205"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7b03b29e4d3dabc0f248783860e42a5a18031970"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/InvalidDataException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidDataException.java-B186A0000DC74D4DA7C35AAE35F081D9FCA1C932",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "febe624a78e36af78afc65f0d5df3f38c461e7241642a5b5eff8d0122c367da9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b186a0000dc74d4da7c35aae35f081d9fca1c932"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/WrappedIOException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-WrappedIOException.java-C18A8671905C7AA16D0715A42BE0D73FECC53599",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56e4bd8e28392b3db83b2d41227b0d6d880ebf706635fb0d6aeaa18cc961ee3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c18a8671905c7aa16d0715a42be0d73fecc53599"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/CloseFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-CloseFrame.java-2A786CE3BF45B6294D8E33667CA86C5432505662",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6f02e4ec64b42dcb568f68e373c219b6939252597ae7a4130aa127cc1f7af94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a786ce3bf45b6294d8e33667ca86c5432505662"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/PongFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-PongFrame.java-92F1E98AA41E6E7C6F21E25F8DDA1FC83BF3156F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36635e7c5adf553c4e54f1c6cf1438e3a92fa8e409677e246baeee97355f3443"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "92f1e98aa41e6e7c6f21e25f8dda1fc83bf3156f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/HandshakeImpl1Server.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakeImpl1Server.java-6D796A06B59D03996CA5F9387BA2CF1EA220FCF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d5dce1220603de88c6119a262f71c7000027875f188055d48cca03560af2d81"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d796a06b59d03996ca5f9387ba2cf1ea220fcf1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/protocols/Protocol.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-protocols-Protocol.java-9BEBDF44AD4C665BD28FB6EEE02ADB3EB330CB0E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc3a0478c83a1c179e3ca91067d0ea21e1a3bceccb69535272f67f9ea30b9daf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bebdf44ad4c665bd28fb6eee02adb3eb330cb0e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/util/ByteBufferUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-util-ByteBufferUtils.java-81DEE8E047ADAABEC77C904FE29B713D6B0F4B1F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54498b7c50ad5d01083a99862ddf057775fcf9994b277e5cca6f953163067839"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81dee8e047adaabec77c904fe29b713d6b0f4b1f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/client/AllClientTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-client-AllClientTests.java-7221575D15AB171EFC35341EB455F550FBF808D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "059d86aa515039747fa896e7209db0268689dff5dbd5e53def6a8e68f7054872"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7221575d15ab171efc35341eb455f550fbf808d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/example/AutobahnSSLServerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-example-AutobahnSSLServerTest.java-510F998E8A9B92904C58297D88F61EBB6011DDB8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ff0e751b7438132f070d526e3dda07a8fd248c0bd7f8c9ea6c8c2b5676ce0020"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "510f998e8a9b92904c58297d88f61ebb6011ddb8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/LimitExceededExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-LimitExceededExceptionTest.java-C02B47F995EDA825E5E982BDDD4177A07AED2BB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ec73e2dd4e08b60b3a5f6a448b564f59a65e2712c3a3e14e6974982635ef496"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c02b47f995eda825e5e982bddd4177a07aed2bb0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/BinaryFrameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-BinaryFrameTest.java-CFF580D47739341E851BA550D79F26C904F42264",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80ab174493d8348dc964ab9b6149db81406ae03ccdba5f072836347d9e545356"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cff580d47739341e851ba550d79f26c904f42264"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue1142Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue1142Test.java-83698B99DB18A41A93B11C980D3B5CBA832D64FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "878e61a40e4726ad242f3118f5ea9918a9cb7b44e791abffcf32c2d0d0d934e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83698b99db18a41a93b11c980d3b5cba832d64ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue661Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue661Test.java-2807680B3E61B134970D059D90F843E029F8A0E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0770840c24692655298c5b15cb5b27996fe8b4e35241894695e260ff447fe82"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2807680b3e61b134970d059d90f843e029f8a0e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue825Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue825Test.java-93C137373B155A1047CBCE42E071665FEC3538C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0cf1c7fe66f23614687c40bc678b676e7074dbaeb77fc4d4e5fdf1c0270571b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93c137373b155a1047cbce42e071665fec3538c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/enums/Opcode.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-enums-Opcode.java-B6F98325E5595A8B6548ADFBDF72412065E05C5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19700115b37ef19e219208fa7e6cc51d37dbfc74e0481f14c9fde00211ab24bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6f98325e5595a8b6548adfbdf72412065e05c5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/exceptions/InvalidFrameException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidFrameException.java-55D63C395C5A9EAA53DDFBCDE731C3F919010F60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "15f16ac301db3f4c7d56c7827993436786abbcb9e29ab28dad826c3f608bbafd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55d63c395c5a9eaa53ddfbcde731c3f919010f60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/extensions/DefaultExtension.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-extensions-DefaultExtension.java-710A0B138CA0EA4AA6B2AB91C7B03843D6638A16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efbd19b7e12790b5486464cbe646bff017090fcade6764923e82d216970d17e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "710a0b138ca0ea4aa6b2ab91c7b03843d6638a16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/ControlFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-ControlFrame.java-3B5052B57B2CE37AF58960B92503D87C82FF6820",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c23fb870ca3092c4b1a83b710dd5e7330e960188b9b8528337c04f2b8de878ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3b5052b57b2ce37af58960b92503d87c82ff6820"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/ClientHandshake.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-ClientHandshake.java-7DEFFC08DD3BC1AB883F3532AC2482B5E81BCE10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63e205c2ef36002f1203ee78f5c6fb864152e5766160eb1ed0b26764a0396826"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7deffc08dd3bc1ab883f3532ac2482b5e81bce10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/ServerHandshake.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-ServerHandshake.java-6ACB597CEB8EAA00AA50E169BE6817B25F386885",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e0c8ef6c576b3268deca9e8c27d0a7a1e01f6b703ce3c8630d43aee3378f107"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6acb597ceb8eaa00aa50e169be6817b25f386885"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/server/DefaultSSLWebSocketServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-server-DefaultSSLWebSocketServerFactory.java-2A5B2355F2B2A2789EB13500EB8FE5B907B7C071",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "053667e619df7d180f5314a32208feb54bdd6c0730f3e007f614500ebd77b4bd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a5b2355f2b2a2789eb13500eb8fe5b907b7c071"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/util/NamedThreadFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-util-NamedThreadFactory.java-D910C3B2E44FBED1E0207FBD7558A1F7AF979992",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae651f2a31b215b2ede676c8fe830c9e1ca3759ae2f24ed6088ff9d0761d7272"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d910c3b2e44fbed1e0207fbd7558a1f7af979992"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/client/HeadersTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-client-HeadersTest.java-0E2854D61FDCDC9E956E61F3A8BE6D9815194075",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "deada1ac89b5bc6b34b98b18e02b991e02bb081f71808704332b03d39df0aca1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e2854d61fdcdc9e956e61f3a8be6d9815194075"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/IncompleteExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-IncompleteExceptionTest.java-2E0B535F543D39020C1DA2626851186DF36C62D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c97df3dcf701d6c9e964af33b9ae72ff59cb96f2e896492b6bd74088c82e5b69"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e0b535f543d39020c1da2626851186df36c62d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/WebsocketNotConnectedExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-WebsocketNotConnectedExceptionTest.java-46D75C17C6CED47D8AFFB9E896D64FF39A93CC29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "343b17857a91ea5c158bc31535e420363172ef6698540794179f222211bccda4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46d75c17c6ced47d8affb9e896d64ff39a93cc29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/ContinuousFrameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-ContinuousFrameTest.java-07953E2832066DDC602D80EED1B2EECB82066E11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0408784fd2c2a8cb5947bd95da71fc719d220e536af4e3f532a8963b8906b21"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07953e2832066ddc602d80eed1b2eecb82066e11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue1203Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue1203Test.java-323EA067FD7247F4A7187B8F08A3E8AAC7310F4C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "317e1cd9dd8c16aadd7eda04cbad6322bbb2853aea41d65ee1b70a83522f485c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "323ea067fd7247f4a7187b8f08a3e8aac7310f4c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue677Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue677Test.java-DB9E2E9089C48601696C96ED30FEC77F350B9710",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d345a4b99250cc186f224ef622c267c830abc54bedaddcdec2bf7113654ec87e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db9e2e9089c48601696c96ed30fec77f350b9710"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/PingFrame.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-PingFrame.java-EFD7057F5BE376B405CCBA864821473C4EB524D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82d6251822537b280dc58f5d82ed7416c3f3168c01e6bac57776367b2560adf0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "efd7057f5be376b405ccba864821473c4eb524d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/HandshakeImpl1Client.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakeImpl1Client.java-C4779F3A9E4CC6B552869578987D3CF4DDCB9E20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "11c89963ce87f6ec9c679350ba754f66cc8d7868dcdfa8dfaca2501b6bd3a268"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4779f3a9e4cc6b552869578987d3cf4ddcb9e20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/protocols/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-protocols-package-info.java-56CFBA6348C415AC0B30835C177EBB10B9E70D2A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9388094817dd2e285590ef5ccc554f995e58a0d4e6f1a682a94f7eb082b29d44"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56cfba6348c415ac0b30835c177ebb10b9e70d2a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/util/Base64.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-util-Base64.java-5F6C5D8B158B1B219999BFC42D384B3F553C7E7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9c63cf630fc39a4ab80f456d36938333cf66ef0d73a622a22e803046f3cfb24d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f6c5d8b158b1b219999bfc42d384b3f553c7e7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/autobahn/AutobahnServerResultsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-autobahn-AutobahnServerResultsTest.java-06105CECB146D495CE7E06CFEAE4FE017AC78FB2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ef508ca203881387810d9cc4f854c5c08ef82e542eacc39edc208af9061aed2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06105cecb146d495ce7e06cfeae4fe017ac78fb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/example/AutobahnServerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-example-AutobahnServerTest.java-5AA23D60AD9248F3BDBABEDD04B491800AEA027C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9fb21b91f432880a06500675b3ae6ef351b697f8f95a70e8c666c69f0fe764e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5aa23d60ad9248f3bdbabedd04b491800aea027c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/InvalidHandshakeExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidHandshakeExceptionTest.java-8BCEDA4773C96E47F2B58DE5EF7EB7A4F851936D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e2c4888560eb54052152bbca2d816948791f0b1cf16283c64661795a3668d95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bceda4773c96e47f2b58de5ef7eb7a4f851936d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/AllFramingTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-AllFramingTests.java-1B496EAC1DD4D78EB89B523D73C9FD2AB26F1678",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d51519fd21f8aa3136e6664470b725e2637c67f959fabd38e70b7307c7c576d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b496eac1dd4d78eb89b523d73c9fd2ab26f1678"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/AllIssueTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-AllIssueTests.java-80B0AFD3157BE88A4C55B10FF4F5BD893AA07495",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7584c8c738451b9f21ad43b32a7e90f5430847f2aaf2c4d5004f437c51bae406"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80b0afd3157be88a4c55b10ff4f5bd893aa07495"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue621Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue621Test.java-23CA6927212B1C99D97DCCB28D145897FB6D7458",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "605744f2c9e6389d5376f981077c7231493f384981796e758c23263b162387c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23ca6927212b1c99d97dccb28d145897fb6d7458"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue811Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue811Test.java-067F6695750B6A565CB2FB48A0C7CD883235671D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ac35970388ac606fe9329caf1882a52b529c232d720f05eb2e15b1792a29ab9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "067f6695750b6a565cb2fb48a0c7cd883235671d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue941Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue941Test.java-2C495D5E95CDCD12A6BAB863ADB647DAB3780CEE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c117f63f4a961288b0ba1edebfd07a89ef7c1c0870e4d57a34d995f6d486b7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c495d5e95cdcd12a6bab863adb647dab3780cee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/extensions/permessage_deflate/PerMessageDeflateExtension.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-extensions-permessage-deflate-PerMessageDeflateExtension.java-FE3B0BE484239C6481B695A29491157A47BFA7C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53aabfe7ae74c7051f1c8883d87465dfff9a429da1dbcb9a0b6cd4e311b19eb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe3b0be484239c6481b695a29491157a47bfa7c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/framing/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-framing-package-info.java-FB06FE295ADB2A139D9C491A583D2E12EE00DF66",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9987afc00045f6a831013ae53b177fe75ccfd99bb55c54b0b3c41e5b86ad74f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb06fe295adb2a139d9c491a583d2e12ee00df66"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/handshake/HandshakedataImpl1.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakedataImpl1.java-7C0C36CB27622717A8746BAEC6F2A5971A87B2DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3740e1c7e1bc4478c1e9a55f9743b346e65faf15aa5fe6a7963a0a88cf76504f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c0c36cb27622717a8746baec6f2a5971a87b2db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/protocols/IProtocol.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-protocols-IProtocol.java-881802F5E9796DF51C1B68C06706E40AD090792D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64e9ce964b7376740a74e6f09fb1dafcf7a6fe5f3ec7909f6d634beffe46cfc9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "881802f5e9796df51c1b68c06706e40ad090792d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/java_websocket/server/WebSocketServer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-java-websocket-server-WebSocketServer.java-18EBE13914FDBB227275564F694621BDCC7CFE8E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4213e906cf622c6b60a0f62aebd525b1163449048d1b9d681df6438cbd8a49db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18ebe13914fdbb227275564f694621bdcc7cfe8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/keystore_localhost_only.jks",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-keystore-localhost-only.jks-686A8E93C75559478D1EEB2E349A90C541AD5D93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd7395b1e13e6d0800afccdc5844f7257b8e96648e6eb28f38afc57360834e9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "686a8e93c75559478d1eeb2e349a90c541ad5d93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/example/AutobahnClientTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-example-AutobahnClientTest.java-1001D2062A58EA2FDD294A6AD0EF3B8FC96E14EB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e4139eb252b2ce340686cb515536498e61e770446ec5286bfa622631d4a3fa8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1001d2062a58ea2fdd294a6ad0ef3b8fc96e14eb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/InvalidFrameExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidFrameExceptionTest.java-C2BE1585E4042762B575A259796B60ED188753D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56f68c010e12a7d91e5e9e9bde1497bcf0ac70f0504c8d7bdd019968ca0c64e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2be1585e4042762b575a259796b60ed188753d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/extensions/PerMessageDeflateExtensionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-extensions-PerMessageDeflateExtensionTest.java-B699DFF44DA4B95722849B7DAB5F857B42D02CA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72923ad629d8bc63abd641edb49fd8b7353b3ae5ee907ededc24b2a0a4338049"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b699dff44da4b95722849b7dab5f857b42d02ca1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/TextFrameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-TextFrameTest.java-51A75F73994199E028946162B17CFB2FD52D544B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8796eacbcca34427f039a5d499ef97a0002cb9907c1dfbc7af4a51536629eaf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51a75f73994199e028946162b17cfb2fd52d544b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue609Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue609Test.java-ABCDD500D6035C15081542829555BCF108BA29BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a8d11d7fe31daf66579c062480b53a5f581bdbf04547f71738461bd188679e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "abcdd500d6035c15081542829555bcf108ba29bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue765Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue765Test.java-98AF3E83FF83FCC950747F2BF0BB5688D6A9FF0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d465cebb14817ef1de242c214e52aea86fadc07611913af754cfeed3fdd810d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98af3e83ff83fcc950747f2bf0bb5688d6a9ff0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/protocols/AllProtocolTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-protocols-AllProtocolTests.java-AB5A3CFFB18AA4CB2736C08593BE79FDB23A2E43",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8652b2a2d003402e985f9a111f9c6fa903f690dcfd19af291f2e8210b4696f6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab5a3cffb18aa4cb2736c08593be79fdb23a2e43"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue962Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue962Test.java-EEF160DDD8DD1908906B2E9A7E8AEE982A07D39B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b1808f3b4ea1a97f00ce9a8ac93bddec25d66fd0f40d0c8db130f7d0649c073"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eef160ddd8dd1908906b2e9a7e8aee982a07d39b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue847Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue847Test.java-992A19368DCB011EF2F1294F820AA1500E22C4A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef2656cffd609fc2a4f84a16d378f84b50e8083699057754c32f8c8018257fe9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "992a19368dcb011ef2f1294f820aa1500e22c4a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/server/AllServerTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-server-AllServerTests.java-874701C181D824620E004F3C27ED825EEEA39D61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d78780900e83971ee22ce7c7cdb53e0ae617a1ea07c7c90bcd22183d80406ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "874701c181d824620e004f3c27ed825eeea39d61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/server/WebSocketServerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-server-WebSocketServerTest.java-EAE3D5B79958F31555E864BF1D5461A6D1204B42",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6236fba11848d6a2ebde8e16e23f0331bbdd4a0516f341fdabf9309b1fe2598"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eae3d5b79958f31555e864bf1d5461a6d1204b42"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue997Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue997Test.java-7FCE31694FEB6F965475DCBED1F75AF3B2BD25DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "adc578f2399ffcddd63b3fcba285b018e0bf49755a29e5a2d98aa44e6667efcd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7fce31694feb6f965475dcbed1f75af3b2bd25db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue900Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue900Test.java-4A37526084CD9EACA7DD3300E86CA530C3896A4E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c432e0292dcdeac4c315f439c4f11f52c75a10495e1e1944cce3d543a028de35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a37526084cd9eaca7dd3300e86ca530c3896a4e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/drafts/Draft_6455Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-drafts-Draft-6455Test.java-037C8631976E45B44BA6F901BC532ACB0D32054C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88e17ab9303d03e5fa1eb2276c8a705d460eb76d0dfdfebed4dbeae224c270e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "037c8631976e45b44ba6f901bc532acb0d32054c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/org/java_websocket/AutobahnClient.feature",
+      "SPDXID": "SPDXRef-File--src-test-resources-org-java-websocket-AutobahnClient.feature-63ECB3A6B6D9F66C5267E8D3AA14F90EED58C7DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3172e468ae4789e104a504556443a43282536e6a521d8bc17a798ca85e842dbf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63ecb3a6b6d9f66c5267e8d3aa14f90eed58c7dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/server/CustomSSLWebSocketServerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-server-CustomSSLWebSocketServerFactoryTest.java-32FFB7309C46C5E0B9E934DCBB77CF3C88637125",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ad1e00c546c2c586de4e815774abc0e3285d34a49093ab60ca34b05058c3f13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32ffb7309c46c5e0b9e934dcbb77cf3c88637125"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/misc/AllMiscTests.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-misc-AllMiscTests.java-8F326A43D62E9AC5B43086C51CF4F0BC5F2707E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "224c65b60fd7810c10aee1b54703c41c0a4297aff23d53a458474c832feae14c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f326a43d62e9ac5b43086c51cf4f0bc5f2707e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/CharsetfunctionsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-CharsetfunctionsTest.java-98085949E095F95C2D7863BE9B83C454F5197B4C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "328d89310927723eeef7e0725bb4c8d18d090599c4819ec665ac7677cca51a62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98085949e095f95c2d7863be9b83c454f5197b4c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/protocols/ProtocolTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-protocols-ProtocolTest.java-049807F05B75FF8B2703631C0B60DC3C1CF02443",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ee38152f14f14f3a38eb298085c3ad99b7b4545b431e08519b4229e130673c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "049807f05b75ff8b2703631c0b60dc3c1cf02443"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/server/DefaultSSLWebSocketServerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-server-DefaultSSLWebSocketServerFactoryTest.java-DBD5ADD8504C745DC5F976D4154E592C3515634B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68dcde4e1b01cad027ab3e5de5e16cc3b9d4a7a1cd1e93326b4dcf20f620f99f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbd5add8504c745dc5f976d4154e592c3515634b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/exceptions/InvalidEncodingExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidEncodingExceptionTest.java-FAA7C4BF4EA5DCBD7B434894D8A7E96074C4B35A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de900a7a91b9bc5f6f42cdbc0b2177d849566af6648d7ea6646cce661c275502"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "faa7c4bf4ea5dcbd7b434894d8a7e96074c4b35a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/server/DefaultWebSocketServerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-server-DefaultWebSocketServerFactoryTest.java-CD0B1839FC19085D6212E354DF9DA7F2C19E20B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "203f2cdfcdff8167b11f9cb18e12a9e5da2eca93b289a6e661fb6c6300e0edf9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd0b1839fc19085d6212e354df9da7f2c19e20b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/KeyUtils.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-KeyUtils.java-D766431DF00EF01C33AC8B20A2A1723A7439B404",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "013b327ce234f7eea0bebf2c3a459162a3556631fb8a2c3f3c153fb6fcab6d33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d766431df00ef01c33ac8b20a2a1723a7439b404"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/SocketUtil.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-SocketUtil.java-DE5B3F4F9920DEF109E236B28D1D37F94B0B44AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c578af9f37a07b8f14f28438b22e14d05e7a209d236d0367aab56500889c92fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de5b3f4f9920def109e236b28d1d37f94b0b44ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/ByteBufferUtilsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-ByteBufferUtilsTest.java-B20F2A43F76A3534FB98C8CF8F643356428E9A53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f3e1feb501b3fc72781c3efe72a884069b44ccdcd3352acc0ae61e2a805ce436"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b20f2a43f76a3534fb98c8cf8f643356428e9a53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/SSLContextUtil.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-SSLContextUtil.java-CAF2A30D009B8A10BDED1CC579AA2A2F111D6EC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "756d0d6efb4c79ac16b29987c86f70b7e74e9173d23b50ab3c09c40f454ede6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "caf2a30d009b8a10bded1cc579aa2a2f111d6ec9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/extensions/DefaultExtensionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-extensions-DefaultExtensionTest.java-DEEAB184AE480F0DA0B258916B4EF2FC1EB5F312",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "adcca87bacb31bf9908848cda7c3df285ccc99494367af21b022bdcba83cb89e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "deeab184ae480f0da0b258916b4ef2fc1eb5f312"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/framing/PongFrameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-framing-PongFrameTest.java-A40F96CEA13DA4002D92D3689FFF9E76E885F292",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a78153d22e307df00bc0e1381d4a5f64f4a8b1bba581e535353680474946ad15"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a40f96cea13da4002d92d3689fff9e76e885f292"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue598Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue598Test.java-9F52F1ADC10AE60123DE3EAABF6C1D1D44D300F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4d4bc483785a9c70f68b87c00e2b4f1e7867a71f5b4060b1e92ec87d73b30e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f52f1adc10ae60123de3eaabf6c1d1d44d300f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue764Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue764Test.java-BB9CE6791B2716127BE6C1238BF1AF7A48F78712",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7eeb25f74fafebdc3d5008e709c8bbcde2d5c61b3f85ae13c1f8a8aa7f701301"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb9ce6791b2716127be6c1238bf1af7a48f78712"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/issues/Issue890Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue890Test.java-33EBC9AE3557121622031A4E4522EA8D0F3E7B0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a34191237eb015a4389ed51daabd8a083d6de36e014f29e6c837f1443087ee88"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33ebc9ae3557121622031a4e4522ea8d0f3e7b0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/protocols/ProtocolHandshakeRejectionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-protocols-ProtocolHandshakeRejectionTest.java-1231A8D5F74360B137F6475A3548168CD0EFB08B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2a43a50fb27e69af5eef1cd88e5617570c9808c3c623ce54a6bc1c4963b577c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1231a8d5f74360b137f6475a3548168cd0efb08b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/java_websocket/util/Base64Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-java-websocket-util-Base64Test.java-F8AC767AA3EB67DFCD3CD2290E1545718613C0F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18aa10576e5c77474ebc821398a2399e99f69339f6e1d05ef90d27055b6798cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8ac767aa3eb67dfcd3cd2290e1545718613c0f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Java-WebSocket",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "977a0541697f5a17b3ea2f4467c6ce26117717d6"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.5.4-SNAPSHOT",
+      "supplier": "Organization: https://github.com/TooTallNate/Java-WebSocket",
+      "hasFiles": [
+        "SPDXRef-File--src-test-java-org-java-websocket-util-Base64Test.java-F8AC767AA3EB67DFCD3CD2290E1545718613C0F5",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue890Test.java-33EBC9AE3557121622031A4E4522EA8D0F3E7B0A",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue598Test.java-9F52F1ADC10AE60123DE3EAABF6C1D1D44D300F9",
+        "SPDXRef-File--src-test-java-org-java-websocket-util-SSLContextUtil.java-CAF2A30D009B8A10BDED1CC579AA2A2F111D6EC9",
+        "SPDXRef-File--src-test-java-org-java-websocket-util-ByteBufferUtilsTest.java-B20F2A43F76A3534FB98C8CF8F643356428E9A53",
+        "SPDXRef-File--src-test-java-org-java-websocket-extensions-DefaultExtensionTest.java-DEEAB184AE480F0DA0B258916B4EF2FC1EB5F312",
+        "SPDXRef-File--src-test-java-org-java-websocket-util-KeyUtils.java-D766431DF00EF01C33AC8B20A2A1723A7439B404",
+        "SPDXRef-File--src-test-java-org-java-websocket-server-DefaultSSLWebSocketServerFactoryTest.java-DBD5ADD8504C745DC5F976D4154E592C3515634B",
+        "SPDXRef-File--src-test-java-org-java-websocket-util-CharsetfunctionsTest.java-98085949E095F95C2D7863BE9B83C454F5197B4C",
+        "SPDXRef-File--src-test-java-org-java-websocket-protocols-ProtocolHandshakeRejectionTest.java-1231A8D5F74360B137F6475A3548168CD0EFB08B",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue764Test.java-BB9CE6791B2716127BE6C1238BF1AF7A48F78712",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-PongFrameTest.java-A40F96CEA13DA4002D92D3689FFF9E76E885F292",
+        "SPDXRef-File--src-test-java-org-java-websocket-util-SocketUtil.java-DE5B3F4F9920DEF109E236B28D1D37F94B0B44AB",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidEncodingExceptionTest.java-FAA7C4BF4EA5DCBD7B434894D8A7E96074C4B35A",
+        "SPDXRef-File--src-test-java-org-java-websocket-misc-AllMiscTests.java-8F326A43D62E9AC5B43086C51CF4F0BC5F2707E5",
+        "SPDXRef-File--src-test-java-org-java-websocket-server-CustomSSLWebSocketServerFactoryTest.java-32FFB7309C46C5E0B9E934DCBB77CF3C88637125",
+        "SPDXRef-File--src-test-resources-org-java-websocket-AutobahnClient.feature-63ECB3A6B6D9F66C5267E8D3AA14F90EED58C7DC",
+        "SPDXRef-File--src-test-java-org-java-websocket-server-DefaultWebSocketServerFactoryTest.java-CD0B1839FC19085D6212E354DF9DA7F2C19E20B6",
+        "SPDXRef-File--src-test-java-org-java-websocket-protocols-ProtocolTest.java-049807F05B75FF8B2703631C0B60DC3C1CF02443",
+        "SPDXRef-File--src-test-java-org-java-websocket-drafts-Draft-6455Test.java-037C8631976E45B44BA6F901BC532ACB0D32054C",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue900Test.java-4A37526084CD9EACA7DD3300E86CA530C3896A4E",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue997Test.java-7FCE31694FEB6F965475DCBED1F75AF3B2BD25DB",
+        "SPDXRef-File--src-test-java-org-java-websocket-server-WebSocketServerTest.java-EAE3D5B79958F31555E864BF1D5461A6D1204B42",
+        "SPDXRef-File--src-test-java-org-java-websocket-server-AllServerTests.java-874701C181D824620E004F3C27ED825EEEA39D61",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue847Test.java-992A19368DCB011EF2F1294F820AA1500E22C4A6",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue962Test.java-EEF160DDD8DD1908906B2E9A7E8AEE982A07D39B",
+        "SPDXRef-File--src-test-java-org-java-websocket-protocols-AllProtocolTests.java-AB5A3CFFB18AA4CB2736C08593BE79FDB23A2E43",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue765Test.java-98AF3E83FF83FCC950747F2BF0BB5688D6A9FF0A",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue609Test.java-ABCDD500D6035C15081542829555BCF108BA29BB",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-TextFrameTest.java-51A75F73994199E028946162B17CFB2FD52D544B",
+        "SPDXRef-File--src-test-java-org-java-websocket-extensions-PerMessageDeflateExtensionTest.java-B699DFF44DA4B95722849B7DAB5F857B42D02CA1",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidFrameExceptionTest.java-C2BE1585E4042762B575A259796B60ED188753D6",
+        "SPDXRef-File--src-test-java-org-java-websocket-example-AutobahnClientTest.java-1001D2062A58EA2FDD294A6AD0EF3B8FC96E14EB",
+        "SPDXRef-File--src-test-java-org-java-websocket-keystore-localhost-only.jks-686A8E93C75559478D1EEB2E349A90C541AD5D93",
+        "SPDXRef-File--src-main-java-org-java-websocket-server-WebSocketServer.java-18EBE13914FDBB227275564F694621BDCC7CFE8E",
+        "SPDXRef-File--src-main-java-org-java-websocket-protocols-IProtocol.java-881802F5E9796DF51C1B68C06706E40AD090792D",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakedataImpl1.java-7C0C36CB27622717A8746BAEC6F2A5971A87B2DB",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-package-info.java-FB06FE295ADB2A139D9C491A583D2E12EE00DF66",
+        "SPDXRef-File--src-main-java-org-java-websocket-extensions-permessage-deflate-PerMessageDeflateExtension.java-FE3B0BE484239C6481B695A29491157A47BFA7C6",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue941Test.java-2C495D5E95CDCD12A6BAB863ADB647DAB3780CEE",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue811Test.java-067F6695750B6A565CB2FB48A0C7CD883235671D",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue621Test.java-23CA6927212B1C99D97DCCB28D145897FB6D7458",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-AllIssueTests.java-80B0AFD3157BE88A4C55B10FF4F5BD893AA07495",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-AllFramingTests.java-1B496EAC1DD4D78EB89B523D73C9FD2AB26F1678",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidHandshakeExceptionTest.java-8BCEDA4773C96E47F2B58DE5EF7EB7A4F851936D",
+        "SPDXRef-File--src-test-java-org-java-websocket-example-AutobahnServerTest.java-5AA23D60AD9248F3BDBABEDD04B491800AEA027C",
+        "SPDXRef-File--src-test-java-org-java-websocket-autobahn-AutobahnServerResultsTest.java-06105CECB146D495CE7E06CFEAE4FE017AC78FB2",
+        "SPDXRef-File--src-main-java-org-java-websocket-util-Base64.java-5F6C5D8B158B1B219999BFC42D384B3F553C7E7F",
+        "SPDXRef-File--src-main-java-org-java-websocket-protocols-package-info.java-56CFBA6348C415AC0B30835C177EBB10B9E70D2A",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakeImpl1Client.java-C4779F3A9E4CC6B552869578987D3CF4DDCB9E20",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-PingFrame.java-EFD7057F5BE376B405CCBA864821473C4EB524D0",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue677Test.java-DB9E2E9089C48601696C96ED30FEC77F350B9710",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue1203Test.java-323EA067FD7247F4A7187B8F08A3E8AAC7310F4C",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-ContinuousFrameTest.java-07953E2832066DDC602D80EED1B2EECB82066E11",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-WebsocketNotConnectedExceptionTest.java-46D75C17C6CED47D8AFFB9E896D64FF39A93CC29",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-IncompleteExceptionTest.java-2E0B535F543D39020C1DA2626851186DF36C62D5",
+        "SPDXRef-File--src-test-java-org-java-websocket-client-HeadersTest.java-0E2854D61FDCDC9E956E61F3A8BE6D9815194075",
+        "SPDXRef-File--src-main-java-org-java-websocket-util-NamedThreadFactory.java-D910C3B2E44FBED1E0207FBD7558A1F7AF979992",
+        "SPDXRef-File--src-main-java-org-java-websocket-server-DefaultSSLWebSocketServerFactory.java-2A5B2355F2B2A2789EB13500EB8FE5B907B7C071",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-ServerHandshake.java-6ACB597CEB8EAA00AA50E169BE6817B25F386885",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-ClientHandshake.java-7DEFFC08DD3BC1AB883F3532AC2482B5E81BCE10",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-ControlFrame.java-3B5052B57B2CE37AF58960B92503D87C82FF6820",
+        "SPDXRef-File--src-main-java-org-java-websocket-extensions-DefaultExtension.java-710A0B138CA0EA4AA6B2AB91C7B03843D6638A16",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidFrameException.java-55D63C395C5A9EAA53DDFBCDE731C3F919010F60",
+        "SPDXRef-File--src-main-java-org-java-websocket-enums-Opcode.java-B6F98325E5595A8B6548ADFBDF72412065E05C5E",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue825Test.java-93C137373B155A1047CBCE42E071665FEC3538C3",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue661Test.java-2807680B3E61B134970D059D90F843E029F8A0E7",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue1142Test.java-83698B99DB18A41A93B11C980D3B5CBA832D64FF",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-BinaryFrameTest.java-CFF580D47739341E851BA550D79F26C904F42264",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-LimitExceededExceptionTest.java-C02B47F995EDA825E5E982BDDD4177A07AED2BB0",
+        "SPDXRef-File--src-test-java-org-java-websocket-example-AutobahnSSLServerTest.java-510F998E8A9B92904C58297D88F61EBB6011DDB8",
+        "SPDXRef-File--src-test-java-org-java-websocket-client-AllClientTests.java-7221575D15AB171EFC35341EB455F550FBF808D0",
+        "SPDXRef-File--src-main-java-org-java-websocket-util-ByteBufferUtils.java-81DEE8E047ADAABEC77C904FE29B713D6B0F4B1F",
+        "SPDXRef-File--src-main-java-org-java-websocket-protocols-Protocol.java-9BEBDF44AD4C665BD28FB6EEE02ADB3EB330CB0E",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakeImpl1Server.java-6D796A06B59D03996CA5F9387BA2CF1EA220FCF1",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-PongFrame.java-92F1E98AA41E6E7C6F21E25F8DDA1FC83BF3156F",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-CloseFrame.java-2A786CE3BF45B6294D8E33667CA86C5432505662",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-WrappedIOException.java-C18A8671905C7AA16D0715A42BE0D73FECC53599",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidDataException.java-B186A0000DC74D4DA7C35AAE35F081D9FCA1C932",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue834Test.java-7B03B29E4D3DABC0F248783860E42A5A18031970",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue666Test.java-345601E0D904D697DB51F992B2967EEB71F02E36",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue1160Test.java-708C82F8257189276EBC706C55A47310F09C751A",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-CloseFrameTest.java-1DBC636122FC019D5FA7414B7ED8F5CFECEF0C3C",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-NotSendableExceptionTest.java-194519166433B4E25E69312F2F6011AC2DE7B982",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-AllExceptionsTests.java-570F95EE8B38D6A354191220B5582FE00444A71F",
+        "SPDXRef-File--src-test-java-org-java-websocket-client-AttachmentTest.java-03A6DCF66145527B93B6A1694520CE6DF6A51004",
+        "SPDXRef-File--src-main-java-org-java-websocket-util-Charsetfunctions.java-F55DC71CC38A13421437F2DBF73106A1D8F2378B",
+        "SPDXRef-File--src-main-java-org-java-websocket-server-CustomSSLWebSocketServerFactory.java-061FA48FAFAB61465CBC7A31C92008A62FFB95B8",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-package-info.java-225B096B2FE840A1D421701BD2EF7AEF5A54D14A",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-TextFrame.java-7DA730A520B3C4D5CA005CBAD100B7472453C4F0",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-ContinuousFrame.java-211ED671C36668E6579B97499535A524A6B41369",
+        "SPDXRef-File--src-main-java-org-java-websocket-extensions-CompressionExtension.java-627B9F1C15CC7D5A0C187DECF2D36198BAC5E33B",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidEncodingException.java-610BDD3EB9434FB04AF0F0F7D04B0441BC0F4E58",
+        "SPDXRef-File--src-test-java-org-java-websocket-keystore.jks-478B2FAD5187DD522984CA87B421E00BBEF65869",
+        "SPDXRef-File--src-main-java-org-java-websocket-server-SSLParametersWebSocketServerFactory.java-C54E5FFAD7B13DCF3528DBF2092F005F3B934CC7",
+        "SPDXRef-File--src-main-java-org-java-websocket-interfaces-package-info.java-704389BD3B9C92ABDAD90A6555B2334CA8529469",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-Handshakedata.java-965D536B8801928552D867D4C1B8703F80A77710",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-FramedataImpl1.java-908C48D0DC379A6A5282C2E60A6703C9CCB82216",
+        "SPDXRef-File--src-main-java-org-java-websocket-extensions-package-info.java-CC337698264C3809D9202B3401CC81DCFB78CAAD",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-NotSendableException.java-AF379DE7B9F3D691388BEA07174173906C9BEF25",
+        "SPDXRef-File--src-main-java-org-java-websocket-enums-Role.java-62F27F4BCF0616A2E2755FC6FE4D37896EB64D53",
+        "SPDXRef-File--src-main-java-org-java-websocket-drafts-Draft.java-7E095B83F8C024752617F7BFB2A3CC1CEFAD3262",
+        "SPDXRef-File--src-main-java-org-java-websocket-WebSocketFactory.java-E96A474178AD37446D3C7E354AA9A827D559C80C",
+        "SPDXRef-File--src-main-example-TwoWaySSLServerExample.java-F6F4803C2AC52A98B0426683848D2FF960E49946",
+        "SPDXRef-File--src-main-example-ServerAdditionalHeaderExample.java-D8D97E225DB4EF7E84A59C93542BCB8D37FF75E1",
+        "SPDXRef-File--src-main-example-CustomHeaderClientExample.java-F9A45630835371FE71730B0931EA47D3D8D35A4B",
+        "SPDXRef-File--.github-workflows-ci.yml-A862715EE96EA3309C8DBFAE327B51CB58D4D69C",
+        "SPDXRef-File--src-test-java-org-java-websocket-util-ThreadCheck.java-0B5EF330DC9805223EBA15B577AAF27B5032B09D",
+        "SPDXRef-File--src-test-java-org-java-websocket-server-SSLParametersWebSocketServerFactoryTest.java-DAF0D2835FFDC2F26E748E3C5B1A34F3FC65B342",
+        "SPDXRef-File--src-test-java-org-java-websocket-misc-OpeningHandshakeRejectionTest.java-77B244613A9B6134FBCE14E57B389AC681F958BA",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue855Test.java-E92DFBAF61290FBA96844284EC3091921A7D4F93",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue713Test.java-508432016D990280188187FBDDD58C7263B6489B",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue256Test.java-B3526282E45DE698429DBFFEF23D81634A42DCFF",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-FramedataImpl1Test.java-89791B48374DF5924741F3411B6ECBD445F3071C",
+        "SPDXRef-File--src-test-java-org-java-websocket-extensions-AllExtensionTests.java-C2BF43E3101F9AC79B045FA1429CF6D3D4471F12",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-IncompleteHandshakeExceptionTest.java-BE4753349DC8BD8A47FAA4F27A5CDF29E4841B07",
+        "SPDXRef-File--src-test-java-org-java-websocket-client-SchemaCheckTest.java-645D6A13B0FBB110FBE5401D1E771B050923428B",
+        "SPDXRef-File--src-main-java-org-java-websocket-util-package-info.java-D2A286C84199FC144FC1A83ED951A310825EC978",
+        "SPDXRef-File--src-main-java-org-java-websocket-server-DefaultWebSocketServerFactory.java-9E4AA487628DC9DCF400BB6B87EAA57B46DD1917",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-ServerHandshakeBuilder.java-BE6315F91DB3E5E90326BD22CAB4D8F9A5759A1C",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-ClientHandshakeBuilder.java-CB5E45534432E10A32B5674112551136FF3B2C54",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue879Test.java-ABDEB26C5C78B9CD053D9341303DE7A8A3A48A8F",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue732Test.java-433B7F7E7A46ABFA9FCFEF9941B95D3C86B3A784",
+        "SPDXRef-File--src-test-java-org-java-websocket-issues-Issue580Test.java-EDD262EF11CC27D282386598A1118A7B0320A8A2",
+        "SPDXRef-File--src-test-java-org-java-websocket-framing-PingFrameTest.java-02A617937EE740879F87FEBD748C4C63CBA6FDAB",
+        "SPDXRef-File--src-test-java-org-java-websocket-extensions-CompressionExtensionTest.java-4A19E7424E073A21D982DFD264E1BD3F531C0EF3",
+        "SPDXRef-File--src-test-java-org-java-websocket-exceptions-InvalidDataExceptionTest.java-3C20931996D0147A8140D80619E41CC9324599EC",
+        "SPDXRef-File--src-test-java-org-java-websocket-drafts-AllDraftTests.java-E8F1303798BD00656CC1A484CA85C8FAF7F551BA",
+        "SPDXRef-File--src-test-java-org-java-websocket-AllTests.java-757483AF2525DFF5931A7F438CDF378DDF826C03",
+        "SPDXRef-File--src-main-java-org-java-websocket-server-package-info.java-7EFB3CD58540D5D51DAD16EAEA6D5ADE91428E9A",
+        "SPDXRef-File--src-main-java-org-java-websocket-interfaces-ISSLChannel.java-3C4FAE4D7DD927AF5C753B73FEBF5AE625583718",
+        "SPDXRef-File--src-main-java-org-java-websocket-handshake-HandshakeBuilder.java-A629972BEF3FA020E6537E4F840731F7F2ECDC93",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-Framedata.java-068BAB6832DD204C4819E8170C1A1AA15047F2F0",
+        "SPDXRef-File--src-main-java-org-java-websocket-extensions-IExtension.java-4DD61853870678E3E0AFF404AD90ADB98B25CFB9",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-LimitExceededException.java-DA21118EF1C095130FAC3FF72566F57FFA6B0605",
+        "SPDXRef-File--src-main-java-org-java-websocket-enums-ReadyState.java-08A9E311D7CF056ABFBFB686F601C8CEE7E784C5",
+        "SPDXRef-File--src-main-java-org-java-websocket-client-WebSocketClient.java-F0F4A77654F3C48E33E6DE1488B864746FD6AFA2",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-BinaryFrame.java-126E0F50679B4185DD7621D37ED053276704EABD",
+        "SPDXRef-File--src-main-java-org-java-websocket-client-DnsResolver.java-6357C4BC35EF716BFA515CB27B5EFC43B437C606",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-package-info.java-A923B9066B5B99E78AAAF1AA2E08C5BD4BBC5190",
+        "SPDXRef-File--src-main-java-org-java-websocket-framing-DataFrame.java-DAD9E44307E6C8CC26213C45C21AF44125BD08D7",
+        "SPDXRef-File--src-main-java-org-java-websocket-enums-CloseHandshakeType.java-600115FB62C7957EBD8DD987171D8D76E9886551",
+        "SPDXRef-File--.git-objects-pack-pack-25ff49a035a0a9e17cddb93181b1aecdf227239a.pack-D5BC2BC69FFA7B901A34B923F7F1522F2AD17A60",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-WebsocketNotConnectedException.java-6139C871E9EE94678D51E383E5FDE16CB7326558",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-IncompleteException.java-9CDFE8697133A8D858CAF860D5A77830EF4F6E9A",
+        "SPDXRef-File--src-main-java-org-java-websocket-enums-HandshakeState.java-771EFA20755703CF7AF8FC38B6BD8FF0B8791E8B",
+        "SPDXRef-File--src-main-java-org-java-websocket-WebSocketAdapter.java-624D15DD840FB392E51540679B98AFB50E06AB50",
+        "SPDXRef-File--src-main-java-org-java-websocket-SSLSocketChannel2.java-364CDB50DD52F94EC96A1099071E50B4E58EBEEE",
+        "SPDXRef-File--src-main-java-org-java-websocket-extensions-ExtensionRequestData.java-FB0337DF4D97DA49721FC21E264213912F73896B",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-IncompleteHandshakeException.java-4BB8E7D0D38D5AE412B82D0F67669BED8A6F2BF6",
+        "SPDXRef-File--src-main-java-org-java-websocket-drafts-Draft-6455.java-0A7C358A132AE7D67028141939E8D833E5AB735C",
+        "SPDXRef-File--src-main-java-org-java-websocket-WrappedByteChannel.java-393B6A97744D49A919F3286B0FE8BD0492F20789",
+        "SPDXRef-File--src-main-example-SSLServerLetsEncryptExample.java-974084177DBBC53F53B4F159D7C135151D72C035",
+        "SPDXRef-File--src-main-java-org-java-websocket-WebSocketServerFactory.java-392DD24B4E2DDFF3761C624F498EFB12217138FD",
+        "SPDXRef-File--src-main-java-org-java-websocket-exceptions-InvalidHandshakeException.java-3ABC596C903D2B973BC89FEA79B787DA8582A30C",
+        "SPDXRef-File--src-main-example-SecWebSocketProtocolServerExample.java-13937060336BC6CC1E86845957044092B156C166",
+        "SPDXRef-File--src-main-example-ChatServerAttachmentExample.java-55B483024A731591D5F4592E3BA0415DB0B0C69A",
+        "SPDXRef-File--.github-workflows-checkstyle.yml-268EA7CA02A98D1EB607E684FF22A1CA4BE2A61F",
+        "SPDXRef-File--.git-objects-pack-pack-25ff49a035a0a9e17cddb93181b1aecdf227239a.idx-00FA97A360C5824F5DAC519CBF85B1D50304CF97",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.markdown-031F41A813BDEA4B13EAF874AE45C1CEBE3D62E7",
+        "SPDXRef-File--src-main-java-org-java-websocket-SSLSocketChannel.java-09D181A214D74AA3E139B490EDE535A1462866FB",
+        "SPDXRef-File--src-main-example-SSLClientExample.java-CE3236DFA97110CE91B08BAEA636A126A55B3215",
+        "SPDXRef-File--src-main-example-ProxyClientExample.java-0F9ACFA7E6D79D109BE33B355D0B5A8AB89DF5D7",
+        "SPDXRef-File--autobahn-reports-servers-index.json-1FBBB35A9CE250C51F66B2459E0972357091D684",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE-bug-report.md-B7C4490E20FBECA950BEACB3350ECAD5DCD0B9AF",
+        "SPDXRef-File--.git-logs-HEAD-A8CF66689BC6A510B54E9E88435257D31D6438FE",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-A2730ADDCBFC9AE4132B5590B903E5BF36547788",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--sonar-project.properties-591B48B2741DB520156815F8BA926A9517DA893D",
+        "SPDXRef-File--src-main-example-SSLServerCustomWebsocketFactoryExample.java-1ADD26B602374EBFC644B541D8F9EA5B604D75E4",
+        "SPDXRef-File--src-main-example-ReconnectClientExample.java-8169321084A1A22AECCC125324B8E91E5C69223B",
+        "SPDXRef-File--src-main-example-ChatClient.java-774727E7E1A2FEC70509876D7C2C2E5074BCD8D5",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE-feature-request.md-3257658D2CD57BA4AB0A108B7A45C27B78BE7C7A",
+        "SPDXRef-File--.git-logs-refs-heads-master-A8CF66689BC6A510B54E9E88435257D31D6438FE",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-6AD62352D42D8B2604C65381D366F1B46F1D2A04",
+        "SPDXRef-File--src-main-java-org-java-websocket-WebSocketImpl.java-D722AFC296D725B41DC6653E1917D8CDDFBE1D36",
+        "SPDXRef-File--src-main-java-org-java-websocket-AbstractWebSocket.java-B1C61F9153AB371FD1F34C145AFF8C2BCBD42E7B",
+        "SPDXRef-File--src-main-example-ServerRejectHandshakeExample.java-8E32AB4DE4F51C77F6D1B74E5AB59FAC63D5B4AC",
+        "SPDXRef-File--src-main-example-ExampleClient.java-BD59899AF3621CE9F7F8343EF7FF9734065BF73D",
+        "SPDXRef-File--.github-workflows-sonar.yml-419203E43448F17208F953C0F7CC4DCB08D35814",
+        "SPDXRef-File--.git-refs-heads-master-A1674B107C8980466DB93E8A2115BD88D486D4AE",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-76EF55BEF3A9169101704D8DFE38D09599DEC30D",
+        "SPDXRef-File--src-main-java-org-java-websocket-SocketChannelIOHelper.java-EB95A8B295A8F52B47DAFF5087914F960A3A1C54",
+        "SPDXRef-File--src-main-example-simplelogger.properties-822500132853F123979E898BB11D3A887B8B85C9",
+        "SPDXRef-File--src-main-example-PerMessageDeflateExample.java-2807966287644355F3114DAAC34763CF1901E8B5",
+        "SPDXRef-File--autobahn-reports-servers-index.html-739F7A832E1B44F43CA70D834C515DD9D3A2E494",
+        "SPDXRef-File--.github-PULL-REQUEST-TEMPLATE.md-9A7F807CEC5DDC25A2B385C942853A1C11D5AB90",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--src-main-java-org-java-websocket-drafts-package-info.java-8E20EE7867319461F39502BF143CD9B73EF65FFD",
+        "SPDXRef-File--src-main-java-org-java-websocket-WebSocketListener.java-CF3A5665E5B3939B25D89ADEC8A468A54DB3CECF",
+        "SPDXRef-File--src-main-java-org-java-websocket-AbstractWrappedByteChannel.java-DB94E94D0AB7D532CB060D958D8FB1F05737039A",
+        "SPDXRef-File--src-main-example-ServerStressTest.java-C0B3D5C056A39F5D120BA1DA0583E96749CD9BC4",
+        "SPDXRef-File--src-main-example-FragmentedFramesExample.java-0C6B9B466503512212A31C3E37F9188FFE482EF5",
+        "SPDXRef-File--autobahn-reports-clients-index.html-BDE4DE74EB75702DE3425AB65B865EAC2302A30C",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--src-main-java-org-java-websocket-enums-package-info.java-53C1090392AF99D4794BE59125490EC8C1DCB486",
+        "SPDXRef-File--src-main-java-org-java-websocket-client-package-info.java-6F3BB07021161D42060EDF04087DEBDBF6B39341",
+        "SPDXRef-File--src-main-java-org-java-websocket-WebSocket.java-7FA12173535F398E6E59109EED108CA9D77D11D7",
+        "SPDXRef-File--src-main-example-SSLServerExample.java-55BCD3C7C4CAD1AFBEEB890E12EF6ABCC7A29CAE",
+        "SPDXRef-File--src-main-example-SecWebSocketProtocolClientExample.java-9EC9BD62177973F1D6E64D744109B8BF9B81CD57",
+        "SPDXRef-File--src-main-example-ChatServer.java-5F52B9F7C2CFA5BE0A28EA07B823E8D09B0947DD",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE-question.md-CA58DE25686612F4BC423C6024A0042F97CCC03E",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-A8CF66689BC6A510B54E9E88435257D31D6438FE",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--intellij-java-google-style.xml-E1A495B4EC4F7E1531E92C623198A362AC14B758",
+        "SPDXRef-File--eclipse-java-google-style.xml-0D5DFEB76F4A6D39982B37E584CDD1ACF7EC2D9C",
+        "SPDXRef-File--build.gradle-0C20647C272F5AF191DB51CFBA8A7ADE4784C1A6",
+        "SPDXRef-File--.gitignore-77431A85DF94E7A84816A51F3B6000EA11657EE5",
+        "SPDXRef-File--LICENSE-F898CCF2BFC1AE1BCEE30C293551D665CA52CFDB",
+        "SPDXRef-File--pom.xml-701E70CC9CE4871F0592AE72C4FDED4106E51A88",
+        "SPDXRef-File--CHANGELOG.md-C98E80E36C35E5B370C82BF7203AAA46983C71DA",
+        "SPDXRef-File--checkstyle-suppressions.xml-B648F24C40DBBA07590CD789E7AE2C18B03BD50E"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Java-WebSocket 1.5.4-SNAPSHOT",
+  "documentNamespace": "https://java-websocket.org/Java-WebSocket/1.5.4-SNAPSHOT/z044xX6ZNEuSrf9b7cdp4w",
+  "creationInfo": {
+    "created": "2022-09-21T01:19:32Z",
+    "creators": [
+      "Organization: https://github.com/TooTallNate/Java-WebSocket",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

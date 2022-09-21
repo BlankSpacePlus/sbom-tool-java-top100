@@ -1,0 +1,1528 @@
+{
+  "files": [
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-03BE3B100DCDFF0DB654E452E6CDFB8945883D05",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca1a47efaa3099451b57a7a02a59df5fba653dcf41e67f1bf77b7d8e57215c4c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03be3b100dcdff0db654e452e6cdfb8945883d05"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-6C4084BE6DDA2305786B64F9FE39217786E0AD2D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "115f6672c5369ad14411a9f757d02a800845e5494b1a7706af0d44a289ed2b88"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c4084be6dda2305786b64f9fe39217786e0ad2d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-A67AC4719768083C50AEC43CF02B4865BA9C0191",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc23c79d61597fcffa4c71b6da6f4ef2b41cb7b62d4c72b767d14fd5a04757c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a67ac4719768083c50aec43cf02b4865ba9c0191"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-C8BC7DF08DB9DD3B39C2C2259A163A36CF2F6808",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49bbe9114e49214df2ccc324cb3ac8d1d1aa1c3a0947f94c286765e86647b32e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8bc7df08db9dd3b39c2c2259a163a36cf2f6808"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-41E44E1AC378EB69B3F180F2A521D3606C689B85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f48d09464946924bfc5236e8241c65b1fa6659e9a1ebae394c356e2a64b9c746"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41e44e1ac378eb69b3f180f2a521d3606c689b85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-A92F822669F8D54F202C436B06C34E0470828588",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3bb8aeb6467dc55cec662bdc70e9c8b218e0eb3ef43cf2b63a07fdadda38831"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a92f822669f8d54f202c436b06c34e0470828588"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/FUNDING.yml",
+      "SPDXID": "SPDXRef-File--.github-FUNDING.yml-7272E0F183FAE6DE6730663BA472F15DB80BB3B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08019df484b87ebb7016572e307f9b104f379465c4424589730580939498c2d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7272e0f183fae6de6730663ba472f15db80bb3b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/preposition.dic",
+      "SPDXID": "SPDXRef-File--config-preposition.dic-D8DD7B97BD2309AFAC0E557184CAF5072D663BDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56dc70808bc4f8f0c070b12a9f722f84a28924a315f7714c7ac3f5a67444f13a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8dd7b97bd2309afac0e557184caf5072d663bdd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/elasticsearch/index/analysis/IkAnalyzerProvider.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-elasticsearch-index-analysis-IkAnalyzerProvider.java-872B550E16BEB69F5BCC249D8DA042B2C51BB277",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50377b69a658c72cdeb4c4482f03e18d8c8d99eca42a21096095c04a07b854ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "872b550e16beb69f5bcc249d8da042b2c51bb277"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/IKArbitrator.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-IKArbitrator.java-205D4B2FF274EEBF2B9DB9D3B6BA35F7F8271857",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aad0865fcd390575428c4be91151f4592ccf391d6c03a50a57649b687a06ea2e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "205d4b2ff274eebf2b9db9d3b6ba35f7f8271857"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/dic/DictSegment.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-DictSegment.java-F7EBBFD9121712AD98B5A440F2DE4BF9953313F8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84d289cf88b23cdee6f7226b887ce4d70f9aef274bfcd791ea085363a85c5a61"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f7ebbfd9121712ad98b5a440f2de4bf9953313f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-C00EFA6BDDAB1C84BC0B9A841829FDFC6983C7CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41b0590d8df56ced029549f596e201314316728cc648cdd74bca56639a0f34f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c00efa6bddab1c84bc0b9a841829fdfc6983c7ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-E6275EFD88A5B098B9E961EC6EA15C993C4A2B01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c964b5b30885e2f719a249674129df051cc8c2b7daa330667bb1d2622ea1fb12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6275efd88a5b098b9e961ec6ea15c993c4a2b01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/extra_single_word.dic",
+      "SPDXID": "SPDXRef-File--config-extra-single-word.dic-8BBF61D3F44DDD5ED70A567F45C31A9ED01C8F2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ad8209bbaa86ddbb964f1a7a5505bb1500c1ce65cc258b98b0fc7f4fd409c35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bbf61d3f44ddd5ed70a567f45c31a9ed01c8f2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/stopword.dic",
+      "SPDXID": "SPDXRef-File--config-stopword.dic-E7383817375A647CEBF814801A21865D205369FC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1cd5fb3c0d74b8cfe505bf71f808c04d54871327df1311c287fcb468485d0210"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7383817375a647cebf814801a21865d205369fc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/elasticsearch/plugin/analysis/ik/AnalysisIkPlugin.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-elasticsearch-plugin-analysis-ik-AnalysisIkPlugin.java-9723236C0D9EDDE442D6B83490C190E25C8952D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e34cde63c26ff2b911766827b5427019831ca0b82ec7144312003bf7854bdf42"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9723236c0d9edde442d6b83490c190e25c8952d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/ISegmenter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-ISegmenter.java-787B3FF7A0902305BC3BECB6DF0DA169816706FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "327809ede139904aa05b1f8cf16fe7575ae23f6b9f96281a2036f951c97b1eef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "787b3ff7a0902305bc3becb6df0da169816706fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-177f6211cba631d155b54ee87c071a18ba71ef8c.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-177f6211cba631d155b54ee87c071a18ba71ef8c.idx-F1A47D2A7A1FE8EE24824FEA9F0D103849C60ED6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bf1d9f9dca91506add06331f792bb3915ee8c82c91e56a0e38265a888e152e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1a47d2a7a1fe8ee24824fea9f0d103849c60ed6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/extra_single_word_low_freq.dic",
+      "SPDXID": "SPDXRef-File--config-extra-single-word-low-freq.dic-4358CDF5EF4F58471D2DD19D586FB0BD667E5FD1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "037ec84e41838ff35dab8edbe4992619972926c3b000b1db0f212e80107b0611"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4358cdf5ef4f58471d2dd19d586fb0bd667e5fd1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/surname.dic",
+      "SPDXID": "SPDXRef-File--config-surname.dic-21E3270F91A04D1F4D891E2DC5CEA69A1F640ED8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7107ed4b1bfe52eba748833322ce4edd0152538f6fd90a3da4617e818e493ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21e3270f91a04d1f4d891e2dc5cea69a1f640ed8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/AnalyzeContext.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-AnalyzeContext.java-6DD0CE83E3D039CA55061081ECF01370201087CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bb1f1cb4ed8b1edf25c92ac8794bd5efbf7ebc6d84519f6a900bb1b9338508a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6dd0ce83e3d039ca55061081ecf01370201087ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/Lexeme.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-Lexeme.java-1B4EC7B7CF5AC11B15CE8C3C8B9CC5DD1D2476A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae7950256f8271f3e540998a9f0d4e988477a34702404ac8ba663816e5ce0388"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b4ec7b7cf5ac11b15ce8c3c8b9cc5dd1d2476a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-D04968415476002B1134AF64A1E55F2B32111FC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8098de4efcff610b536e27d0625310bfe31d6f17c1d5b173beb056d0598cfaa3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d04968415476002b1134af64a1e55f2b32111fc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/IKAnalyzer.cfg.xml",
+      "SPDXID": "SPDXRef-File--config-IKAnalyzer.cfg.xml-C52994FEE7A9D70491A495755F312B64BA866090",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df6a21ee0186819b7832f1f8ee47e1e5119a04c6c3dac6c98165bfc0515cf4cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c52994fee7a9d70491a495755f312b64ba866090"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./licenses/lucene-NOTICE.txt",
+      "SPDXID": "SPDXRef-File--licenses-lucene-NOTICE.txt-FC20F3854E2828D4F16EFCE9BDC3C56F79D4481B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b707a9ff302a4f6070a23968bc3a713c2b50e0db1e3f0db285897e4bea4de648"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc20f3854e2828d4f16efce9bdc3c56f79d4481b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/CJKSegmenter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-CJKSegmenter.java-D3A7B339978157B033CD705B7CB6FCE0DB7A2C0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1f386fafedf13d6c3cff3009571c84753bcc820dca87c27f545ebea2ae417e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3a7b339978157b033cd705b7cb6fce0db7a2c0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/QuickSortSet.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-QuickSortSet.java-B9B515F541CFBA0A8363C2FC3BD4E7AD05960B51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a1c7458072d98001db5bde544602c92c57a7a29fcdf0bda49b5cfe9da2775de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9b515f541cfba0a8363c2fc3bd4e7ad05960b51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-F134059D86A3489B1ECA70761D8AB34CADAB9F4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69f1d9947a0229ffd7a2e4fb36322ca9c245beff044b3704cbdf19d54bf9d50a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f134059d86a3489b1eca70761d8ab34cadab9f4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/help/Sleep.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-help-Sleep.java-6979170E59C243D612CD3D089C1CB80293D259B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7a32c22472541fe10eeffc17a52450e4c7531b9b50afb09eb13e2a4f3375c82"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6979170e59c243d612cd3d089c1cb80293d259b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-E6275EFD88A5B098B9E961EC6EA15C993C4A2B01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c964b5b30885e2f719a249674129df051cc8c2b7daa330667bb1d2622ea1fb12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6275efd88a5b098b9e961ec6ea15c993c4a2b01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-E6275EFD88A5B098B9E961EC6EA15C993C4A2B01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c964b5b30885e2f719a249674129df051cc8c2b7daa330667bb1d2622ea1fb12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6275efd88a5b098b9e961ec6ea15c993c4a2b01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/extra_single_word_full.dic",
+      "SPDXID": "SPDXRef-File--config-extra-single-word-full.dic-8BBF61D3F44DDD5ED70A567F45C31A9ED01C8F2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ad8209bbaa86ddbb964f1a7a5505bb1500c1ce65cc258b98b0fc7f4fd409c35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bbf61d3f44ddd5ed70a567f45c31a9ed01c8f2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/lucene/IKTokenizer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-lucene-IKTokenizer.java-B8A9D7D2D54006014FC31E2D32A02E9FBB37054D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ab9074fdae746faa56395e3aaf0dafc2d592808c7513711ebf2035838937d00"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8a9d7d2d54006014fc31e2d32a02e9fbb37054d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/help/ESPluginLoggerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-help-ESPluginLoggerFactory.java-034E73BE0272D1A1208A111EDC542A29731BEC86",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5460e6f32e07bf64b1e9d9b6c1594c795499c1e1c97a061578676291d92ab0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "034e73be0272d1a1208a111edc542a29731bec86"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/suffix.dic",
+      "SPDXID": "SPDXRef-File--config-suffix.dic-307B36DACE23BBB5EA2ABE1CF369688344FA97CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fe6ce24ba84807c33cf6d944a6ceb1737262c1f71ebcb946c1ccf9952a47e35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "307b36dace23bbb5ea2abe1cf369688344fa97ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/dic/Monitor.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-Monitor.java-51C6F2393F0567A4D8310FBAA131B485CBF39BD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "259cd1582c71eeb452717dc0ec0c55ea4e8a9b4ca3da25075fd6d7096d893cff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51c6f2393f0567a4d8310fbaa131b485cbf39bd7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/resources/plugin-security.policy",
+      "SPDXID": "SPDXRef-File--src-main-resources-plugin-security.policy-E414D5FD2E1069D6DD8F175B8688CCA8BE53B42C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25886092fb03dd147bb6145f25e5e608c36a7349e603cccb6853d55bc3970969"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e414d5fd2e1069d6dd8f175b8688cca8be53b42c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/cfg/Configuration.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-cfg-Configuration.java-FE7FCFA800FA9E74DF74E4E44814CCDE3E9EB49D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "830c8276d679273a0b7f65effb1cc18874a7d799a88648b92f8c1a75e656f653"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe7fcfa800fa9e74df74e4e44814ccde3e9eb49d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/main.dic",
+      "SPDXID": "SPDXRef-File--config-main.dic-47D74FBBE725D4FB77E6F54F5B179D7FDCCB4CD4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b563250dd67a6200d31c7f84091f959188d2a505d0f681f8a927a3f115f618f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47d74fbbe725d4fb77e6f54f5b179d7fdccb4cd4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/assemblies/plugin.xml",
+      "SPDXID": "SPDXRef-File--src-main-assemblies-plugin.xml-F8C0BBCC30E6DDD1326790C619CF33E01BF80BC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc385ad54d629bcc3607c1648fe76aa131682b87d65a3f27a15ec1cedc75a759"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8c0bbcc30e6ddd1326790c619cf33e01bf80bc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/LetterSegmenter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-LetterSegmenter.java-FFC3724B48CEF843A6720471F918653B1BE3A78E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc2375f38f0eee6e51f10fbaae44bd48ded9f6afb609f7d47cd832e9ecc96bf1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffc3724b48cef843a6720471f918653b1be3a78e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/help/CharacterHelper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-help-CharacterHelper.java-6361DD1A53A035ECDED1EB581F3901EF3F066D9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd170f38f580e78a402267fbbfab0616472f0904c2eb4b0b86f905c5918f128b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6361dd1a53a035ecded1eb581f3901ef3f066d9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/CN_QuantifierSegmenter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-CN-QuantifierSegmenter.java-9C1498B5C4254F4777D6155F8AF74DCCA1D8D776",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b81dc0235e92276b9fdf72800db428c028d46a41ba681d6bf6172ef8c826cbb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c1498b5c4254f4777d6155f8af74dcca1d8d776"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/extra_main.dic",
+      "SPDXID": "SPDXRef-File--config-extra-main.dic-0BA905724B96E5DAEF9FA425165D1F7D5789B321",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e973013ab0f100dbe1c54bc281e81f66f4341bb8b6953340df21b912f17c153d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ba905724b96e5daef9fa425165d1f7d5789b321"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/quantifier.dic",
+      "SPDXID": "SPDXRef-File--config-quantifier.dic-008EABAD003D66B2794F59EDB7F3A315DE9D90C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb5ec08ba11e389fcd856dddff0c079a7a8ebe5847aad0629f92c936ffee2171"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "008eabad003d66b2794f59edb7f3a315de9d90c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/elasticsearch/index/analysis/IkTokenizerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-elasticsearch-index-analysis-IkTokenizerFactory.java-25E9DF46F15D0CC578E7867F68AA2C1B855363DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1d4c756fcd67aa83420282e3aa204143488c51cda7633fc51b030e0a0af0503"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25e9df46f15d0cc578e7867f68aa2c1b855363de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/dic/Dictionary.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-Dictionary.java-8AABDB7E246540287F4D2AE41C35BB64D664B2F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2bc720f7ce14345cf2594939b0204cd902b5ddc7561b018b58f0afa1432c8189"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8aabdb7e246540287f4d2ae41c35bb64d664b2f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/IKSegmenter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-IKSegmenter.java-53C3CA370B55149F1D8F0BC6714C163F175FCB76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1079e172809ebc78f589d68d3b41d579d04e0536fe55748e3f1659d098054f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53c3ca370b55149f1d8f0bc6714c163f175fcb76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/lucene/IKAnalyzer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-lucene-IKAnalyzer.java-1CFCDCA19FB8E2F0C984F45EA242D93B0F7DFACD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f07da5eab5661c884400224d8c387a156caee5b7edd014f49c997cca277b9ec3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cfcdca19fb8e2f0c984f45ea242d93b0f7dfacd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/dic/Hit.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-Hit.java-1FFF50665FDA00862FAED3EB828D315BC638246B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ffb9f058d5bbc4244ff1ae3d236eb4c95a165c745ec8403b99365cabd3f8326"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fff50665fda00862faed3eb828d315bc638246b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/resources/plugin-descriptor.properties",
+      "SPDXID": "SPDXRef-File--src-main-resources-plugin-descriptor.properties-5139B1A572CDCC693D3238DA470EC3FD5A8EACD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f853fa9d93547384c8e00da7d8842c70814b5d401982cc7a12e151ab7a932df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5139b1a572cdcc693d3238da470ec3fd5a8eacd7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-177f6211cba631d155b54ee87c071a18ba71ef8c.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-177f6211cba631d155b54ee87c071a18ba71ef8c.pack-F3480AB5E60C9A4B632C1FFD38F3FF762B0110B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d2abe2082250b23179c40168b328eb44fadfec143fa0cbd475c7d25e19d7835"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3480ab5e60c9a4b632c1ffd38f3ff762b0110b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/extra_stopword.dic",
+      "SPDXID": "SPDXRef-File--config-extra-stopword.dic-F9C5CF9469BA6C86273372F9A7F6DCB4C1BFA1B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5bb7575d164a8cfcea38f0f549895a826e3989ba2a133cb12bf463bddcd733"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9c5cf9469ba6c86273372f9a7f6dcb4c1bfa1b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./licenses/lucene-LICENSE.txt",
+      "SPDXID": "SPDXRef-File--licenses-lucene-LICENSE.txt-1667BBE8E1DE16EE8A7BBCB4F5F8D90F902DBB00",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f6aa4385cbbbb37838f0d3f6f7703b746217f654657b6482e07c8c71469233e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1667bbe8e1de16ee8a7bbcb4f5f8d90f902dbb00"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/CharacterUtil.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-CharacterUtil.java-6948D47672F94ECC7B3EEFA17A5D3189EE111FF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ed86e5bf35b24b143d9e7df85c4176cba9e5027d4a9b99600cbb6a8f128a00e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6948d47672f94ecc7b3eefa17a5d3189ee111ff2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/core/LexemePath.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-core-LexemePath.java-E69C916986CB07674BA85D002B09FD7106C4EF47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe362e3a5167c3026803fad2caac6a816bfd3a6b89480d319e87191dc282f2ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e69c916986cb07674ba85d002b09fd7106c4ef47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/wltea/analyzer/help/PrefixPluginLogger.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-wltea-analyzer-help-PrefixPluginLogger.java-8DE09FA5D3E237870C8FEB1C5779E74FBAD010B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e06c96c6811e38d15108cb331fd20b7a8d8de09491c95b5c6ef7f5a4ea3b6c42"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8de09fa5d3e237870c8feb1c5779e74fbad010b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "elasticsearch-analysis-ik",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "7fcfae0ff91b15104f515ed9a9110afea67cc0bf"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.4.1",
+      "supplier": "Organization: https://github.com/medcl/elasticsearch-analysis-ik",
+      "hasFiles": [
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-help-PrefixPluginLogger.java-8DE09FA5D3E237870C8FEB1C5779E74FBAD010B3",
+        "SPDXRef-File--licenses-lucene-LICENSE.txt-1667BBE8E1DE16EE8A7BBCB4F5F8D90F902DBB00",
+        "SPDXRef-File--config-extra-stopword.dic-F9C5CF9469BA6C86273372F9A7F6DCB4C1BFA1B3",
+        "SPDXRef-File--.git-objects-pack-pack-177f6211cba631d155b54ee87c071a18ba71ef8c.pack-F3480AB5E60C9A4B632C1FFD38F3FF762B0110B4",
+        "SPDXRef-File--src-main-resources-plugin-descriptor.properties-5139B1A572CDCC693D3238DA470EC3FD5A8EACD7",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-lucene-IKAnalyzer.java-1CFCDCA19FB8E2F0C984F45EA242D93B0F7DFACD",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-Dictionary.java-8AABDB7E246540287F4D2AE41C35BB64D664B2F1",
+        "SPDXRef-File--src-main-java-org-elasticsearch-index-analysis-IkTokenizerFactory.java-25E9DF46F15D0CC578E7867F68AA2C1B855363DE",
+        "SPDXRef-File--config-quantifier.dic-008EABAD003D66B2794F59EDB7F3A315DE9D90C8",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-CN-QuantifierSegmenter.java-9C1498B5C4254F4777D6155F8AF74DCCA1D8D776",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-LetterSegmenter.java-FFC3724B48CEF843A6720471F918653B1BE3A78E",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-LexemePath.java-E69C916986CB07674BA85D002B09FD7106C4EF47",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-CharacterUtil.java-6948D47672F94ECC7B3EEFA17A5D3189EE111FF2",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-Hit.java-1FFF50665FDA00862FAED3EB828D315BC638246B",
+        "SPDXRef-File--config-main.dic-47D74FBBE725D4FB77E6F54F5B179D7FDCCB4CD4",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-cfg-Configuration.java-FE7FCFA800FA9E74DF74E4E44814CCDE3E9EB49D",
+        "SPDXRef-File--src-main-resources-plugin-security.policy-E414D5FD2E1069D6DD8F175B8688CCA8BE53B42C",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-Lexeme.java-1B4EC7B7CF5AC11B15CE8C3C8B9CC5DD1D2476A7",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-AnalyzeContext.java-6DD0CE83E3D039CA55061081ECF01370201087CE",
+        "SPDXRef-File--config-surname.dic-21E3270F91A04D1F4D891E2DC5CEA69A1F640ED8",
+        "SPDXRef-File--config-extra-single-word-low-freq.dic-4358CDF5EF4F58471D2DD19D586FB0BD667E5FD1",
+        "SPDXRef-File--.git-objects-pack-pack-177f6211cba631d155b54ee87c071a18ba71ef8c.idx-F1A47D2A7A1FE8EE24824FEA9F0D103849C60ED6",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--src-main-assemblies-plugin.xml-F8C0BBCC30E6DDD1326790C619CF33E01BF80BC1",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-Monitor.java-51C6F2393F0567A4D8310FBAA131B485CBF39BD7",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-lucene-IKTokenizer.java-B8A9D7D2D54006014FC31E2D32A02E9FBB37054D",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-help-Sleep.java-6979170E59C243D612CD3D089C1CB80293D259B9",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-QuickSortSet.java-B9B515F541CFBA0A8363C2FC3BD4E7AD05960B51",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-CJKSegmenter.java-D3A7B339978157B033CD705B7CB6FCE0DB7A2C0B",
+        "SPDXRef-File--licenses-lucene-NOTICE.txt-FC20F3854E2828D4F16EFCE9BDC3C56F79D4481B",
+        "SPDXRef-File--config-IKAnalyzer.cfg.xml-C52994FEE7A9D70491A495755F312B64BA866090",
+        "SPDXRef-File--.git-refs-heads-master-D04968415476002B1134AF64A1E55F2B32111FC2",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-ISegmenter.java-787B3FF7A0902305BC3BECB6DF0DA169816706FA",
+        "SPDXRef-File--src-main-java-org-elasticsearch-plugin-analysis-ik-AnalysisIkPlugin.java-9723236C0D9EDDE442D6B83490C190E25C8952D9",
+        "SPDXRef-File--config-stopword.dic-E7383817375A647CEBF814801A21865D205369FC",
+        "SPDXRef-File--config-extra-single-word.dic-8BBF61D3F44DDD5ED70A567F45C31A9ED01C8F2F",
+        "SPDXRef-File--.git-logs-refs-heads-master-E6275EFD88A5B098B9E961EC6EA15C993C4A2B01",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-C00EFA6BDDAB1C84BC0B9A841829FDFC6983C7CE",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-IKSegmenter.java-53C3CA370B55149F1D8F0BC6714C163F175FCB76",
+        "SPDXRef-File--config-extra-main.dic-0BA905724B96E5DAEF9FA425165D1F7D5789B321",
+        "SPDXRef-File--config-suffix.dic-307B36DACE23BBB5EA2ABE1CF369688344FA97CA",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-help-ESPluginLoggerFactory.java-034E73BE0272D1A1208A111EDC542A29731BEC86",
+        "SPDXRef-File--config-extra-single-word-full.dic-8BBF61D3F44DDD5ED70A567F45C31A9ED01C8F2F",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-E6275EFD88A5B098B9E961EC6EA15C993C4A2B01",
+        "SPDXRef-File--.git-logs-HEAD-E6275EFD88A5B098B9E961EC6EA15C993C4A2B01",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-F134059D86A3489B1ECA70761D8AB34CADAB9F4F",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-dic-DictSegment.java-F7EBBFD9121712AD98B5A440F2DE4BF9953313F8",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-core-IKArbitrator.java-205D4B2FF274EEBF2B9DB9D3B6BA35F7F8271857",
+        "SPDXRef-File--src-main-java-org-elasticsearch-index-analysis-IkAnalyzerProvider.java-872B550E16BEB69F5BCC249D8DA042B2C51BB277",
+        "SPDXRef-File--config-preposition.dic-D8DD7B97BD2309AFAC0E557184CAF5072D663BDD",
+        "SPDXRef-File--.github-FUNDING.yml-7272E0F183FAE6DE6730663BA472F15DB80BB3B6",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--src-main-java-org-wltea-analyzer-help-CharacterHelper.java-6361DD1A53A035ECDED1EB581F3901EF3F066D9A",
+        "SPDXRef-File--pom.xml-A92F822669F8D54F202C436B06C34E0470828588",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-41E44E1AC378EB69B3F180F2A521D3606C689B85",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--LICENSE.txt-C8BC7DF08DB9DD3B39C2C2259A163A36CF2F6808",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--.gitignore-A67AC4719768083C50AEC43CF02B4865BA9C0191",
+        "SPDXRef-File--.travis.yml-6C4084BE6DDA2305786B64F9FE39217786E0AD2D",
+        "SPDXRef-File--README.md-03BE3B100DCDFF0DB654E452E6CDFB8945883D05"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "elasticsearch-analysis-ik 8.4.1",
+  "documentNamespace": "https://elasticsearch.org/elasticsearch-analysis-ik/8.4.1/JQicRhWA70KqosQvABbhqA",
+  "creationInfo": {
+    "created": "2022-09-20T15:57:57Z",
+    "creators": [
+      "Organization: https://github.com/medcl/elasticsearch-analysis-ik",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,2588 @@
+{
+  "files": [
+    {
+      "fileName": "./MaterialViewPager.iml",
+      "SPDXID": "SPDXRef-File--MaterialViewPager.iml-AAF5D24CCB7BFC555EC06A15E7E519C87A5F02A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df0aab43d1b9e259ab268ba0a563ffa723fba78676c5b5b5191e1b61e1dfbdbf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aaf5d24ccb7bfc555ec06a15e7e519c87a5f02a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-BFA9D3551A8EF9A22E4B0DC4DD391BF9EE92DDAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34c62ef7b0de0398d35fe341d37ae04a5b8521bb74135e8c7f3f3e066b9fd452"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfa9d3551a8ef9a22e4b0dc4dd391bf9ee92ddad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-78D8BBBFFC22B7AB5991B169A7B417E5F326AB14",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2368336e890e36dc280ac25b251f071b7eeeccc9e61731565de7023f80275878"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78d8bbbffc22b7ab5991b169a7b417e5f326ab14"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-249D2BDBFA88FDCBD2B5EF111AF4073BB9C05454",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66e72d476a7857dec65a781d63beb732d66dbec5e263ea321e01b5a10ddd6783"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "249d2bdbfa88fdcbd2b5ef111af4073bb9c05454"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-E93CF855C696B206B454A02349019921AF541F7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e54cd84a645bea25943c75dd8ae67cb291e66a47a11578333c9b4b3b6b86c85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e93cf855c696b206b454a02349019921af541f7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-406AB44483478B1808A48F9C09F746F68D54A256",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a84c54b80344eef560289ecf78cb1ff2cbb8b273f9379d29855e6920fcb3620"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "406ab44483478b1808a48f9c09f746f68d54a256"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-74F064B06A546AB09A7433A1ED69BC0FAF79285A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "35c1deeff9ac2b79a3e35fd459b387befca79416a35d8fcd89d36275d230daf6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "74f064b06a546ab09a7433a1ed69bc0faf79285a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-B2A540E5E4776F0B26D4280C20346F1DCD47BD39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2cd716c8766c6e15d67260005934521dad359bbf85649551696964eb0451c240"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2a540e5e4776f0b26d4280c20346f1dcd47bd39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-D918D7E219CBC6343FAB9EA39FE1521691BB49E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7dc8495a33c4ef7dfef3e131bdd4939318f84489d1b87cfc40c24ff0be3d5505"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d918d7e219cbc6343fab9ea39fe1521691bb49e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./publish.sh",
+      "SPDXID": "SPDXRef-File--publish.sh-77616B96992DA75DABC8FB54682C6C3FB5A6B089",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16e92cf688a6e2979de8434b5b1e91f6a57dc8c9c500ff95309c52925ed78d59"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77616b96992da75dabc8fb54682c6c3fb5a6b089"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1f7bbd6029d20bafae22755bf7c2ea3782bcf5251991694e1318a2d1943fd09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bc8eed14c590a2e5ff425d83ef11c552643576"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./circle.yml",
+      "SPDXID": "SPDXRef-File--circle.yml-C2BF5BB8F4EB0A6AB8A3D2CABA365FBC5A4F2D63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e894fb016e8772f409d3cfdbfe9c059e519351a8cd07442ab90a4c3bbafa3f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2bf5bb8f4eb0a6ab8a3d2caba365fbc5a4f2d63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-DACE5525490559DCB5101944B1CB670F1BBD5EA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61a841040c9e0f02b7bce31d66737ccad5fbbe557bb899a1abf0b1b32e5da857"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dace5525490559dcb5101944b1cb670f1bbd5ea2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf68b95a4029e352fe1ee002bb367ac1b686f9ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-C3D91BCBCBD226CA8E829F2E11D362BAA0D23B8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "175c95a20fc5b4a00c19fd712efc03bdd8ab320bd0364514e2640acc8db1e9d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3d91bcbcbd226ca8e829f2e11d362baa0d23b8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/gradle.xml",
+      "SPDXID": "SPDXRef-File--.idea-gradle.xml-4641CCA196EF63E0A0AEB2A5D017FD22640A2205",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5f86c4f0e5b0882345b4507be65a5a5ee95a58342ba897f546ed22d473f1004"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4641cca196ef63e0a0aeb2a5d017fd22640a2205"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/compiler.xml",
+      "SPDXID": "SPDXRef-File--.idea-compiler.xml-4F548A680627CAA7E88EE73AD4147655C62E7BE9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6fde0298d77ae65b7cd464e9ec7f12d832af6e06b2f544d92341bced01f8216a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f548a680627caa7e88ee73ad4147655c62e7be9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/install-v1.gradle",
+      "SPDXID": "SPDXRef-File--gradle-install-v1.gradle-FD334B22503998997D24E58C910720EE586F9AB5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ed6bc31d4c592fcd42f9ef760d68f46c221df9a1711889b0f18b5a0b9f0d2bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd334b22503998997d24e58c910720ee586f9ab5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-AndroidManifest.xml-B18A6C1BF516CBA01691D6D53840D6FD4ACECABA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ffddb52cc6fd15f780912fbaae62cd406644849dd5119e96faaa9a48058e5bce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b18a6c1bf516cba01691d6d53840d6fd4acecaba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/header/HeaderDesign.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-HeaderDesign.java-1D4B5AC55EE15C9D5221C823ACDB314FD0C5E675",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c803159f9648f9da5fe09f2bcd49e5424e30e0295657bf032f75bd0e4b4f4ad4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d4b5ac55ee15c9d5221c823acdb314fd0c5e675"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_moving_header.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-moving-header.xml-E6835411232B8C6A7598159890DC016113959455",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e977ed66d36b3db995bf00ba98039bab68ff128cd820e7bc582a66fec713a625"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6835411232b8c6a7598159890dc016113959455"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/tools_material_view_pager_pagertitlestrip.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-tools-material-view-pager-pagertitlestrip.xml-630BA33F8638BF20D5F05D2D2E1D4D8972B340E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ba598cb1702f0c9600788fa576d10e58c5b15e7d061b7dbfb27bca0a458e14c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "630ba33f8638bf20d5f05d2d2e1d4d8972b340e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--sample-proguard-rules.pro-A9B5B698AF74A2132E6CD23DFD2D529E15A03AAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf3ea106df7fcf5bd3dd20710246665424a5c1416a2ee005f59098be7eaf43fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9b5b698af74a2132e6cd23dfd2d529e15a03aad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/github/florent37/materialviewpager/sample/fragment/ScrollFragment.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-fragment-ScrollFragment.java-4D9C2809B9552F438A2A6822DF7B04D61549BDEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6edc53784da272e28271679b5406782778f5f714b308e84f9d93345e38ccb2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d9c2809b9552f438a2a6822df7b04d61549bdec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-C3D91BCBCBD226CA8E829F2E11D362BAA0D23B8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "175c95a20fc5b4a00c19fd712efc03bdd8ab320bd0364514e2640acc8db1e9d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3d91bcbcbd226ca8e829f2e11d362baa0d23b8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/misc.xml",
+      "SPDXID": "SPDXRef-File--.idea-misc.xml-0A742016E31E1591522AEFA252C7DB5687E53843",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dcc0607ed03fe89cd48f72c990eb2085c7dc8c3fed89027302ec363793c4f643"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a742016e31e1591522aefa252c7db5687e53843"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-6144055699C61068C539F48C8A198218319DA992",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82b1edad3c5716551641328934d2be5f8400dbf9245644e527cbc2885073cb86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6144055699c61068c539f48c8a198218319da992"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/MaterialViewPagerAnimator.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerAnimator.java-FC396B462AF875BDD9C2AF31C003A65F5C7F2A53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "925c7fa480e713d1ce9d29bbc9e49d9ca973aebf1bdf9d98a26c1e94bdd5add4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc396b462af875bdd9c2af31c003a65f5c7f2a53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/header/MaterialViewPagerImageHeader.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerImageHeader.java-E4DA0090431B742E3C134721D346CF4CED614812",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "919c34b2d0f58b54289ff10ed1c097693bc0a8bab1cf8dc574468521f2ad4515"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4da0090431b742e3c134721d346cf4ced614812"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_pagertitlestrip_standard.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-pagertitlestrip-standard.xml-179BB0881E7C5F5F6F8C8486225019EA4B7C1675",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d39aa144c3fa3ec03c86e0761dd1f2768fed2368e9e3b25a15af487836497c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "179bb0881e7c5f5f6f8c8486225019ea4b7c1675"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-values-colors.xml-32F37C67F745365D904C4EC5FF870D52AEDDC1EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e35e75a08f3fce777063aca371ce61e72d37704563191e8cd8f86d7d2286a9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32f37c67f745365d904c4ec5ff870d52aeddc1ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-E4D0AE7B3C0B2BCA667D3973C80A92C23FAD6993",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2eb32760123761e7dc1b4ca998d5f747d6bdc98fc5c3d20b53739ad23d1495a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4d0ae7b3c0b2bca667d3973c80a92c23fad6993"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/bintray-android-v1.gradle",
+      "SPDXID": "SPDXRef-File--gradle-bintray-android-v1.gradle-982041F98843F30F8CBBE010AE1023A1FBB66731",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74b129e19f7a400aac13bd72abad9b69b601950bc4222a773d822feade1b2fe2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "982041f98843f30f8cbbe010ae1023a1fbb66731"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--materialviewpager-proguard-rules.pro-A9B5B698AF74A2132E6CD23DFD2D529E15A03AAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf3ea106df7fcf5bd3dd20710246665424a5c1416a2ee005f59098be7eaf43fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9b5b698af74a2132e6cd23dfd2d529e15a03aad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/Utils.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-Utils.java-CDD58128221A4404EB6C48C7CDF707C5056BE7E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2163a8e33681c518710a0b9626d251a96e998531fd2405e5344d2c4ef3e89ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cdd58128221a4404eb6c48c7cdf707c5056be7e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_layout.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-layout.xml-41BC1AD2FF8A4C7E606221ED72B8EB77100BDC78",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "847ff7b556cccdf3e19c578ff8d054809f79cd7aaf2465cc1d23eeb3393bd75f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41bc1ad2ff8a4c7e606221ed72b8eb77100bdc78"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/tools_list_item_card_small.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-tools-list-item-card-small.xml-3ECE70E98E940A08561C8026A8D1A09F914278FC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1c71cf974f500e5a135b26460615f39d934d8ac112e6e1ec586bb3932915d2c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ece70e98e940a08561c8026a8d1a09f914278fc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-278266812BA0420DCA4B20D5F5552C6F66CFD146",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce634038e5ed10a19f014a468aa5feec509bed695855e9e0c97da050300098e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "278266812ba0420dca4b20d5f5552c6f66cfd146"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-C3D91BCBCBD226CA8E829F2E11D362BAA0D23B8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "175c95a20fc5b4a00c19fd712efc03bdd8ab320bd0364514e2640acc8db1e9d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3d91bcbcbd226ca8e829f2e11d362baa0d23b8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/modules.xml",
+      "SPDXID": "SPDXRef-File--.idea-modules.xml-B44CC3548CB38CD551AEE3A1512C4916D307522E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0f7e99f6cb574c352eee360ee08121b3cec725bff1de88d565db8cf766eff64"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b44cc3548cb38cd551aee3a1512c4916d307522e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/.gitignore",
+      "SPDXID": "SPDXRef-File--materialviewpager-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/MaterialViewPagerHeader.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerHeader.java-F9D02256700B600A69EE515835CE380ADD076C1F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bac04daaee064b7ded661bf12cd73e850de842cc3380f5f6b0c84148d04e547e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9d02256700b600a69ee515835ce380add076c1f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/header/MaterialViewPagerImageHelper.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerImageHelper.java-73547CD305FD34CFEC56F7693B537C0611CF913D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2436333027ace0a426890ddba6ec41d22705f4ecef117a281560fdc69acd3b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "73547cd305fd34cfec56f7693b537c0611cf913d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_placeholder.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-placeholder.xml-6281416190416ADB9B51BD3A59E664EFE46A4F4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a9da9ebb19dac77fe7ccf23483ea75c18aa7c1104962afac888d1e59b5994c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6281416190416adb9b51bd3a59e664efe46a4f4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-values-dimens.xml-5E1CB8915D5770A606103931994B8E0C96F0BE22",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5b06fb7611a02591d5ebcab1512535155ff861899e1cb60da9d7893970207d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e1cb8915d5770a606103931994b8e0c96f0be22"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/github/florent37/materialviewpager/sample/DrawerActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-DrawerActivity.java-8A32C62AB984A218C1EC75D81DB2A920FC10396C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a7fbc930a4703e87a051f0181457248aa31c9d243d4a274f669dbaea086eb1be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a32c62ab984a218c1ec75d81db2a920fc10396c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/flying.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-flying.png-012938FD83DA641CD5154E19B309E760BB445181",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ffbfe920a5d980dc4d64ce208e688d7bd7335a46858fa8d10ddc1597c1270bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "012938fd83da641cd5154e19b309e760bb445181"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/logo_white.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-logo-white.png-5E6EC57C50F2357EB75C910BC01DC8184C20EF17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "759ed4fed3e14264a10de6e9a03b260fb0b739dfe85faa64b714dc22d6903541"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e6ec57c50f2357eb75c910bc01dc8184c20ef17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/github/florent37/materialviewpager/sample/fragment/RecyclerViewFragment.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-fragment-RecyclerViewFragment.java-57F2180947E04C0C8B49F073A539AF22F8919DA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "703b3b0b0069ef7176b1440fe0b1f2abad7049a64b3ca2bdadadf49364b267de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57f2180947e04c0c8b49f073a539af22f8919da2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-DF0C91A3B6BBBFC4BB7A0A99E700A607B13268C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf4e80113ece63168f3bbd9a774dd689b265df3b28f0714a9f7c836555538e7e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df0c91a3b6bbbfc4bb7a0a99e700a607b13268c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/fragment_scroll.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-fragment-scroll.xml-8837EBC872E0A0A030E36DFD370F0EA2864FD44D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e360595c0eed2986eedaded68644619966bb2002591733bd0f37e0323cea8b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8837ebc872e0a0a030e36dfd370f0ea2864fd44d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/menu/menu_main.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-menu-menu-main.xml-EF59180A04E42C63B1676DC37D2BD22EC3C8EC71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23ca954d8f57f128ef1fc76de3158de0b764a580c2a8df52bc31d2587f16db31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef59180a04e42c63b1676dc37d2bd22ec3c8ec71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-2189231b4fc039ff28a099e0e976139bc4a732b6.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-2189231b4fc039ff28a099e0e976139bc4a732b6.idx-FF7DDB6F9689D9A921D9F7AC957A93755807C2C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00391b7ccc5e1d783abcab5dc20e6ec9c99c9d0281daa240c023c3074a49093c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff7ddb6f9689d9a921d9f7ac957a93755807c2c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/copyright/profiles_settings.xml",
+      "SPDXID": "SPDXRef-File--.idea-copyright-profiles-settings.xml-C2580BC1E302143D8DFCA4CE9D57A8FCBF12A3E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb1969a46948851a1c068637af655a9c25cc8e12c9b2bedd10ef24a137f7cebe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2580bc1e302143d8dfca4ce9d57a8fcbf12a3e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/header_logo_2.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-header-logo-2.xml-49BC03AAE5E368F5F4BDB72CE9722AA1A84A90F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06ba9da29fe1e74297370d807c01a36c2436b0bfae50d18ee8899d224df7470d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49bc03aae5e368f5f4bdb72ce9722aa1a84a90f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/header_logo.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-header-logo.xml-59C2F9C075316AFCE0583A9FDC2F7AC5CC927CD8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b4edf2bdc2761886b1d57f9a6bd8f3d0ba45d64142164a761134b104948ce49f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "59c2f9c075316afce0583a9fdc2f7ac5cc927cd8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/fragment_recyclerview.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-fragment-recyclerview.xml-860175353664514631567E2256235CB210039977",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e8bb35db30a061501f21f770ebb43af0fb583e240111ab2b225b0261e0fa6f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "860175353664514631567e2256235cb210039977"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/runConfigurations.xml",
+      "SPDXID": "SPDXRef-File--.idea-runConfigurations.xml-632A7BD185035E2559A7857A238196B9C8015DAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b7e8b32f956305bab7ffa65a374555d4a2d2fb9fd648cb47140be7c4bba5f37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "632a7bd185035e2559a7857a238196b9c8015dab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/materialviewpager.iml",
+      "SPDXID": "SPDXRef-File--materialviewpager-materialviewpager.iml-2815F2666DFA5E2723D174448280227B9A49304C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c3c433aac431dfbd41a2a532140692c67da40e62413db865e8a6f45a64b8d44"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2815f2666dfa5e2723d174448280227b9a49304c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f5bc4bf1364152b1943933b6910bafc913e7a813de5c1b0ba4723e33e58975"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae86c9f2fefeb0a12f9e350975339bc580efd813"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "552f9a01050827cc24c9bf50569fe8b0a121fb93297106e224986e7a4e9cc747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cac22ff594b3baf6d111f57405f27b485463a68c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-styles.xml-35F62B3B8AE0C000AA8A14B0DAB41451E2002BA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03ed1a79bc513dba12338d60e8fec5b61eacad244bf3af5756b7e53f0d8ff00a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35f62b3b8ae0c000aa8a14b0dab41451e2002ba2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/list_item_card_small.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-list-item-card-small.xml-EB66094328E47639463974D26A1A7317C4CCD04C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68f644a2e7d717cce44e0b9154c6f25b84399dedb6167a8ffa5aa567ba5920b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb66094328e47639463974d26a1a7317c4ccd04c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-strings.xml-2C88E2777DFC7ED55AE747235F79FA67C3E21B0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e299b94107fc4ec5e1af64e948d8aadde24c28ad0880275a1cbf3274728c55d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c88e2777dfc7ed55ae747235f79fa67c3e21b0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/preview.png",
+      "SPDXID": "SPDXRef-File--screenshots-preview.png-69821E9A47EB67CB09E4C167203A9F20A87200A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5615a3d486ed50f1b3232e49d42d7f60fc3932e8745c093e10a9e8671d4edb4f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69821e9a47eb67cb09e4c167203a9f20a87200a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/MaterialViewPagerSettings.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerSettings.java-93968C3D2F88FF2E1EFA8F889E099E67CF4F57E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afac70fcea989d73924dcca9e07ad6ac4ccdd281d59bd5c6fa3fe265998eda62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93968c3d2f88ff2e1efa8f889e099e67cf4f57e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/build.gradle",
+      "SPDXID": "SPDXRef-File--materialviewpager-build.gradle-526155EC4412E7CDF041FFF25211F93510906411",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "494847f424ec6c19d97981da2f19d8834df3adf0a01e927d92e05ccb73688a6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "526155ec4412e7cdf041fff25211f93510906411"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/screenshot_small.png",
+      "SPDXID": "SPDXRef-File--screenshots-screenshot-small.png-FE3F97693EC170682564FE1273789EC4F08D8265",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a19452035c01e57fdc1210e9dcf0b4f9b2550f54653257931e4196c19b5716b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe3f97693ec170682564fe1273789ec4f08d8265"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_imageview_header.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-imageview-header.xml-B987EE4A08080693626884E6C216C6524F68D191",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd924c04e4f4e77c748d16424c3945553159a7caf431be709d7a10d641e52f97"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b987ee4a08080693626884e6c216c6524f68d191"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/screenshot_2_small.png",
+      "SPDXID": "SPDXRef-File--screenshots-screenshot-2-small.png-6A54036ED8FBA16FB0F8706B3EBC77F3B101EABB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9c7926209df45552314c070ac107126824863a250af7943b976018c61f686d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a54036ed8fba16fb0f8706b3ebc77f3b101eabb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/MaterialViewPagerHeaderView.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerHeaderView.java-4E786BBA8C1E6B307CE382309518A570DFDCF5F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "975cd85439c21cfb51bbcee90b1dd7bb3e879ab5307d2b5ea0d0a1b624f7ded0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e786bba8c1e6b307ce382309518a570dfdcf5f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/tools_list_item_card_big.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-tools-list-item-card-big.xml-70790DA64D089F9EBAF50D3ED64AF444525B98DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bb5772ad883675a567d051d425a1811a0f5310d4a6b2120727ae60c56fea9b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70790da64d089f9ebaf50d3ed64af444525b98da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/header/MaterialViewPagerKenBurnsHeader.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerKenBurnsHeader.java-1FAD65E40AF7F94EFEF7FC15316878C8B3A88E6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c34ab098aefc5c0193d5e2b2a79fe2e6c67e1db45a65865c0431982964e96ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fad65e40af7f94efef7fc15316878c8b3a88e6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/.gitignore",
+      "SPDXID": "SPDXRef-File--sample-.gitignore-02FEB760D36621DF6D9FF20CB8828362D46A9C16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "309e37a82e022e2fc559708315b0c0a186530325b3944212d1860a577c4e0185"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02feb760d36621df6d9ff20cb8828362d46a9c16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_viewpager.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-viewpager.xml-263B5C15291EBEB713348FE92080067C8150EF7C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b76a9ebf1c1bb1a6d166a75d3691e1a0cdc6ccdeffc89fe220a85c63d9bc7709"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "263b5c15291ebeb713348fe92080067c8150ef7c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/github/florent37/materialviewpager/sample/TestRecyclerViewAdapter.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-TestRecyclerViewAdapter.java-1470A4B7AC160B4BA0B671B11E325A3CD2ACAD1A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0769e74db75f0698a09c2a56b468c3234b06018b0ea89bc9cbbb9559749f8528"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1470a4b7ac160b4ba0b671b11e325a3cd2acad1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/values/ids.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-values-ids.xml-2A35A40AF0608CBB12482B8C96BCD4347D7FF07A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84882eabf4e1d4a972d27f8ac345d9c807350f020fac534f84b00cad2ef56934"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a35a40af0608cbb12482b8c96bcd4347d7ff07a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/fragment_list.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-fragment-list.xml-6A3B4EF0722D0AC5CDAAAC60C52DF4380E3CF8AA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51bbb5a04a364592941e4b4bb57e44dfb254011339018e60a16adc5caf6d83fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a3b4ef0722d0ac5cdaaac60c52df4380e3cf8aa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/list_item_card_big.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-list-item-card-big.xml-2B91A7D7319FD1D43D2BD0A1B269414D627E4DCE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1eaf607061ca981cdc2f98718d6fbcf646c2db66189126b6c17b15e3ee77c604"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b91a7d7319fd1d43d2bd0a1b269414d627e4dce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/github/florent37/materialviewpager/sample/MainActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-MainActivity.java-2D7BA179DE2DB905ED82527928EECE33F77B6CA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cda74ba97ff159d6bed0761431b1d4f7be46c6338548d749c7e4599339396993"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d7ba179de2db905ed82527928eece33f77b6ca4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-dimens.xml-37C57EC3E4B5AF4E2D0640FB38219E1986F59B25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45f1194dd5cceaf4e69bee2b1d2852c3385d0d8dc9ac6f9cf7302de8ef0e0570"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37c57ec3e4b5af4e2d0640fb38219e1986f59b25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/fading_logo.gif",
+      "SPDXID": "SPDXRef-File--screenshots-fading-logo.gif-11BBF404D1A2A92ECCED5DE31EF534C144FB4EA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "877cf943f5b138e4484212adb6400edb0b36f8e9d394b1df7c9da1643d7b4365"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11bbf404d1a2a92ecced5de31ef534c144fb4ea0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-CB30AAD0799D20C306D7F6EC81FCE5D1475E9D7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "293b62a29d7b36a4e8a761673e16ec406c0ebf05a5a2a48ef0dc873bfc565390"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb30aad0799d20c306d7f6ec81fce5d1475e9d7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/header_logo_full.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-header-logo-full.xml-ED23969AEB93114CBEE4B89F037428E78A1BC107",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a15b6dbd3390c5b6b44961466e163a68bacbe5b70333fd5f09d3486d4f0bb95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed23969aeb93114cbee4b89f037428e78a1bc107"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6e7620e6c5d9bf8020f7216117d8cb799f7936f232e28732443b1fe79521d6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dc154e4ffff91ab2b070a4ce0ad15e50571bea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/screenshot_2.png",
+      "SPDXID": "SPDXRef-File--screenshots-screenshot-2.png-7508EC346303B9022902291291554D52CFB52753",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6b70ea2247d133cb8b2a64480aebc253568cd7e68fd35afdeabd5e289f8bacc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7508ec346303b9022902291291554d52cfb52753"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/preview_small.png",
+      "SPDXID": "SPDXRef-File--screenshots-preview-small.png-9BCF1FA52F83D6FECC695B6971B8BC208DF9DA81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e930aaf486d83486928913b0a13ccee271c8334117550f3aabd4e62820e5ad8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bcf1fa52f83d6fecc695b6971b8bc208df9da81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-E614E3B2EDC63A9CC423437DEA087C91962254F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2b82129ab64751fd40437007bd2f7f2afb3c6e41a9198e628650b22d5824a14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e614e3b2edc63a9cc423437dea087c91962254f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/MaterialViewPager.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPager.java-188FE8266A53EFE089F15AA740B9F19280E47E21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8552acadd2b67d36131a53b91c155e61696e62a6a5b35e1ac8dd3c960c13127"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "188fe8266a53efe089f15aa740b9f19280e47e21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/header/MaterialViewPagerHeaderDecorator.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerHeaderDecorator.java-A20F97C781C85034FC9EEE63F219B4A6B48E6C0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46996ea28464c5ed9e6197c9d1746e6d77ed8a40924e624e567dae61db1ef19f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a20f97c781c85034fc9eee63f219b4a6b48e6c0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-2189231b4fc039ff28a099e0e976139bc4a732b6.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-2189231b4fc039ff28a099e0e976139bc4a732b6.pack-9243739A98AE9D9EFEA2DE970FB5DA1E1A323C13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8af7cd4f8de3a47aa0b534924f8b99012728c505c86e914a890b2cda8ce8e2f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9243739a98ae9d9efea2de970fb5da1e1a323c13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/material_view_pager_pagertitlestrip_newstand.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-pagertitlestrip-newstand.xml-748B86494D8D8B2C3E0023FE8A76F8EE4EA6951C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be23afa86c562477953bca9d8d588e3a9fa534876c9bd13cb229bcdb869acbc4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "748b86494d8d8b2c3e0023fe8a76f8ee4ea6951c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/vcs.xml",
+      "SPDXID": "SPDXRef-File--.idea-vcs.xml-E692344D8C981D4806A673B29B1A6DC3B6B6D345",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e692344d8c981d4806a673b29b1a6dc3b6b6d345"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/values/attrs.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-values-attrs.xml-FB2381B992242F4D2E7FB9FB7A2472750308F6C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32ae60a823bbf48aec23698dbc53df0c7b7fee75e11a40b58948932c0c8a107b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb2381b992242f4d2e7fb9fb7a2472750308f6c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/library.iml",
+      "SPDXID": "SPDXRef-File--materialviewpager-library.iml-CA4275E63B14D08648E30C8E940B810FEFE322D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bf491a47100c00ff1664920e18c53bc6d482f803c601dc0b0370e40e180fcd1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca4275e63b14d08648e30c8e940b810fefe322d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/sample.iml",
+      "SPDXID": "SPDXRef-File--sample-sample.iml-A83F22E8EDBA6046D5CABFCC8C5315E800A9389E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fcb0245fdd357744ae52edf091ae397da7a4c79cff0d1001681fb62ac1192180"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a83f22e8edba6046d5cabfcc8c5315e800a9389e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable/circle.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-circle.xml-84A135C654E2415592D4C947761214146DA579B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f89ba6569ce9150a18080222cabf8904ff44a384939bd994d2b324a03d4e8926"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84a135c654e2415592d4c947761214146da579b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/java/com/github/florent37/materialviewpager/MaterialViewPagerHelper.java",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerHelper.java-2F51311C32CB25978CF78AF9AA42377D7A9C4B16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bec9876f1539d656a98938e0a014573ade91ed34a53f85120515bd7949dbd75e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2f51311c32cb25978cf78af9aa42377d7a9c4b16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/drawable/logo_white.png",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-drawable-logo-white.png-5E6EC57C50F2357EB75C910BC01DC8184C20EF17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "759ed4fed3e14264a10de6e9a03b260fb0b739dfe85faa64b714dc22d6903541"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e6ec57c50f2357eb75c910bc01dc8184c20ef17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/fragment_webview.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-fragment-webview.xml-D58AF44DAFF3A66381A6D826132BE1F482F7F301",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bf9b9634ea2de44c5b20871a68bfc0513450eb8f0bc49647dcabc1bec751e51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d58af44daff3a66381a6d826132be1f482f7f301"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "820e323f5506dc1dda3fad164e5fa0acd56a8266e4ea441db94e60fd9972d28a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a78f48fe9f9114f315dc79eff29452e93ffd709a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/layout/tools_list_items.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-layout-tools-list-items.xml-FA3BA5480CAA471F4C93129188E5004EBAED9348",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b9ab385cf3f6428aa9ed1eb40eccda164763dbb95982328c18871d47910f253"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa3ba5480caa471f4c93129188e5004ebaed9348"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values-w820dp/dimens.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-w820dp-dimens.xml-D59EEF2DA25B27BFF7A768F67EE841C355A42046",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c797343469ccb9a6729c6a2a7303ecef73cfe1ba5052f208a6675a2199874fc1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d59eef2da25b27bff7a768f67ee841c355a42046"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./materialviewpager/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--materialviewpager-src-main-res-values-styles.xml-12BCDEF27C8437B1C0FA757903E22ED9AE4D66B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64a3cc0bc157aab8ab20efcc811aa9947b0f445695b5e6ebeb51f164ac3a96d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12bcdef27c8437b1c0fa757903e22ed9ae4d66b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/github/florent37/materialviewpager/sample/TestListViewAdapter.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-TestListViewAdapter.java-C8580E91F8FE9B8871F0B9DDD12E7628F8645635",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "217773bd6fb0a413d03c8b356006ab166e0b5c90ae88ae2ba0c01d1dba2c1aca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8580e91f8fe9b8871f0b9ddd12e7628f8645635"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/drawer.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-drawer.xml-E75FA3400482698F7CB76612391C71CEBBC6A287",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ccecb01b40a8cd3f68fbf226f2e3692534573765ce818cf3fd92dbab3d0fdb3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e75fa3400482698f7cb76612391c71cebbc6a287"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/header_logo_text.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-header-logo-text.xml-7359DEC1846C3C9BB146A80BA4BBC13D56C2315B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d45f987de1d8682689f481357dcc9ba92660e99cc278612fa72bce62d024217a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7359dec1846c3c9bb146a80ba4bbc13d56c2315b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-colors.xml-AA28A9B83EFE136EC7D4912ADEDBE60F74EF2474",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "861dfd4ad8fdb30d365e38472b8b5ddd6ae812f84a38e3f15fa9e74fbf0d950a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa28a9b83efe136ec7d4912adedbe60f74ef2474"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/screenshot.png",
+      "SPDXID": "SPDXRef-File--screenshots-screenshot.png-C646CDBAF9E6F107105F2A3597AD3752ACE6BD89",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55ea5e3eacf5a63da37508fb657308bd7e1c4ce8723fd2e54877a01b3e34994e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c646cdbaf9e6f107105f2a3597ad3752ace6bd89"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./screenshots/titlebar_logo.gif",
+      "SPDXID": "SPDXRef-File--screenshots-titlebar-logo.gif-DBAAEE1F5CEDA350276CDA1B06343A3FA9D05C54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "626b189d94a0a48d81c9b8abc1a2450feda998b23d570bd5689591c748f94fe8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbaaee1f5ceda350276cda1b06343a3fa9d05c54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "MaterialViewPager",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "ae220fd8df4297eb99db6dfbcb9fb581890c9e69"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2.0",
+      "supplier": "Organization: https://github.com/florent37/MaterialViewPager",
+      "hasFiles": [
+        "SPDXRef-File--screenshots-screenshot.png-C646CDBAF9E6F107105F2A3597AD3752ACE6BD89",
+        "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+        "SPDXRef-File--sample-src-main-res-layout-header-logo-full.xml-ED23969AEB93114CBEE4B89F037428E78A1BC107",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-tools-list-item-card-big.xml-70790DA64D089F9EBAF50D3ED64AF444525B98DA",
+        "SPDXRef-File--sample-src-main-res-values-colors.xml-AA28A9B83EFE136EC7D4912ADEDBE60F74EF2474",
+        "SPDXRef-File--materialviewpager-library.iml-CA4275E63B14D08648E30C8E940B810FEFE322D1",
+        "SPDXRef-File--.idea-vcs.xml-E692344D8C981D4806A673B29B1A6DC3B6B6D345",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-E614E3B2EDC63A9CC423437DEA087C91962254F5",
+        "SPDXRef-File--screenshots-fading-logo.gif-11BBF404D1A2A92ECCED5DE31EF534C144FB4EA0",
+        "SPDXRef-File--sample-src-main-res-values-dimens.xml-37C57EC3E4B5AF4E2D0640FB38219E1986F59B25",
+        "SPDXRef-File--materialviewpager-src-main-res-values-ids.xml-2A35A40AF0608CBB12482B8C96BCD4347D7FF07A",
+        "SPDXRef-File--sample-.gitignore-02FEB760D36621DF6D9FF20CB8828362D46A9C16",
+        "SPDXRef-File--screenshots-screenshot-2-small.png-6A54036ED8FBA16FB0F8706B3EBC77F3B101EABB",
+        "SPDXRef-File--screenshots-screenshot-small.png-FE3F97693EC170682564FE1273789EC4F08D8265",
+        "SPDXRef-File--screenshots-titlebar-logo.gif-DBAAEE1F5CEDA350276CDA1B06343A3FA9D05C54",
+        "SPDXRef-File--sample-src-main-res-layout-drawer.xml-E75FA3400482698F7CB76612391C71CEBBC6A287",
+        "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-TestListViewAdapter.java-C8580E91F8FE9B8871F0B9DDD12E7628F8645635",
+        "SPDXRef-File--materialviewpager-src-main-res-values-styles.xml-12BCDEF27C8437B1C0FA757903E22ED9AE4D66B1",
+        "SPDXRef-File--materialviewpager-src-main-res-values-attrs.xml-FB2381B992242F4D2E7FB9FB7A2472750308F6C5",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-pagertitlestrip-newstand.xml-748B86494D8D8B2C3E0023FE8A76F8EE4EA6951C",
+        "SPDXRef-File--.git-objects-pack-pack-2189231b4fc039ff28a099e0e976139bc4a732b6.pack-9243739A98AE9D9EFEA2DE970FB5DA1E1A323C13",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerHeaderDecorator.java-A20F97C781C85034FC9EEE63F219B4A6B48E6C0B",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPager.java-188FE8266A53EFE089F15AA740B9F19280E47E21",
+        "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-CB30AAD0799D20C306D7F6EC81FCE5D1475E9D7E",
+        "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-TestRecyclerViewAdapter.java-1470A4B7AC160B4BA0B671B11E325A3CD2ACAD1A",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-viewpager.xml-263B5C15291EBEB713348FE92080067C8150EF7C",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerHeaderView.java-4E786BBA8C1E6B307CE382309518A570DFDCF5F1",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-imageview-header.xml-B987EE4A08080693626884E6C216C6524F68D191",
+        "SPDXRef-File--materialviewpager-build.gradle-526155EC4412E7CDF041FFF25211F93510906411",
+        "SPDXRef-File--screenshots-preview.png-69821E9A47EB67CB09E4C167203A9F20A87200A9",
+        "SPDXRef-File--sample-src-main-res-values-strings.xml-2C88E2777DFC7ED55AE747235F79FA67C3E21B0C",
+        "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+        "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-MainActivity.java-2D7BA179DE2DB905ED82527928EECE33F77B6CA4",
+        "SPDXRef-File--sample-src-main-res-layout-list-item-card-big.xml-2B91A7D7319FD1D43D2BD0A1B269414D627E4DCE",
+        "SPDXRef-File--sample-src-main-res-layout-fragment-list.xml-6A3B4EF0722D0AC5CDAAAC60C52DF4380E3CF8AA",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerKenBurnsHeader.java-1FAD65E40AF7F94EFEF7FC15316878C8B3A88E6C",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerSettings.java-93968C3D2F88FF2E1EFA8F889E099E67CF4F57E6",
+        "SPDXRef-File--sample-src-main-res-layout-list-item-card-small.xml-EB66094328E47639463974D26A1A7317C4CCD04C",
+        "SPDXRef-File--sample-src-main-res-values-styles.xml-35F62B3B8AE0C000AA8A14B0DAB41451E2002BA2",
+        "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+        "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+        "SPDXRef-File--materialviewpager-materialviewpager.iml-2815F2666DFA5E2723D174448280227B9A49304C",
+        "SPDXRef-File--.idea-runConfigurations.xml-632A7BD185035E2559A7857A238196B9C8015DAB",
+        "SPDXRef-File--sample-src-main-res-layout-fragment-recyclerview.xml-860175353664514631567E2256235CB210039977",
+        "SPDXRef-File--sample-src-main-res-layout-header-logo.xml-59C2F9C075316AFCE0583A9FDC2F7AC5CC927CD8",
+        "SPDXRef-File--sample-src-main-res-layout-header-logo-2.xml-49BC03AAE5E368F5F4BDB72CE9722AA1A84A90F4",
+        "SPDXRef-File--.idea-copyright-profiles-settings.xml-C2580BC1E302143D8DFCA4CE9D57A8FCBF12A3E6",
+        "SPDXRef-File--.git-objects-pack-pack-2189231b4fc039ff28a099e0e976139bc4a732b6.idx-FF7DDB6F9689D9A921D9F7AC957A93755807C2C5",
+        "SPDXRef-File--sample-src-main-res-menu-menu-main.xml-EF59180A04E42C63B1676DC37D2BD22EC3C8EC71",
+        "SPDXRef-File--sample-src-main-res-layout-fragment-scroll.xml-8837EBC872E0A0A030E36DFD370F0EA2864FD44D",
+        "SPDXRef-File--.git-refs-heads-master-DF0C91A3B6BBBFC4BB7A0A99E700A607B13268C9",
+        "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-fragment-RecyclerViewFragment.java-57F2180947E04C0C8B49F073A539AF22F8919DA2",
+        "SPDXRef-File--sample-src-main-res-drawable-logo-white.png-5E6EC57C50F2357EB75C910BC01DC8184C20EF17",
+        "SPDXRef-File--sample-src-main-res-drawable-flying.png-012938FD83DA641CD5154E19B309E760BB445181",
+        "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-DrawerActivity.java-8A32C62AB984A218C1EC75D81DB2A920FC10396C",
+        "SPDXRef-File--materialviewpager-src-main-res-values-dimens.xml-5E1CB8915D5770A606103931994B8E0C96F0BE22",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-placeholder.xml-6281416190416ADB9B51BD3A59E664EFE46A4F4A",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerImageHelper.java-73547CD305FD34CFEC56F7693B537C0611CF913D",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerHeader.java-F9D02256700B600A69EE515835CE380ADD076C1F",
+        "SPDXRef-File--materialviewpager-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--.idea-modules.xml-B44CC3548CB38CD551AEE3A1512C4916D307522E",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-C3D91BCBCBD226CA8E829F2E11D362BAA0D23B8B",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--sample-build.gradle-278266812BA0420DCA4B20D5F5552C6F66CFD146",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-tools-list-item-card-small.xml-3ECE70E98E940A08561C8026A8D1A09F914278FC",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-layout.xml-41BC1AD2FF8A4C7E606221ED72B8EB77100BDC78",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-Utils.java-CDD58128221A4404EB6C48C7CDF707C5056BE7E6",
+        "SPDXRef-File--materialviewpager-proguard-rules.pro-A9B5B698AF74A2132E6CD23DFD2D529E15A03AAD",
+        "SPDXRef-File--gradle-bintray-android-v1.gradle-982041F98843F30F8CBBE010AE1023A1FBB66731",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-E4D0AE7B3C0B2BCA667D3973C80A92C23FAD6993",
+        "SPDXRef-File--materialviewpager-src-main-res-values-colors.xml-32F37C67F745365D904C4EC5FF870D52AEDDC1EA",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-pagertitlestrip-standard.xml-179BB0881E7C5F5F6F8C8486225019EA4B7C1675",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-MaterialViewPagerImageHeader.java-E4DA0090431B742E3C134721D346CF4CED614812",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerAnimator.java-FC396B462AF875BDD9C2AF31C003A65F5C7F2A53",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-6144055699C61068C539F48C8A198218319DA992",
+        "SPDXRef-File--.idea-misc.xml-0A742016E31E1591522AEFA252C7DB5687E53843",
+        "SPDXRef-File--.git-logs-refs-heads-master-C3D91BCBCBD226CA8E829F2E11D362BAA0D23B8B",
+        "SPDXRef-File--sample-src-main-java-com-github-florent37-materialviewpager-sample-fragment-ScrollFragment.java-4D9C2809B9552F438A2A6822DF7B04D61549BDEC",
+        "SPDXRef-File--sample-proguard-rules.pro-A9B5B698AF74A2132E6CD23DFD2D529E15A03AAD",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-tools-material-view-pager-pagertitlestrip.xml-630BA33F8638BF20D5F05D2D2E1D4D8972B340E6",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-material-view-pager-moving-header.xml-E6835411232B8C6A7598159890DC016113959455",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-header-HeaderDesign.java-1D4B5AC55EE15C9D5221C823ACDB314FD0C5E675",
+        "SPDXRef-File--materialviewpager-src-main-AndroidManifest.xml-B18A6C1BF516CBA01691D6D53840D6FD4ACECABA",
+        "SPDXRef-File--gradle-install-v1.gradle-FD334B22503998997D24E58C910720EE586F9AB5",
+        "SPDXRef-File--.idea-compiler.xml-4F548A680627CAA7E88EE73AD4147655C62E7BE9",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.idea-gradle.xml-4641CCA196EF63E0A0AEB2A5D017FD22640A2205",
+        "SPDXRef-File--.git-logs-HEAD-C3D91BCBCBD226CA8E829F2E11D362BAA0D23B8B",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--sample-src-main-res-layout-header-logo-text.xml-7359DEC1846C3C9BB146A80BA4BBC13D56C2315B",
+        "SPDXRef-File--materialviewpager-src-main-res-layout-tools-list-items.xml-FA3BA5480CAA471F4C93129188E5004EBAED9348",
+        "SPDXRef-File--materialviewpager-src-main-res-drawable-logo-white.png-5E6EC57C50F2357EB75C910BC01DC8184C20EF17",
+        "SPDXRef-File--materialviewpager-src-main-java-com-github-florent37-materialviewpager-MaterialViewPagerHelper.java-2F51311C32CB25978CF78AF9AA42377D7A9C4B16",
+        "SPDXRef-File--sample-src-main-res-drawable-circle.xml-84A135C654E2415592D4C947761214146DA579B2",
+        "SPDXRef-File--sample-sample.iml-A83F22E8EDBA6046D5CABFCC8C5315E800A9389E",
+        "SPDXRef-File--screenshots-screenshot-2.png-7508EC346303B9022902291291554D52CFB52753",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-B2A540E5E4776F0B26D4280C20346F1DCD47BD39",
+        "SPDXRef-File--gradle.properties-74F064B06A546AB09A7433A1ED69BC0FAF79285A",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-249D2BDBFA88FDCBD2B5EF111AF4073BB9C05454",
+        "SPDXRef-File--build.gradle-78D8BBBFFC22B7AB5991B169A7B417E5F326AB14",
+        "SPDXRef-File--sample-src-main-res-values-w820dp-dimens.xml-D59EEF2DA25B27BFF7A768F67EE841C355A42046",
+        "SPDXRef-File--sample-src-main-res-layout-fragment-webview.xml-D58AF44DAFF3A66381A6D826132BE1F482F7F301",
+        "SPDXRef-File--screenshots-preview-small.png-9BCF1FA52F83D6FECC695B6971B8BC208DF9DA81",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-DACE5525490559DCB5101944B1CB670F1BBD5EA2",
+        "SPDXRef-File--circle.yml-C2BF5BB8F4EB0A6AB8A3D2CABA365FBC5A4F2D63",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--publish.sh-77616B96992DA75DABC8FB54682C6C3FB5A6B089",
+        "SPDXRef-File--.gitignore-D918D7E219CBC6343FAB9EA39FE1521691BB49E5",
+        "SPDXRef-File--.git-index-406AB44483478B1808A48F9C09F746F68D54A256",
+        "SPDXRef-File--LICENSE-E93CF855C696B206B454A02349019921AF541F7F",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-BFA9D3551A8EF9A22E4B0DC4DD391BF9EE92DDAD",
+        "SPDXRef-File--MaterialViewPager.iml-AAF5D24CCB7BFC555EC06A15E7E519C87A5F02A4"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "MaterialViewPager 1.2.0",
+  "documentNamespace": "https://www.fiches-plateau-moto.fr/MaterialViewPager/1.2.0/JwZgNz5C5U23bamRifCUJA",
+  "creationInfo": {
+    "created": "2022-09-21T03:04:11Z",
+    "creators": [
+      "Organization: https://github.com/florent37/MaterialViewPager",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

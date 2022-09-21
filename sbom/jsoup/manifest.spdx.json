@@ -1,0 +1,4928 @@
+{
+  "files": [
+    {
+      "fileName": "./.gitattributes",
+      "SPDXID": "SPDXRef-File--.gitattributes-D0D8D8ED9522BBF268A0AA67B026F902BA05BF55",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70cd35b0d6409862f4c1309e5a910ade143bbea9d291d5f17c177c0e9600df54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d0d8d8ed9522bbf268a0aa67b026f902ba05bf55"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-7FB7FB4F026A64C88AE7DE53BFD2E1B5C2C4F7A5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69c33fc62d9ca5ae1b2f2f2c9243f93707de9699bb84030b6cd36d54744b7736"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7fb7fb4f026a64c88ae7de53bfd2e1b5c2c4f7a5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-304AD2531D3AFDF3A9120113751F4F1257F77C03",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "447fc86240034616cf846dfb074f141e14b0dffef88912c1a4e7b1725fc39b9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "304ad2531d3afdf3a9120113751f4f1257f77c03"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGES",
+      "SPDXID": "SPDXRef-File--CHANGES-E2140BD042CC3202224598650C76A34C54FCF859",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aed5dbf655910f5e177b1f165ac88494bb0e71cc699869b30c86f585c58fe9d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2140bd042cc3202224598650c76a34c54fcf859"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-E7D27895CD540058227D9452013A5A311CC5DFC3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe2a33e99d127a1d280357d72e0f1503af20e47495b32dccd4d524a0db4e263b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7d27895cd540058227d9452013a5a311cc5dfc3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-95389017CFD36C1E56DAFC8FE7C75720A1FD137B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c7530cc19d93dcda58d20c77bd039aab2d2cd8bfe379d240b602c4cc31dd3a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95389017cfd36c1e56dafc8fe7c75720a1fd137b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-0239CE8454CFFA28268CDB4319505EF9AF4AEDA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8abcf2848edb1e44ffa1de42cdd6a68ee05a927ad4853ecaa5d6872e828c6ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0239ce8454cffa28268cdb4319505ef9af4aeda0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-9F25843235E9D8F7B4A422008CF507AC76BFDC88",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f37026f1230be59de145caf95175119d9382887875c9d95a848562708aad63a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f25843235e9d8f7b4a422008cf507ac76bfdc88"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-8EEF2C13A79FB7D908D77ABF96429949411DF100",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d76dcafb222a8f8f5986826e07d48813464da8723375e441a7ae3fa80d54c025"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8eef2c13a79fb7d908d77abf96429949411df100"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/dependabot.yml",
+      "SPDXID": "SPDXRef-File--.github-dependabot.yml-5F68EAFF8C507187264D77F4574BA909A8E9112D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e9b57c782c2cd1360b87921da866a4867c5b6105cf3ff30ff07126d3133fe40"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f68eaff8c507187264d77f4574ba909a8e9112d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/SerializationException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-SerializationException.java-E4A56435A6354CCA921502D55155DEA735F2E102",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96e426ace0e719074fd26e67ca36bb2657050c133af49b1fd4fba3368e652c59"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4a56435a6354cca921502d55155dea735f2e102"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/Consumer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-Consumer.java-712DB6DFBE085737175A8AB55CDB130A7A8A7901",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08b63a73821cb8f368c3ca4bf3fc3d65e2113f75a13587cacbd5c00b9c95c53b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "712db6dfbe085737175a8ab55cdb130a7a8a7901"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/ConstrainableInputStream.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-ConstrainableInputStream.java-85211841FFA2D8D76AE638FAAA5BCEB51D09E551",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1c98e10b6a7ad38e5782f1f5fd7bb44b09b847c88680a4f269046d48529c467"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "85211841ffa2d8d76ae638faaa5bceb51d09e551"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Attributes.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Attributes.java-DC11D1E3C88EA8A1643EAD849ED615AE3E823A29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3407a92f6f491b2db1633e02664795808d6377b1685960065c42945b8faf54e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc11d1e3c88ea8a1643ead849ed615ae3e823a29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/EntitiesData.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-EntitiesData.java-497397DE55C188CFA087FD337642A3792F34C68B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d2d6726a607fca5d0f9393aa6d5dc0882e780507dfb35371cd4d17e7e1e63f9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "497397de55c188cfa087fd337642a3792f34c68b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-43863BB82119BE4C3ADAAE83BB8F1DACC69E2250",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1691355524d41fba31639b31b3ead83f2189cbd86af3c17a1bef699a963945a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43863bb82119be4c3adaae83bb8f1dacc69e2250"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/build.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-build.yml-9D874FA9921FC9585CB9508927A9539FAABD5C5B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "554ea80e9e85a0dbc45ecb1044acb9cb7588874d29c603b285ba885d658d97ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d874fa9921fc9585cb9508927a9539faabd5c5b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/UncheckedIOException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-UncheckedIOException.java-1A3F8E6D0FEF71B8F35E17CDDBF50F01355BED60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef842a8249921f9339b73570ff5a40973e50c24fa4686020d4964c9eba159f34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a3f8e6d0fef71b8f35e17cddbf50f01355bed60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/CookieUtil.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-CookieUtil.java-5DCF461184968806863CD1143048BF24797AE512",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e642e7cebb1c099895cf2947b4910e855b88fd0a51a92ca31278c67074476e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5dcf461184968806863cd1143048bf24797ae512"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/FieldsAreNonnullByDefault.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-FieldsAreNonnullByDefault.java-F8448E23E0856EDCC600BCF9E4638A01C834C5BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34ba3d2afe68cc8d2f0212b14dd46df2e42a85d0ebc6f42340185be8910db08c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8448e23e0856edcc600bcf9e4638a01c834c5bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/CDataNode.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-CDataNode.java-656F945F8E06AD387446505E28E71DB2138B367E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e1bd0786a69b9eb5ed24fbe50e9e1dd7f72a1ba0d1ef116b9353af4513089b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "656f945f8e06ad387446505e28e71db2138b367e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/FormElement.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-FormElement.java-A310267A83B9F5E8AC13F177362FE71C305F7609",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99e74181e349e5925b58a39cb9a4cd3dbcba9af076de17a4d4c595191717c1cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a310267a83b9f5e8ac13f177362fe71c305f7609"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-853b2970159f3c9f63413d300a51f9c2e119a2d6.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-853b2970159f3c9f63413d300a51f9c2e119a2d6.idx-C138C6DE85D5A709EB43F25E80FF7E68EFBFBDED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71370f8400931d56462ba76dfcb156c6616f0fc1f3f59851bfc187d57ebb3b30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c138c6de85d5a709eb43f25e80ff7e68efbfbded"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/Connection.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-Connection.java-164BF5A91193087E715AA1E768CC554EA09F03D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "194529cb6b0b11b194acb3df09bf655ebebc23ea655418b0ab1964fbff73bd39"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "164bf5a91193087e715aa1e768cc554ea09f03d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/examples/ListLinks.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-examples-ListLinks.java-CE092113F234697A70267E08C12886CDEF06C340",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0186ce57dfab252beee2b196b86c94c320abd4b2c1eb1fb7ae8982223c15c594"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce092113f234697a70267e08c12886cdef06c340"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-package-info.java-15D81B1EB19F0AB0C2907FFBBFBA176CE962A8C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7dad56f47c58b60266cf817dbd3819a52acab19cd3e996d16ea8a3bf30861cb8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15d81b1eb19f0ab0c2907ffbbfba176ce962a8c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-package-info.java-03B416F01B625C4B682A3B33FF61B1D8A7F5AD72",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "273c46170e277cc4c47568cad7f30002351fd2bed6d2ccd36449e4bda88b567c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03b416f01b625c4b682a3b33ff61b1d8a7f5ad72"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Document.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Document.java-E2F3CC03558A66F6790F6559E37BDF2F4D530AF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96027b9abd1e660ef9371db6bca39c1a3e790334e6cbaf63fcce04e0e5554815"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2f3cc03558a66f6790f6559e37bdf2f4d530af4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-43863BB82119BE4C3ADAAE83BB8F1DACC69E2250",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1691355524d41fba31639b31b3ead83f2189cbd86af3c17a1bef699a963945a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43863bb82119be4c3adaae83bb8f1dacc69e2250"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/cifuzz.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-cifuzz.yml-3096420F5149A3C395332C1B9E242BC326E6AF4D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b4be209acd2dc802af67ed16b8c2dc3315089535fea957c4f691fe90547e153"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3096420f5149a3c395332c1b9e242bc326e6af4d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/UnsupportedMimeTypeException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-UnsupportedMimeTypeException.java-72D9F73119B87ABD62F36FEECAEF0FEF96FEFD97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba4fb475e31d400f274d24c1cac751322061be5af6a6b8297df5b489cc6285ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72d9f73119b87abd62f36feecaef0fef96fefd97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/DataUtil.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-DataUtil.java-2DF5CE20E2A0538BF9621415272EA422EE829D5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a142061c691ab60312f1f5b5dc62e4579d0061d6ad107bc703fe700f3612ad6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2df5ce20e2a0538bf9621415272ea422ee829d5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/NonnullByDefault.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-NonnullByDefault.java-40BFD6B0F090AEC004942CDA17F6D65E05785789",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22c002a41cd84595879dae69869c1a765ec37b75c045640fec34b9723f8eea57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40bfd6b0f090aec004942cda17f6d65e05785789"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Comment.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Comment.java-8A697A1458857D76AC67F5812B36512515DEFAF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e427643702b043e9573d73ba95c50d32fb3c47fa02e6398dbf9a794c3c52d2be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a697a1458857d76ac67f5812b36512515defaf5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/LeafNode.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-LeafNode.java-3FF14A9B86B87AEF59558A9FEA7ACE702293141E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "267984f33ea449b30925d61472f5dd6fb1484599ca9b969bfcce6de5b3ff4bcf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ff14a9b86b87aef59558a9fea7ace702293141e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-43863BB82119BE4C3ADAAE83BB8F1DACC69E2250",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1691355524d41fba31639b31b3ead83f2189cbd86af3c17a1bef699a963945a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43863bb82119be4c3adaae83bb8f1dacc69e2250"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/codeql.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-codeql.yml-83052E7E03B1D9B9353362C7A0B3EEC38D4B164C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a4e564b78ce9f1eed2a0cb5c71175a3e9489db09860501561ab0bf9f146b35d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83052e7e03b1d9b9353362c7a0b3eec38d4b164c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/examples/HtmlToPlainText.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-examples-HtmlToPlainText.java-48FAB7B357AF3F0A45643D8E392A94F0739A05D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fe8e5f3dc9b26237f8c71758bcbfe765c6a427ed213cba2f5f00d930e008052"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "48fab7b357af3f0a45643d8e392a94f0739a05d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/HttpConnection.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-HttpConnection.java-A3FDD732DB5F5E4D7A7F4026DE5D0E0BD98732CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09c2fb899e4784c7f99d45bb86c8588ab4e25108c58fa0c7db6f45c59b2bbf02"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3fdd732db5f5e4d7a7f4026de5d0e0bd98732cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/Normalizer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-Normalizer.java-A7534A0943622D09E25DEA0C6E5CA11CF2E12AFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c678c088b6029cd127da7bb4340958e00867cd5834485c0ceab36c55d780aa53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7534a0943622d09e25dea0c6e5ca11cf2e12afd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/DataNode.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-DataNode.java-14EABC5083E406D4E1810979571CAE2BDFA237FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be18e9d470feb4b3fc8abd9263a534138299aa629aa5f14a2033023f599c6d8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14eabc5083e406d4e1810979571cae2bdfa237fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/XmlDeclaration.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-XmlDeclaration.java-FB47B3F16542CBED81E8519EE4590C19FCD0E631",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68b64467de8aad287b3a36ac7eb06f226fcb75378ab10a6f5e4a51bba31daf3c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb47b3f16542cbed81e8519ee4590c19fcd0e631"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/ParseSettings.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-ParseSettings.java-638C6E4C272EA2773D58BEE468D131D86AD4D915",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "787df49719e004c6a5489b6a96f81755914ab38d5dc09ce5525a90e030798e6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "638c6e4c272ea2773d58bee468d131d86ad4d915"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-package-info.java-13E7EA7E7C5CCED94F4FB6DF3A633569875D1D3D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba4f7c9dd1d33c6607514b10578ba35c78d7a15e5fd2d2533b0e29cd6d173ccf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13e7ea7e7c5cced94f4fb6df3a633569875d1d3d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-5902E90AA88CDAB3AEC398E48072280040910C07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd2316838572b2a88ba3525979fc5e1f14b17d7bb31e3a49673b4e31f1368068"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5902e90aa88cdab3aec398e48072280040910c07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Node.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Node.java-158DE73A06C0C4E7C9E77D1EAEBF68120301E2C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f27e4120d35934829801855592676526e0d6f8449cf8043d27e9bf5111b109b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "158de73a06c0c4e7c9e77d1eaebf68120301e2c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/CharacterReader.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-CharacterReader.java-989A44425C690A8F64E39C391FE5BC768CE8AC2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b87317c4c128a456780db7641d7f1fbfd5b2b50b930799d33c2ff452bb5eba0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "989a44425c690a8f64e39c391fe5bc768ce8ac2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/TextNode.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-TextNode.java-DD815A015597754409264E3D6882E043C7FAD493",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e017e3a5960a16b1d7f6f295b7681abe7c0d21ffb942540c72a76db69749643c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd815a015597754409264e3d6882e043c7fad493"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-853b2970159f3c9f63413d300a51f9c2e119a2d6.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-853b2970159f3c9f63413d300a51f9c2e119a2d6.pack-69861670BDE1B78B6D6C2874A5DF051D663EA498",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbf01f4709a7a1b59235abbc201849357c555d2d52a18239608e9aeb8c7f0a87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69861670bde1b78b6d6c2874a5df051d663ea498"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/NodeUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-NodeUtils.java-F0D1FDD5B73DE8997F12DD065FF092CC6F5AC736",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca231f8d8f3e484cb4482c65fb24fd19dfab2d314960bc0d4069dd1628625c98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0d1fdd5b73de8997f12dd065ff092cc6f5ac736"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/Jsoup.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-Jsoup.java-0A4A9C5839353AFDCFAF808CC5F409EB2B850064",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ac214fe9f5ca8e5752ab327403fb696ac5608e83eea5ce03e65734bb1cd2ef2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a4a9c5839353afdcfaf808cc5f409eb2b850064"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/Parser.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-Parser.java-4DF46804FFCD5D9D511AEDB0E233BA916DD84B17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea18c66a026e6447bf7a67547a77fa74b445f8a057686932855f0b80d0e43f14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4df46804ffcd5d9d511aedb0e233ba916dd84b17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/Tag.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-Tag.java-CF36DAA00019219904856E00B99B538BCB64B19B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9ee9601ac315b9f3d74589701f283ac49ac73661dcf48b3e06ff0d4d3061fb2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf36daa00019219904856e00b99b538bcb64b19b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/HtmlTreeBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-HtmlTreeBuilder.java-E3400F4A8369B3EA3EE3062DD3583D6BCB865EF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "94ca0fbd1d9bcd0b58cfc9f2dfdf7b019299e4aab5f03780782505e025fe4a41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3400f4a8369b3ea3ee3062dd3583d6bcb865ef0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/safety/Cleaner.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-safety-Cleaner.java-1774BF0610FE388F88A777F24F696AC9ADBF9710",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c38ac17a8efb02c3e8b97c3c89cba5dd8d4f6a77974c5b7caafa13d8bc786d65"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1774bf0610fe388f88a777f24f696ac9adbf9710"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-ChangeNotifyingArrayList.java-9D2C188FA20D2F8B51C242F7EDC5D843E0BF1954",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c05a78a65ee75cabb0f6535987200c174ffeb39914cfb6170df91a8be9b0e233"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d2c188fa20d2f8b51c242f7edc5d843e0bf1954"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/HttpStatusException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-HttpStatusException.java-C5D1F067DBA225BD1CDE2B7A7A7810910D928D68",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecf725c71ae86ab5d915431ce4980b4ffb679d273b1b2561242842fab1ff3196"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5d1f067dba225bd1cde2b7a7a7810910d928d68"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/examples/Wikipedia.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-examples-Wikipedia.java-B3FA3B1AAE9E80444272F75EFE85B86725B8D640",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "816c01ba37559e1a0e52e2e64b0557d4811e5259f73cab52824094e394fea466"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3fa3b1aae9e80444272f75efe85b86725b8d640"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/safety/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-safety-package-info.java-8BFD2F1674AC901E9DE57D7CE66CF1D34DA00E6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84c6064550d9f45f9d4489029b4fe0df4efb13b2883904546395f78ecd626384"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bfd2f1674ac901e9de57d7ce66cf1d34da00e6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/XmlTreeBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-XmlTreeBuilder.java-63C60F4E9AE71C638B2B8527904F811AF0D43C54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aaeef6a7c72c01683180e940465f4fe1693607eabe70683e97d46165de470fca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63c60f4e9ae71c638b2b8527904f811af0d43c54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/NodeTraversor.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-NodeTraversor.java-BAF0D698074E7AF7D76FC4B88F793D496F08663C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ddd4db4810c158b9d908b9938c5abc4b294563f03d94efaf76ea5f957c3d2c9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "baf0d698074e7af7d76fc4b88f793d496f08663c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/W3CDom.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-W3CDom.java-221CDDAC9DF8A34BEB0096ED70C9A53E8AE4EA45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b6a1de3c03c285c7ea7b7f43c9e2958ef217e9d78ec1bef13abcb6bb3d3ac4f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "221cddac9df8a34beb0096ed70c9a53e8ae4ea45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/Token.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-Token.java-317701EE86FC9DE72B71106D1023634681AECA0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f292019f1c14300d93f21d32016478cd2f74b0635cf4b8d6320c34312f227c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "317701ee86fc9de72b71106d1023634681aeca0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/NodeVisitor.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-NodeVisitor.java-B44B27C9CE91FB76F23DFD2DA14B128623FFC5F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a41177ecc50cca46000545e69f936b669d4b62c4e118cfcea08e591d3e35688"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b44b27c9ce91fb76f23dfd2da14b128623ffc5f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/examples/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-examples-package-info.java-E5EAD6C94D5C6512B5A36F3DF5833C7D2E048AC3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c337a040d58b514b588b78a134a1d185270a01ba5a78d4bd7c5508dbf5f063eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5ead6c94d5c6512b5a36f3df5833c7d2e048ac3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/NodeFilter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-NodeFilter.java-B250EAC164BDAE8C21F3F5900EFC81D653F0774F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6ea686f67d198f14e08dbb0d7e5719a0d87803aba448143fef1f9c478d7a44e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b250eac164bdae8c21f3f5900efc81d653f0774f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/ValidationException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-ValidationException.java-46633162ADB0DD46986371F883ED2B7603A1BEC0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "209e9b62845a9effe55d9e684c8ebe76d6f63be27cd66ee0a2ff24ce3585cfbd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46633162adb0dd46986371f883ed2b7603a1bec0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/TextUtil.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-TextUtil.java-EB3388E13025348FF7C179605EED7AF40ABF4C13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48216be48aa35dae2459fc3f2ea487abda9e3a6924dae3c0b661a4fd6cc684d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb3388e13025348ff7c179605eed7af40abf4c13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-HtmlTreeBuilderState.java-7C9186BC75876E7AC8B6D0184B3112A3C2D35D7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3eeb7c646a30649f615a6feafd2829b3873f7dd72b40fe1e18e5c35b6c768e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c9186bc75876e7ac8b6d0184b3112a3c2d35d7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Attribute.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Attribute.java-C8E5AD8403F2F025B0B646EB354EB1117D958AF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de6d99e7eae6a0666efd38e858693d9bd5dc2f20cf0f6e5183933e43798fa302"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8e5ad8403f2f025b0b646eb354eb1117d958af4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/helper/DataUtilTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-helper-DataUtilTest.java-2D826F61F3474FC484D61CB90C63826054F24663",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f94f70535dc8cac7c11f53ba061a8ab8e29d919edef474a425263242925ba45"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d826f61f3474fc484d61cb90c63826054f24663"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/helper/Validate.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-helper-Validate.java-E888ECC01CBA6AAA59F16B31D3A810FF63827EC3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4449c8fa547a70051068046304ad10206324f5ad33e45a010eb753393871075a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e888ecc01cba6aaa59f16b31d3a810ff63827ec3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/MultiLocaleExtension.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-MultiLocaleExtension.java-5E959CEB84480A7E4D2B05E11D6A3CF8D1C158FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4c2e3c742cd0822ee1727e7bdf4f89dd5c24d993853e1846650f6840c59b0ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e959ceb84480a7e4d2b05e11d6a3cf8d1c158fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/FuzzFixesIT.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-FuzzFixesIT.java-789F400D0D29261A89FBE0165B992A2FE6B27098",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1707b0d41d9eddf591f843db685c134d183bbb9a4cbf250a520610828a29f1ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "789f400d0d29261a89fbe0165b992a2fe6b27098"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/safety/Safelist.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-safety-Safelist.java-0A512797264CB3C9C25F2C740DB4302572F80AF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88001fe5c8d01d469548bdc08f330842fc4d46a8fcfd4ac3b91dc9c742c5b47c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a512797264cb3c9c25f2c740db4302572f80af1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/StringUtil.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-StringUtil.java-70205D7FC60D3D8A0720FC924C06B305B1352C1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e6aec7293ce97b317cdaadf71c376b7caef3a5285c49666a93ff590612ec8910"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70205d7fc60d3d8a0720fc924c06b305b1352c1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Entities.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Entities.java-7E15F0EC1DA90D98836322249F5C6D8F755F94EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e23ee27398ecb6eb036276075910be098a7d466a8b6bc15f69bd7791a4ec010"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e15f0ec1da90d98836322249f5c6d8f755f94ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/Tokeniser.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-Tokeniser.java-5E980619CEAEC0B31D95B8BA9A35478ACB198B8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b15f35e59f09baa512c2d0ee07ee98575bcbfc63c3dfdbcd7dd8bd888dd2f373"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e980619ceaec0b31d95b8ba9a35478acb198b8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/FuzzFixesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-FuzzFixesTest.java-37472FE54311FEEA7B89233DA565CBE500DE47D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec12bb47796071157cab3ef2254ab2406c792ca98e7fd3faafee34b93ab73fce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37472fe54311feea7b89233da565cbe500de47d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-package-info.java-0AA88C10123463E378C1AC65AABED1DB1058E2BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b5277dfea5f8ac9c221767a3b2e6c66c577c8030d5dff5cf57d900d7f2e3648"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0aa88c10123463e378c1ac65aabed1db1058e2ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/internal/ReturnsAreNonnullByDefault.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-internal-ReturnsAreNonnullByDefault.java-DF33C844A6EB724C7AEAE4C97E8E97AA664BBF93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c562fd56ad8c4fea456cdc21020a0ba64b19ea2f5376a3cbaa399e57fe9eb452"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df33c844a6eb724c7aeae4c97e8e97aa664bbf93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/BaseServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-BaseServlet.java-4E5A2B726F4F0A8777402DC772CBE7DA9A672EDF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "327303ca7287d739c1063946abb1959baa81319eb042dbba00806ab13cdb3c82"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e5a2b726f4f0a8777402dc772cbe7da9a672edf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Range.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Range.java-C188EE640F40CF16E2CFC9EBD2D0E397848C1FCD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1180ae22244ee30f41e86b2d9db912ccca7e18da8f21fd6896443d2c1c361dc5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c188ee640f40cf16e2cfc9ebd2d0e397848c1fcd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/Collector.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-Collector.java-C8770C496EBFC9C1AE3BFCC98331399B9530D664",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9fb51d9d7e17eecdaac3e1baceb47baf12fb1342055dcff02315cb0f5de2a05f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8770c496ebfc9c1ae3bfcc98331399b9530d664"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/ConnectTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-ConnectTest.java-24FA86BD2CC2E5FC9FD051548F4EC27F9BA6B216",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7047f589f3f3e2a7d4fab392a737389f45cc453f20415a34113e1d7e1cd8fdf2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24fa86bd2cc2e5fc9fd051548f4ec27f9ba6b216"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/DocumentType.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-DocumentType.java-DA37A474A2F00B2138D0C21D901E555C743DDA26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "619cf3787c729a52d679b27380179bde3846c1d7492eafd46565b2f45d19dbc0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da37a474a2f00b2138d0c21d901e555c743dda26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/CookieServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-CookieServlet.java-399F5B2299005896D2CB125B7D47CACE418A4AF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40df8d72ec9f803f1abb57f50e2f669b49e2c4b4ae874d013c6d233c5740d06f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "399f5b2299005896d2cb125b7d47cace418a4af0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/SlowRider.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-SlowRider.java-DF2BC052D8751E77627F5697DFCB8F7E463874D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6db4e6c9b3382902ad01dbc620994fa83b7d2c232a54002b795cc54d79b4b360"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df2bc052d8751e77627f5697dfcb8f7e463874d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/helper/HttpConnectionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-helper-HttpConnectionTest.java-08881E0A286A33652F7267B3151B68DAD5E03AE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a63a7dd7b09e14d3a94dca6fd8a4f3ae836f7ad2ba2eb7050b161003fd12af0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08881e0a286a33652f7267b3151b68dad5e03ae0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/Element.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-Element.java-31FE0B73FB7E46418352B6C2F6147755D1859651",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2cfb7b622b09e8d3ca26dc33b58787845729469956a5be96ed78d8e3b3f11a9e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31fe0b73fb7e46418352b6c2f6147755d1859651"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-package-info.java-74767E5A17086091063D418585F42B0EE9FE5C53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9888357f6883e2e905fd9f46a248606c700546c8973970774ce5649a27b13d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "74767e5a17086091063d418585f42b0ee9fe5c53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/ParseErrorList.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-ParseErrorList.java-9F34E100CF540541FB4FD593F520609500E5411D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4aa6c789ee9044cb74ca35255bfd7030b1f45b6f38a4da7744bc48bd6efcea3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f34e100cf540541fb4fd593f520609500e5411d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/ElementIT.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-ElementIT.java-94E102C2C3A2B148C368FE23FF69D753D58BB47F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e9e8002ffd42f2dd9ae8dff2e24dd5eb23bfacfb55db5bee1098228e564d9fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94e102c2c3a2b148c368fe23ff69d753d58bb47f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/UrlConnectTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-UrlConnectTest.java-C9F3F80CBDA3492DCDCB830D7181E8A3ECA6243C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "500abafbc5a995a39bd3adabb4e1fc831900f2f735319713888c9af1e58507b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c9f3f80cbda3492dcdcb830d7181e8a3eca6243c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/internal/StringUtilTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-internal-StringUtilTest.java-CD9B62E655E0EA1FE40BF82C0AB33DF3EBE37651",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10697578efeb4032c61e2e9a1c4d504a0a7f8e8f19d34bb484b402b455be8867"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd9b62e655e0ea1fe40bf82c0ab33df3ebe37651"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/QueryParser.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-QueryParser.java-6F45B2EF6BA57271E6EEEC6CEC48BCBDF4F8A78F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ed455853f850e5bcc01c33b7a861d94b999a5245429977df85e6d98972bd354"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f45b2ef6ba57271e6eeec6cec48bcbdf4f8a78f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/package-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-package-info.java-087CDFF2DDCF338B9ED83ED75E3402BDF340A168",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f0e7ac368f20d4fa36860fbaa20da9918385fc955c17a3d7f7128a1961318da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "087cdff2ddcf338b9ed83ed75e3402bdf340a168"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/nodes/PseudoTextElement.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-nodes-PseudoTextElement.java-150A546855752375C5CFDBFA927980DF7A4E3936",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd7e6c26e41679626c1ae645ae9426706e928028088e53adb1ca562a9903a738"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "150a546855752375c5cfdbfa927980df7a4e3936"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/RedirectServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-RedirectServlet.java-07E406504F6A3B85A87D4B308376BE65A46E5483",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c08b1a1bde37075235b251bf4209b86f03073b04fc08615096714f254b60a356"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07e406504f6a3b85a87d4b308376be65a46e5483"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/ParseTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-ParseTest.java-45E61D3B25AF5813B459E3C2188CAC579857065D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "043602819cd70a4b6197d08443248e50091cfbc122a4b1de78081c83d4a866b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "45e61d3b25af5813b459e3c2188cac579857065d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/AttributeParseTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-AttributeParseTest.java-465BA1AC2BEBCED51B74FA99023485401AE65CB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d7a163ad8809a0497a66190331386d17748cb879fed2295e3c256545577fc26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "465ba1ac2bebced51b74fa99023485401ae65cb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/helper/ValidateTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-helper-ValidateTest.java-2DB5E03529CBC0FACBCB9132BE7E756F2DCE5DBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b54c816fee2db01809620cc09bf3c3751c9c560d7d7aaa822e838eb3f9c2e0b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2db5e03529cbc0facbcb9132be7e756f2dce5dbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/TreeBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-TreeBuilder.java-03C1FCC2E5E48745D1431899066FE0E605BD1FED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "83d5f4d5a6fe85932b6d8eb40ce2c29f73d4a75e3bd64eab473015f2dce4e538"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03c1fcc2e5e48745d1431899066fe0e605bd1fed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/TokeniserState.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-TokeniserState.java-CF7BDEF13B471D1D0E6723724ACFCD33887327D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2908b84dba6fa2742b9c13aa3b3f94c6e59d18c476903570b441d71e348dbb46"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf7bdef13b471d1d0e6723724acfcd33887327d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/ParseError.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-ParseError.java-D13A03378187724FB395FF5CD0CAC20894251EB9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c4b2b71972964ceebbefd5ede6fca102811e97dc4b250df880527d2b79cf4c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d13a03378187724fb395ff5cd0cac20894251eb9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/TagTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-TagTest.java-E1952FDD50C22467E7755A205CA4A8B5BE1F4690",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "054144360d1700a6ce23f906d96c36586cd1d917a293ac13cbc9fef6ceb1e5d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1952fdd50c22467e7755a205ca4a8b5be1f4690"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/DocumentTypeTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-DocumentTypeTest.java-53F7C547B791BFA67826348BD3AC9FD9F8CD5F60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e558140b2fbe93e9b723b817bc7650c1506494703cab2d1cd5950f8eb35ee1ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53f7c547b791bfa67826348bd3ac9fd9f8cd5f60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/Deflateservlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-Deflateservlet.java-C4962D366A03832EA04347A51BCF3317C35F5ADD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56044d274fdb54c2e6c96c444f43575e50bfc054a22aacacf400df50db2e3d84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4962d366a03832ea04347a51bcf3317c35f5add"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/CombiningEvaluator.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-CombiningEvaluator.java-D19DDB965A8533B8ED9E522BAA72BBA6F6045AFE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73eddf24e0deeed950614fc1cf541ae3d7aeaa101aed71f37cb89934593c0fea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d19ddb965a8533b8ed9e522baa72bba6f6045afe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/SafelistExtensionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-SafelistExtensionTest.java-CE10BCD8AEB4909DC6161B8987FD80FBB90AC12F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "65ffec459d04153a85056726fae31f017347feb29adbc84809a0cccd9c62db74"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce10bcd8aeb4909dc6161b8987fd80fbb90ac12f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/parser/TokenQueue.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-parser-TokenQueue.java-36DDDA90DA5A57ABF68685A58D3DC7396F79F78E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88bef7efc035dcf11cdafbb695af4ff4f0a8b0c0c17e25921d6d56b522e35c35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36ddda90da5a57abf68685a58d3dc7396f79f78e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/Evaluator.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-Evaluator.java-70A77964AB02EA04A2DF09A5A049CCC5F62948E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f2bbe1d45cc2f2341b6e24ac7a8a05caf382bca01ac84528b13f6a1a29c5c30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70a77964ab02ea04a2df09a5a049ccc5f62948e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/AttributesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-AttributesTest.java-433C64ADDC7022AC5BA7C52C1112309D01BEC533",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "05860b57efe8e3ec2af07144236e055dfe3c44e06259a59830d675f0d3cca244"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "433c64addc7022ac5ba7c52c1112309d01bec533"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/TextNodeTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-TextNodeTest.java-5F38FF2539DEF93689B8F2C1E89BC61799B12E2E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50ac986abc199138ef5257df6274e3733e9113fdb1116d4b0420a3acf2ca99d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f38ff2539def93689b8f2c1e89bc61799b12e2e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/javadoc/overview.html",
+      "SPDXID": "SPDXRef-File--src-main-javadoc-overview.html-91162A0CD036012FA09D53A60534D71D9B4752BC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c84d93a7b655a6ac2856ca7217b4c625b6a12a40a8dcfb3bb5ade96e3321298"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "91162a0cd036012fa09d53a60534d71d9b4752bc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/EchoServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-EchoServlet.java-FE2684C46248E5126EC5FF00C407F84897D56412",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34dd64928c30e57f37280329f9d82a0080ea311a7cf2ab19a586071541e5f55b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe2684c46248e5126ec5ff00c407f84897d56412"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/select/ElementsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-select-ElementsTest.java-69929E51E2AEC5F6DD049D12F8058A5F2D0B3E7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3014d7f7f76f34d8bb61945cf914a8e1354e1626c8cd7f9827780b33a1f3d71e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69929e51e2aec5f6dd049d12f8058a5f2d0b3e7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/Selector.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-Selector.java-4A4D2EF598EC69F297056DB156166DAAECE4987D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d5eb358ac7bccaeebf37086f661a96b18ca4ba310043f409dc4e3eebb0c9916"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a4d2ef598ec69f297056db156166daaece4987d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/Elements.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-Elements.java-7E89BBACCC93C3A1048DA58D4C11E95DD2BB31BC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "915839331ec2777a89c3a52893b7e85a5286c948371164adf402990e7872f2f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e89bbaccc93c3a1048da58d4c11e95dd2bb31bc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/ElementTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-ElementTest.java-A6B337D88A3410AB153DF5096F97E64565F9C922",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9162910a58bdba73deaa7cf2a30ed64f2875e145f9b45486824379709ef04b60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6b337d88a3410ab153df5096f97e64565f9c922"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/ConnectIT.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-ConnectIT.java-4358C8F9DF63919B154B24D2A897261BB582B230",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "caddb476acc685ebc2f9fe2496f19a7e2453900bbd2f3b1a8164165d589b2137"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4358c8f9df63919b154b24d2a897261bb582b230"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/ParserTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-ParserTest.java-F9565409202FFAC6239E61F83FDBD63AA08AA8E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4a37554f2712b8cc038674ba1f4a2522f2db0cf0270b73f9653745bf09e9d51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9565409202ffac6239e61f83fdbd63aa08aa8e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/bomtests/bom_utf32le.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-bomtests-bom-utf32le.html-96F4D843CFC4A0F3BEBA59C1ECE75460FB879206",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c482b2d260ba4c0a1e411b0e42cb5c1883549c625bfca648856056f1f938d459"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96f4d843cfc4a0f3beba59c1ece75460fb879206"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/AttributeTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-AttributeTest.java-DDB449C6F15FDF229873B8E0CE95A426C52F3EEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a50ae2df16a7bbb8c167dc033f0a0e22d89aa5fb1a007cf2649ab75d2f82b38"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddb449c6f15fdf229873b8e0ce95a426c52f3eea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/TestServer.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-TestServer.java-B5F0954BB69B1B020ABB576A00AA348E51379B77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7cd54a9a1fb67ba0494686757eb40c524ec45ebbda8cdfeac6a401f3630610ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5f0954bb69b1b020abb576a00aa348e51379b77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/EntitiesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-EntitiesTest.java-89772268ECF12CB672E14DDECA3F296DFD8BCFC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2eb37721d00a60a3ffabfc2ea40b75c5027ace0c7f7e7058641479f99f687155"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89772268ecf12cb672e14ddeca3f296dfd8bcfc7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/select/CssTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-select-CssTest.java-C428BEAC4B13BC951ECB49D3EF6C3DBF26575886",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89fa0627ec7586eb2489524544566da9e9dd6877a6d2490e14f2fa0791ca14f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c428beac4b13bc951ecb49d3ef6c3dbf26575886"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1569.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1569.html.gz-A56B9278EB5427618887F6D98F4C03BE654156EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "176f232df81fce3e4238b68cd555652d87a5141b02fa7e59b0071d0506bae577"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a56b9278eb5427618887f6d98f4c03be654156ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/CharacterReaderTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-CharacterReaderTest.java-CD3A34C25E52EF121C6948D88B93AD684313121F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22a486687d2a83dcf2a57933390e4f5a39bd1dd280edb8d2428c4a3375d8b8a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd3a34c25e52ef121c6948d88b93ad684313121f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/org/jsoup/select/StructuralEvaluator.java",
+      "SPDXID": "SPDXRef-File--src-main-java-org-jsoup-select-StructuralEvaluator.java-5BA42019E4AD4224C5E1E96038AF690179ADD2C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afa62833791ec17d3da19c10934489c757d897d846142838a8372a288367f0ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ba42019e4ad4224c5e1e96038af690179add2c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/FormElementTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-FormElementTest.java-6C0E0BEFF07F5A554804440E4E8DA082A45A49A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4710873345212d1e73f661db2a2736bbc994d45a13e05535ea43c323c059828"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c0e0beff07f5a554804440e4e8da082a45a49a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/InterruptedServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-InterruptedServlet.java-5A1CDCC8F1517503ABE406516DC42FCD7D42BD49",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef54c52a3d1d12991978a86309ffa1905d19c9a4546414644df98cd9ae739949"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a1cdcc8f1517503abe406516dc42fcd7d42bd49"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1606.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1606.html.gz-761E13F4EB7BF531ABDCDF427A4672D2072C278A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66f226745a74a5e7611ebe4019abe8db52e1b0230037c40344806d99bce0bd83"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "761e13f4eb7bf531abdcdf427a4672d2072c278a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1640.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1640.html.gz-95180A2E5B081F2A8384579001A02FCA49A9A6E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82a16ae826493f4aa4b29a2e80951c209e09b6ae64ab469e75d4548a07cd645a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95180a2e5b081f2a8384579001a02fca49a9a6e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/helper/W3CDomTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-helper-W3CDomTest.java-FFE9CE35A2E733A827C8BA781153F60C96ED98DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ecbf4a815a634efc87a2d10c108c41f81e89068e79361c70b1b9eea1ac3faa2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffe9ce35a2e733a827c8ba781153f60c96ed98da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/bomtests/bom_utf32be.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-bomtests-bom-utf32be.html-B7B2B98C5F3322D240352F3CEBB9CA91CB004039",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "175261784d7ec42223c69a7ecb6da144976db26d3af6bebf0b3bd3b479c12d86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b7b2b98c5f3322d240352f3cebb9ca91cb004039"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/TokeniserStateTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-TokeniserStateTest.java-9636F4B5AFCB5F5B7C2D378AE1E745FF05C78EEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b29577f5121ab2cc7d3de094393a5679532f5617dc4576a1a32213bbc8659d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9636f4b5afcb5f5b7c2d378ae1e745ff05c78eea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/HtmlTreeBuilderStateTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-HtmlTreeBuilderStateTest.java-7FD87913F472AE5690E9941A1A3EFACF523F1938",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef2e0d896f716746a1ea29a3dced2fc44add11ec1b1a261a04f7f37be122806e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7fd87913f472ae5690e9941a1a3efacf523f1938"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/39164.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-39164.html.gz-0A9A192A466E1FCBE5545C32AFF6F1FB6FB9C57C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "929946c0be1c2d870f18511b77499c7cad60c16dbfbd879c939444e0bae19d85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a9a192a466e1fcbe5545c32aff6f1fb6fb9c57c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/fake-gzip.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-fake-gzip.html.gz-0FAE03BF4E8572CFF08C4ADAEBCB4E86BC223D7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c466393dfe6cbaee95087cc0aa03975c7b441c288680662e3eff82189b4e6756"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fae03bf4e8572cff08c4adaebcb4e86bc223d7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/Benchmark.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-Benchmark.java-87F3EBF86AF14BC47A30C633E884BC432E45CB61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e928f9cfbd7e67be3bb4dcee16a4023aa9971edf20f970190a95608e904473ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87f3ebf86af14bc47a30c633e884bc432e45cb61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1544.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1544.html.gz-6A3D8CC3A3B7354C2FCEC6224049E3CEA11DCB1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44a73dc07c6b377a64bcbbe6f6f893b33a533f64ea8e66efdc0735aee632bad6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a3d8cc3a3b7354c2fcec6224049e3cea11dcb1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/DocumentTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-DocumentTest.java-8AD0976DA8C7288C0BB57A43B0C57761D50708CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa7488781a7a2ee8196e371801725e8dd58c9b5598e25c4932e036e6560127ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ad0976da8c7288c0bb57a43b0c57761d50708ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1605.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1605.html.gz-8A3815F4FD0EADB6676733C9BBA38E6B2FA8BC1A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49e687871a88f1c080937312ced4cef4f9e995b478191ff1285c5e9689cdb5a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a3815f4fd0eadb6676733c9bba38e6b2fa8bc1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/SessionIT.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-SessionIT.java-BE1CE97C5ABABD18933B728E52A665365E3914F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a1984c764613d8965f76dac3ed1c739fcedc5ce6b01bd48a18af2f4f50ca7db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "be1ce97c5ababd18933b728e52a665365e3914f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/meta-charset-1.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-meta-charset-1.html-83D05B84CA15A36F52C6B2C034D62A358C6EE463",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb8bf2bf086dd61317f335415c78ea764f84a6ccbb685a2f94befc78f097d9cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83d05b84ca15a36f52c6b2c034d62a358c6ee463"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1639.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1639.html.gz-9C2856AA09C7CF9E90685D0A94DDA50BE60AA5D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9429511f79a47a31f5d31de9557c63c88a7411133ffb307c57539c00d52cf4cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c2856aa09c7cf9e90685d0a94dda50be60aa5d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/SessionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-SessionTest.java-C1FBA581F68D181C412F1558362C1E93B50BFFEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1c472696352adfe253712e6c3b8b7af6867640d6348b668f4fa04dfc670c340"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1fba581f68d181c412f1558362c1e93b50bffec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/select/QueryParserTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-select-QueryParserTest.java-14E7CDA71619B41CC5E698C885B7E998DFE496A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0aeef09f5c37ecb87b960cd90ccd06951edb4ca2cc7bda4b3de29b76ffc534e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14e7cda71619b41cc5e698c885b7e998dfe496a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/bomtests/bom_utf8.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-bomtests-bom-utf8.html-2C146290DE8057EEEF82D29B75FCD782A2A598C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8763d66033b22f2feb45041f058db6e2cfb110664826d8de2dbd560b862664e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c146290de8057eeef82d29b75fcd782a2a598c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/FileServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-FileServlet.java-62264F5875794C67CB225FCA1119FE6500DC3893",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b87f86f38312c9ba5211cffca9df3440c66438441ed2cda5126913259bd00db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62264f5875794c67cb225fca1119fe6500dc3893"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/BuildEntities.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-BuildEntities.java-DF9E090D23E3F0BC2A455F5FA41AC55EC8068879",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5e066e9d25d0bcd0768eec4bd219c8f57542ab4049f8452b198a4c177d01bf5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df9e090d23e3f0bc2a455f5fa41ac55ec8068879"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/PositionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-PositionTest.java-BCB6E65C639E1506B8E2C2E83F0F7B7F5581601B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f67194d6509bd2a146ba5cea3f65a32858597098cb86c126690fa2034ef34ee8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bcb6e65c639e1506b8e2c2e83f0f7b7f5581601b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/ParserSettingsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-ParserSettingsTest.java-A2AACF809F386916849348D3E59D51E199828FCE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7dea16c4e894cc6da8a395386332fb462ed0fa739930c90cd76f51264712e7a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a2aacf809f386916849348d3e59d51e199828fce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/TokenQueueTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-TokenQueueTest.java-D73F423A85FF665E60C1479D5CF479DC46FFD7B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5df04a55b62ca028e268afcd6614a48529fb1c96a849bf63bb1b50c47a1f37b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d73f423a85ff665e60c1479d5cf479dc46ffd7b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/select/TraversorTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-select-TraversorTest.java-6D4D0587998E5C46B42F125979E65CFA0000EB3B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a4d3a76156fba5c7e049d462a992e8eddcdbb6a89acd15248905ae474f6e547"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d4d0587998e5c46b42f125979e65cfa0000eb3b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/table-invalid-elements.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-table-invalid-elements.html-16D483672B272BDB13BB7EF13F7A1ADD103544FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f01d838b430d22b51ebced8ca7b9fec7347f112c62b38a915aa3098dc37e940"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16d483672b272bdb13bb7ef13f7a1add103544fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/xwiki-edit.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-xwiki-edit.html.gz-C5A7144D5E4E972FDF9847AF2FAA080CE4F1A4FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7798633735d92907c86dc250bc2a98077767c7947dcade6815408402c5ce1970"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5a7144d5e4e972fdf9847af2faa080ce4f1a4fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/36192.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-36192.html.gz-6E43E6C153E304CA9AC68F923FA6BE5A85E04A89",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63c2ed3f8f6ff776d9971addda208fa33cf62e7a71e9b2ecf8179bd3a0bedb14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e43e6c153e304ca9ac68f923fa6be5a85e04a89"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/escapes-across-buffer.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-escapes-across-buffer.html-8BF1262A9A8CA1D4158620562ED8621965B1DA09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63472721af4b4a159f49bef2857101067996f643e9635f209d63bbbe532e4c64"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bf1262a9a8ca1d4158620562ed8621965b1da09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/integration/servlets/HelloServlet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-HelloServlet.java-7F24C04FC6A2A31F993272CDB091649C69F97966",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03398fcef8bd75ee15c40440b81f6660f5c9207d1f34c3223decde8d13dbcd4f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f24c04fc6a2a31f993272cdb091649c69f97966"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/CommentTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-CommentTest.java-C0073E90CB1767CD2D898483830562D63AC8A2E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ee7b48ed0ba70ab16ed82e34563c0329a173742a8960546098ecd5ee607fc16e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c0073e90cb1767cd2d898483830562d63ac8a2e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/safety/SafelistTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-safety-SafelistTest.java-AB330D251F4461AD0942C2E562A2769AC144D7D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a631b0f6ebcae5f37a573523c53cd3f81d8c2df0182d0aa12b5cf14b89c69863"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab330d251f4461ad0942c2e562a2769ac144d7d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1577.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1577.html.gz-EBD37351F235CF56B5FE7074C1209BD4703E1D7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af27e9af54b80226bf1b58c9ce35955f9a2f9d31d75adf689b93c281548ba854"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ebd37351f235cf56b5fe7074c1209bd4703e1d7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1538.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1538.html.gz-B85D611F3E261343AAF51BEBBB9CC70D42A95BF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d21e3386296640b3cb664f9f6f2ba5354a487b7623ea8ea8e1790513f39a3334"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b85d611f3e261343aaf51bebbb9cc70d42a95bf4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/medium.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-medium.html-D873ABF1CC34FD611504B4D745228AE879B73DC0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "242d46b4be153aea31032fa8c1c98d25697ec9280d5987e0a17d792a95c3b10f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d873abf1cc34fd611504b4d745228ae879b73dc0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1607.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1607.html.gz-117E989C844E7972ECECCE5B40B8F01C920271C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a646a794389caf54679bc151face11aafefa255454494e203de974387ae2c54b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "117e989c844e7972ececce5b40b8f01c920271c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/NodeTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-NodeTest.java-4C70B41BC983C80F898BC81C4C2F2298A70D9C06",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c18f374ab7b1b95390b9891fa19d9cf4f8e3939544ea98d8a4ea8881cd6cc0f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c70b41bc983c80f898bc81c4c2f2298a70d9c06"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/nodes/LeafNodeTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-nodes-LeafNodeTest.java-0289E9F898E230583E4DD058C98F367E432CF611",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0c178cabf6c962619ddc97f25c4ab898fd1a56fd6d3a4b46c9879faf9e791d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0289e9f898e230583e4dd058c98f367e432cf611"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/bomtests/bom_utf16le.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-bomtests-bom-utf16le.html-32BF0EDE4D84D6A6FBDFB002C0997A71CA52B46A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43194e500dd3f84a3f557522ad854ce452df5630968c513a0e8ac0a076d02d17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32bf0ede4d84d6a6fbdfb002c0997a71ca52b46a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1580.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1580.html.gz-4BB8CE075FD5F3AED9D896B6C2A5DB1AC34C2461",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab00c135a4d474e9fc73eb7718dbadb59198ea1f1d9b75ef7738e96df7de40f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4bb8ce075fd5f3aed9d896b6c2a5db1ac34c2461"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/HtmlParserTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-HtmlParserTest.java-1D4A754AEA4253F4DF2A5DA90634E0E482BAA627",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e71390c6f8cd339103f903b869913bc759244b9e6acb226f414180f98ed219c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d4a754aea4253f4df2a5da90634e0e482baa627"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1642.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1642.html.gz-9DB392DEE7D1AD517B05FA1E639C2E018B324F76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ba86cfa3bd4f9e8f2a898d9ecebcc278db0a3a5b8c2e9d350ceec3479295da5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9db392dee7d1ad517b05fa1e639c2e018b324f76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/smh-biz-article-1.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-smh-biz-article-1.html.gz-9205FD6FE5E26EBC15B0B5E296CD178D0864FA2C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25f5de8acbd09772c67c65cd6075c2d77638b33d0d81df13f61967448b142bc6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9205fd6fe5e26ebc15b0b5e296cd178d0864fa2c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1543.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1543.html.gz-44FEC7EECCFD3515B3AC8C263102C0184E9BDCA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec421f21493258a4a2f53ba3936eae3d6a1661370a4ae708dfbb28f647783e27"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44fec7eeccfd3515b3ac8c263102c0184e9bdca8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/ParserIT.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-ParserIT.java-F5E20955F6E74EDC377D72502B2DCEBF9ADBAC7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "999e36037668c35da78b4a67947bfd4c25b881e8ed8570a0fdfa2f6d009b147e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5e20955f6e74edc377d72502b2dcebf9adbac7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1612.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1612.html.gz-73660847FE9A10CEBED19D97EF3675091E702172",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "712cfc3bd315cbe465019ef8b82e4a111446057952f0a64fdbebbd4bde7eb90d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "73660847fe9a10cebed19d97ef3675091e702172"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/HtmlTreeBuilderTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-HtmlTreeBuilderTest.java-4CDED4BE02190F04DAF67BB2ECB9347624F139D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c57150bf11835ccd07560f85695dad51d627e89f0ecc046675346d370c3d2d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4cded4be02190f04daf67bb2ecb9347624f139d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/xwiki-1324.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-xwiki-1324.html.gz-0AAB187290110D5E4BE4A5D99529E473114B564C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a932a56cbf73499fdbe01d1915bb5de495e2da53b1b2d00bcddf7dcf81fe3df1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0aab187290110d5e4be4a5d99529e473114b564c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/TokeniserTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-TokeniserTest.java-0FD386E38C2DEF0E8868FFCEC4FF8306B3C23F04",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccb17ce796250e4b4eff1ffcb45eb63cceaf6e23df71d9a29cdeeeb3ef159fa5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fd386e38c2def0e8868ffcec4ff8306b3c23f04"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/48116.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-48116.html.gz-97B621A881E262A0824A091CC71656854718679D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab42994039068d22664a8989ceec080161406c895fb6bcc83144dcc777dc36e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97b621a881e262a0824a091cc71656854718679d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1596.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1596.html.gz-186342A16480F5F129D1A2E7FFCFD11F3BD67503",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "408308684de697c1e27ae4e089d6a9bf87bfd95f522daf372d38fdc043ab9626"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "186342a16480f5f129d1a2e7ffcfd11f3bd67503"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1646.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1646.html.gz-E1F98E9A4430C14AF8E557D87C1AA9725B1A9E6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9eb01b2968762b1903c25bd8611ffecf7a7c541efda380560e0962ad2da69736"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1f98e9a4430c14af8e557d87c1aa9725b1a9e6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/google-ipod.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-google-ipod.html.gz-BFF86ECB38B2AD40DF273D332974C19EBC10F410",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e791ded2ce9e9b09124483414e159564774cf01280725139d1149bb49553eef7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bff86ecb38b2ad40df273d332974c19ebc10f410"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1638.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1638.html.gz-EDA5E26433C883BA0B0726BBAC23854D272719EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2dade95001f89732059071a43ed2154bb3b93e2290619f3707f58c290fda87a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eda5e26433c883ba0b0726bbac23854d272719ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/baidu-variant.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-baidu-variant.html-CF904F19A9773F2F13EEAF199212F23CEEEE5913",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6775430e8347d06b402020b3e3daaec83453c9d4934281064d0250928f70d911"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf904f19a9773f2f13eeaf199212f23ceeee5913"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/meta-charset-2.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-meta-charset-2.html-01EFADE24D73A08546CB36205B0DE4F7501F7D6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d74af0eb81e1701de4a9dd955a63b7206af4fa7fc4c29d24e138b7133164de19"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "01efade24d73a08546cb36205b0de4f7501f7d6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/gzip.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-gzip.html.gz-79994E5FF74382B75A923638DD9050175B14C9CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "822221da2cb21ba5469699067e8f4a588ce3cef56081a7fcbe90915cb16d9195"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "79994e5ff74382b75a923638dd9050175b14c9cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1697.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1697.html.gz-8FEB0256A5215FBCD8D96F9A0AC221A91638008D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3d4ddc679927bc589346af6d64e94a5698f6896f56dbfdadf174a5964472ba2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8feb0256a5215fbcd8d96f9a0ac221a91638008d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/parser/XmlTreeBuilderTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-parser-XmlTreeBuilderTest.java-70E21F02A3B2B9D8AF44749E568A227848815E21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a4cc332ce27e1be98cae151d335c5ae3c0dc52a26ec814cfd53782747d883a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70e21f02a3b2b9d8af44749e568a227848815e21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/table-polymer-template.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-table-polymer-template.html-7CDF8BB1CE2B526DB3B389C6C36D34CA26EE0AB2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "348162f4c14e3148a0f8506536976f43c72a7b564d591ab8f509faaa84fbcedd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7cdf8bb1ce2b526db3b389c6c36d34ca26ee0ab2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/safety/CleanerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-safety-CleanerTest.java-E5CF2FCB7B38A880AE0F56C42F4C486C4C7A061C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc5ab36d44ddeec3b2b7bc5c596cbe797c22d5a65a5eda29bb2ebb3fc370a8cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5cf2fcb7b38a880ae0f56c42f4c486c4c7a061c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/select/SelectorTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-select-SelectorTest.java-A208F50A8BA6EA5AA2B7D2A26A602A265104EAFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22071f7509cb201a4ea9cd137f0d41b75369e6380de91ec651b3f7de124b6d4d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a208f50a8ba6ea5aa2b7d2a26a602a265104eafb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/namespaces.xhtml",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-namespaces.xhtml-A0741FC7AE5478126E1E38A9DBE77B378C4CCA5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b5dca5cf2a895c6184cd7ec8249ead689f09c807b857164b0fa72ccf873eced"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0741fc7ae5478126e1e38a9dbe77b378c4cca5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/comments.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-comments.html-5F1D1012B939DACEDB9898F9E3D70A80D9B1FD5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53bef92ce916d50a8ec69ba13ce3a0a90ed7337954640addbcb67380534eb9c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f1d1012b939dacedb9898f9e3d70a80d9b1fd5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/org/jsoup/select/XpathTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-org-jsoup-select-XpathTest.java-DC5DE7CE57C2FDD8E52CC20DE873F1E71D148EAF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0028833d85db46dfce6fdae2b5ad01e8eef6173578558b4a8d76dbd2c346bb3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc5de7ce57c2fdd8e52cc20de873f1e71d148eaf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/bomtests/bom_utf8.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-bomtests-bom-utf8.html.gz-FC62E17CEDACA68838E8D139ED821F2D69CBFC66",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1800477ea09ce79ee725eaa0b056bf99b6c0974f5bc4865b2bed01db9d04aa63"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc62e17cedaca68838e8d139ed821f2d69cbfc66"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/yahoo-article-1.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-yahoo-article-1.html.gz-BB421A85361F201B91087681B0FCAE1FAA0C76EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40281b70272d0cdf795910c97e9f421f1d002a51dc20dbf7139e2668dc02ff60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb421a85361f201b91087681b0fcae1faa0c76ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/bomtests/bom_utf16be.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-bomtests-bom-utf16be.html-9AE0201A99AB221C0E4E71B9156101F0D523D902",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "589fc8aec11653aed60c8c3ad6c0104d6d3215de6272b507d2b76465d96afc18"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ae0201a99ab221c0e4e71b9156101f0d523d902"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/thumb.jpg",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-thumb.jpg-2EF186226A8A0627EE5E5B3022D16774AAD5968C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19fad9edd6654a7f97145aee8eb6b4d0589f60292c4ce9e4b9a79bd7e084a664"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ef186226a8a0627ee5e5b3022d16774aad5968c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1539.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1539.html.gz-6B1990754CD50251010AB1CEF33EF2FD54945296",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93c049a8bbbabadf875c0a51cec418e3c24c614128a36d988bf2959302021af2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b1990754cd50251010ab1cef33ef2fd54945296"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1580-attrname.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1580-attrname.html.gz-F9D51030AF3D15EB94EDD707D4D43CF573E109CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51f60b2790f1a865d5408a9906e0c2607daa5bc51830664346111638ecd09e5a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9d51030af3d15eb94edd707d4d43cf573e109cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/lowercase-charset-test.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-lowercase-charset-test.html-7575E4BA65B2CEE53490EDD13886A864580D3F79",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecba3ba81ce7bd7cc60b6b2167159afa5dbb992c42a29fd39a33494b523370ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7575e4ba65b2cee53490edd13886a864580d3f79"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1542.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1542.html.gz-DE9F802A93111B5526141479EB5DCF8687E6BB7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1943ee14a0c1044bdc61a6116e2cdff3f900eb9034c38ef8cda8d625264c82e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de9f802a93111b5526141479eb5dcf8687e6bb7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1593.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1593.html.gz-14FFB59E959D3E3FCEE9F3D2B3F8C8BB0C8427A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7464b89eb6a7e287c0aa5e9cd4732d474569c103fdfde999df5f3205046d1659"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14ffb59e959d3e3fcee9f3d2b3f8c8bb0c8427a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1611.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1611.html.gz-E570932A290A47D91B5671BFF81E4C540F633C73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41e92af08716897fd7373e43bc60cfb3b3549a3ec425dccae70702113e277dd5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e570932a290a47d91b5671bff81e4c540f633c73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1595.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1595.html.gz-8F443B62198D7F2A2243C203D2AC978A693189BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a75aec3db25b97fd5ab3f6bdd53abdf9e5d75c6a5ae02a68b7b39bcfbc68e2d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f443b62198d7f2a2243c203d2ac978a693189bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/README",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-README-EE8184FBB1C0E07B231DC4190B9E8AB132711210",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fe2418c1179a28f7cd505a34d1c4c4e7b5dc604d73103af1f3fd4b910d19be1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee8184fbb1c0e07b231dc4190b9e8ab132711210"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1644.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1644.html.gz-7A8EA463B65AADF6096EEDDDDE00A45EB78DDB65",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e20b2fe0edddc5ae27643be11a76a3bce9e75f6477be2d5196262a94f76b46d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7a8ea463b65aadf6096eedddde00a45eb78ddb65"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1637.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1637.html.gz-E33355B90A3DBD1BFD482C9E10DA5406C0BB4745",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24fe2bec3813b38cc4a3146933f7c6d6eae16ac72be163582f0cff420b38d741"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e33355b90a3dbd1bfd482c9e10da5406c0bb4745"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/xml-test.xml",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-xml-test.xml-5B5FF6C4F497F7088E10715BEDABFAAACE0C37DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "183228822d5114b13bed55112984701a878f13b62034265d382a5a672f0127f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b5ff6c4f497f7088e10715bedabfaaace0c37df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1613.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1613.html.gz-9327C895891FB98CCE36918D8957F54A33471CFA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd27bdfdafacde0f58a6a5252a2ed18c0ea92771457c1e90a8d002a0eee79071"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9327c895891fb98cce36918d8957f54a33471cfa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1696.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1696.html.gz-C99026137021FC9BD3F9AB90E65F729B019F4B31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f037b9d1fb56497f37b9ba6e072edfc23d0b403026c28d3ff2a9c4bb16a358e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c99026137021fc9bd3f9ab90e65f729b019f4b31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/fuzztests/1695.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-fuzztests-1695.html.gz-0970FF1C0A8711DA6EF0BC3EFDF45A99A1BFBE98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5feab0e222396f1dcb0dd5d72f98445eb7acedec5bf5b18370c525d8237b796b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0970ff1c0a8711da6ef0bc3efdf45a99a1bfbe98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/character-reader-buffer.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-character-reader-buffer.html.gz-DE41FD4D8A100375AFDD391A88BCCE2614E158A5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "375f5f828c1f1879c799a5b061551e2a0ca5dc55d04c6134e47ec3c01558668c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de41fd4d8a100375afdd391a88bcce2614e158a5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/charset-base.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-charset-base.html-83CF5101E2666740D4B2D5EC2CEDBE73D4661E67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4bd41bdcabb282c568c2056e19850c3da552f69f02fb9a37f62b7162d4baffd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83cf5101e2666740d4b2d5ec2cedbe73d4661e67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/gzip.html.z",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-gzip.html.z-A27F110F5D0A68868111D321EB58B582D944F28C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "961c274b0f9c31a46cdb1b3538834d8095518b990c7ac8b60eec999eaa80842f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a27f110f5d0a68868111d321eb58b582d944f28c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/baidu-cn-home.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-baidu-cn-home.html-C2128E3D28D7C910A2C4ACA5C207F5749C906CED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7068dba93cd9b11623aa24af42f59e1529a8eb39fb290653e3f9e30095a3a23b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2128e3d28d7c910a2c4aca5c207f5749c906ced"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/news-com-au-home.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-news-com-au-home.html.gz-796CC2A9D07C6FC42AC59682DCEBE27F951C38AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "760c0edff6bbdc5d19fb7fd0ce1dadd5a38c8e2af1eb105aff13d82699d52271"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "796cc2a9d07c6fc42ac59682dcebe27f951c38ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/gzip.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-gzip.html-CCC8F003BFE048F3C4FEAC15B10E21E5C5851343",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e932401d4f3667ea8d403b976974d0bcfd3f092461a4b285160028aad782f1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ccc8f003bfe048f3c4feac15b10e21e5c5851343"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/large.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-large.html-FC652D8F242CB83FB478F8F50A81043BE66E8D54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e442d37dd793e60f21015f9c7c7b8dcc8b0727c3382f1e7c25ef5144d6b199a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc652d8f242cb83fb478f8f50a81043be66e8d54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/upload-form.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-upload-form.html-0729DF99D2BF50C31AC05362FC66B0B3FE3596E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d17c0c4e431dcfa8e95530ade17cd9c13dcfb939f5d9396d10d3b741ef9048a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0729df99d2bf50c31ac05362fc66b0b3fe3596e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/meta-charset-3.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-meta-charset-3.html-F3FC4C02E8EA130AF229BFF9117166371E933E54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "056d153e6358556adc29c222c23650a177c4cd5b85f0307fd829d766c7729b13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3fc4c02e8ea130af229bff9117166371e933e54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/nyt-article-1.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-nyt-article-1.html.gz-966B45E191EE45AC292D667F4C5FC69020EF64EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c53a54c4fde843ee1b5792c3da8247da23b415ddcf9ee880087f788eb4666d07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "966b45e191ee45ac292d667f4c5fc69020ef64ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/test-rss.xml",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-test-rss.xml-57B0CC141E6EAA2D3BB5A5425097F6495F7FE10F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbf7415266b56e9cd3c2fa048a9b178edbcb9c506b7f62c6af9e2dbabe855d19"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57b0cc141e6eaa2d3bb5a5425097f6495f7fe10f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/xml-charset.xml",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-xml-charset.xml-9C51CB88DAE32CA02FAFD3CC63F58B2CD709E4B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32398dcf44991bb99e4dcd7fb8564b6e78181fc1363b592a423929dc25eb96a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c51cb88dae32ca02fafd3cc63f58b2cd709e4b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/htmltests/yahoo-jp.html.gz",
+      "SPDXID": "SPDXRef-File--src-test-resources-htmltests-yahoo-jp.html.gz-8E838437FF0B0F871325CC707C9C8C3354900458",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3cdaefecdc5595d671b37fb8b59c7e1181e0af2da4c7daa2507f337ff4879991"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e838437ff0b0f871325cc707c9c8c3354900458"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "jsoup",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "4d7e949d2b0a60681a377533434ad33de3267764"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.15.4-SNAPSHOT",
+      "supplier": "Organization: https://github.com/jhy/jsoup",
+      "hasFiles": [
+        "SPDXRef-File--src-test-resources-htmltests-yahoo-jp.html.gz-8E838437FF0B0F871325CC707C9C8C3354900458",
+        "SPDXRef-File--src-test-resources-htmltests-xml-charset.xml-9C51CB88DAE32CA02FAFD3CC63F58B2CD709E4B5",
+        "SPDXRef-File--src-test-resources-htmltests-nyt-article-1.html.gz-966B45E191EE45AC292D667F4C5FC69020EF64EF",
+        "SPDXRef-File--src-test-resources-htmltests-meta-charset-3.html-F3FC4C02E8EA130AF229BFF9117166371E933E54",
+        "SPDXRef-File--src-test-resources-htmltests-large.html-FC652D8F242CB83FB478F8F50A81043BE66E8D54",
+        "SPDXRef-File--src-test-resources-htmltests-baidu-cn-home.html-C2128E3D28D7C910A2C4ACA5C207F5749C906CED",
+        "SPDXRef-File--src-test-resources-fuzztests-1696.html.gz-C99026137021FC9BD3F9AB90E65F729B019F4B31",
+        "SPDXRef-File--src-test-resources-htmltests-README-EE8184FBB1C0E07B231DC4190B9E8AB132711210",
+        "SPDXRef-File--src-test-resources-fuzztests-1611.html.gz-E570932A290A47D91B5671BFF81E4C540F633C73",
+        "SPDXRef-File--src-test-resources-fuzztests-1593.html.gz-14FFB59E959D3E3FCEE9F3D2B3F8C8BB0C8427A6",
+        "SPDXRef-File--src-test-resources-fuzztests-1542.html.gz-DE9F802A93111B5526141479EB5DCF8687E6BB7E",
+        "SPDXRef-File--src-test-resources-htmltests-thumb.jpg-2EF186226A8A0627EE5E5B3022D16774AAD5968C",
+        "SPDXRef-File--src-test-resources-htmltests-gzip.html-CCC8F003BFE048F3C4FEAC15B10E21E5C5851343",
+        "SPDXRef-File--src-test-resources-htmltests-news-com-au-home.html.gz-796CC2A9D07C6FC42AC59682DCEBE27F951C38AB",
+        "SPDXRef-File--src-test-resources-htmltests-gzip.html.z-A27F110F5D0A68868111D321EB58B582D944F28C",
+        "SPDXRef-File--src-test-resources-htmltests-charset-base.html-83CF5101E2666740D4B2D5EC2CEDBE73D4661E67",
+        "SPDXRef-File--src-test-resources-fuzztests-1695.html.gz-0970FF1C0A8711DA6EF0BC3EFDF45A99A1BFBE98",
+        "SPDXRef-File--src-test-resources-fuzztests-1637.html.gz-E33355B90A3DBD1BFD482C9E10DA5406C0BB4745",
+        "SPDXRef-File--src-test-resources-fuzztests-1595.html.gz-8F443B62198D7F2A2243C203D2AC978A693189BB",
+        "SPDXRef-File--src-test-resources-htmltests-lowercase-charset-test.html-7575E4BA65B2CEE53490EDD13886A864580D3F79",
+        "SPDXRef-File--src-test-resources-fuzztests-1580-attrname.html.gz-F9D51030AF3D15EB94EDD707D4D43CF573E109CF",
+        "SPDXRef-File--src-test-resources-bomtests-bom-utf16be.html-9AE0201A99AB221C0E4E71B9156101F0D523D902",
+        "SPDXRef-File--src-test-resources-htmltests-namespaces.xhtml-A0741FC7AE5478126E1E38A9DBE77B378C4CCA5E",
+        "SPDXRef-File--src-test-resources-htmltests-table-polymer-template.html-7CDF8BB1CE2B526DB3B389C6C36D34CA26EE0AB2",
+        "SPDXRef-File--src-test-resources-fuzztests-1697.html.gz-8FEB0256A5215FBCD8D96F9A0AC221A91638008D",
+        "SPDXRef-File--src-test-resources-htmltests-baidu-variant.html-CF904F19A9773F2F13EEAF199212F23CEEEE5913",
+        "SPDXRef-File--src-test-resources-fuzztests-48116.html.gz-97B621A881E262A0824A091CC71656854718679D",
+        "SPDXRef-File--src-test-resources-htmltests-xwiki-1324.html.gz-0AAB187290110D5E4BE4A5D99529E473114B564C",
+        "SPDXRef-File--src-test-resources-htmltests-test-rss.xml-57B0CC141E6EAA2D3BB5A5425097F6495F7FE10F",
+        "SPDXRef-File--src-test-resources-htmltests-upload-form.html-0729DF99D2BF50C31AC05362FC66B0B3FE3596E7",
+        "SPDXRef-File--src-test-resources-htmltests-character-reader-buffer.html.gz-DE41FD4D8A100375AFDD391A88BCCE2614E158A5",
+        "SPDXRef-File--src-test-resources-fuzztests-1613.html.gz-9327C895891FB98CCE36918D8957F54A33471CFA",
+        "SPDXRef-File--src-test-resources-fuzztests-1644.html.gz-7A8EA463B65AADF6096EEDDDDE00A45EB78DDB65",
+        "SPDXRef-File--src-test-resources-fuzztests-1539.html.gz-6B1990754CD50251010AB1CEF33EF2FD54945296",
+        "SPDXRef-File--src-test-resources-htmltests-yahoo-article-1.html.gz-BB421A85361F201B91087681B0FCAE1FAA0C76EE",
+        "SPDXRef-File--src-test-resources-bomtests-bom-utf8.html.gz-FC62E17CEDACA68838E8D139ED821F2D69CBFC66",
+        "SPDXRef-File--src-test-java-org-jsoup-select-XpathTest.java-DC5DE7CE57C2FDD8E52CC20DE873F1E71D148EAF",
+        "SPDXRef-File--src-test-resources-htmltests-comments.html-5F1D1012B939DACEDB9898F9E3D70A80D9B1FD5E",
+        "SPDXRef-File--src-test-java-org-jsoup-select-SelectorTest.java-A208F50A8BA6EA5AA2B7D2A26A602A265104EAFB",
+        "SPDXRef-File--src-test-java-org-jsoup-safety-CleanerTest.java-E5CF2FCB7B38A880AE0F56C42F4C486C4C7A061C",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-XmlTreeBuilderTest.java-70E21F02A3B2B9D8AF44749E568A227848815E21",
+        "SPDXRef-File--src-test-resources-htmltests-gzip.html.gz-79994E5FF74382B75A923638DD9050175B14C9CB",
+        "SPDXRef-File--src-test-resources-htmltests-meta-charset-2.html-01EFADE24D73A08546CB36205B0DE4F7501F7D6E",
+        "SPDXRef-File--src-test-resources-fuzztests-1638.html.gz-EDA5E26433C883BA0B0726BBAC23854D272719EE",
+        "SPDXRef-File--src-test-resources-htmltests-google-ipod.html.gz-BFF86ECB38B2AD40DF273D332974C19EBC10F410",
+        "SPDXRef-File--src-test-resources-fuzztests-1646.html.gz-E1F98E9A4430C14AF8E557D87C1AA9725B1A9E6D",
+        "SPDXRef-File--src-test-resources-fuzztests-1596.html.gz-186342A16480F5F129D1A2E7FFCFD11F3BD67503",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-TokeniserTest.java-0FD386E38C2DEF0E8868FFCEC4FF8306B3C23F04",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-HtmlTreeBuilderTest.java-4CDED4BE02190F04DAF67BB2ECB9347624F139D9",
+        "SPDXRef-File--src-test-resources-fuzztests-1612.html.gz-73660847FE9A10CEBED19D97EF3675091E702172",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-ParserIT.java-F5E20955F6E74EDC377D72502B2DCEBF9ADBAC7D",
+        "SPDXRef-File--src-test-resources-fuzztests-1543.html.gz-44FEC7EECCFD3515B3AC8C263102C0184E9BDCA8",
+        "SPDXRef-File--src-test-resources-htmltests-smh-biz-article-1.html.gz-9205FD6FE5E26EBC15B0B5E296CD178D0864FA2C",
+        "SPDXRef-File--src-test-resources-fuzztests-1642.html.gz-9DB392DEE7D1AD517B05FA1E639C2E018B324F76",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-HtmlParserTest.java-1D4A754AEA4253F4DF2A5DA90634E0E482BAA627",
+        "SPDXRef-File--src-test-resources-fuzztests-1580.html.gz-4BB8CE075FD5F3AED9D896B6C2A5DB1AC34C2461",
+        "SPDXRef-File--src-test-resources-bomtests-bom-utf16le.html-32BF0EDE4D84D6A6FBDFB002C0997A71CA52B46A",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-LeafNodeTest.java-0289E9F898E230583E4DD058C98F367E432CF611",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-NodeTest.java-4C70B41BC983C80F898BC81C4C2F2298A70D9C06",
+        "SPDXRef-File--src-test-resources-fuzztests-1607.html.gz-117E989C844E7972ECECCE5B40B8F01C920271C4",
+        "SPDXRef-File--src-test-resources-htmltests-medium.html-D873ABF1CC34FD611504B4D745228AE879B73DC0",
+        "SPDXRef-File--src-test-resources-fuzztests-1538.html.gz-B85D611F3E261343AAF51BEBBB9CC70D42A95BF4",
+        "SPDXRef-File--src-test-resources-fuzztests-1577.html.gz-EBD37351F235CF56B5FE7074C1209BD4703E1D7A",
+        "SPDXRef-File--src-test-java-org-jsoup-safety-SafelistTest.java-AB330D251F4461AD0942C2E562A2769AC144D7D1",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-CommentTest.java-C0073E90CB1767CD2D898483830562D63AC8A2E7",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-HelloServlet.java-7F24C04FC6A2A31F993272CDB091649C69F97966",
+        "SPDXRef-File--src-test-resources-htmltests-escapes-across-buffer.html-8BF1262A9A8CA1D4158620562ED8621965B1DA09",
+        "SPDXRef-File--src-test-resources-fuzztests-36192.html.gz-6E43E6C153E304CA9AC68F923FA6BE5A85E04A89",
+        "SPDXRef-File--src-test-resources-htmltests-xwiki-edit.html.gz-C5A7144D5E4E972FDF9847AF2FAA080CE4F1A4FE",
+        "SPDXRef-File--src-test-resources-htmltests-table-invalid-elements.html-16D483672B272BDB13BB7EF13F7A1ADD103544FB",
+        "SPDXRef-File--src-test-java-org-jsoup-select-TraversorTest.java-6D4D0587998E5C46B42F125979E65CFA0000EB3B",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-TokenQueueTest.java-D73F423A85FF665E60C1479D5CF479DC46FFD7B0",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-ParserSettingsTest.java-A2AACF809F386916849348D3E59D51E199828FCE",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-PositionTest.java-BCB6E65C639E1506B8E2C2E83F0F7B7F5581601B",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-BuildEntities.java-DF9E090D23E3F0BC2A455F5FA41AC55EC8068879",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-FileServlet.java-62264F5875794C67CB225FCA1119FE6500DC3893",
+        "SPDXRef-File--src-test-resources-bomtests-bom-utf8.html-2C146290DE8057EEEF82D29B75FCD782A2A598C7",
+        "SPDXRef-File--src-test-java-org-jsoup-select-QueryParserTest.java-14E7CDA71619B41CC5E698C885B7E998DFE496A3",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-SessionTest.java-C1FBA581F68D181C412F1558362C1E93B50BFFEC",
+        "SPDXRef-File--.git-index-9F25843235E9D8F7B4A422008CF507AC76BFDC88",
+        "SPDXRef-File--.gitignore-0239CE8454CFFA28268CDB4319505EF9AF4AEDA0",
+        "SPDXRef-File--src-test-resources-fuzztests-1639.html.gz-9C2856AA09C7CF9E90685D0A94DDA50BE60AA5D3",
+        "SPDXRef-File--src-test-resources-htmltests-meta-charset-1.html-83D05B84CA15A36F52C6B2C034D62A358C6EE463",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-SessionIT.java-BE1CE97C5ABABD18933B728E52A665365E3914F0",
+        "SPDXRef-File--src-test-resources-fuzztests-1605.html.gz-8A3815F4FD0EADB6676733C9BBA38E6B2FA8BC1A",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-DocumentTest.java-8AD0976DA8C7288C0BB57A43B0C57761D50708CE",
+        "SPDXRef-File--src-test-resources-fuzztests-1544.html.gz-6A3D8CC3A3B7354C2FCEC6224049E3CEA11DCB1E",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-Benchmark.java-87F3EBF86AF14BC47A30C633E884BC432E45CB61",
+        "SPDXRef-File--src-test-resources-htmltests-fake-gzip.html.gz-0FAE03BF4E8572CFF08C4ADAEBCB4E86BC223D7A",
+        "SPDXRef-File--src-test-resources-fuzztests-39164.html.gz-0A9A192A466E1FCBE5545C32AFF6F1FB6FB9C57C",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-HtmlTreeBuilderStateTest.java-7FD87913F472AE5690E9941A1A3EFACF523F1938",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-TokeniserStateTest.java-9636F4B5AFCB5F5B7C2D378AE1E745FF05C78EEA",
+        "SPDXRef-File--src-test-resources-bomtests-bom-utf32be.html-B7B2B98C5F3322D240352F3CEBB9CA91CB004039",
+        "SPDXRef-File--src-test-java-org-jsoup-helper-W3CDomTest.java-FFE9CE35A2E733A827C8BA781153F60C96ED98DA",
+        "SPDXRef-File--src-test-resources-fuzztests-1640.html.gz-95180A2E5B081F2A8384579001A02FCA49A9A6E8",
+        "SPDXRef-File--src-test-resources-fuzztests-1606.html.gz-761E13F4EB7BF531ABDCDF427A4672D2072C278A",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-InterruptedServlet.java-5A1CDCC8F1517503ABE406516DC42FCD7D42BD49",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-FormElementTest.java-6C0E0BEFF07F5A554804440E4E8DA082A45A49A3",
+        "SPDXRef-File--src-main-java-org-jsoup-select-StructuralEvaluator.java-5BA42019E4AD4224C5E1E96038AF690179ADD2C2",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-CharacterReaderTest.java-CD3A34C25E52EF121C6948D88B93AD684313121F",
+        "SPDXRef-File--src-test-resources-fuzztests-1569.html.gz-A56B9278EB5427618887F6D98F4C03BE654156EC",
+        "SPDXRef-File--src-test-java-org-jsoup-select-CssTest.java-C428BEAC4B13BC951ECB49D3EF6C3DBF26575886",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-EntitiesTest.java-89772268ECF12CB672E14DDECA3F296DFD8BCFC7",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-TestServer.java-B5F0954BB69B1B020ABB576A00AA348E51379B77",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-AttributeTest.java-DDB449C6F15FDF229873B8E0CE95A426C52F3EEA",
+        "SPDXRef-File--src-test-resources-bomtests-bom-utf32le.html-96F4D843CFC4A0F3BEBA59C1ECE75460FB879206",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-ParserTest.java-F9565409202FFAC6239E61F83FDBD63AA08AA8E6",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-ConnectIT.java-4358C8F9DF63919B154B24D2A897261BB582B230",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-ElementTest.java-A6B337D88A3410AB153DF5096F97E64565F9C922",
+        "SPDXRef-File--src-main-java-org-jsoup-select-Elements.java-7E89BBACCC93C3A1048DA58D4C11E95DD2BB31BC",
+        "SPDXRef-File--src-main-java-org-jsoup-select-Selector.java-4A4D2EF598EC69F297056DB156166DAAECE4987D",
+        "SPDXRef-File--src-test-java-org-jsoup-select-ElementsTest.java-69929E51E2AEC5F6DD049D12F8058A5F2D0B3E7D",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-EchoServlet.java-FE2684C46248E5126EC5FF00C407F84897D56412",
+        "SPDXRef-File--src-main-javadoc-overview.html-91162A0CD036012FA09D53A60534D71D9B4752BC",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-TextNodeTest.java-5F38FF2539DEF93689B8F2C1E89BC61799B12E2E",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-AttributesTest.java-433C64ADDC7022AC5BA7C52C1112309D01BEC533",
+        "SPDXRef-File--src-main-java-org-jsoup-select-Evaluator.java-70A77964AB02EA04A2DF09A5A049CCC5F62948E0",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-TokenQueue.java-36DDDA90DA5A57ABF68685A58D3DC7396F79F78E",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-SafelistExtensionTest.java-CE10BCD8AEB4909DC6161B8987FD80FBB90AC12F",
+        "SPDXRef-File--src-main-java-org-jsoup-select-CombiningEvaluator.java-D19DDB965A8533B8ED9E522BAA72BBA6F6045AFE",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-Deflateservlet.java-C4962D366A03832EA04347A51BCF3317C35F5ADD",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-DocumentTypeTest.java-53F7C547B791BFA67826348BD3AC9FD9F8CD5F60",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-TagTest.java-E1952FDD50C22467E7755A205CA4A8B5BE1F4690",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-ParseError.java-D13A03378187724FB395FF5CD0CAC20894251EB9",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-TokeniserState.java-CF7BDEF13B471D1D0E6723724ACFCD33887327D2",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-TreeBuilder.java-03C1FCC2E5E48745D1431899066FE0E605BD1FED",
+        "SPDXRef-File--src-test-java-org-jsoup-helper-ValidateTest.java-2DB5E03529CBC0FACBCB9132BE7E756F2DCE5DBF",
+        "SPDXRef-File--src-test-java-org-jsoup-parser-AttributeParseTest.java-465BA1AC2BEBCED51B74FA99023485401AE65CB6",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-ParseTest.java-45E61D3B25AF5813B459E3C2188CAC579857065D",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-RedirectServlet.java-07E406504F6A3B85A87D4B308376BE65A46E5483",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-PseudoTextElement.java-150A546855752375C5CFDBFA927980DF7A4E3936",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-package-info.java-087CDFF2DDCF338B9ED83ED75E3402BDF340A168",
+        "SPDXRef-File--src-main-java-org-jsoup-select-QueryParser.java-6F45B2EF6BA57271E6EEEC6CEC48BCBDF4F8A78F",
+        "SPDXRef-File--src-test-java-org-jsoup-internal-StringUtilTest.java-CD9B62E655E0EA1FE40BF82C0AB33DF3EBE37651",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-UrlConnectTest.java-C9F3F80CBDA3492DCDCB830D7181E8A3ECA6243C",
+        "SPDXRef-File--src-test-java-org-jsoup-nodes-ElementIT.java-94E102C2C3A2B148C368FE23FF69D753D58BB47F",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-ParseErrorList.java-9F34E100CF540541FB4FD593F520609500E5411D",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-package-info.java-74767E5A17086091063D418585F42B0EE9FE5C53",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Element.java-31FE0B73FB7E46418352B6C2F6147755D1859651",
+        "SPDXRef-File--src-test-java-org-jsoup-helper-HttpConnectionTest.java-08881E0A286A33652F7267B3151B68DAD5E03AE0",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-SlowRider.java-DF2BC052D8751E77627F5697DFCB8F7E463874D4",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-CookieServlet.java-399F5B2299005896D2CB125B7D47CACE418A4AF0",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-DocumentType.java-DA37A474A2F00B2138D0C21D901E555C743DDA26",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-ConnectTest.java-24FA86BD2CC2E5FC9FD051548F4EC27F9BA6B216",
+        "SPDXRef-File--src-main-java-org-jsoup-select-Collector.java-C8770C496EBFC9C1AE3BFCC98331399B9530D664",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Range.java-C188EE640F40CF16E2CFC9EBD2D0E397848C1FCD",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-servlets-BaseServlet.java-4E5A2B726F4F0A8777402DC772CBE7DA9A672EDF",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-ReturnsAreNonnullByDefault.java-DF33C844A6EB724C7AEAE4C97E8E97AA664BBF93",
+        "SPDXRef-File--src-main-java-org-jsoup-select-package-info.java-0AA88C10123463E378C1AC65AABED1DB1058E2BA",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-FuzzFixesTest.java-37472FE54311FEEA7B89233DA565CBE500DE47D9",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-Tokeniser.java-5E980619CEAEC0B31D95B8BA9A35478ACB198B8D",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Entities.java-7E15F0EC1DA90D98836322249F5C6D8F755F94EE",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-StringUtil.java-70205D7FC60D3D8A0720FC924C06B305B1352C1E",
+        "SPDXRef-File--src-main-java-org-jsoup-safety-Safelist.java-0A512797264CB3C9C25F2C740DB4302572F80AF1",
+        "SPDXRef-File--src-test-java-org-jsoup-integration-FuzzFixesIT.java-789F400D0D29261A89FBE0165B992A2FE6B27098",
+        "SPDXRef-File--src-test-java-org-jsoup-MultiLocaleExtension.java-5E959CEB84480A7E4D2B05E11D6A3CF8D1C158FD",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-Validate.java-E888ECC01CBA6AAA59F16B31D3A810FF63827EC3",
+        "SPDXRef-File--src-test-java-org-jsoup-helper-DataUtilTest.java-2D826F61F3474FC484D61CB90C63826054F24663",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Attribute.java-C8E5AD8403F2F025B0B646EB354EB1117D958AF4",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-HtmlTreeBuilderState.java-7C9186BC75876E7AC8B6D0184B3112A3C2D35D7F",
+        "SPDXRef-File--src-test-java-org-jsoup-TextUtil.java-EB3388E13025348FF7C179605EED7AF40ABF4C13",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-ValidationException.java-46633162ADB0DD46986371F883ED2B7603A1BEC0",
+        "SPDXRef-File--src-main-java-org-jsoup-select-NodeFilter.java-B250EAC164BDAE8C21F3F5900EFC81D653F0774F",
+        "SPDXRef-File--src-main-java-org-jsoup-examples-package-info.java-E5EAD6C94D5C6512B5A36F3DF5833C7D2E048AC3",
+        "SPDXRef-File--src-main-java-org-jsoup-select-NodeVisitor.java-B44B27C9CE91FB76F23DFD2DA14B128623FFC5F9",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-Token.java-317701EE86FC9DE72B71106D1023634681AECA0D",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-W3CDom.java-221CDDAC9DF8A34BEB0096ED70C9A53E8AE4EA45",
+        "SPDXRef-File--src-main-java-org-jsoup-select-NodeTraversor.java-BAF0D698074E7AF7D76FC4B88F793D496F08663C",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-XmlTreeBuilder.java-63C60F4E9AE71C638B2B8527904F811AF0D43C54",
+        "SPDXRef-File--src-main-java-org-jsoup-safety-package-info.java-8BFD2F1674AC901E9DE57D7CE66CF1D34DA00E6D",
+        "SPDXRef-File--src-main-java-org-jsoup-examples-Wikipedia.java-B3FA3B1AAE9E80444272F75EFE85B86725B8D640",
+        "SPDXRef-File--src-main-java-org-jsoup-HttpStatusException.java-C5D1F067DBA225BD1CDE2B7A7A7810910D928D68",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-ChangeNotifyingArrayList.java-9D2C188FA20D2F8B51C242F7EDC5D843E0BF1954",
+        "SPDXRef-File--src-main-java-org-jsoup-safety-Cleaner.java-1774BF0610FE388F88A777F24F696AC9ADBF9710",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-HtmlTreeBuilder.java-E3400F4A8369B3EA3EE3062DD3583D6BCB865EF0",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-Tag.java-CF36DAA00019219904856E00B99B538BCB64B19B",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-Parser.java-4DF46804FFCD5D9D511AEDB0E233BA916DD84B17",
+        "SPDXRef-File--src-main-java-org-jsoup-Jsoup.java-0A4A9C5839353AFDCFAF808CC5F409EB2B850064",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-NodeUtils.java-F0D1FDD5B73DE8997F12DD065FF092CC6F5AC736",
+        "SPDXRef-File--.git-objects-pack-pack-853b2970159f3c9f63413d300a51f9c2e119a2d6.pack-69861670BDE1B78B6D6C2874A5DF051D663EA498",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-TextNode.java-DD815A015597754409264E3D6882E043C7FAD493",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-CharacterReader.java-989A44425C690A8F64E39C391FE5BC768CE8AC2B",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Node.java-158DE73A06C0C4E7C9E77D1EAEBF68120301E2C4",
+        "SPDXRef-File--.git-refs-heads-master-5902E90AA88CDAB3AEC398E48072280040910C07",
+        "SPDXRef-File--src-main-java-org-jsoup-package-info.java-13E7EA7E7C5CCED94F4FB6DF3A633569875D1D3D",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--src-main-java-org-jsoup-parser-ParseSettings.java-638C6E4C272EA2773D58BEE468D131D86AD4D915",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-XmlDeclaration.java-FB47B3F16542CBED81E8519EE4590C19FCD0E631",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-DataNode.java-14EABC5083E406D4E1810979571CAE2BDFA237FA",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-Normalizer.java-A7534A0943622D09E25DEA0C6E5CA11CF2E12AFD",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-HttpConnection.java-A3FDD732DB5F5E4D7A7F4026DE5D0E0BD98732CD",
+        "SPDXRef-File--src-main-java-org-jsoup-examples-HtmlToPlainText.java-48FAB7B357AF3F0A45643D8E392A94F0739A05D6",
+        "SPDXRef-File--.github-workflows-codeql.yml-83052E7E03B1D9B9353362C7A0B3EEC38D4B164C",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-43863BB82119BE4C3ADAAE83BB8F1DACC69E2250",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-LeafNode.java-3FF14A9B86B87AEF59558A9FEA7ACE702293141E",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Comment.java-8A697A1458857D76AC67F5812B36512515DEFAF5",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-NonnullByDefault.java-40BFD6B0F090AEC004942CDA17F6D65E05785789",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-DataUtil.java-2DF5CE20E2A0538BF9621415272EA422EE829D5C",
+        "SPDXRef-File--src-main-java-org-jsoup-UnsupportedMimeTypeException.java-72D9F73119B87ABD62F36FEECAEF0FEF96FEFD97",
+        "SPDXRef-File--.github-workflows-cifuzz.yml-3096420F5149A3C395332C1B9E242BC326E6AF4D",
+        "SPDXRef-File--.git-logs-refs-heads-master-43863BB82119BE4C3ADAAE83BB8F1DACC69E2250",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Document.java-E2F3CC03558A66F6790F6559E37BDF2F4D530AF4",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-package-info.java-03B416F01B625C4B682A3B33FF61B1D8A7F5AD72",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-package-info.java-15D81B1EB19F0AB0C2907FFBBFBA176CE962A8C1",
+        "SPDXRef-File--src-main-java-org-jsoup-examples-ListLinks.java-CE092113F234697A70267E08C12886CDEF06C340",
+        "SPDXRef-File--src-main-java-org-jsoup-Connection.java-164BF5A91193087E715AA1E768CC554EA09F03D4",
+        "SPDXRef-File--.git-objects-pack-pack-853b2970159f3c9f63413d300a51f9c2e119a2d6.idx-C138C6DE85D5A709EB43F25E80FF7E68EFBFBDED",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-FormElement.java-A310267A83B9F5E8AC13F177362FE71C305F7609",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-CDataNode.java-656F945F8E06AD387446505E28E71DB2138B367E",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-FieldsAreNonnullByDefault.java-F8448E23E0856EDCC600BCF9E4638A01C834C5BF",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-CookieUtil.java-5DCF461184968806863CD1143048BF24797AE512",
+        "SPDXRef-File--src-main-java-org-jsoup-UncheckedIOException.java-1A3F8E6D0FEF71B8F35E17CDDBF50F01355BED60",
+        "SPDXRef-File--.github-workflows-build.yml-9D874FA9921FC9585CB9508927A9539FAABD5C5B",
+        "SPDXRef-File--.git-logs-HEAD-43863BB82119BE4C3ADAAE83BB8F1DACC69E2250",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-EntitiesData.java-497397DE55C188CFA087FD337642A3792F34C68B",
+        "SPDXRef-File--src-main-java-org-jsoup-nodes-Attributes.java-DC11D1E3C88EA8A1643EAD849ED615AE3E823A29",
+        "SPDXRef-File--src-main-java-org-jsoup-internal-ConstrainableInputStream.java-85211841FFA2D8D76AE638FAAA5BCEB51D09E551",
+        "SPDXRef-File--src-main-java-org-jsoup-helper-Consumer.java-712DB6DFBE085737175A8AB55CDB130A7A8A7901",
+        "SPDXRef-File--src-main-java-org-jsoup-SerializationException.java-E4A56435A6354CCA921502D55155DEA735F2E102",
+        "SPDXRef-File--.github-dependabot.yml-5F68EAFF8C507187264D77F4574BA909A8E9112D",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--pom.xml-8EEF2C13A79FB7D908D77ABF96429949411DF100",
+        "SPDXRef-File--src-test-resources-htmltests-xml-test.xml-5B5FF6C4F497F7088E10715BEDABFAAACE0C37DF",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--LICENSE-95389017CFD36C1E56DAFC8FE7C75720A1FD137B",
+        "SPDXRef-File--.git-packed-refs-E7D27895CD540058227D9452013A5A311CC5DFC3",
+        "SPDXRef-File--CHANGES-E2140BD042CC3202224598650C76A34C54FCF859",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--README.md-304AD2531D3AFDF3A9120113751F4F1257F77C03",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-7FB7FB4F026A64C88AE7DE53BFD2E1B5C2C4F7A5",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--.gitattributes-D0D8D8ED9522BBF268A0AA67B026F902BA05BF55"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "jsoup 1.15.4-SNAPSHOT",
+  "documentNamespace": "https://jsoup.org/jsoup/1.15.4-SNAPSHOT/V3md5tKegkSj4leCq3s1tA",
+  "creationInfo": {
+    "created": "2022-09-21T00:44:57Z",
+    "creators": [
+      "Organization: https://github.com/jhy/jsoup",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

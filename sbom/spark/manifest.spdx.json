@@ -1,0 +1,4828 @@
+{
+  "files": [
+    {
+      "fileName": "./.editorconfig",
+      "SPDXID": "SPDXRef-File--.editorconfig-042E2CCCF7BC176CBEE4D7FD54EFD4337246EBB5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd2031f6b420878b75c866c0757a97a67ab88884f137167c60265f1aab582f1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "042e2cccf7bc176cbee4d7fd54efd4337246ebb5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./NOTICE",
+      "SPDXID": "SPDXRef-File--NOTICE-A0F9DDFEC3D648D466F2641D13508E3AFDACA637",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e6954c6b90cab7dc147a3f468f9ecac4fb528a6cb0f8325a99215ae58764a41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0f9ddfec3d648d466f2641d13508e3afdaca637"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./mvnw",
+      "SPDXID": "SPDXRef-File--mvnw-3DB6D8ECF2274090B3848C14399DE3E1B46FC739",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ddf08e2dfe1b59ed92902d0b79c9039325978d8ab502c6935a50ed88e38843a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3db6d8ecf2274090b3848c14399de3e1b46fc739"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-D8AFF24FC487A4AA16A86C075E0F005143B2F9CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e44d9ab9b6a41aee73a468d972b3cc6a60c104db22d96397e6a8cdc488f273f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8aff24fc487a4aa16a86c075e0f005143b2f9cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-6E2BAD0A047D8F47D5D85D1D5237AA7418D86B3C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45b7aa1eeebeea04710ac76478aac5594bc5879cf5746985c7a085c9328cfcd1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e2bad0a047d8f47d5d85d1d5237aa7418d86b3c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./mvnw.cmd",
+      "SPDXID": "SPDXRef-File--mvnw.cmd-EAEADD9FE96ADF69845F6838533C110AE3C9F3FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10b72020c9cadaee30203ffa6a7e9849e81ed01f376d0c36238eeaedf40434b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eaeadd9fe96adf69845f6838533c110ae3c9f3fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-162CD75780BB099CC45D31D62BF60B6FCA4F2490",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9a38e292853041c38c8dc6757261f357a4b10c8534385cdfd9a940175a014d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "162cd75780bb099cc45d31d62bf60b6fca4f2490"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-9BA85FB99D3203D66EE490F6FE7804DB5F52F236",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d51e99692d101d82946fcb0be3a863367821b11e918c154294ed9ce5ebf7b01b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ba85fb99d3203d66ee490f6fe7804db5f52f236"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Access.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Access.java-92BC5B14766279E00BF670FF3CF0E7945B40EB34",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "653e8a043a322831ca5de76bdd642f898cc20623fefd4d5ddcc13d1e50f8ecf3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "92bc5b14766279e00bf670ff3cf0e7945b40eb34"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/FilterImpl.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-FilterImpl.java-B3B81C912E741F3EBD4D58650E788E6AD141A397",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d49f640e4a7a50cfdc6d9d3196b0a85ac5dc20205177914d4b437841afe76860"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3b81c912e741f3ebd4d58650e788e6ad141a397"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ResponseTransformer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ResponseTransformer.java-1616E3B312DE33582DD955E7EF915C3AEDB8334B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e82bbba3a2d536875aa6bea2ef1fa54d6f023cfb5ef635ad5ccd96d295a051e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1616e3b312de33582dd955e7ef915c3aedb8334b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Spark.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Spark.java-A39B20ACE820654C7D409B9475FC69AE35A0BF46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e10d066a4134d6f71625c960a62b749336422ce60dcafdca58e97fd432d17d65"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a39b20ace820654c7d409b9475fc69ae35a0bf46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/EmbeddedJettyFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-EmbeddedJettyFactory.java-99F8BD94ABC840B85D9CF41AEBD214F0E535F6D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aee7a9f3c8a2070c27fe6885e9417d33a99d436da65828af0852594586fdb49a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "99f8bd94abc840b85d9cf41aebd214f0e535f6d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/websocket/WebSocketHandlerClassWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketHandlerClassWrapper.java-640858D554E472DD9C58802A6CC174FB317C372B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49711946ac1e6c94b5624c3a2c4e977ce771099cb6ad88d7036ae7a656244c33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "640858d554e472dd9c58802a6cc174fb317c372b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-ABCB275B2638BA0417AA2CC9C60C6458C263A5E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "667027af870649cf80aafc475c2518d5ff53ce7eb0b60a1e174d0dcf29f718cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "abcb275b2638ba0417aa2cc9c60c6458c263a5e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-9445b0dab4408ab7da49fef6aa725393f6a01de2.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-9445b0dab4408ab7da49fef6aa725393f6a01de2.idx-10DD259A4D93E9B3FF59BF7331F6E503378D1888",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ef7cf6c403dc9fbd38b3182db6117a50984a84d50053643a2639e16d91c48c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10dd259a4d93e9b3ff59bf7331f6e503378d1888"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./changeset/2.9.4-changeset.md",
+      "SPDXID": "SPDXRef-File--changeset-2.9.4-changeset.md-00FC5D87D984FE37A5276447F07DEBB797FAF4BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73d6f88db8df8ac7611b19110173129df4165fec461e849a71e9ab2f12bb22e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "00fc5d87d984fe37a5276447f07debb797faf4be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Experimental.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Experimental.java-BA0B151574D94CB555FE917F43FDF7967B55D1AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30b8744fb71c6e931231a01da98c52ac63b734ae74866a20ca29063880c53620"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba0b151574d94cb555fe917f43fdf7967b55d1ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/RequestResponseFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-RequestResponseFactory.java-31FF7A5F7290A75C2797FD29B841633C56540C46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a1b2dedff6bcedf406b1a64bb2b944ce55b26802e8c968fa4379e6172df2d8c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31ff7a5f7290a75c2797fd29b841633c56540c46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Service.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Service.java-EED93674BB3CE49C1C934CD320B8C652647EF5D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9be9338d125dc752aed7448c73d5469c05a7412e158588fd9505d5945c78ad44"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eed93674bb3ce49c1c934cd320b8c652647ef5d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/EmbeddedServers.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-EmbeddedServers.java-1C90B5740B6740021BFDCD51668C28A73053C922",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bc76070779ccb6c69fae7278c47e3a1705d5099e89ef5090d1c951bad3cc0d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c90b5740b6740021bfdcd51668c28a73053c922"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Base64.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Base64.java-6C945148675CF0288AC5180806F15902CF8C3ADB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "167a51c9180502f88b2a470362e23fbcc4a476ed4c018d3e7766663e39924e91"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c945148675cf0288ac5180806f15902cf8c3adb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/HaltException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-HaltException.java-3396582242678D9E40ED7BF7A8C7F028D0C53A6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "05d20d7e01282e291c526e419b4f9200b73ddfc67feafde80a5d06e06debe89a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3396582242678d9e40ed7bf7a8c7f028d0c53a6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ResponseTransformerRouteImpl.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ResponseTransformerRouteImpl.java-5D5A2240792114494B77AAE71F40D58F09B29B0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecae7413f9ec19e867f7bb0afeab79a9cc8339b0332f26bbf8fcd0f696166d5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d5a2240792114494b77aae71f40d58f09b29b0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/TemplateEngine.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-TemplateEngine.java-F5D881269DE422A69A74099E92B3F4AFD687A3CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f8c8ed592a42c37ae3ba6a1a248ec9b51ac079482fc2d1568c2ebd8a1627478"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5d881269de422a69a74099e92b3f4afd687a3ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/EmbeddedJettyServer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-EmbeddedJettyServer.java-1CCD9FECE8E561EFD87F285A5AF6B678AEA96D6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be795097e90d4fcd10bfc0f85ad0dee1fe39fb2e0f9eb91e8b8d271c98e87368"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ccd9fece8e561efd87f285a5af6b678aea96d6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/websocket/WebSocketHandlerInstanceWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketHandlerInstanceWrapper.java-6F93D541316ACBD8FE13EE477B27A49945A23FEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd97729b2bdd0d33f823d7d98c6fc279c924afedf1f9e20e46ea99d3661c027d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f93d541316acbd8fe13ee477b27a49945a23fea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-7E2F16A72882585C2D3AEE9EF5F2DC57710C4714",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1e909ee9252dffe9b9edf74d3b6f5fe386e4d76609199d93fd368ac2a1bc471"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e2f16a72882585c2d3aee9ef5f2dc57710c4714"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-C337F32DE336B69C2530E05F92005EAFA4C93BA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4815dfbd33e0fdb08b480e9c8976d27a8767a15a235a3f860420538582e603fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c337f32de336b69c2530e05f92005eafa4c93ba0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.mvn/wrapper/maven-wrapper.properties",
+      "SPDXID": "SPDXRef-File--.mvn-wrapper-maven-wrapper.properties-DDAAF0CCA2F9092D172BD960552ADEF52DE199A5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e92f3820ec9b98b36fc9f2702df7f64ff2fc868d7d69924e1eb98555466bec2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddaaf0cca2f9092d172bd960552adef52de199a5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ExceptionHandlerImpl.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ExceptionHandlerImpl.java-35914462638A24AAD7D92B45B29869DB9CAE67A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f1eab13ad0755babcc5f1be57b04b5cadf687d634088af2da94c8a05fd5ad59"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35914462638a24aad7d92b45b29869db9cae67a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Redirect.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Redirect.java-E486372BBB20895C33EAE6865D131FA3C904ED2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0223dd515cfec8334950f71b60b9f25b1b96a41b141591e6725abaae43edcfb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e486372bbb20895c33eae6865d131fa3c904ed2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/RouteGroup.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-RouteGroup.java-8225F2AA52049E3DFDF3547C35492963AAE33DB5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43287e401acd810e38a19b08e2f4dbfe09f29cb66fb6ce757385c1bc00abc0be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8225f2aa52049e3dfdf3547c35492963aae33db5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/EmbeddedServer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-EmbeddedServer.java-1562100FAA2C748FCA548DC5572E95E6EFD185F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0ea6e259b45939a0a0ab86729dd71652e2d86d464e0c64bdba7d5774bf5a7ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1562100faa2c748fca548dc5572e95e6efd185f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/JettyServer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-JettyServer.java-F93F84FF5B7B3B5B0F406B5AEE77D69FC33D84D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16c599493245e61c0242ddedc7000b874a7d49f27ad874f6dda00cb3dfb94656"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f93f84ff5b7b3b5b0f406b5aee77d69fc33d84d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/globalstate/ServletFlag.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-globalstate-ServletFlag.java-A049C99F5B42A3FE7D94EA4256CE890F0D207938",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "835da78abc2792b54fffdefa3d3e49f85fbc3c55d1632bd8f6f5ec2a5e9f31d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a049c99f5b42a3fe7d94ea4256ce890f0d207938"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-8CE59AD1AED6B70419DE9A3BFB0D1C699AB904ED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56a7181985aa1235cc555c2d86ac0416175564cd143c3c4f97b503dfdc3ae713"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ce59ad1aed6b70419de9a3bfb0d1c699ab904ed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-9445b0dab4408ab7da49fef6aa725393f6a01de2.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-9445b0dab4408ab7da49fef6aa725393f6a01de2.pack-F853750D9391B77DF88D2E599F2D64CEAF26118F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d610320bc87df33ad001fc063659701028c0c03c0abac0d43029f980de3fb17d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f853750d9391b77df88d2e599f2d64ceaf26118f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-AA8172FA75E2FFF7DDB42480D0114E02BDCF05A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "035021b16158f9f705c9b174ed647161e3f0806caeeeac3402b7b39da580905d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa8172fa75e2fff7ddb42480d0114e02bdcf05a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-C337F32DE336B69C2530E05F92005EAFA4C93BA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4815dfbd33e0fdb08b480e9c8976d27a8767a15a235a3f860420538582e603fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c337f32de336b69c2530e05f92005eafa4c93ba0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-C337F32DE336B69C2530E05F92005EAFA4C93BA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4815dfbd33e0fdb08b480e9c8976d27a8767a15a235a3f860420538582e603fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c337f32de336b69c2530e05f92005eafa4c93ba0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/GeneralError.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-GeneralError.java-E44E4B975E0B42F577AE38A98AC6C0EEFCA9B994",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ef79f473346fb43dc43e154140c71809583235523ed302d78f5ebb70346e754"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e44e4b975e0b42f577ae38a98ac6c0eefca9b994"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./config/spark_formatter_intellij.xml",
+      "SPDXID": "SPDXRef-File--config-spark-formatter-intellij.xml-B24C26E149FA98ACEAED59E5351CEA65CCCE1585",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40debaaa406b30ae4d93f9c46fe0a42956dcdb4299b1feb6cc5d5457a0910918"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b24c26e149fa98aceaed59e5351cea65ccce1585"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/SocketConnectorFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-SocketConnectorFactory.java-FB384750CF3D3263089EFC824A932A8F8A2919B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6865ec2c936f37cfc854626cfd5ec00b146fc652a754a1d734e640a1df867e47"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb384750cf3d3263089efc824a932a8f8a2919b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/RequestWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-RequestWrapper.java-69AFE8393B5DFA2F82E3BF9839FF76D88DE8BF5F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b106edd8f0434dd203cef5a0c16f3106a352174dd11567266d09c515e8924b32"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69afe8393b5dfa2f82e3bf9839ff76d88de8bf5f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/ci.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-ci.yml-FEC4961E0FFDA38846D12336F1377664AB1F1C45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "35fcf9999de4e71e60258b3a3e34467e280c4474c33d8cf27930de1cf1e2d153"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fec4961e0ffda38846d12336f1377664ab1f1c45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/Body.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-Body.java-DE7B729BC05ED22D0FCC36596D266667F0041353",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39561692c128d080b98c81272f2c4862118ace293ac7589f326308e1701e22af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de7b729bc05ed22d0fcc36596d266667f0041353"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./changeset/2.9.3-changeset.md",
+      "SPDXID": "SPDXRef-File--changeset-2.9.3-changeset.md-B8B0CB0C1AAB29E40018CFCFB747FC5B2721C6DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a2ef9378bfdd346f72ab7f7a378c016a82044ccc154d92a3f706339842e8572"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8b0cb0c1aab29e40018cfcfb747fc5b2721c6da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/AbstractResource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-AbstractResource.java-642644C6C7FDC0A8B0E3985568B88A9CAC0BC99B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f509292af3145c8a7c5da20f3d73c9b9aa2dedf0f1227f798f0b54538c60a151"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "642644c6c7fdc0a8b0e3985568b88a9cac0bc99b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Filter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Filter.java-102E57CB7BA1BDECC4D389DF07B91EA903A5FB77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5fcfdf91ec18cb7bc2463814f14f87d9407fba3493b6244aef18bef3c56b245c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "102e57cb7ba1bdecc4d389df07b91ea903a5fb77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/AfterFilters.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-AfterFilters.java-A0B98A769F51C83EECDD65E7576FAB96D03D6CB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42855d7fbea08c1d70d1727dda40a0fac645527f50678c599911dc6a5660e1a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0b98a769f51c83eecdd65e7576fab96d03d6cb1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/CustomErrorPages.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-CustomErrorPages.java-071E97039B64245336C6F5194D9B2A4469E952FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34cbd706c780bfa2c180a2b36f7d8cdf1456027dd08c574576ad4b2f6ffb4047"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "071e97039b64245336c6f5194d9b2a4469e952fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/ClassPathResourceHandler.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-ClassPathResourceHandler.java-DBC27D148BB8DA54E389072B8FF07035932B9F93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5fce1aeef7e0646c2e3fc7dfcb49912e6f51ae043f2a180135326b5620af01e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbc27d148bb8da54e389072b8ff07035932b9f93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/AbstractFileResolvingResource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-AbstractFileResolvingResource.java-89F8009E404E13CBB58AD8FA9D44A40EB28A856A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3aedbcd2fb0a696b7c3fc29a0972eb7d329a277b0b899f7f6a9bf2d20fa30249"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89f8009e404e13cbb58ad8fa9d44a40eb28a856a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ExceptionMapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ExceptionMapper.java-DD3B7B231876CC6B565D816745DD1CFB032D2FE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4703ab0410850c81f8a273f6e34b75a8895941ff9cc6db4d3aa2a67451fc01f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd3b7b231876cc6b565d816745dd1cfb032d2fe0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Response.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Response.java-B43D3B2EC0DB98F3F109C81811FC76955B8C047A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f1f24fa1fcc2b79d57961b2b04ecbaab8aa568b2fadcc2f4928c9d88691ac9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b43d3b2ec0db98f3f109c81811fc76955b8c047a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/UriPath.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-UriPath.java-225732AC2165591D854B8F92B55F2689496DC869",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a5f61d3ee1781a6f4d27e8e37894e1c71ab82343843365c5b075cb525594d8be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "225732ac2165591d854b8f92b55f2689496dc869"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Request.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Request.java-928BE52E306A6777EF4CE8D8EC3DB07C46EAB81B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "745d3490882fb8961436f91193bff99cc37f0bca247b9ed5ac48e476a01d2a57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "928be52e306a6777ef4ce8d8ec3db07c46eab81b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/Resource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-Resource.java-293ACE1B4C26418285BCB5A0E90710478563C686",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca845c96eed94d345d59e09bcc25860e43a490e1c3e7e3d9a85f504921d2c03b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "293ace1b4c26418285bcb5a0e90710478563c686"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/route/Routes.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-route-Routes.java-CA783695CF35D7A561E14576ADF969532B59833D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22c489bc05aa281d76b19979c32de956aa296c0c82075980e3d2576371707338"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca783695cf35d7a561e14576adf969532b59833d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/RouteContext.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-RouteContext.java-BB1A821BAA92DA37CEA6A9E2FE9D2E4043CFAFC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12af3145f4e3c8f773233922a97b3a80cc0bafdb9140ec43960c9d41f7c33a96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb1a821baa92da37cea6a9e2fe9d2e4043cfafc7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ModelAndView.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ModelAndView.java-27C2630ABCA2F1C2BECA27F0142A79B7AD42438E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72f76bbfaff2f5bb87ac2d9e5da1aa09c535675548fd744121e81e10328bf13e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27c2630abca2f1c2beca27f0142a79b7ad42438e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/serialization/DefaultSerializer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-serialization-DefaultSerializer.java-5CFE5F506E66144272C14C57211E6792F4581B94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db7fbcb6a6216d85fd787ae73bb3f2b5fc5f228fb30970d20c4d8e2b1621579d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cfe5f506e66144272c14c57211e6792f4581b94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Session.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Session.java-F17F41F38C5F8C24D8C0034C1A823990AD51FFF6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5240b991c686e278eaf99a119fd5d2d6fca908ba3342c0007024640a94db226c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f17f41f38c5f8c24d8c0034c1a823990ad51fff6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/RouteImpl.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-RouteImpl.java-380D5E2A25148148343503414291A0107A42BAD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab2a142684d86d02c506fd2361c60bfb588c6ae5d9b7fd43808889d77d4025f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "380d5e2a25148148343503414291a0107a42bad7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/serialization/SerializerChain.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-serialization-SerializerChain.java-B952EAEF638D486225E827ECB946A859731FF1BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de77c91b251c196448b05eb8000bf93d8b7cea6b625f1646f94157ad129d05cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b952eaef638d486225e827ecb946a859731ff1bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/serialization/BytesSerializer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-serialization-BytesSerializer.java-2074ACCA6682C94C76CE92BDEC517E20CC0733CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96060e1d9169cefdbbaac0a4c3dcc63927581650d35baf72bbcf55dd2f296a8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2074acca6682c94c76ce92bdec517e20cc0733cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Routable.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Routable.java-2E470B7584EF8B618EE7806F60B54434E31EB3C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae9e69d6a60b05e2a76d69fbe9745ccd8523c871bde44f82f4fd830326ea7020"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e470b7584ef8b618ee7806f60b54434e31eb3c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/ExternalResourceHandler.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-ExternalResourceHandler.java-6F5508CCFED699350B5F1501A42600EA07956E64",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eeb4d1a030a08a327b7a1576d553871ba2b6d07528849344d3cdc51ace52001d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f5508ccfed699350b5f1501a42600ea07956e64"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/NotSupportedException.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-NotSupportedException.java-25A08F255CA2C70493AD0414305C66D4806E4174",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7ec6fd9125cea9a3c88d71db898d071b660b42bc2e47fdf6fd841bfef1af376"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25a08f255ca2c70493ad0414305c66d4806e4174"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/EmbeddedServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-EmbeddedServerFactory.java-562EF5930B6CFF8C2F834502ECB35CFB3C98E6A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8110b121980be2abfa6ab8ccedea78dd4901f4996060c71267a732907ef7e0b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "562ef5930b6cff8c2f834502ecb35cfb3c98e6a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/staticfiles/StaticFilesFolder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-staticfiles-StaticFilesFolder.java-CE324016B226BF2687522C1829F0A3CA1EA9C7AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "701ce0009f79f7998a56c881fecfb7c7268a31d4a9ebd0ab028c2a3c0c4c0c6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce324016b226bf2687522c1829f0a3ca1ea9c7af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/staticfiles/DirectoryTraversal.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-staticfiles-DirectoryTraversal.java-D48ABC8A29DC4A6FF9A280FB8151DD18DD0ED2E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07e7f7a8db95c19c69dd90ffcbabc2d40aa22a2bb81c884bc4facba249218256"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d48abc8a29dc4a6ff9a280fb8151dd18dd0ed2e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/TemplateViewRoute.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-TemplateViewRoute.java-0642FF6B53025D8C969C9555D790DCA1E35B184E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c59eba1919b611726603dc6e6a71232a880f8b011b49d83c262bb7600c85cdf6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0642ff6b53025d8c969c9555d790dca1e35b184e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ssl/SslStores.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ssl-SslStores.java-1A4DAFBCA50CCDAB7CD4154B3D815F01AEBAA663",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21db06531ac6e908c98bd4f33f8428c6d738e5a11505bb2086545d431e654b64"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a4dafbca50ccdab7cd4154b3d815f01aebaa663"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/route/SimpleRouteMatcher.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-route-SimpleRouteMatcher.java-FF5CC69C01D57F62B4DDBE8243B98F62A3B96819",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28f9545576c18c55d67aaa4f7c8e50c2d94aa7e43e97fda37e180cf59fc0ed5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff5cc69c01d57f62b4ddbe8243b98f62a3b96819"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/JettyServerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-JettyServerFactory.java-3E88599B19B90523D7050BEB0A6575356FDC47F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1af225e4b01e1b911c57b2160f4c21df4658a835a35aaa138673d47f77ced4b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e88599b19b90523d7050beb0a6575356fdc47f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/ResourceUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-ResourceUtils.java-D3FDCBC13F0257AB471371F839E85F8B2C8C427D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea5556ed334dcf1c218b9296622c124120d278638634193752e6594990d6a617"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3fdcbc13f0257ab471371f839e85f8b2c8c427d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/IOUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-IOUtils.java-AC4F9BADAAFB98C472AD2CE8B137FBA617AE32F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b364ba78a64ed0a53b18d6ed54bc477149b8697d77f8238cb0fab5d36196cdb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac4f9badaafb98c472ad2ce8b137fba617ae32f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/websocket/WebSocketCreatorFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketCreatorFactory.java-079F62E84E3BD34A0F40B0CEDDEFEF24E45DDA53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb1c8e30c2353a901d4b34fbe85278e27fefa711c5185999ecdb5504d717f790"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "079f62e84e3bd34a0f40b0ceddefef24e45dda53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/HttpRequestWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-HttpRequestWrapper.java-49530400A47942170C763A68ED3B7DE882617072",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b44defba522be83dd9e3b23b7d2c3613fe103c473605c763f7f9fe1c2007e731"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49530400a47942170c763a68ed3b7de882617072"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/servlet/SparkApplication.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-servlet-SparkApplication.java-F0B4A76EC3AD3D0E286187D2F24F9FA5764A47C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0984281daa403f0fbbd8f389dc8802563795c6459b258bbe00999c9998018c58"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0b4a76ec3ad3d0e286187d2f24f9fa5764a47c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/Base64Test.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-Base64Test.java-8416D97F22E953173714933DAB1AB0640C7E2A10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16646b1140eca858f29845f9fd4fd36cd0d027d5b83d2eba8112ae31e1bca2fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8416d97f22e953173714933dab1ab0640c7e2a10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/AfterAfterFilters.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-AfterAfterFilters.java-E793B07DA74F5FC5BD21B097662CBAA75DCDF552",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f16f5fa7f40ab0ae1e8727714fb03b2537690ea400a5ede6ad04fb2996853e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e793b07da74f5fc5bd21b097662cbaa75dcdf552"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/urldecoding/UrlDecode.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-urldecoding-UrlDecode.java-D966D2BABABBEBBBCE9745605D63669DC520EF07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ba135a5c818c5907c819d1ea5fcc60c7156b811c69ae8f1d8ab04b9556e8ee9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d966d2bababbebbbce9745605d63669dc520ef07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/GzipUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-GzipUtils.java-78D72DC27D98F3FF02794F6FD62FDB115B88D257",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e851e628c57fc4d31367e3ecffd69e07d5ece2bb020d0a2ea230d22974c64dde"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78d72dc27d98f3ff02794f6fd62fdb115b88d257"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/BeforeFilters.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-BeforeFilters.java-0F63A24300E81E48269B3DEA98D693F3533512CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ee5e967cc3f18de213d56fb89a4a9f64004b7a5d1086191047bf30b7683a9a2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f63a24300e81e48269b3dea98d693f3533512ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/websocket/WebSocketHandlerWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketHandlerWrapper.java-7F450C0888EEA1F19FDB0FF493767B5F667A9146",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21ebce0ba63dce5f83fcb47ea0d5a57dfbcbe8562da450f41833e140257cfc9e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f450c0888eea1f19fdb0ff493767b5f667a9146"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/GenericSecureIntegrationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-GenericSecureIntegrationTest.java-56D704BCF09E5C6787AFF38DCC2BD34BA5299AD4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4d76f42b172e0e23098c609ee8ebd825c370bf94d0b575ec8a06284d4537421"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56d704bcf09e5c6787aff38dcc2bd34ba5299ad4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/FilterImplTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-FilterImplTest.java-8B117AE487343E2303F02A331C159DD519B0F385",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "255c5e110f09810ec11c50d13a6327e00895120d70062c497e262910752fb5cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b117ae487343e2303f02a331c159dd519b0f385"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/ClassUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-ClassUtils.java-470BFFC23BEA4608819E81A6DB78CE1637D5AB54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7910f8026ab4d5ef28e81b188e26ce4128f58baff27997d868f2a50ed3b2cbb7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "470bffc23bea4608819e81a6db78ce1637d5ab54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/ResponseWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-ResponseWrapper.java-7599C0E47424CC347D1B703A85D4AA01B821D11F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c9d7b624851cd7aa95abf43aa7411eb1ddedfb960b676a5d41d2485a023a454"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7599c0e47424cc347d1b703a85d4aa01b821d11f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/urldecoding/TypeUtil.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-urldecoding-TypeUtil.java-D60A4C6DE927E66518695F8891743882A4C4AA2D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "427acfbecb710ea229c535e7e4fc2dc68c8560b6e34c0d2796c089f8eaada6a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d60a4c6de927e66518695f8891743882a4c4aa2d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/Halt.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-Halt.java-E99FFDBC85304AC8157DFF053CFFEB65EE9C0AB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ed0b956d3c244c6962f1e201c4286478eefbdc6441e5b27ddb1b82cf6ac97d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e99ffdbc85304ac8157dff053cffeb65ee9c0ab7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/QueryParamsMapTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-QueryParamsMapTest.java-70A13652E895547DAC0ED3800FDA7BEDA2330C8F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba80ab2eb52c80030052d93145f5dedf240900d16e36460d9a62aaed833d7755"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70a13652e895547dac0ed3800fda7beda2330c8f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/Routes.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-Routes.java-B361CB016A4CFCC38F241450DD7196AACB23587C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7197b9b31f2bde02c32b1ff93650aeddd7ffb41d3a76da47e15f25c49866d1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b361cb016a4cfcc38f241450dd7196aacb23587c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/ResponseBodyTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-ResponseBodyTest.java-AF76BBFF5B770988DC6E1904C1C2E61EBBFB094F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ae168c3c5e0ed6c24c8476d7381ce7b84ca27b478e2ad4ef19bc1b3a9ae1f9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "af76bbff5b770988dc6e1904c1c2e61ebbfb094f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/StringUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-StringUtils.java-28C74D0E6133AF39A298670D4AFE82E2FB56D6A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3451aa4d7833b4602607769688a827c6bcf295c4f1e4ef35236303744a0052fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28c74d0e6133af39a298670d4afe82e2fb56d6a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/ExceptionMapperTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-ExceptionMapperTest.java-FCD28048D146E131D809575A8BF3730DAE381402",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "775b6960248eeb881808583d25952983821ade91d780949fe60d1f07f285c24a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fcd28048d146e131d809575a8bf3730dae381402"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/ExternalResource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-ExternalResource.java-D2FB9D4F8DF293450D389A7D91277097B608E1B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99508ba7030e5c4da53645b357f05f6d80a419fa4c8d532330a2d5d7365ab16b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2fb9d4f8df293450d389a7d91277097b608e1b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/InputStreamResource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-InputStreamResource.java-2D09AF0A891F3B706A17564157ECB55F9962A3C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be4227eb9e95c42adbaa3f087c354db355a7305534e3349de2855421f2db7180"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d09af0a891f3b706a17564157ecb55f9962a3c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/ServiceTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-ServiceTest.java-65F827F3E999063C75537283D26F555044285E3C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30701e04e971003c2d7935be040a8dde1ed66f842bc3e969a23f97b2d04acdcb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65f827f3e999063c75537283d26f555044285e3c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/AbstractResourceHandler.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-AbstractResourceHandler.java-C37BC05B0BD3FAA02E0DE8893C4A5D0A9BC2B101",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a7826505c4337d1fd34c074a80be1028c7c024d7965f0be875e5de70d43e98fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c37bc05b0bd3faa02e0de8893c4a5d0a9bc2b101"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/StaticFilesMemberTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-StaticFilesMemberTest.java-9F7B0791027F7956C5BF93EF8FD3F2E97EE279BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6cda9b198514bec8f8b03c89f4dd42eb239e5d95f0c67e9f299f31cd312ee184"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f7b0791027f7956c5bf93ef8fd3f2e97ee279bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/BooksIntegrationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-BooksIntegrationTest.java-1652F60C940E44C7C855E318D804F43CADE653C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9c3b48b3b66f4c7dae514df4a8b6870975762dd809c0d3c583a9e8787dfd8e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1652f60c940e44c7c855e318d804f43cade653c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/MultipleServicesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-MultipleServicesTest.java-5EAF0C1F552BBBA16C9ECA4F9BD8172EA1AEB048",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "349c8d6236d233e19788bb2b9b2d3b112f35416449af2eec17d6f65c73d4fa1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5eaf0c1f552bbba16c9eca4f9bd8172ea1aeb048"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/JettyServerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-JettyServerTest.java-0E712B42FFAFB3FB9D79C2DC8745234E7E58F3D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7a59810ba9cfda90a42ba0190bc64e5b1637de440ca66ba0184cffd6b5906d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e712b42ffafb3fb9d79c2dc8745234e7e58f3d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/route/ServletRoutes.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-route-ServletRoutes.java-715EB5C77168002D598FE9DC4FD70D0A988AA5E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34d3821d8d19d5eb984e1e42346fc3628742cbfc0323153002e239b6b938d0ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "715eb5c77168002d598fe9dc4fd70d0a988aa5e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/routematch/RouteMatch.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-routematch-RouteMatch.java-1C2D633307B8FDE4991A07550D7F80F2850609AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1c67e63f51ed129bf3fb94cc678164fe165fa6d6a5f2b41e2b9358c22e6b6ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c2d633307b8fde4991a07550d7f80f2850609ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/route/HttpMethod.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-route-HttpMethod.java-19EAA854DDCF8E0E666408A59DC9022FFCDC7ACD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70a6f25c149612d20c0513ee1841ef58f299ca9d52b54dc5895ba18ac516d87f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19eaa854ddcf8e0e666408a59dc9022ffcdc7acd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/InitExceptionHandlerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-InitExceptionHandlerTest.java-A7CC3C3D3F04ACFED61982024833FE75708F050E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de757773213aa1f737ab68be15a80cbd91236888c9fde960bd29e9d3e21a703a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7cc3c3d3f04acfed61982024833fe75708f050e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/ServicePortIntegrationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-ServicePortIntegrationTest.java-A953C9D6938E46F1BABCB60E56696453FC3570A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b3525b6650cdeddb98d573b0d8b21028fecf5ed4508d0f817b667c78fe2771b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a953c9d6938e46f1babcb60e56696453fc3570a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/websocket/WebSocketServletContextHandlerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketServletContextHandlerFactoryTest.java-7F3DB1C4FA565BA2C1FDCB4376B34C4487F91496",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6525bbd7901caf94b303eddff3914a201e8b48ad04752fd1b028ef16d6d9fb6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f3db1c4fa565ba2c1fdcb4376b34c4487f91496"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/books/Books.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-books-Books.java-450C01CEBF6ADA694AB41DEFC0EF6DE360B8E45C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90ecf7190c38229396d8cd68612f512991d07815b630553c914d091f238e47f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "450c01cebf6ada694ab41defc0ef6de360b8e45c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/servlet/FilterTools.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-servlet-FilterTools.java-685D9B80123A4E50FB031F76CD71A6EC5541B423",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "126cace18ca6a28c42989d2c3e7db6e9ed956c4c383350965b3caac7e4610fba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "685d9b80123a4e50fb031f76cd71a6ec5541b423"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/ResponseWrapperDelegationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-ResponseWrapperDelegationTest.java-9BE914E90380F3B98D0DC17B1A88245B1A930B6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "815cf7cf6f5ebe2d9a59029f53a66857e8bac0bd30b3391770be6747c9abb7b9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9be914e90380f3b98d0dc17b1a88245b1a930b6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/serialization/InputStreamSerializer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-serialization-InputStreamSerializer.java-F42E73A233B45FC5D67C0A0D750604082EB9B7BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03c98422f18f46acbae0278f064a189a188b3ab5104af645cadb85afc4a260cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f42e73a233b45fc5d67c0a0d750604082eb9b7bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/exception/NotFoundException.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-exception-NotFoundException.java-8114F73765BD4E550B2880039F473A26FA1C955F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38658f3e236b6ce6d48d8416894c74d4d71fd989a5f134bcfedd7d3423d70501"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8114f73765bd4e550b2880039f473a26fa1c955f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/servlet/SparkFilter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-servlet-SparkFilter.java-49818511D24125626A37E2BD6B622BB0EC3F717D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "caa3a1da908ecac56e9358cb856ed9b79ab3f64d387ec8242addfa50a3717578"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49818511d24125626a37e2bd6b622bb0ec3f717d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/EmbeddedJettyFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-EmbeddedJettyFactoryTest.java-8CFBDEDAD499D9E9D04BB66C82A05AD7839BF80A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a5b99d7981f1cf4901436566c9d0ac4640be9b4430ca83639d0db3f81c28d033"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cfbdedad499d9e9d04bb66c82a05ad7839bf80a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/filter/FilterExampleWildcard.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-filter-FilterExampleWildcard.java-3EFCA2C58304A2CD8F8FF89EF20E35B79987D2AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b03c34b06700f9b9ca0bf1ad7abd978c186b27cf012f9cb7c1fb86b049cb5ad2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3efca2c58304a2cd8f8ff89ef20e35b79987d2ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/Assert.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-Assert.java-8D39943FCE678A5687ED08781C628B1407753B1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8880ad34d2a4458ead6375bb55d6b4bf9579cfa47f81ace7979db2d682ae1b82"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d39943fce678a5687ed08781c628b1407753b1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/customerrorpages/CustomErrorPagesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-customerrorpages-CustomErrorPagesTest.java-DADBAAF2764F6AE1B0BD3AF4054354E4574A3FFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8af118235b5d357e702927ae2088292869c4368c81fa0141faca34fd75729244"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dadbaaf2764f6ae1b0bd3af4054354e4574a3ffc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/hello/HelloSecureWorld.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-hello-HelloSecureWorld.java-51C5B888F19B106C51E5223934CB4D7D6D44987F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad7ce2f486953a5d0e5633c78a0bc9d8fa2bf895449bfc0d9828db68c32e999a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51c5b888f19b106c51e5223934cb4d7d6d44987f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/CollectionUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-CollectionUtils.java-A39CE346150A6E4B3EBDE767D500923DFBB12417",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09ced506a8529128b79d5588f9d126519932624283b03b5c5f44b2e5a3e67d0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a39ce346150a6e4b3ebde767d500923dfbb12417"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/staticfiles/MimeType.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-staticfiles-MimeType.java-5376ECF88E107CD144A7E044E78DD9A8286C430C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "164d21726d4edbe605b30fd32f5828e349fe361cbb5ee8c719cf90190964a99a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5376ecf88e107cd144a7e044e78dd9a8286c430c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/books/Book.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-books-Book.java-981FF371E911BFCB05B6CBC1EB4F4387B42850AA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06ab4e3af89e937a0d3e39a3306fbae514f848c6696815f3a987ea7d38fc1719"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "981ff371e911bfcb05b6cbc1eb4f4387b42850aa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/simple/SimpleSecureExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-simple-SimpleSecureExample.java-B738B64055D88F447747F04141136D0D20BF691D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9770230f80f25d6ecf800cb7ab8a5edb87ed4ed540176fc47e4db32c6b22d76c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b738b64055d88f447747f04141136d0d20bf691d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/Wrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-Wrapper.java-A6C938F5512F1300A62FC8374AE7A421C66E2D41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0cdf9b9c2ae88a36da906a2b6e597aadf5d8ae55c6b477475b2d12831e1b47d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6c938f5512f1300a62fc8374ae7a421c66e2d41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/sugar/SugarExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-sugar-SugarExample.java-19AA48FFCE0B030906AB33E40A8B153ECF14BAFE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a21758d96a8a051e7edc4a63b39e7b8b39082660fa2d59ecc7f07017f5edd2fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19aa48ffce0b030906ab33e40a8b153ecf14bafe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/SparkUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-SparkUtils.java-4FFB54538B1A36FC96164AE47F9238575FA58C63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a47eb5df0581d4fab70c04fac1523f6969c59159a4762f59c05cb73287772e5b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ffb54538b1a36fc96164ae47f9238575fa58c63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/websocket/WebSocketTestHandler.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketTestHandler.java-543A9B741987B0D5007EA9908A47DCD4A3BE8E82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d095ea70741f5bd395fce72a6496dea5fa6433571cafa2f03ca2446b64f33ea5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "543a9b741987b0d5007ea9908a47dcd4a3be8e82"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/MimeParse.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-MimeParse.java-6F2151B5F8F8E8459A682FA32E21AEEC192CDE7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd958ce8beb63b182593e462ecb82720cb03b4b3a798ed55168fe2a0d4edfd4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f2151b5f8f8e8459a682fa32e21aeec192cde7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/websocket/PingWebSocket.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-websocket-PingWebSocket.java-E21BC3A06EC1E3D542BE3E0B0E0B5AE27AB94EAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d226aa4820b52497485b97de7d32b4675a03ad909e5343a11eb375b4e114482d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e21bc3a06ec1e3d542be3e0b0e0b5ae27ab94eac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/filter/FilterExampleAttributes.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-filter-FilterExampleAttributes.java-318B9B1E6B55079608B7451A26CF75150932AB74",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec2a659fe526df174acf7ecb163b32d8d404d5045f01c5ffc3c55c6c5d3dcef3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "318b9b1e6b55079608b7451a26cf75150932ab74"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/BodyAvailabilityTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-BodyAvailabilityTest.java-29FFC62C3B49CB62E47970D71E9B79F607590840",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a30023a1702c018f9d67dc34a6fa2ccf879bf2770f5e89329c8894d079a24773"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29ffc62c3b49cb62e47970d71e9b79f607590840"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/transformer/MyMessage.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-transformer-MyMessage.java-1062980579FDC76863283774E2CC1EEEA576BE09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f992a3d3390474d7707b960af4bdb69b293bc433f8ffa29c73f78bdaa7cfe38b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1062980579fdc76863283774e2cc1eeea576be09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/CookiesIntegrationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-CookiesIntegrationTest.java-B1457E0C8F5EE9BEA09C02FC9AC7C55BD2FE2BF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08e369757fa9e259b5bb1eb7ec28cd130b4e7882695e17db7f401ca23dd670fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1457e0c8f5ee9bea09c02fc9ac7c55bd2fe2bf2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/filter/DummyFilter.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-filter-DummyFilter.java-E43080E49F9B8F33D2720A7E669F570B67E34E50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24583297585ea5fc051f8aeed107c57c39e59e02880e8d7bb62afa40274c4c2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e43080e49f9b8f33d2720a7e669f570b67e34e50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/route/RouteEntryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-route-RouteEntryTest.java-E4681BB65C46E77108AF0BE050098F95206AF030",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae8c2c349d6b8b23ed5604df3ee39edd3561319cbc380d96477922d136af6d0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4681bb65c46e77108af0be050098f95206af030"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/GzipTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-GzipTest.java-F01B0371AD9D91AAE9A4B624AE9C733A362055E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b794918b16f88a0604b1612271b8cafbb22042b680c74af39040d5859541cc3f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f01b0371ad9d91aae9a4b624ae9c733a362055e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/servlet/FilterConfigWrapper.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-servlet-FilterConfigWrapper.java-98107A4140A91F0D8353E4DADDB0A2EFAE76430E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9feebda750ea1d2281c51c2309de65492a8b9c4f0a12f20071558fc7af41e881"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98107a4140a91f0d8353e4daddb0a2efae76430e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/MultipleFiltersTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-MultipleFiltersTest.java-E1E305BAC673EEED5F28B3D9331F8CA2A4A359AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64efa0bc3b42b542ea5c482538942cdeec9cc359dbbf5f99bb33fa8bda5eadd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1e305bac673eeed5f28b3d9331f8ca2a4a359ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/simple/SimpleExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-simple-SimpleExample.java-A921045AFF810446B1057F7F57449A36B787ECA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c50bfa8947181bd89ec639148ecd0d0f48387866a99dfa434267edb8d560bc0a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a921045aff810446b1057f7f57449a36b787eca8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/urldecoding/Utf8Appendable.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-urldecoding-Utf8Appendable.java-C52F1E5DD873AD76E9658B171FC0A2F2A3F884C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77032f4b61130e95e6ae487590a8a9a79f17308184f20d125e17dcbb62f2fccd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c52f1e5dd873ad76e9658b171fc0a2f2a3f884c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/multiple/MultipleServices.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-multiple-MultipleServices.java-B1DAD782D594A5E3F86FE885A2436F4D25F98541",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec98b2fbcb7dd44d5274fe73255d24c05dc3f5376f7d2b1927429a5c94c41910"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1dad782d594a5e3f86fe885a2436f4d25f98541"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/utils/CollectionUtilsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-utils-CollectionUtilsTest.java-667B7A054D3881ABE955155C45D7092ACCE80B4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4dab7076e0d4b59bae94bc78c493985514d9f55a194e6e12ed062313b715357"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "667b7a054d3881abe955155c45d7092acce80b4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/img/file.cxt",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-img-file.cxt-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/transformer/JsonTransformer.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-transformer-JsonTransformer.java-F5D878AE33471FCEBC4AD4AF5BC4B81FD9A150DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21b22b83400ba8d34b590a5954c1b9ecc384a7349efc801bb8a5c85be2d6567f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5d878ae33471fcebc4ad4af5bc4b81fd9a150df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/ResponseTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-ResponseTest.java-7D1D363B5D3AA5010B92239AF543153120440F94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "20989ae248f8e732dd96a3598caf60c0c4d58621b074f0a6f13173858d930ab4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d1d363b5d3aa5010b92239af543153120440f94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/staticfiles/StaticFilesTestExternal.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-staticfiles-StaticFilesTestExternal.java-93C67239829D2AE6AEF4365B54DA9B1E02F2D4A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55d988acd0a72ab7249a04d89bcdbce6af81141d868444cc2f0420d6b63a4cd0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93c67239829d2ae6aef4365b54da9b1e02f2d4a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/spark/examples/templateview/freemarker/hello.ftl",
+      "SPDXID": "SPDXRef-File--src-test-resources-spark-examples-templateview-freemarker-hello.ftl-F54DB1326E45FABFBB126389E2EE4F76FC8FC9E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d179976dbffeba18df6169b485c104451bff4b8072aa4ca18b2e3bab1b0050d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f54db1326e45fabfbb126389e2ee4f76fc8fc9e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/FilterTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-FilterTest.java-BCC0FC15FE2BB18C3F9C0755EE22CE4887CB7E53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1369cefb1823dfaba22f9eac7f54d54ed56f91a5f99bdf411eb3decbab2ca690"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bcc0fc15fe2bb18c3f9c0755ee22ce4887cb7e53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/RouteImplTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-RouteImplTest.java-8DA172E09A79C48AD9238278A9047A796F3C2387",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7b1c5214c5d2a447a3d1f633a6089a86f4a0272937d4d88bba16ab59ba8ec75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8da172e09a79c48ad9238278a9047a796f3c2387"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/EmbeddedServersTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-EmbeddedServersTest.java-E18DDBD7AEBB4F8C0D979814572AE216A5FEE917",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0a47375d80bcd0b0617b4c40c67125ad884da2c7736c6f5d98d7ae8fa1bd27c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e18ddbd7aebb4f8c0d979814572ae216a5fee917"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/templateview/FreeMarkerTemplateEngine.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-templateview-FreeMarkerTemplateEngine.java-4FA6FA306BBEC2C7333902F3C5DE5B3CBACDDB1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3fc66fbbbefa042ae8bd1e195430baad60fb1bf61a9b12c7f28800bbc1ebd34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4fa6fa306bbec2c7333902f3c5de5b3cbacddb1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/route/HttpMethodTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-route-HttpMethodTest.java-E32B5EC03D7138A960300A58793FAFA25CA8A2EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "120b07c5183244eabf0258a3141a4dfdadc12245db7df966dc63a5145a355304"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e32b5ec03d7138a960300a58793fafa25ca8a2ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public-jar.zip",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-jar.zip-9E53FAAB0D34A3B4751FFFA464F0482B45FA946B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a823cd7372c78f8b97c6bf414f2f8b15f13d75a9d2d7f40e9281e5026ee53ffd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e53faab0d34a3b4751fffa464f0482b45fa946b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/js/module.mjs",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-js-module.mjs-68CC5183C2535042F74C20B2AB28134C40B27A05",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d7e30b3ed48343eda2cab6a0adcf7323ba6ac8ac23437976d1541e1626da3df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68cc5183c2535042f74c20b2ab28134c40b27a05"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/UnmapTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-UnmapTest.java-DB3F505DBEB59095971DE0E24AB89B47D3A29B5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d642faec87f561142b7ffec5c427e3de5c6fa78b1f8ce7a022697dd6f06686c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db3f505dbeb59095971de0e24ab89b47d3a29b5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/RedirectTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-RedirectTest.java-2ACB5C53D9CDA12E11F790198DB6186264EFB828",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f19ddc5ed6a29c85098fa65d0af761334eb94a7b3462150b73dfb4f6be5e91a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2acb5c53d9cda12e11f790198db6186264efb828"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/globalstate/ServletFlagTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-globalstate-ServletFlagTest.java-604E5C5112D4198723E3812031EB197B4C689035",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa75e681eaae659e714f606e5f7393af39cd19ad8208f94312e0e88c90011b5a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "604e5c5112d4198723e3812031eb197b4c689035"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/accept/JsonAcceptTypeExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-accept-JsonAcceptTypeExample.java-81DDFABB1A9454CDAEA49CAA9C2CEF0C4EF8FCCF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ead6dc9160fcd9b9e099cb7376b41f6098139b7a31a61c0ed06c1e12b8c9bcd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81ddfabb1a9454cdaea49caa9c2cef0c4ef8fccf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/staticfiles/StaticFilesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-staticfiles-StaticFilesTest.java-7DFD4FC1C2E9DC8D50418B13D6EF2ABDFF661CE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "adc56092e4aafaa7df0630f29f2443aca852be16917c985371916ff00bdc5a4f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7dfd4fc1c2e9dc8d50418b13d6ef2abdff661ce0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/SessionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-SessionTest.java-AEB324EF5127F357CD9266CFE5A1A058CA9226E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb3582ab3445a0c990e1fc1335c7e254ae7ba8d1e9785c4a1ace4925624fdb30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aeb324ef5127f357cd9266cfe5a1a058ca9226e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/websocket/WebSocketTestClient.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketTestClient.java-0F368F2FAA6CE2C58522642DBA9780C9A55B1A35",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81e5df28cfaddb97a9e7c7bbf1cbba0063ea4cb369141ffc20dc62236977611a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f368f2faa6ce2c58522642dba9780c9a55b1a35"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/filter/FilterExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-filter-FilterExample.java-C08F71B7395DE78678175776C788B982FB64A904",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "902521f387a035624485a9df5681dd2a797b9c659700847a629f8d18f16752ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c08f71b7395de78678175776c788b982fb64a904"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/servlet/ServletTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-servlet-ServletTest.java-590D18C9F663D5E3549A5AB6AE4EC9485458DD3D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3352ecd8aca913ece60cce850ea4e1f865445de91e056651bf9da0c8492be46c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "590d18c9f663d5e3549a5ab6ae4ec9485458dd3d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/keystore.jks",
+      "SPDXID": "SPDXRef-File--src-test-resources-keystore.jks-FE78A8152C260A7D9EBFED3F4C318E36EF8C2399",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1d385bedb920b82b426d1d21cf405908b05a7b1f406ab933b4fcabd60e76998"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe78a8152c260a7d9ebfed3f4c318e36ef8c2399"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/exception/SubclassOfBaseException.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-exception-SubclassOfBaseException.java-95CAB44C3BE6F624D9EECF2F1EBEDBF2CDF9DC09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ce91aca0f6decb731a9a26d8c82855d1c6de8b89737b13aa5b1d33998ac9336"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95cab44c3be6f624d9eecf2f1ebedbf2cdf9dc09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/SocketConnectorFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-SocketConnectorFactoryTest.java-351F3BFE6A95A945F33575ACD83830F0775BF580",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28693a31ed428c93dd260f1430a4f264062d814aa3c808d8a9cb69f323e5e517"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "351f3bfe6a95a945f33575acd83830f0775bf580"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/utils/ObjectUtilsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-utils-ObjectUtilsTest.java-6DCE82C36EC8E567597FDBF864FD16C5672BF96B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8cfd8940344c4f087b1f4046947eede4a92ab740937fb5cf03b3143f927f396f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6dce82c36ec8e567597fdbf864fd16c5672bf96b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/img/sparklogoSvg",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-img-sparklogoSvg-BDBEFB093B6899629C692D722D4FBF041E9E52F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "394433f978eb71dc30523092c542f12de5d338364891c7e9efe8e4399f28111d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bdbefb093b6899629c692d722d4fbf041e9e52f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/session/SessionExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-session-SessionExample.java-AB413E791C4C5E3C4F1986E6006826A957EBA559",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "601f66b41883998c6487c1c344f9169fdf8a77b1bd87473acd650b80bd2f4e5d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab413e791c4c5e3c4f1986e6006826a957eba559"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/exception/BaseException.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-exception-BaseException.java-D7D3A3220160CFDBB14333974DDF28122D5E7F9E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a30652cf938af88be921f3f911127c365f57073b48b18b7797e2bfa828346d5b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7d3a3220160cfdbb14333974ddf28122d5e7f9e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/hello/HelloWorld.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-hello-HelloWorld.java-4080A278EF45D9EB10F014DA1095483CAF12696E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f59ef38f82ae77087ade167c482eab764e2144956644872ee31cbf4f8f24a5f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4080a278ef45d9eb10f014da1095483caf12696e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/img/sparklogo.svg",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-img-sparklogo.svg-BDBEFB093B6899629C692D722D4FBF041E9E52F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "394433f978eb71dc30523092c542f12de5d338364891c7e9efe8e4399f28111d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bdbefb093b6899629c692d722d4fbf041e9e52f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/gzip/GzipClient.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-gzip-GzipClient.java-21D6ACB661CD3565D80F9E91148E3F9EBE3C7A0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "092ae800dd8cecc1a179ab4efc963a37e20b703ccf1e7776aaaff194725c586c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21d6acb661cd3565d80f9e91148e3f9ebe3c7a0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/templateview/FreeMarkerExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-templateview-FreeMarkerExample.java-5DF36575AE6776CB7C03F654F5A7B873C716E3F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07ee777a3518c067cd8aff470fce97091a1e363ec8bf1d7e821febbab1ae5e6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5df36575ae6776cb7c03f654f5a7b873c716e3f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/transformer/DefaultTransformerExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-transformer-DefaultTransformerExample.java-9842DB12BF8207C2A81A98C36CBB268F1B6306AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3537b9734d9a5f0912e8608f79c533d0fef9cb2f30684b5b0c1ddc3fe925e326"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9842db12bf8207c2a81a98c36cbb268f1b6306ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/websocket/WebSocketExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-websocket-WebSocketExample.java-4D9DB3D59DBE75029904A50E0B1FC5FC2B05786A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ae432b78282c3c07ac68ee8eaef1bf0d37f165bf946bff2ed11df78815ea8b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d9db3d59dbe75029904a50e0b1fc5fc2b05786a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/resource/UriPathTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-resource-UriPathTest.java-E88C4CD970430057417713194F579751B69A99FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed75e67e5520eb52568371874344270ba57bd30cb4d57402a47193208e0a8b0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e88c4cd970430057417713194f579751b69a99fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/staticresources/StaticResources.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-staticresources-StaticResources.java-6626E8F7CF9F50282F87CCC7D8B52242C9890DC6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "527af6c74b968e0e0a583a7680e28b7d3aed91b63a4d275fdc6f66c29a09de66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6626e8f7cf9f50282f87ccc7d8b52242c9890dc6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.mvn/wrapper/maven-wrapper.jar",
+      "SPDXID": "SPDXRef-File--.mvn-wrapper-maven-wrapper.jar-CA0763264DC2E879C0EC8F3460F35D017FD8F61C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1dfe794c50f17f7808b1ed3cde3c009ba9a1b56aeb5c54e1dd3c3b1a93feefe7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca0763264dc2e879c0ec8f3460f35d017fd8f61c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/servlet/MyApp.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-servlet-MyApp.java-9757C980C49E24EF2FAB517C2F2728A87C22EBD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e10e11dce144af5ff3629257e6100851164ee9ade406c9aa1b2b66b1335c1381"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9757c980c49e24ef2fab517c2f2728a87c22ebd7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/transformer/TransformerExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-transformer-TransformerExample.java-18A91EBCFEC7F94217CF0F0DB07FFFAA4BFD9C57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59cf2a1f7f73b26ca0a1d9bd44bd714e1d8cb5d70657729f4408cdc30fb1ac7e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18a91ebcfec7f94217cf0f0db07fffaa4bfd9c57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/staticfiles/DisableMimeGuessingTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-staticfiles-DisableMimeGuessingTest.java-4DC705182AC5E3C77D84DC1657D06A6CED5C1CB4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d9951338d16a24cefa7e225501ba36d13f5da56edd53b186e3a894a88ececb6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4dc705182ac5e3c77d84dc1657d06a6ced5c1cb4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/ExceptionHandler.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-ExceptionHandler.java-1AE63C524A15C34728455706505E2D1097F230B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c66c63a6b00ae0553358a3e9e263b03112b1b3706d1b9398739a33766865904"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ae63c524a15c34728455706505e2d1097f230b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/utils/SparkUtilsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-utils-SparkUtilsTest.java-23AA509DA25E1683D2112CF60A2458BC527B7C76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "100a9f6f860bd3e7a9a5af0dcc692edc2c32bda525ab40bdbf26f462d30e1522"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23aa509da25e1683d2112cf60a2458bc527b7c76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/utils/MimeParseTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-utils-MimeParseTest.java-53035361BBD74D7ADD06B3E8976CFEB1CCB89E72",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "356957767ee76f0c947ed93b9e0e5443a66df62c9d193e2d218f33f86c98b6de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53035361bbd74d7add06b3e8976cfeb1ccb89e72"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/route/Util.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-route-Util.java-FF44AA77CC1328BC1A72B7F71C6BD569CD743BC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ddbb11bd318419103548554e28ad4a5a497df33e487a04cf3532361be3a8d08"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff44aa77cc1328bc1a72b7f71c6bd569cd743bc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/img/sparklogoPng",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-img-sparklogoPng-62EB23427E8FD68E28F946B0902B5F62DF4724E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "929d41c2e477d43b9b9bfcab79531b041006970633732551551acb55aae662ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62eb23427e8fd68e28f946b0902b5f62df4724e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/img/sparklogo.png",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-img-sparklogo.png-62EB23427E8FD68E28F946B0902B5F62DF4724E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "929d41c2e477d43b9b9bfcab79531b041006970633732551551acb55aae662ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62eb23427e8fd68e28f946b0902b5f62df4724e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/QueryParamsMap.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-QueryParamsMap.java-CB85DA0D5F59C3FF98AD3D5E12B1F564639F37F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3661d84936b4176440199c14bfaa7d1e691ffebfa8b5b8d71e82f25309e7b3de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb85da0d5f59c3ff98ad3d5e12b1f564639f37f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/util/ResourceUtilsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-util-ResourceUtilsTest.java-311E74EB8565AA283A4920517BAD7898DF279198",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42ecf0292326940beaa468bedbecb6a00cd7187233457a021e33cf302df2a3a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "311e74eb8565aa283a4920517bad7898df279198"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/webapp/WEB-INF/web.xml",
+      "SPDXID": "SPDXRef-File--src-test-webapp-WEB-INF-web.xml-5F01C1E064E3327F9576CC7D303BBA2A6E5804E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bdd99ee807f08e7e7ebb09987c0f66bafff5976df8ea5455b63a6aef9ade4caa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f01c1e064e3327f9576cc7d303bba2a6e5804e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/Route.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-Route.java-91BC4B6117474FF0B1FBE489F5661E79C0BE64D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fa2bab87ef012fbf7e21231c204440efecbc85b18f00982dcd80c5771587059"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "91bc4b6117474ff0b1fbe489f5661e79c0be64d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/page.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-page.html-E21DC45531FA5BE64E81FD0D593F0F54AEE03F2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75f905691e9a7966a61ea521e57ea12b7e6cc2d17a2c06f83c9be4af08dbfe87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e21dc45531fa5be64e81fd0d593f0f54aee03f2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/TemplateViewRouteImpl.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-TemplateViewRouteImpl.java-E57DD4560BB51AECCE2F46FDFEEA369696C108A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36765e8377e0b8a5640fbf1e3aa2578a88b2471b1c0e121fe924b93700dc3a22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e57dd4560bb51aecce2f46fdfeea369696c108a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/js/scripts.js",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-js-scripts.js-3DA5373AB60E958A787EAF55B2B9BE8A98C9B699",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ce467fd0274d873431c79398e2631af815b4d07e2ee7abdb33ca81b3cb743a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3da5373ab60e958a787eaf55b2b9be8a98c9b699"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/JettyHandler.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-JettyHandler.java-320D82DD30DA37779B3792194C5053EC7A8B5A71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2dc2998a76144a26f8f1b2475f046d3c67588c9c27989c55464c8c3bd3d332ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "320d82dd30da37779b3792194c5053ec7a8b5a71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/embeddedserver/jetty/websocket/WebSocketServletContextHandlerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketServletContextHandlerFactory.java-E2473AC5D08B7FCB15904FF774D3149238B3D1DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "737caee977ece4efa97f6bc6487aa2364fd44648fac9c0e9216db64c3d35d276"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2473ac5d08b7fcb15904ff774d3149238b3d1da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/http/matching/MatcherFilter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-http-matching-MatcherFilter.java-55F830E966A66D6D2F387458FC5A786E8E5B8783",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbe72eda9799e57c2faa54c86bd843b39747e79c08753da7ef142e304eba3db6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55f830e966a66d6d2f387458fc5a786e8e5b8783"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/resource/ClassPathResource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-resource-ClassPathResource.java-525F36BD661CBC201971656E60FF6E16B82260FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0af3c4ca3521fda5d8a4ea7dd666bc2cc58bf337de8f7e3fd77ca5e97d1b5af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "525f36bd661cbc201971656e60ff6e16b82260fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/route/RouteEntry.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-route-RouteEntry.java-662F67D2279492BE557B15247D2929893536F812",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50fc23bc3ed852d9cfe4cf9a401f02298eb2b473752650363470ebacc47046a1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "662f67d2279492be557b15247d2929893536f812"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/serialization/Serializer.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-serialization-Serializer.java-19207D91617BF7E38D1E52A8471DED7FCBDF4C6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b687dbb7e26040c5ad29deaf9ad9043aa0efbf4bb9ddb4df0be80064448c385d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19207d91617bf7e38d1e52a8471ded7fcbdf4c6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/staticfiles/StaticFilesConfiguration.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-staticfiles-StaticFilesConfiguration.java-7E577BD5ED841D92A73D81BA027310C71731481E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e91eae1156d4dcf2c33b04d2b4fee06d18e4a2f81f50665805184f336d1c518"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e577bd5ed841d92a73d81ba027310c71731481e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/ObjectUtils.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-ObjectUtils.java-E0F692FF53F449A49D87C41C2939BE643C89D28A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0196b5b254c253a5c25482c1590ccb5fee0ff477a15c61e87596768c5bc22594"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0f692ff53f449a49d87c41c2939be643c89d28a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/spark/utils/urldecoding/Utf8StringBuilder.java",
+      "SPDXID": "SPDXRef-File--src-main-java-spark-utils-urldecoding-Utf8StringBuilder.java-146E4F92C3D106EB1681BA293FC5056B4499DD34",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46f41de900f3650e2af301f5da24c34bb4e12689fd473efd87e4351af09239fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "146e4f92c3d106eb1681ba293fc5056b4499dd34"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/GenericIntegrationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-GenericIntegrationTest.java-17C2C83D6E942F25C832A911EABD9AF6ABABCD8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "240333a8464e38575cbffded74dbc6ab53ed136f322c455979db189e3644772f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "17c2c83d6e942f25c832a911eabd9af6ababcd8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/RequestTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-RequestTest.java-12D7E2048D1A64057BCD5AD8AE5A835ACDAC3262",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07b867c60607264046ac04eb740486321db8b4c84a02a8bf4477b7e804817686"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12d7e2048d1a64057bcd5ad8ae5a835acdac3262"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/StaticFilesFromArchiveTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-StaticFilesFromArchiveTest.java-C6ECB907B5E1CFEDB7FB62B928EF64B4D5F5D5FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1cc1b0cd721c5b972b972e8663f3c0ef5407ba2b5e5ded2bc35429a7d6af711"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6ecb907b5e1cfedb7fb62b928ef64b4d5f5d5fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/embeddedserver/jetty/websocket/WebSocketCreatorFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketCreatorFactoryTest.java-D933FA35B2419F634FCBFAA2A12ABE337939DD08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1b0724c3ff3514f526e39cf0c4985c186502397f1f74b5a23d388458b71d5ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d933fa35b2419f634fcbfaa2a12abe337939dd08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/exception/JWGmeligMeylingException.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-exception-JWGmeligMeylingException.java-631649C17EE066B925132DC7DA3C763D566BA5C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e09611b8b8e0583158e9f3a39793fe62354a4f3fc3d6fdc5e93f1d7a5e709c56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "631649c17ee066b925132dc7da3c763d566ba5c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/gzip/GzipExample.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-gzip-GzipExample.java-316096E0207B6D0080D8708E2F78253184F6D885",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f7ed75850d9bca444c80c0229a991fea1ebe0a43b4631d8b9ff66b60eb856e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "316096e0207b6d0080d8708e2f78253184f6d885"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/sugar/http.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-sugar-http.java-32D802ABFEDF93BD1982673C48D288666D357BA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "726738100984696e7287a79cd58e874263e3e9b4d8bacf8cd4a950213232b5de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32d802abfedf93bd1982673c48d288666d357ba0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/examples/websocket/EchoWebSocket.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-examples-websocket-EchoWebSocket.java-ABC787A5CEF408670A53BB7866BA1A242E751B10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45c4b8aba8ba6cfead9e6d85b4614671159f123debe844549e842666d039aabf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "abc787a5cef408670a53bb7866ba1a242e751b10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/serialization/InputStreamSerializerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-serialization-InputStreamSerializerTest.java-5D85A4567E0C986A7CE264D300C978D4F30440E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30fbf3ee2dba4d88c9b7a01e784e354e4dd84df33ae2f6d15793f44addbe9ee9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d85a4567e0c986a7ce264d300c978d4f30440e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/spark/util/SparkTestUtil.java",
+      "SPDXID": "SPDXRef-File--src-test-java-spark-util-SparkTestUtil.java-7942C3B5348EB0E94E8A9143A2825DEED082AE8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e5321f02aae98314acf9c707d0f52a2e71bdbb4c69f707e9292168e2f8e285b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7942c3b5348eb0e94e8a9143a2825deed082ae8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/css/style.css",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-css-style.css-BF4D88AB33CA2A8270FE1FB40E12E07BE99C4142",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b22931b96d43eccca7270d4e693007a0a5ac7491a63a35b1b4b9b6bf4be6955"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf4d88ab33ca2a8270fe1fb40e12e07be99c4142"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/public/pages/index.html",
+      "SPDXID": "SPDXRef-File--src-test-resources-public-pages-index.html-0C2176FB83A0DF520F3603A712728506583AEB0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8496312604aad48a25167615ea2d1d24d484b9f93abf81832aa54222af627d04"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c2176fb83a0df520f3603a712728506583aeb0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "spark",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "9acd8fe6c33089eeaae8f977461c86230f885913"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.9.4-SNAPSHOT",
+      "supplier": "Organization: https://github.com/perwendel/spark",
+      "hasFiles": [
+        "SPDXRef-File--src-test-webapp-WEB-INF-web.xml-5F01C1E064E3327F9576CC7D303BBA2A6E5804E9",
+        "SPDXRef-File--src-test-java-spark-util-ResourceUtilsTest.java-311E74EB8565AA283A4920517BAD7898DF279198",
+        "SPDXRef-File--src-test-resources-public-img-sparklogoPng-62EB23427E8FD68E28F946B0902B5F62DF4724E3",
+        "SPDXRef-File--src-main-java-spark-utils-urldecoding-Utf8StringBuilder.java-146E4F92C3D106EB1681BA293FC5056B4499DD34",
+        "SPDXRef-File--src-main-java-spark-utils-ObjectUtils.java-E0F692FF53F449A49D87C41C2939BE643C89D28A",
+        "SPDXRef-File--src-main-java-spark-serialization-Serializer.java-19207D91617BF7E38D1E52A8471DED7FCBDF4C6D",
+        "SPDXRef-File--src-main-java-spark-route-RouteEntry.java-662F67D2279492BE557B15247D2929893536F812",
+        "SPDXRef-File--src-main-java-spark-resource-ClassPathResource.java-525F36BD661CBC201971656E60FF6E16B82260FA",
+        "SPDXRef-File--src-main-java-spark-http-matching-MatcherFilter.java-55F830E966A66D6D2F387458FC5A786E8E5B8783",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-JettyHandler.java-320D82DD30DA37779B3792194C5053EC7A8B5A71",
+        "SPDXRef-File--src-test-resources-public-page.html-E21DC45531FA5BE64E81FD0D593F0F54AEE03F2B",
+        "SPDXRef-File--src-main-java-spark-Route.java-91BC4B6117474FF0B1FBE489F5661E79C0BE64D5",
+        "SPDXRef-File--src-main-java-spark-QueryParamsMap.java-CB85DA0D5F59C3FF98AD3D5E12B1F564639F37F2",
+        "SPDXRef-File--src-test-java-spark-examples-gzip-GzipClient.java-21D6ACB661CD3565D80F9E91148E3F9EBE3C7A0A",
+        "SPDXRef-File--src-test-resources-public-img-sparklogo.svg-BDBEFB093B6899629C692D722D4FBF041E9E52F3",
+        "SPDXRef-File--src-test-resources-public-img-sparklogo.png-62EB23427E8FD68E28F946B0902B5F62DF4724E3",
+        "SPDXRef-File--src-main-java-spark-ExceptionHandler.java-1AE63C524A15C34728455706505E2D1097F230B3",
+        "SPDXRef-File--src-test-java-spark-servlet-MyApp.java-9757C980C49E24EF2FAB517C2F2728A87C22EBD7",
+        "SPDXRef-File--src-test-java-spark-examples-websocket-WebSocketExample.java-4D9DB3D59DBE75029904A50E0B1FC5FC2B05786A",
+        "SPDXRef-File--src-test-java-spark-examples-transformer-DefaultTransformerExample.java-9842DB12BF8207C2A81A98C36CBB268F1B6306AD",
+        "SPDXRef-File--src-test-java-spark-examples-templateview-FreeMarkerExample.java-5DF36575AE6776CB7C03F654F5A7B873C716E3F9",
+        "SPDXRef-File--src-test-java-spark-examples-hello-HelloWorld.java-4080A278EF45D9EB10F014DA1095483CAF12696E",
+        "SPDXRef-File--src-test-resources-public-img-sparklogoSvg-BDBEFB093B6899629C692D722D4FBF041E9E52F3",
+        "SPDXRef-File--src-test-resources-public-pages-index.html-0C2176FB83A0DF520F3603A712728506583AEB0A",
+        "SPDXRef-File--src-test-resources-public-css-style.css-BF4D88AB33CA2A8270FE1FB40E12E07BE99C4142",
+        "SPDXRef-File--src-test-java-spark-util-SparkTestUtil.java-7942C3B5348EB0E94E8A9143A2825DEED082AE8B",
+        "SPDXRef-File--src-test-java-spark-serialization-InputStreamSerializerTest.java-5D85A4567E0C986A7CE264D300C978D4F30440E6",
+        "SPDXRef-File--src-test-java-spark-examples-websocket-EchoWebSocket.java-ABC787A5CEF408670A53BB7866BA1A242E751B10",
+        "SPDXRef-File--src-test-java-spark-examples-sugar-http.java-32D802ABFEDF93BD1982673C48D288666D357BA0",
+        "SPDXRef-File--src-test-java-spark-examples-gzip-GzipExample.java-316096E0207B6D0080D8708E2F78253184F6D885",
+        "SPDXRef-File--src-test-java-spark-examples-exception-JWGmeligMeylingException.java-631649C17EE066B925132DC7DA3C763D566BA5C9",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketCreatorFactoryTest.java-D933FA35B2419F634FCBFAA2A12ABE337939DD08",
+        "SPDXRef-File--src-test-java-spark-StaticFilesFromArchiveTest.java-C6ECB907B5E1CFEDB7FB62B928EF64B4D5F5D5FE",
+        "SPDXRef-File--src-test-java-spark-RequestTest.java-12D7E2048D1A64057BCD5AD8AE5A835ACDAC3262",
+        "SPDXRef-File--src-test-java-spark-GenericIntegrationTest.java-17C2C83D6E942F25C832A911EABD9AF6ABABCD8B",
+        "SPDXRef-File--src-main-java-spark-staticfiles-StaticFilesConfiguration.java-7E577BD5ED841D92A73D81BA027310C71731481E",
+        "SPDXRef-File--src-test-java-spark-utils-MimeParseTest.java-53035361BBD74D7ADD06B3E8976CFEB1CCB89E72",
+        "SPDXRef-File--src-test-java-spark-staticfiles-DisableMimeGuessingTest.java-4DC705182AC5E3C77D84DC1657D06A6CED5C1CB4",
+        "SPDXRef-File--.mvn-wrapper-maven-wrapper.jar-CA0763264DC2E879C0EC8F3460F35D017FD8F61C",
+        "SPDXRef-File--src-test-java-spark-examples-exception-BaseException.java-D7D3A3220160CFDBB14333974DDF28122D5E7F9E",
+        "SPDXRef-File--src-test-java-spark-examples-session-SessionExample.java-AB413E791C4C5E3C4F1986E6006826A957EBA559",
+        "SPDXRef-File--src-test-java-spark-examples-exception-SubclassOfBaseException.java-95CAB44C3BE6F624D9EECF2F1EBEDBF2CDF9DC09",
+        "SPDXRef-File--src-test-resources-keystore.jks-FE78A8152C260A7D9EBFED3F4C318E36EF8C2399",
+        "SPDXRef-File--src-test-java-spark-examples-accept-JsonAcceptTypeExample.java-81DDFABB1A9454CDAEA49CAA9C2CEF0C4EF8FCCF",
+        "SPDXRef-File--src-test-java-spark-RedirectTest.java-2ACB5C53D9CDA12E11F790198DB6186264EFB828",
+        "SPDXRef-File--src-test-resources-public-js-module.mjs-68CC5183C2535042F74C20B2AB28134C40B27A05",
+        "SPDXRef-File--src-test-resources-public-jar.zip-9E53FAAB0D34A3B4751FFFA464F0482B45FA946B",
+        "SPDXRef-File--src-test-java-spark-examples-templateview-FreeMarkerTemplateEngine.java-4FA6FA306BBEC2C7333902F3C5DE5B3CBACDDB1C",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketServletContextHandlerFactory.java-E2473AC5D08B7FCB15904FF774D3149238B3D1DA",
+        "SPDXRef-File--src-main-java-spark-TemplateViewRouteImpl.java-E57DD4560BB51AECCE2F46FDFEEA369696C108A7",
+        "SPDXRef-File--src-test-java-spark-route-Util.java-FF44AA77CC1328BC1A72B7F71C6BD569CD743BC4",
+        "SPDXRef-File--src-test-java-spark-utils-SparkUtilsTest.java-23AA509DA25E1683D2112CF60A2458BC527B7C76",
+        "SPDXRef-File--src-test-java-spark-examples-transformer-TransformerExample.java-18A91EBCFEC7F94217CF0F0DB07FFFAA4BFD9C57",
+        "SPDXRef-File--src-test-java-spark-examples-staticresources-StaticResources.java-6626E8F7CF9F50282F87CCC7D8B52242C9890DC6",
+        "SPDXRef-File--src-test-java-spark-resource-UriPathTest.java-E88C4CD970430057417713194F579751B69A99FE",
+        "SPDXRef-File--src-test-java-spark-utils-ObjectUtilsTest.java-6DCE82C36EC8E567597FDBF864FD16C5672BF96B",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-SocketConnectorFactoryTest.java-351F3BFE6A95A945F33575ACD83830F0775BF580",
+        "SPDXRef-File--src-test-java-spark-servlet-ServletTest.java-590D18C9F663D5E3549A5AB6AE4EC9485458DD3D",
+        "SPDXRef-File--src-test-java-spark-examples-filter-FilterExample.java-C08F71B7395DE78678175776C788B982FB64A904",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketTestClient.java-0F368F2FAA6CE2C58522642DBA9780C9A55B1A35",
+        "SPDXRef-File--src-test-java-spark-SessionTest.java-AEB324EF5127F357CD9266CFE5A1A058CA9226E4",
+        "SPDXRef-File--src-test-java-spark-staticfiles-StaticFilesTest.java-7DFD4FC1C2E9DC8D50418B13D6EF2ABDFF661CE0",
+        "SPDXRef-File--src-test-java-spark-globalstate-ServletFlagTest.java-604E5C5112D4198723E3812031EB197B4C689035",
+        "SPDXRef-File--src-test-java-spark-UnmapTest.java-DB3F505DBEB59095971DE0E24AB89B47D3A29B5E",
+        "SPDXRef-File--src-test-java-spark-route-HttpMethodTest.java-E32B5EC03D7138A960300A58793FAFA25CA8A2EE",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-EmbeddedServersTest.java-E18DDBD7AEBB4F8C0D979814572AE216A5FEE917",
+        "SPDXRef-File--src-test-java-spark-RouteImplTest.java-8DA172E09A79C48AD9238278A9047A796F3C2387",
+        "SPDXRef-File--src-test-java-spark-FilterTest.java-BCC0FC15FE2BB18C3F9C0755EE22CE4887CB7E53",
+        "SPDXRef-File--src-test-resources-spark-examples-templateview-freemarker-hello.ftl-F54DB1326E45FABFBB126389E2EE4F76FC8FC9E1",
+        "SPDXRef-File--src-test-java-spark-staticfiles-StaticFilesTestExternal.java-93C67239829D2AE6AEF4365B54DA9B1E02F2D4A1",
+        "SPDXRef-File--src-test-java-spark-ResponseTest.java-7D1D363B5D3AA5010B92239AF543153120440F94",
+        "SPDXRef-File--src-test-java-spark-examples-transformer-JsonTransformer.java-F5D878AE33471FCEBC4AD4AF5BC4B81FD9A150DF",
+        "SPDXRef-File--src-test-resources-public-img-file.cxt-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--src-test-java-spark-utils-CollectionUtilsTest.java-667B7A054D3881ABE955155C45D7092ACCE80B4F",
+        "SPDXRef-File--src-test-resources-public-js-scripts.js-3DA5373AB60E958A787EAF55B2B9BE8A98C9B699",
+        "SPDXRef-File--mvnw.cmd-EAEADD9FE96ADF69845F6838533C110AE3C9F3FA",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--.travis.yml-D8AFF24FC487A4AA16A86C075E0F005143B2F9CB",
+        "SPDXRef-File--mvnw-3DB6D8ECF2274090B3848C14399DE3E1B46FC739",
+        "SPDXRef-File--src-test-java-spark-examples-multiple-MultipleServices.java-B1DAD782D594A5E3F86FE885A2436F4D25F98541",
+        "SPDXRef-File--src-main-java-spark-utils-urldecoding-Utf8Appendable.java-C52F1E5DD873AD76E9658B171FC0A2F2A3F884C3",
+        "SPDXRef-File--src-test-java-spark-examples-simple-SimpleExample.java-A921045AFF810446B1057F7F57449A36B787ECA8",
+        "SPDXRef-File--src-test-java-spark-MultipleFiltersTest.java-E1E305BAC673EEED5F28B3D9331F8CA2A4A359AB",
+        "SPDXRef-File--src-test-java-spark-servlet-FilterConfigWrapper.java-98107A4140A91F0D8353E4DADDB0A2EFAE76430E",
+        "SPDXRef-File--src-test-java-spark-GzipTest.java-F01B0371AD9D91AAE9A4B624AE9C733A362055E2",
+        "SPDXRef-File--src-test-java-spark-route-RouteEntryTest.java-E4681BB65C46E77108AF0BE050098F95206AF030",
+        "SPDXRef-File--src-test-java-spark-examples-filter-DummyFilter.java-E43080E49F9B8F33D2720A7E669F570B67E34E50",
+        "SPDXRef-File--src-test-java-spark-CookiesIntegrationTest.java-B1457E0C8F5EE9BEA09C02FC9AC7C55BD2FE2BF2",
+        "SPDXRef-File--src-test-java-spark-examples-transformer-MyMessage.java-1062980579FDC76863283774E2CC1EEEA576BE09",
+        "SPDXRef-File--src-test-java-spark-BodyAvailabilityTest.java-29FFC62C3B49CB62E47970D71E9B79F607590840",
+        "SPDXRef-File--src-test-java-spark-examples-filter-FilterExampleAttributes.java-318B9B1E6B55079608B7451A26CF75150932AB74",
+        "SPDXRef-File--src-test-java-spark-examples-websocket-PingWebSocket.java-E21BC3A06EC1E3D542BE3E0B0E0B5AE27AB94EAC",
+        "SPDXRef-File--src-main-java-spark-utils-MimeParse.java-6F2151B5F8F8E8459A682FA32E21AEEC192CDE7A",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketTestHandler.java-543A9B741987B0D5007EA9908A47DCD4A3BE8E82",
+        "SPDXRef-File--src-main-java-spark-utils-SparkUtils.java-4FFB54538B1A36FC96164AE47F9238575FA58C63",
+        "SPDXRef-File--src-test-java-spark-examples-sugar-SugarExample.java-19AA48FFCE0B030906AB33E40A8B153ECF14BAFE",
+        "SPDXRef-File--src-main-java-spark-utils-Wrapper.java-A6C938F5512F1300A62FC8374AE7A421C66E2D41",
+        "SPDXRef-File--src-test-java-spark-examples-simple-SimpleSecureExample.java-B738B64055D88F447747F04141136D0D20BF691D",
+        "SPDXRef-File--src-test-java-spark-examples-books-Book.java-981FF371E911BFCB05B6CBC1EB4F4387B42850AA",
+        "SPDXRef-File--src-main-java-spark-staticfiles-MimeType.java-5376ECF88E107CD144A7E044E78DD9A8286C430C",
+        "SPDXRef-File--src-main-java-spark-utils-CollectionUtils.java-A39CE346150A6E4B3EBDE767D500923DFBB12417",
+        "SPDXRef-File--src-test-java-spark-examples-hello-HelloSecureWorld.java-51C5B888F19B106C51E5223934CB4D7D6D44987F",
+        "SPDXRef-File--src-test-java-spark-customerrorpages-CustomErrorPagesTest.java-DADBAAF2764F6AE1B0BD3AF4054354E4574A3FFC",
+        "SPDXRef-File--src-main-java-spark-utils-Assert.java-8D39943FCE678A5687ED08781C628B1407753B1E",
+        "SPDXRef-File--src-test-java-spark-examples-filter-FilterExampleWildcard.java-3EFCA2C58304A2CD8F8FF89EF20E35B79987D2AE",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-EmbeddedJettyFactoryTest.java-8CFBDEDAD499D9E9D04BB66C82A05AD7839BF80A",
+        "SPDXRef-File--src-main-java-spark-servlet-SparkFilter.java-49818511D24125626A37E2BD6B622BB0EC3F717D",
+        "SPDXRef-File--src-test-java-spark-examples-exception-NotFoundException.java-8114F73765BD4E550B2880039F473A26FA1C955F",
+        "SPDXRef-File--src-main-java-spark-serialization-InputStreamSerializer.java-F42E73A233B45FC5D67C0A0D750604082EB9B7BF",
+        "SPDXRef-File--src-test-java-spark-ResponseWrapperDelegationTest.java-9BE914E90380F3B98D0DC17B1A88245B1A930B6E",
+        "SPDXRef-File--src-main-java-spark-servlet-FilterTools.java-685D9B80123A4E50FB031F76CD71A6EC5541B423",
+        "SPDXRef-File--src-test-java-spark-examples-books-Books.java-450C01CEBF6ADA694AB41DEFC0EF6DE360B8E45C",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-websocket-WebSocketServletContextHandlerFactoryTest.java-7F3DB1C4FA565BA2C1FDCB4376B34C4487F91496",
+        "SPDXRef-File--src-test-java-spark-ServicePortIntegrationTest.java-A953C9D6938E46F1BABCB60E56696453FC3570A7",
+        "SPDXRef-File--src-test-java-spark-InitExceptionHandlerTest.java-A7CC3C3D3F04ACFED61982024833FE75708F050E",
+        "SPDXRef-File--src-main-java-spark-route-HttpMethod.java-19EAA854DDCF8E0E666408A59DC9022FFCDC7ACD",
+        "SPDXRef-File--src-main-java-spark-routematch-RouteMatch.java-1C2D633307B8FDE4991A07550D7F80F2850609AC",
+        "SPDXRef-File--src-main-java-spark-route-ServletRoutes.java-715EB5C77168002D598FE9DC4FD70D0A988AA5E6",
+        "SPDXRef-File--src-test-java-spark-embeddedserver-jetty-JettyServerTest.java-0E712B42FFAFB3FB9D79C2DC8745234E7E58F3D8",
+        "SPDXRef-File--src-test-java-spark-MultipleServicesTest.java-5EAF0C1F552BBBA16C9ECA4F9BD8172EA1AEB048",
+        "SPDXRef-File--src-test-java-spark-BooksIntegrationTest.java-1652F60C940E44C7C855E318D804F43CADE653C9",
+        "SPDXRef-File--src-test-java-spark-StaticFilesMemberTest.java-9F7B0791027F7956C5BF93EF8FD3F2E97EE279BD",
+        "SPDXRef-File--src-main-java-spark-resource-AbstractResourceHandler.java-C37BC05B0BD3FAA02E0DE8893C4A5D0A9BC2B101",
+        "SPDXRef-File--src-test-java-spark-ServiceTest.java-65F827F3E999063C75537283D26F555044285E3C",
+        "SPDXRef-File--src-main-java-spark-resource-InputStreamResource.java-2D09AF0A891F3B706A17564157ECB55F9962A3C6",
+        "SPDXRef-File--src-main-java-spark-resource-ExternalResource.java-D2FB9D4F8DF293450D389A7D91277097B608E1B1",
+        "SPDXRef-File--src-test-java-spark-ExceptionMapperTest.java-FCD28048D146E131D809575A8BF3730DAE381402",
+        "SPDXRef-File--src-main-java-spark-utils-StringUtils.java-28C74D0E6133AF39A298670D4AFE82E2FB56D6A2",
+        "SPDXRef-File--src-test-java-spark-ResponseBodyTest.java-AF76BBFF5B770988DC6E1904C1C2E61EBBFB094F",
+        "SPDXRef-File--src-main-java-spark-http-matching-Routes.java-B361CB016A4CFCC38F241450DD7196AACB23587C",
+        "SPDXRef-File--src-test-java-spark-QueryParamsMapTest.java-70A13652E895547DAC0ED3800FDA7BEDA2330C8F",
+        "SPDXRef-File--src-main-java-spark-http-matching-Halt.java-E99FFDBC85304AC8157DFF053CFFEB65EE9C0AB7",
+        "SPDXRef-File--src-main-java-spark-utils-urldecoding-TypeUtil.java-D60A4C6DE927E66518695F8891743882A4C4AA2D",
+        "SPDXRef-File--src-main-java-spark-http-matching-ResponseWrapper.java-7599C0E47424CC347D1B703A85D4AA01B821D11F",
+        "SPDXRef-File--src-main-java-spark-utils-ClassUtils.java-470BFFC23BEA4608819E81A6DB78CE1637D5AB54",
+        "SPDXRef-File--src-test-java-spark-FilterImplTest.java-8B117AE487343E2303F02A331C159DD519B0F385",
+        "SPDXRef-File--src-test-java-spark-GenericSecureIntegrationTest.java-56D704BCF09E5C6787AFF38DCC2BD34BA5299AD4",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketHandlerWrapper.java-7F450C0888EEA1F19FDB0FF493767B5F667A9146",
+        "SPDXRef-File--src-main-java-spark-http-matching-BeforeFilters.java-0F63A24300E81E48269B3DEA98D693F3533512CE",
+        "SPDXRef-File--src-main-java-spark-utils-GzipUtils.java-78D72DC27D98F3FF02794F6FD62FDB115B88D257",
+        "SPDXRef-File--src-main-java-spark-utils-urldecoding-UrlDecode.java-D966D2BABABBEBBBCE9745605D63669DC520EF07",
+        "SPDXRef-File--src-main-java-spark-http-matching-AfterAfterFilters.java-E793B07DA74F5FC5BD21B097662CBAA75DCDF552",
+        "SPDXRef-File--src-test-java-spark-Base64Test.java-8416D97F22E953173714933DAB1AB0640C7E2A10",
+        "SPDXRef-File--src-main-java-spark-servlet-SparkApplication.java-F0B4A76EC3AD3D0E286187D2F24F9FA5764A47C4",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-HttpRequestWrapper.java-49530400A47942170C763A68ED3B7DE882617072",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketCreatorFactory.java-079F62E84E3BD34A0F40B0CEDDEFEF24E45DDA53",
+        "SPDXRef-File--src-main-java-spark-utils-IOUtils.java-AC4F9BADAAFB98C472AD2CE8B137FBA617AE32F7",
+        "SPDXRef-File--src-main-java-spark-utils-ResourceUtils.java-D3FDCBC13F0257AB471371F839E85F8B2C8C427D",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-JettyServerFactory.java-3E88599B19B90523D7050BEB0A6575356FDC47F0",
+        "SPDXRef-File--src-main-java-spark-route-SimpleRouteMatcher.java-FF5CC69C01D57F62B4DDBE8243B98F62A3B96819",
+        "SPDXRef-File--src-main-java-spark-ssl-SslStores.java-1A4DAFBCA50CCDAB7CD4154B3D815F01AEBAA663",
+        "SPDXRef-File--src-main-java-spark-TemplateViewRoute.java-0642FF6B53025D8C969C9555D790DCA1E35B184E",
+        "SPDXRef-File--src-main-java-spark-staticfiles-DirectoryTraversal.java-D48ABC8A29DC4A6FF9A280FB8151DD18DD0ED2E6",
+        "SPDXRef-File--src-main-java-spark-staticfiles-StaticFilesFolder.java-CE324016B226BF2687522C1829F0A3CA1EA9C7AF",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-EmbeddedServerFactory.java-562EF5930B6CFF8C2F834502ECB35CFB3C98E6A6",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-NotSupportedException.java-25A08F255CA2C70493AD0414305C66D4806E4174",
+        "SPDXRef-File--src-main-java-spark-resource-ExternalResourceHandler.java-6F5508CCFED699350B5F1501A42600EA07956E64",
+        "SPDXRef-File--src-main-java-spark-Routable.java-2E470B7584EF8B618EE7806F60B54434E31EB3C9",
+        "SPDXRef-File--src-main-java-spark-serialization-BytesSerializer.java-2074ACCA6682C94C76CE92BDEC517E20CC0733CB",
+        "SPDXRef-File--src-main-java-spark-serialization-SerializerChain.java-B952EAEF638D486225E827ECB946A859731FF1BD",
+        "SPDXRef-File--src-main-java-spark-RouteImpl.java-380D5E2A25148148343503414291A0107A42BAD7",
+        "SPDXRef-File--src-main-java-spark-Session.java-F17F41F38C5F8C24D8C0034C1A823990AD51FFF6",
+        "SPDXRef-File--src-main-java-spark-serialization-DefaultSerializer.java-5CFE5F506E66144272C14C57211E6792F4581B94",
+        "SPDXRef-File--src-main-java-spark-ModelAndView.java-27C2630ABCA2F1C2BECA27F0142A79B7AD42438E",
+        "SPDXRef-File--src-main-java-spark-http-matching-RouteContext.java-BB1A821BAA92DA37CEA6A9E2FE9D2E4043CFAFC7",
+        "SPDXRef-File--src-main-java-spark-route-Routes.java-CA783695CF35D7A561E14576ADF969532B59833D",
+        "SPDXRef-File--src-main-java-spark-resource-Resource.java-293ACE1B4C26418285BCB5A0E90710478563C686",
+        "SPDXRef-File--src-main-java-spark-Request.java-928BE52E306A6777EF4CE8D8EC3DB07C46EAB81B",
+        "SPDXRef-File--src-main-java-spark-resource-UriPath.java-225732AC2165591D854B8F92B55F2689496DC869",
+        "SPDXRef-File--src-main-java-spark-Response.java-B43D3B2EC0DB98F3F109C81811FC76955B8C047A",
+        "SPDXRef-File--src-main-java-spark-ExceptionMapper.java-DD3B7B231876CC6B565D816745DD1CFB032D2FE0",
+        "SPDXRef-File--src-main-java-spark-resource-AbstractFileResolvingResource.java-89F8009E404E13CBB58AD8FA9D44A40EB28A856A",
+        "SPDXRef-File--src-main-java-spark-resource-ClassPathResourceHandler.java-DBC27D148BB8DA54E389072B8FF07035932B9F93",
+        "SPDXRef-File--src-main-java-spark-CustomErrorPages.java-071E97039B64245336C6F5194D9B2A4469E952FB",
+        "SPDXRef-File--src-main-java-spark-http-matching-AfterFilters.java-A0B98A769F51C83EECDD65E7576FAB96D03D6CB1",
+        "SPDXRef-File--src-main-java-spark-Filter.java-102E57CB7BA1BDECC4D389DF07B91EA903A5FB77",
+        "SPDXRef-File--src-main-java-spark-resource-AbstractResource.java-642644C6C7FDC0A8B0E3985568B88A9CAC0BC99B",
+        "SPDXRef-File--changeset-2.9.3-changeset.md-B8B0CB0C1AAB29E40018CFCFB747FC5B2721C6DA",
+        "SPDXRef-File--src-main-java-spark-http-matching-Body.java-DE7B729BC05ED22D0FCC36596D266667F0041353",
+        "SPDXRef-File--.github-workflows-ci.yml-FEC4961E0FFDA38846D12336F1377664AB1F1C45",
+        "SPDXRef-File--src-main-java-spark-http-matching-RequestWrapper.java-69AFE8393B5DFA2F82E3BF9839FF76D88DE8BF5F",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-SocketConnectorFactory.java-FB384750CF3D3263089EFC824A932A8F8A2919B6",
+        "SPDXRef-File--config-spark-formatter-intellij.xml-B24C26E149FA98ACEAED59E5351CEA65CCCE1585",
+        "SPDXRef-File--src-main-java-spark-http-matching-GeneralError.java-E44E4B975E0B42F577AE38A98AC6C0EEFCA9B994",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-C337F32DE336B69C2530E05F92005EAFA4C93BA0",
+        "SPDXRef-File--.git-logs-HEAD-C337F32DE336B69C2530E05F92005EAFA4C93BA0",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-AA8172FA75E2FFF7DDB42480D0114E02BDCF05A7",
+        "SPDXRef-File--.git-objects-pack-pack-9445b0dab4408ab7da49fef6aa725393f6a01de2.pack-F853750D9391B77DF88D2E599F2D64CEAF26118F",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--README.md-8CE59AD1AED6B70419DE9A3BFB0D1C699AB904ED",
+        "SPDXRef-File--src-main-java-spark-globalstate-ServletFlag.java-A049C99F5B42A3FE7D94EA4256CE890F0D207938",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-JettyServer.java-F93F84FF5B7B3B5B0F406B5AEE77D69FC33D84D4",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-EmbeddedServer.java-1562100FAA2C748FCA548DC5572E95E6EFD185F9",
+        "SPDXRef-File--src-main-java-spark-RouteGroup.java-8225F2AA52049E3DFDF3547C35492963AAE33DB5",
+        "SPDXRef-File--src-main-java-spark-Redirect.java-E486372BBB20895C33EAE6865D131FA3C904ED2B",
+        "SPDXRef-File--src-main-java-spark-ExceptionHandlerImpl.java-35914462638A24AAD7D92B45B29869DB9CAE67A4",
+        "SPDXRef-File--.mvn-wrapper-maven-wrapper.properties-DDAAF0CCA2F9092D172BD960552ADEF52DE199A5",
+        "SPDXRef-File--.git-logs-refs-heads-master-C337F32DE336B69C2530E05F92005EAFA4C93BA0",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-7E2F16A72882585C2D3AEE9EF5F2DC57710C4714",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketHandlerInstanceWrapper.java-6F93D541316ACBD8FE13EE477B27A49945A23FEA",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-EmbeddedJettyServer.java-1CCD9FECE8E561EFD87F285A5AF6B678AEA96D6A",
+        "SPDXRef-File--src-main-java-spark-TemplateEngine.java-F5D881269DE422A69A74099E92B3F4AFD687A3CA",
+        "SPDXRef-File--src-main-java-spark-ResponseTransformerRouteImpl.java-5D5A2240792114494B77AAE71F40D58F09B29B0D",
+        "SPDXRef-File--src-main-java-spark-HaltException.java-3396582242678D9E40ED7BF7A8C7F028D0C53A6D",
+        "SPDXRef-File--src-main-java-spark-Base64.java-6C945148675CF0288AC5180806F15902CF8C3ADB",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-EmbeddedServers.java-1C90B5740B6740021BFDCD51668C28A73053C922",
+        "SPDXRef-File--src-main-java-spark-Service.java-EED93674BB3CE49C1C934CD320B8C652647EF5D5",
+        "SPDXRef-File--src-main-java-spark-RequestResponseFactory.java-31FF7A5F7290A75C2797FD29B841633C56540C46",
+        "SPDXRef-File--src-main-java-spark-Experimental.java-BA0B151574D94CB555FE917F43FDF7967B55D1AC",
+        "SPDXRef-File--changeset-2.9.4-changeset.md-00FC5D87D984FE37A5276447F07DEBB797FAF4BE",
+        "SPDXRef-File--.git-objects-pack-pack-9445b0dab4408ab7da49fef6aa725393f6a01de2.idx-10DD259A4D93E9B3FF59BF7331F6E503378D1888",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--pom.xml-ABCB275B2638BA0417AA2CC9C60C6458C263A5E9",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-websocket-WebSocketHandlerClassWrapper.java-640858D554E472DD9C58802A6CC174FB317C372B",
+        "SPDXRef-File--src-main-java-spark-embeddedserver-jetty-EmbeddedJettyFactory.java-99F8BD94ABC840B85D9CF41AEBD214F0E535F6D7",
+        "SPDXRef-File--src-main-java-spark-Spark.java-A39B20ACE820654C7D409B9475FC69AE35A0BF46",
+        "SPDXRef-File--src-main-java-spark-ResponseTransformer.java-1616E3B312DE33582DD955E7EF915C3AEDB8334B",
+        "SPDXRef-File--src-main-java-spark-FilterImpl.java-B3B81C912E741F3EBD4D58650E788E6AD141A397",
+        "SPDXRef-File--src-main-java-spark-Access.java-92BC5B14766279E00BF670FF3CF0E7945B40EB34",
+        "SPDXRef-File--.git-refs-heads-master-9BA85FB99D3203D66EE490F6FE7804DB5F52F236",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-162CD75780BB099CC45D31D62BF60B6FCA4F2490",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.gitignore-6E2BAD0A047D8F47D5D85D1D5237AA7418D86B3C",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--NOTICE-A0F9DDFEC3D648D466F2641D13508E3AFDACA637",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--LICENSE-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+        "SPDXRef-File--.editorconfig-042E2CCCF7BC176CBEE4D7FD54EFD4337246EBB5"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "spark 2.9.4-SNAPSHOT",
+  "documentNamespace": "https://sparkjava.com/spark/2.9.4-SNAPSHOT/EP2q9Z-zK0SGSZt-P3Mb9g",
+  "creationInfo": {
+    "created": "2022-09-21T01:15:43Z",
+    "creators": [
+      "Organization: https://github.com/perwendel/spark",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,1468 @@
+{
+  "files": [
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-521B2DDC35A22907FB024A69E6A7ABF54BE839D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "954d098bfc1305399d42def6229e3e33076c9ef562bf635aeac1812e49b2d73a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "521b2ddc35a22907fb024a69e6a7abf54be839d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-732B0B8BCEDEAC36FDDFF4D4F6CB12D3523BFF7B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a74f02522d26df6a278464e0b7cb7c64ea5c205a1a64d7fbda29d9af6810605"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "732b0b8bcedeac36fddff4d4f6cb12d3523bff7b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-A69E5E28F899ABD86EB82CB0612789A199FBA6DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8dde36054a2d75b7e6700694bae49c4d81c789209a44a48466fb23b66c0624f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a69e5e28f899abd86eb82cb0612789a199fba6df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-FBA852531B7A44B0E820BA8BDFAC189E2D321FC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca7c159457b3e306a979a34ecc13c3d5dc1f3a344bbac7f07060a4f6bba80ab8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fba852531b7a44b0e820ba8bdfac189e2d321fc9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/java/com/github/lzyzsd/jsbridge/example/MainActivity.java",
+      "SPDXID": "SPDXRef-File--example-src-main-java-com-github-lzyzsd-jsbridge-example-MainActivity.java-22853D7EBF0D26F49CD0E6A4276EE859B5BA9AA5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36d37c3c7c613e6137ffd9d23215f6ef92440ae19add117592f5cd881ac734be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "22853d7ebf0d26f49cd0e6a4276ee859b5ba9aa5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-styles.xml-B050C8A89547DCAE1F7AA0FCA8DDC1AA99BFE202",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be4173e8a03297ce2592af7e19f9f52ded4e0e278ae1160b67471113921cfbea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b050c8a89547dcae1f7aa0fca8ddc1aa99bfe202"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/BridgeHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeHandler.java-704AF5CADA8CF6030C5CD803766713273FD40FFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "888314542fc027ae79e4a070ff39e0af4d50b582949a90d3e31a37ca32881a17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "704af5cada8cf6030c5cd803766713273fd40ffd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-CA132DFF859953804FA6B1DA6AC6A2437B60C70E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1390af233ba7e896831c69c92eed75c0ebacc0d5360ff7da1384b1fd3d727f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca132dff859953804fa6b1da6ac6a2437b60c70e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/JSResponse.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-JSResponse.java-E9B79A05BDC5696B1589C83A7025123AF98AC556",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec9743b8a97dba40667c030d0aae9428eb8af3b45df97cb3c264e415bf4549dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9b79a05bdc5696b1589c83a7025123af98ac556"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-2C84D08F88DD43C4E00D832FEC18F51CC62A6642",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b78fe0d9c619a5336359d652158b592a3cecc6a8e2908f536b35509a0675832"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c84d08f88dd43c4e00d832fec18f51cc62a6642"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-86dbbb2519e38119fb352b107f18c326bcbf99dd.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-86dbbb2519e38119fb352b107f18c326bcbf99dd.pack-2EEEA1A5AA096584C65AE898ACACE8AD0A20007B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4ccf3df3c9b0d16d4a5f90dff099413ba125f9b9c07032d3a04fb7d0050d976"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2eeea1a5aa096584c65ae898acace8ad0a20007b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/assets/demo.html",
+      "SPDXID": "SPDXRef-File--example-src-main-assets-demo.html-9F7A094780980E654DA03010BB1FC5E9C36089C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b409cee541c1e640254eb741caa6b44e0f0ade5ba69bb7635355291bfcf52388"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f7a094780980e654da03010bb1fc5e9c36089c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./JsBridge.zip",
+      "SPDXID": "SPDXRef-File--JsBridge.zip-ED17D743E6D10B899ECD8F33B1976AC6970AD70C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42dba6011cfc586db734488144ec357d870df42379160072078c0334049b69ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed17d743e6d10b899ecd8f33b1976ac6970ad70c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1f7bbd6029d20bafae22755bf7c2ea3782bcf5251991694e1318a2d1943fd09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bc8eed14c590a2e5ff425d83ef11c552643576"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-522CBE4ACBE228352B9C47FACB94D6B2A679648A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1c5422ece54b09ed0a20770617228f96ad10a46dc2f05208e5beec7fe597c68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "522cbe4acbe228352b9c47facb94d6b2a679648a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--example-proguard-rules.pro-F2C4FAE3758BA7D1FAE22144AC9D3FF21E58CAEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01cdc0c8fab14f30461a6332032a2b47f2b96f667156d4786506e1abdb54ca03"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2c4fae3758ba7d1fae22144ac9d3ff21e58caec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f5bc4bf1364152b1943933b6910bafc913e7a813de5c1b0ba4723e33e58975"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae86c9f2fefeb0a12f9e350975339bc580efd813"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/android.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-android.yml-A5F45E1C843981BA29F4ADA1302B5557D6242137",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fe9ccbb0bf1c4dc27a5f08b079bd0d5c59730f7d8b35c04e456f011ff143722"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5f45e1c843981ba29f4ada1302b5557d6242137"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/build.gradle",
+      "SPDXID": "SPDXRef-File--library-build.gradle-84A90880F5C7919F41DC034F95F75032B3798132",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f11599b588b3e1e6d80fa79612ae1107dc90b85358215ee2bd1ebc43e5235c84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84a90880f5c7919f41dc034f95f75032b3798132"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/java/com/github/lzyzsd/jsbridge/example/MainJavascriptInterface.java",
+      "SPDXID": "SPDXRef-File--example-src-main-java-com-github-lzyzsd-jsbridge-example-MainJavascriptInterface.java-570852791AE4BA6F5B0D24DBD93855052504A7A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "11cf1e07fc0848cc25b851fb479e155b9bafb552fcd5ae07cd03c0ad247eb333"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "570852791ae4ba6f5b0d24dbd93855052504a7a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/java/com/github/lzyzsd/jsbridge/example/CustomWebView.java",
+      "SPDXID": "SPDXRef-File--example-src-main-java-com-github-lzyzsd-jsbridge-example-CustomWebView.java-28DC404448DDD0E990BFB0397555B7ED13E4C2FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b572837544a35afcf9c501d35f92f95ce580138cda001bb0d596e4a5ab08adc0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28dc404448ddd0e990bfb0397555b7ed13e4c2ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/BridgeWebViewClient.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeWebViewClient.java-FD4235DEC74E34FC1C7BE164D1991DA27597B15D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f600e8764cd65e32a5b12addbff15cd2cf08995809e5f6794a157a5f7c32e903"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd4235dec74e34fc1c7be164d1991da27597b15d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-values-strings.xml-72515DF684158D18E42D3ED954E431E6E1F81E24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12f9c0c305d14a09cd0bc22b3629214f4f8bb5b26ddf7c6aec40523554d0b556"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72515df684158d18e42d3ed954e431e6e1f81e24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/assets/WebViewJavascriptBridge.js",
+      "SPDXID": "SPDXRef-File--library-src-main-assets-WebViewJavascriptBridge.js-1CDEA13A60F8FC8149A6891DB4C8B604BC5A2809",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2fa70fcafb7341367efa9f0bf48b308bbf1db89e113c5c0a08a26366a583c50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cdea13a60f8fc8149a6891db4c8b604bc5a2809"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--library-src-main-res-values-strings.xml-3C77511A961F6A8C441082CED72D75993BBE5196",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32d624fb200ada20d393b3e72bbcda2e09f13fab3ee1858591529001f23ad5c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c77511a961f6a8c441082ced72d75993bbe5196"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/JSRequest.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-JSRequest.java-47B01E583CFF1F374E08717DD8DE5716B2CDBE6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8048720f3cdf59096617ff99dd99afd3cea8daa66ec53ece26f9a969533aace9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47b01e583cff1f374e08717dd8de5716b2cdbe6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./JsBridge.gif",
+      "SPDXID": "SPDXRef-File--JsBridge.gif-FA850477E221D076FBE8BDCCA5D9140C0000C951",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8753b143c89c6c050c0808f7bf224787bc8bb704cebcbdc7e7ebeaa1da1debe7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa850477e221d076fbe8bdcca5d9140c0000c951"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-9E7AE17D4D37DB0F8F10A9168ABF63C1CD9EFC9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85f0bcd6a269b55aa66766a07dfab14f3382966943323285045802ba5d87fe7d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e7ae17d4d37db0f8f10a9168abf63c1cd9efc9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-522CBE4ACBE228352B9C47FACB94D6B2A679648A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1c5422ece54b09ed0a20770617228f96ad10a46dc2f05208e5beec7fe597c68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "522cbe4acbe228352b9c47facb94d6b2a679648a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/build.gradle",
+      "SPDXID": "SPDXRef-File--example-build.gradle-23B068F6D4B49A3C40C95D97DF304D91F764F6DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f586271ad264165d8ac94f5b30a86274f24e3076fb4e1d9fc9cf001fe457dbf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23b068f6d4b49a3c40c95d97df304d91f764f6de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "820e323f5506dc1dda3fad164e5fa0acd56a8266e4ea441db94e60fd9972d28a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a78f48fe9f9114f315dc79eff29452e93ffd709a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/.gitignore",
+      "SPDXID": "SPDXRef-File--library-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/BridgeWebView.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeWebView.java-FFCC665D9032486E75FCCAEE0315660FD6D3D8DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90aebc4c9ac392bcd60caead34c44c9ee6f6c1ea8a85ffa9e94440965aa28879"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffcc665d9032486e75fccaee0315660fd6d3d8dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/WebViewJavascriptBridge.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-WebViewJavascriptBridge.java-53193B1FF415B8FDA75DA32D3C42C71D17803385",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "256db2f7518d959833b571a9a25bd6ddf2e589d083383065966e38cb2bda24cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53193b1ff415b8fda75da32d3c42c71d17803385"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-DD72E8ADC5F8F6F079C7E577073E7606869E6AAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "115e6c405b24eeb95bdf1b74bb81133b409898ae28581259f5d448593a0635da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd72e8adc5f8f6f079c7e577073e7606869e6aaa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf68b95a4029e352fe1ee002bb367ac1b686f9ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-36E6F3E25D8813CF121606EAFAA62C608C699A1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6eee1fe01c3fb6cfa35abb5d8512e15fe4e4c7a5067da75d3ffd017135f66625"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36e6f3e25d8813cf121606eafaa62c608c699a1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-522CBE4ACBE228352B9C47FACB94D6B2A679648A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1c5422ece54b09ed0a20770617228f96ad10a46dc2f05208e5beec7fe597c68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "522cbe4acbe228352b9c47facb94d6b2a679648a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/.gitignore",
+      "SPDXID": "SPDXRef-File--example-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-res-layout-activity-main.xml-D11783C59BDC6771D66A68364B9300BB7E5E27C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7b28c69125d017bea79f845409e030acab1a65dde6a2bcfc9360ae0ec32b37c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d11783c59bdc6771d66a68364b9300bb7e5e27c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-7025765817A4A77F0773B3F3C4E288DD78D35AAE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88d02f14a646b39bef0ed991e2223892689d16c249cb7e07b6fea9467804bafe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7025765817a4a77f0773b3f3c4e288dd78d35aae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/BridgeUtil.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeUtil.java-21D246CFB4F3690F988A8AA8BF7937D700CA146D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41b9df9ac256534c11284dd7d79dc5ef4dc427a7521a3120fd5f9267cfa1173f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21d246cfb4f3690f988a8aa8bf7937d700ca146d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/OnBridgeCallback.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-OnBridgeCallback.java-30405E18055D191B74F2B03CAEACDA5F15FA9EBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b10535677f0c49d7b02d7edac8827c1101c846e56722ef5392e4591d7e055c51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "30405e18055d191b74f2b03caeacda5f15fa9eba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6e7620e6c5d9bf8020f7216117d8cb799f7936f232e28732443b1fe79521d6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dc154e4ffff91ab2b070a4ce0ad15e50571bea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-86dbbb2519e38119fb352b107f18c326bcbf99dd.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-86dbbb2519e38119fb352b107f18c326bcbf99dd.idx-6FBD10EB2E49CD9CBF34DDB2A69CFDFBC0631CBD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d92c80cacf0d569ab621f7988781e17dc0c1b8df3a02a331d6f14d68527741b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6fbd10eb2e49cd9cbf34ddb2a69cfdfbc0631cbd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--library-src-main-AndroidManifest.xml-F00CE74CB47739B3ABA324C343336420245EB245",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06af2902b3824f6a93c41e86645344d84c5c45467d23dc23cb00984406276109"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f00ce74cb47739b3aba324c343336420245eb245"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--example-src-main-AndroidManifest.xml-4F1DFE5E5ACE0ECE95C2D6B3E2C1C90A4FB5F6C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a3a136c54206ce42abf5de5a48fc586fb04f7403a4b2f9df94b30550f166fa2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f1dfe5e5ace0ece95c2d6b3e2c1c90a4fb5f6c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/IWebView.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-IWebView.java-583D9DC12820FA4A80FF46B44E706CBD83207AA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa36618e8b03541563153a62ffd5194a240fb9c98f49026400a5d4c09a6a2663"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "583d9dc12820fa4a80ff46b44e706cbd83207aa2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./example/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--example-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "552f9a01050827cc24c9bf50569fe8b0a121fb93297106e224986e7a4e9cc747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cac22ff594b3baf6d111f57405f27b485463a68c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--library-proguard-rules.pro-F2C4FAE3758BA7D1FAE22144AC9D3FF21E58CAEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01cdc0c8fab14f30461a6332032a2b47f2b96f667156d4786506e1abdb54ca03"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2c4fae3758ba7d1fae22144ac9d3ff21e58caec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/DefaultHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-DefaultHandler.java-94E3226EBF6D37DA1C7841A21F3D564B30804C20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec77cd9d6cda0e56e5750b5848c2fd1bf76da86f9f19332b3b115d1bea620d07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94e3226ebf6d37da1c7841a21f3d564b30804c20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-E614E3B2EDC63A9CC423437DEA087C91962254F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2b82129ab64751fd40437007bd2f7f2afb3c6e41a9198e628650b22d5824a14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e614e3b2edc63a9cc423437dea087c91962254f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/BridgeHelper.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeHelper.java-B8B716DAFAEEE2E6C3A9FB23C74563B3FCF60CD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9cad2aabc7e3a7296cbb323ed2c70aa4dcb1b48d0aa17dff8d1a0a66fcfb4f24"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8b716dafaeee2e6c3a9fb23c74563b3fcf60cd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/github/lzyzsd/jsbridge/Message.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-Message.java-7AB26A06F58038464E6F82603BDB68B8508BEFBD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7733d865534a4cbe41515dc61ed1a54cc9f60f68c04d9b155149fa701ad1beb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7ab26a06f58038464e6f82603bdb68b8508befbd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "JsBridge",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "dde03f93e9bfec963af5434494cb07803bcb5b1e"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.0.0",
+      "supplier": "Organization: https://github.com/lzyzsd/JsBridge",
+      "hasFiles": [
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-Message.java-7AB26A06F58038464E6F82603BDB68B8508BEFBD",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeHelper.java-B8B716DAFAEEE2E6C3A9FB23C74563B3FCF60CD0",
+        "SPDXRef-File--example-src-main-java-com-github-lzyzsd-jsbridge-example-MainJavascriptInterface.java-570852791AE4BA6F5B0D24DBD93855052504A7A9",
+        "SPDXRef-File--.github-workflows-android.yml-A5F45E1C843981BA29F4ADA1302B5557D6242137",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-IWebView.java-583D9DC12820FA4A80FF46B44E706CBD83207AA2",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-OnBridgeCallback.java-30405E18055D191B74F2B03CAEACDA5F15FA9EBA",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeUtil.java-21D246CFB4F3690F988A8AA8BF7937D700CA146D",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-7025765817A4A77F0773B3F3C4E288DD78D35AAE",
+        "SPDXRef-File--example-src-main-res-layout-activity-main.xml-D11783C59BDC6771D66A68364B9300BB7E5E27C8",
+        "SPDXRef-File--example-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--.git-logs-HEAD-522CBE4ACBE228352B9C47FACB94D6B2A679648A",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-36E6F3E25D8813CF121606EAFAA62C608C699A1B",
+        "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-WebViewJavascriptBridge.java-53193B1FF415B8FDA75DA32D3C42C71D17803385",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeWebView.java-FFCC665D9032486E75FCCAEE0315660FD6D3D8DC",
+        "SPDXRef-File--library-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--example-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+        "SPDXRef-File--example-build.gradle-23B068F6D4B49A3C40C95D97DF304D91F764F6DE",
+        "SPDXRef-File--.git-logs-refs-heads-master-522CBE4ACBE228352B9C47FACB94D6B2A679648A",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-9E7AE17D4D37DB0F8F10A9168ABF63C1CD9EFC9A",
+        "SPDXRef-File--JsBridge.gif-FA850477E221D076FBE8BDCCA5D9140C0000C951",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-DefaultHandler.java-94E3226EBF6D37DA1C7841A21F3D564B30804C20",
+        "SPDXRef-File--library-proguard-rules.pro-F2C4FAE3758BA7D1FAE22144AC9D3FF21E58CAEC",
+        "SPDXRef-File--example-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-DD72E8ADC5F8F6F079C7E577073E7606869E6AAA",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-E614E3B2EDC63A9CC423437DEA087C91962254F5",
+        "SPDXRef-File--.gitignore-A69E5E28F899ABD86EB82CB0612789A199FBA6DF",
+        "SPDXRef-File--.git-objects-pack-pack-86dbbb2519e38119fb352b107f18c326bcbf99dd.idx-6FBD10EB2E49CD9CBF34DDB2A69CFDFBC0631CBD",
+        "SPDXRef-File--example-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-JSRequest.java-47B01E583CFF1F374E08717DD8DE5716B2CDBE6A",
+        "SPDXRef-File--library-src-main-assets-WebViewJavascriptBridge.js-1CDEA13A60F8FC8149A6891DB4C8B604BC5A2809",
+        "SPDXRef-File--example-src-main-res-values-strings.xml-72515DF684158D18E42D3ED954E431E6E1F81E24",
+        "SPDXRef-File--example-src-main-java-com-github-lzyzsd-jsbridge-example-CustomWebView.java-28DC404448DDD0E990BFB0397555B7ED13E4C2FF",
+        "SPDXRef-File--.git-refs-heads-master-CA132DFF859953804FA6B1DA6AC6A2437B60C70E",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-FBA852531B7A44B0E820BA8BDFAC189E2D321FC9",
+        "SPDXRef-File--example-src-main-assets-demo.html-9F7A094780980E654DA03010BB1FC5E9C36089C3",
+        "SPDXRef-File--.git-objects-pack-pack-86dbbb2519e38119fb352b107f18c326bcbf99dd.pack-2EEEA1A5AA096584C65AE898ACACE8AD0A20007B",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-2C84D08F88DD43C4E00D832FEC18F51CC62A6642",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-JSResponse.java-E9B79A05BDC5696B1589C83A7025123AF98AC556",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeHandler.java-704AF5CADA8CF6030C5CD803766713273FD40FFD",
+        "SPDXRef-File--example-src-main-res-values-styles.xml-B050C8A89547DCAE1F7AA0FCA8DDC1AA99BFE202",
+        "SPDXRef-File--example-src-main-java-com-github-lzyzsd-jsbridge-example-MainActivity.java-22853D7EBF0D26F49CD0E6A4276EE859B5BA9AA5",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--gradle.properties-732B0B8BCEDEAC36FDDFF4D4F6CB12D3523BFF7B",
+        "SPDXRef-File--example-src-main-AndroidManifest.xml-4F1DFE5E5ACE0ECE95C2D6B3E2C1C90A4FB5F6C8",
+        "SPDXRef-File--library-src-main-AndroidManifest.xml-F00CE74CB47739B3ABA324C343336420245EB245",
+        "SPDXRef-File--library-src-main-res-values-strings.xml-3C77511A961F6A8C441082CED72D75993BBE5196",
+        "SPDXRef-File--library-src-main-java-com-github-lzyzsd-jsbridge-BridgeWebViewClient.java-FD4235DEC74E34FC1C7BE164D1991DA27597B15D",
+        "SPDXRef-File--library-build.gradle-84A90880F5C7919F41DC034F95F75032B3798132",
+        "SPDXRef-File--example-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+        "SPDXRef-File--example-proguard-rules.pro-F2C4FAE3758BA7D1FAE22144AC9D3FF21E58CAEC",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-522CBE4ACBE228352B9C47FACB94D6B2A679648A",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--JsBridge.zip-ED17D743E6D10B899ECD8F33B1976AC6970AD70C",
+        "SPDXRef-File--build.gradle-521B2DDC35A22907FB024A69E6A7ABF54BE839D8"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "JsBridge 2.0.0",
+  "documentNamespace": "https://github.com/lzyzsd/JsBridge/JsBridge/2.0.0/VVSFZXlhukuEVZWYILkWjA",
+  "creationInfo": {
+    "created": "2022-09-21T01:24:45Z",
+    "creators": [
+      "Organization: https://github.com/lzyzsd/JsBridge",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

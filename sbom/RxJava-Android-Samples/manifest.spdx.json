@@ -1,0 +1,2528 @@
+{
+  "files": [
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-6634893432EF42220649B864515EBF4D36E941F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9b212b003a6f82e4920941a2b752ae8b29180a4d7538f7832b40f5f8f0698b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6634893432ef42220649b864515ebf4d36e941f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-E0255929C7F001E264A1343C47B7D6A93A1CEA73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1fd9d77065cd0a6406401720b38de8a997a76c5ffaa34086dac54f253cc3183b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0255929c7f001e264a1343c47b7d6a93a1cea73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-7f87bf1e329940e92f90e73415d4b15f0dbde3b9.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-7f87bf1e329940e92f90e73415d4b15f0dbde3b9.idx-98C9E5B8B8E279C4D511571C0EAAE61F9F116AEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3882305850dc2a0119ae378730cd3f1ae6d7fdf2ad300267e54b78489a14adda"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98c9e5b8b8e279c4d511571c0eaae61f9f116aea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-A34068B565CD1378E07D2A584FF5A05292DB3B0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84ad75846a0613862dca042f8136c8e8dde30efa803279d9ccab8eac4feba261"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a34068b565cd1378e07d2a584ff5a05292db3b0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-3ABBE9D299DBE480B2AA46AF0583B117456088E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c04ce3637247d6be760802a8bd7cd39b8efcdfe5e1f1af4896d496d0f0e71b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3abbe9d299dbe480b2aa46af0583b117456088e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-602762E4B206696FA5A2107B2C5ABA5060E21CAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18aef8e934c98b4b16075a532b60a56eb03d93ebe0c0cc082442592eda157f7b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "602762e4b206696fa5a2107b2c5aba5060e21caa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-C50AE622FC514FC4DB40BA90F3E319035BA80C3B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de556eb1415648cc1bba68d1e602d8a54e3e5b3592770df34d863449e8f0303c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c50ae622fc514fc4db40ba90f3e319035ba80c3b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-3DBA500DD3E0A7B521E5A907D3274BC82388558D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85b04e81d817c96b2c864ec14d85356e0d2a1f0e7320153ea80f4e7349d7a285"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3dba500dd3e0a7b521e5a907d3274bc82388558d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--app-proguard-rules.pro-A7C569397290826CD455EAF4EF981FAE923A847B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de7d60c0a7130e41bafa75e1db1b3397d8bf0e565625615a50b382dcbefd8986"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7c569397290826cd455eaf4ef981fae923a847b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-FB1C70995DDA74C4A8953DE4E778CE45D8B11EF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f174999f85f2f6375bb5c57ec3fdbee09e6003eb2d86df89372337837b76feef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb1c70995dda74c4a8953de4e778ce45d8b11ef0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-03601074B11C1CF5903096EA66D8410B9DB0FCC0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b4beb6d4571728fa15c2e90f115065eb544ad4d55548e34a6ec5dcb7d3415d29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03601074b11c1cf5903096ea66d8410b9db0fcc0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-3DBA500DD3E0A7B521E5A907D3274BC82388558D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85b04e81d817c96b2c864ec14d85356e0d2a1f0e7320153ea80f4e7349d7a285"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3dba500dd3e0a7b521e5a907d3274bc82388558d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-62A6E90399470C439E138B02456EFC105E21095E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58f6a0ffd7f1fb78dc08281e790383c3328acc7f571f75e3e6f89c890c58e127"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62a6e90399470c439e138b02456efc105e21095e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-7C678F4C2B00C9504B7DFAEA3752D92AF2450253",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0008d785920c9ff5cab17403e0270ccc7ceee8e169b6d67a82d96a5475fec5c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c678f4c2b00c9504b7dfaea3752d92af2450253"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-5A7ACE826149DDB0B2C9A2D03D038E9075266942",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd78c016e1d70636268022381cabe37c113d8086efcd71b9023984791c948d4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a7ace826149ddb0b2c9a2d03d038e9075266942"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-3DBA500DD3E0A7B521E5A907D3274BC82388558D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85b04e81d817c96b2c864ec14d85356e0d2a1f0e7320153ea80f4e7349d7a285"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3dba500dd3e0a7b521e5a907d3274bc82388558d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-1157FB8EB456901E1CDFC4C92CDC1AADD363EF13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19a9783136e5f098027f62159c6f104c76a9609c916d0a90de7f9a0821ede8d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1157fb8eb456901e1cdfc4c92cdc1aadd363ef13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/MainActivity.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-MainActivity.java-5BAC91CAC87B6508CEA88F036D817B404CAFD50D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8778ae7186002db1a86ef7a3e2ef9be3f39debbc2e4590523561888fcb18d03"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5bac91cac87b6508cea88f036d817b404cafd50d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/FormValidationCombineLatestFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-FormValidationCombineLatestFragment.java-80C3E477EF8AA14679F74DE61B19F197C108EA33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab859226784de29b89056660965757fe6627059e2956559dbf1b036ece0cc013"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80c3e477ef8aa14679f74de61b19f197c108ea33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RotationPersist1Fragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist1Fragment.java-BA052A56C6D3A31611D3EAD99865D9B37A6ED94E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9feb6c77efde7be50d6524f5d87ac80603ffe64f69487bcd828dbf30cea5b9f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba052a56c6d3a31611d3ead99865d9b37a6ed94e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/pagination/PaginationAutoAdapter.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationAutoAdapter.java-D597D4502AE41FD4BAE4610545DC9A9FC61290BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c29b72fec7a2025fdb4ea0c47f87fbed1be12a2a082724e75a23082ae2ff9b28"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d597d4502ae41fd4bae4610545dc9a9fc61290ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/rxbus/RxBusDemoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemoFragment.java-8A9D0910E9E149FE6695783E0D993C6A55BC71CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "faa2dad517d79dc60e884c9ace7359654280ff5967bcc7be7111b9881a72c800"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a9d0910e9e149fe6695783e0d993c6a55bc71cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/kotlin/com/morihacky/android/rxjava/ext/RxExt.kt",
+      "SPDXID": "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-ext-RxExt.kt-7FC6A088D2FB103432839045D6483A191C1D1365",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d77c9df94f985dee6e4994038c69b3a57b85ed87c088e79e3b82860531056d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7fc6a088d2fb103432839045d6483a191c1d1365"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/drawable-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--app-src-main-res-drawable-xxhdpi-ic-launcher.png-39F9E1DDBBDA8ED4D69DE4241B12C279FA424E8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1898bf316b705f59c07ca5eb157114694db4055cb22fc2a4545b67bb7352cfd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39f9e1ddbbda8ed4d69de4241b12c279fa424e8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/.gitignore",
+      "SPDXID": "SPDXRef-File--app-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/BufferDemoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-BufferDemoFragment.java-127FE5BC2FD5A1F48809CFB40C7DC5DBE6A4CC8E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4733f4d8bc03fa9068cd0b3dca2f0e07a1090b5617073780feebfae89f36efaf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "127fe5bc2fd5a1f48809cfb40c7dc5dbe6a4cc8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/PollingFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-PollingFragment.java-AF4B18F8333701A146F42B1782290560841933A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "950260fe2bf6ae122dc55a945bd244087ae78ba070fbdb3a40e492011ac85b05"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "af4b18f8333701a146f42b1782290560841933a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RotationPersist2WorkerFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist2WorkerFragment.java-C3A57E7C78FCF98DC19613EBBF6AA3BD09A9833C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ffb1c516a50431f1d4150b1e4df8e5f6dea2025dfcdabf2703eee65cb86c09d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3a57e7c78fcf98dc19613ebbf6aa3bd09a9833c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/retrofit/Contributor.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-Contributor.java-75D6A0565866214773CCAB4DA75D92833AF08AB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "861c80cfaa2ac489afb9d0ebc49b4081b99c26acc3cac74618654c939834228d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "75d6a0565866214773ccab4da75d92833af08ab0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/rxbus/RxBusDemo_Bottom3Fragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-Bottom3Fragment.java-14A0192B70D03ABC8055C9BDF6B5686F108B327B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96089f17f055cd27c15db3cf1f2545beee19fe4a4ef16c317c845366563c8c32"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14a0192b70d03abc8055c9bdf6b5686f108b327b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/kotlin/com/morihacky/android/rxjava/fragments/UsingFragment.kt",
+      "SPDXID": "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-fragments-UsingFragment.kt-955572D870989CBB97E04A2E6005CBFCFD702FF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d943df3bc1ebaf2c911ee9be2de2671a055c76c12e937677c3a80a1a6abdac72"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "955572d870989cbb97e04a2e6005cbfcfd702ff3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/codeStyleSettings.xml",
+      "SPDXID": "SPDXRef-File--.idea-codeStyleSettings.xml-8D41658C880DD495A293F0A473B3C94030AFEF83",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9983051ac6aa984e948b8a1f44fee3b7715c1830aac706a002c220bb3dca892a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d41658c880dd495a293f0a473b3c94030afef83"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/BaseFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-BaseFragment.java-C4AB74018373BC4ACD5075C48AE7BD62C299914B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c004223d218c490da1206e065798645bd87f5f4893c77c5c47185ba26391563d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4ab74018373bc4acd5075c48ae7bd62c299914b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/NetworkDetectorFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-NetworkDetectorFragment.java-EA603287898CE4D3B0BE297D686AE98B881A3DFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a984b48743a2c9d4b37638274965bacc10012d8c6c517e575450916c40aedb78"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ea603287898ce4d3b0be297d686ae98b881a3dfc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RotationPersist2Fragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist2Fragment.java-A95FD0CD5E40E59D60B2DD2C3D7CC6F9E1F6D5CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a9246b2f26a8f09abc9f92632a4c9603452b5450e575d091f167f6093008f4c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a95fd0cd5e40e59d60b2dd2c3d7cc6f9e1f6d5ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/pagination/PaginationFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationFragment.java-81AC20C50A8F50F7BA17C71FE867F2BC4F6A9BBC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2400e83ca6fc735394a4b53d30810e50264242e26e72b648cf561a8470efd2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81ac20c50a8f50f7ba17c71fe867f2bc4f6a9bbc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/rxbus/RxBusDemo_Bottom2Fragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-Bottom2Fragment.java-B2C8EF3C31225046F4F52048FA16E6CA12E952D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7398e0095619ef8f7b20fb43f225c513a529d6eafa4ea82d3c330cb5a62702ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2c8ef3c31225046f4f52048fa16e6ca12e952d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/kotlin/com/morihacky/android/rxjava/fragments/PlaygroundFragment.kt",
+      "SPDXID": "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-fragments-PlaygroundFragment.kt-DFF4F8CED0DFF2EFE704AC7EC4E27DA34B2DDA87",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f1f6692770bce69813d28fb9c786ee6e41fc3d8ab85ed6807fcd3b68cdef9fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dff4f8ced0dff2efe704ac7ec4e27da34b2dda87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_concurrency_schedulers.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-concurrency-schedulers.xml-C3CDBE06E1008BB65336F35D05622F73DF316E90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbddbdcb20df9bcb9534e9737513675f79ac518c56fe193d6d1717ebb7640309"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3cdbe06e1008bb65336f35d05622f73df316e90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/MyApp.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-MyApp.java-2A156A9334C94B75268F44B5AD5A37F313ADF40C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "261e08b1752acc9645a4fa403b05a66ae2121b6508a97d1f9d06bf4a5ad3f89a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a156a9334c94b75268f44b5ad5a37f313adf40c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/MainFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-MainFragment.java-58F5E311254ED0033833D34F95869DFDA4A20EF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb22c4f2845f18536faaf43ac81ceb74b6bd08daee14eef47e42422ad5feae0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "58f5e311254ed0033833d34f95869dfda4a20ef5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RotationPersist1WorkerFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist1WorkerFragment.java-E6208D462CBDBECD1658574A12A275AE67228234",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82e526e152848b36450c99e84ca200c12187b308f756801c0a15af96d2ec588e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6208d462cbdbecd1658574a12a275ae67228234"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/pagination/PaginationAutoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationAutoFragment.java-DF297641389E8826DE0C8DFE7BACF908585915D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "328c02cf42acb900f95d7a21745f0b67e743be2f1d9eb8f55b0ef61768c4b962"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df297641389e8826de0c8dfe7bacf908585915d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/rxbus/RxBusDemo_Bottom1Fragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-Bottom1Fragment.java-DAE9E056BB5D3D2BE905961BEBD3483D3FA10826",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "893655dbf0e081636e9a3729d06eb44d3dc469e72f26b1735fe7df8ffdae5901"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dae9e056bb5d3d2be905961bebd3483d3fa10826"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/kotlin/com/morihacky/android/rxjava/fragments/MulticastPlaygroundFragment.kt",
+      "SPDXID": "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-fragments-MulticastPlaygroundFragment.kt-BED105340A4BCF4CEA08CB059FB3CA27A9A799C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "969b53ce97c16d975168c672fe86988a6f0c8a4c06515db8638d1349e1724ec3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bed105340a4bcf4cea08cb059fb3ca27a9a799c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_buffer.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-buffer.xml-B61C9E5DA1B9C6ECBBB75ABD44CC82DF81DE0A28",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95fa2f970b36fc410e1a09f492669b14db7d96d9f3d3d02746a0481f89a13161"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b61c9e5da1b9c6ecbbb75abd44cc82df81de0a28"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/build.gradle",
+      "SPDXID": "SPDXRef-File--app-build.gradle-D9CA4A0B30ECBE640F2DB5988527D5DF9E9D9BBD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "65d9c7f4d982d95fd17bebc08d83dc1f0a6d44293570cb6e788b4891083eb3c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9ca4a0b30ecbe640f2db5988527d5df9e9d9bbd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/ConcurrencyWithSchedulersDemoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-ConcurrencyWithSchedulersDemoFragment.java-A662B08C8E5F6DB64E11C6CD4DC377441D14DBF6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30c01bb6c6a588f6cedf3b3f1624805dc74b914d560a26ad40b8138e79bbad59"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a662b08c8e5f6db64e11c6cd4dc377441d14dbf6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/PseudoCacheFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-PseudoCacheFragment.java-079C4A13E5B15D5BB19A93083EAF6F95119EE95B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea2500811bd07de93f088141b96e0e8891d1c6ed36838a03259e38fc2cc912fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "079c4a13e5b15d5bb19a93083eaf6f95119ee95b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RotationPersist3Fragment.kt",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist3Fragment.kt-F23D39EA4D96550265902B4BEDD515E786D88FB5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3da23721326e62a9f96dc2569bda45d0bd358257f5522e1c2c58c00bf1f3b38f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f23d39ea4d96550265902b4bedd515e786d88fb5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/retrofit/GithubApi.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-GithubApi.java-22850B9CF16EF1157D85D7A8486896CBDB45994A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56fbebad6fd1c359daa6bc7c21aba93e14c577634111120eaa99e4f632821a0a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "22850b9cf16ef1157d85d7a8486896cbdb45994a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/rxbus/RxBusDemo_TopFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-TopFragment.java-E7F1B00A8CA63D1144A64885598632D0C91F1A47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df0268bd11d53c043286b83065648461487ab310a667911315f19de1d149c374"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7f1b00a8ca63d1144a64885598632d0c91f1a47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/drawable/btn_round.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-drawable-btn-round.xml-952E68B1225CD7DAAEA66C9DF3B1CC61840708FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "581e4f26e22a6ee4660449e5fab40f62e8527ddb9c7d64758363a46a93f183af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "952e68b1225cd7daaea66c9df3b1cc61840708fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-7f87bf1e329940e92f90e73415d4b15f0dbde3b9.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-7f87bf1e329940e92f90e73415d4b15f0dbde3b9.pack-49B04CBC73F9F69177771F00918AE340A1B2B3C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bb8db002b08d1fed67664a8ec367da1713fedfa8943900861374b74182b6b48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49b04cbc73f9f69177771f00918ae340a1b2b3c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-AndroidManifest.xml-1CB218C3F18DB157DC3EE5EA98B75DFB9EC484D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1fc6f1d4322a41096b7e8e7ab10b610de70da93087f241e44a731d8a4602493"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cb218c3f18db157dc3ee5ea98b75dfb9ec484d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/ExponentialBackoffFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-ExponentialBackoffFragment.java-EC34604D0CABED89DA5C9C2C2DD0D506749C48FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d41aad109d3c810a0e29d616433c2cccc5f1480153db8ed083cab4de35bebd0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec34604d0cabed89da5c9c2c2dd0d506749c48fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RetrofitFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RetrofitFragment.java-90B645BC13D87314B74FB8C375EA925E868967E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "245e36181cc301f4069db21bd099f3dd618fa6c2b7549fa07fa6599f8c89ba47"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "90b645bc13d87314b74fb8c375ea925e868967e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/pagination/PaginationAdapter.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationAdapter.java-486853636A515E95814456462781920C59EA598C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99fdb8011ea1c81ac0f30c57918ee701b4bb1652aaf2b35befeb3be11adab564"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "486853636a515e95814456462781920c59ea598c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/rxbus/RxBus.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBus.java-F1392B832374D76EC5F2200745D24B04012EFB5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c58c0a16619dc5765dd4110a330f389a32aa44e8a9672182b70c1c3220bb8121"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1392b832374d76ec5f2200745d24b04012efb5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/wiring/LogAdapter.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-wiring-LogAdapter.java-CD0ED5001FAFA2930F05FA1D7C202CCB2BA9BF51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9e6f412bf48b30ce217b221567031186dff1f7dc85f8b3bc354fdfa312c853f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd0ed5001fafa2930f05fa1d7c202ccb2ba9bf51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/drawable-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--app-src-main-res-drawable-xhdpi-ic-launcher.png-82ACDD75E3FCC36026109406625EDC69D4D7212D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9c73c0298e96e08af5c28896b8482503fce0bb9bc29696cadcbdc6e98218041"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82acdd75e3fcc36026109406625edc69d4d7212d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_debounce.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-debounce.xml-2750B5A6A81128F0D5881DB00E3F0ACECF250F18",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e77871f46a3627b4def04129f217089ecaf951b1cb1985f63e513e2c393cebf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2750b5a6a81128f0d5881db00e3f0acecf250f18"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_demo_timing.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-demo-timing.xml-756DCED7E1EC6160CF0513E52033958AC951AE99",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b534d2d98595f5b782703881f84424b390e41250b564169ab2ecbe7d47fbc56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "756dced7e1ec6160cf0513e52033958ac951ae99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_network_detector.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-network-detector.xml-6D08521B6A7C81A0F72CD86835540667C7722D57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b0f4e8db88b0f028e0bc052a1c4351404335aa51d0212b65d2e69d4c33918c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d08521b6a7c81a0f72cd86835540667c7722d57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_form_validation_comb_latest.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-form-validation-comb-latest.xml-FD2CE090CF83EA0F7008ADF8010D93D664EB1BA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c325198273875a91efde77104b44e7d60e26c7afb546fdbbddebebb7f03d68bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd2ce090cf83ea0f7008adf8010d93d664eb1ba0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_main.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-main.xml-939E71564B601D0281272AD0D098C98287A73FB2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba791a5eb62f3dedc4cc96d7b41a3bbc0d2aba1c2eeac94471ed3025a59ba445"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "939e71564b601d0281272ad0d098c98287a73fb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_multicast_playground.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-multicast-playground.xml-EC59955D9090C84984E7CA1B466D89BE76533FD2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fca48a9fd35c70eeb2a17271629f3568b0bbd2531ad9bae7cdf3324a7c92d36"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec59955d9090c84984e7ca1b466d89be76533fd2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/androidTest/java/com/morihacky/android/rxjava/app/ApplicationTest.java",
+      "SPDXID": "SPDXRef-File--app-src-androidTest-java-com-morihacky-android-rxjava-app-ApplicationTest.java-19EB5527EC1512401BAC6B40AD6CF01E7CE00668",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1cdae77cf8c4020cb2ebbdbfc9ba54c72586609d90a47768e944137c4945e8d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19eb5527ec1512401bac6b40ad6cf01e7ce00668"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_pagination.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-pagination.xml-EFEE4736F34DB8134383C9A25AAFD8A7893C495F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09929fa9bbe464b7b848779d12524ec1c0b1f7e7f8b1b14c0d40a9488a8a2a0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "efee4736f34db8134383c9a25aafd8a7893c495f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/DebounceSearchEmitterFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-DebounceSearchEmitterFragment.java-6FFEEB71875A3DECB1F941D9304220CD2F9584AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e28e6d219ddc0c734eb3584e56696b2e6a429c58526b0ecfa8b2621e6124e8c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ffeeb71875a3decb1f941d9304220cd2f9584ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_polling.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-polling.xml-12D520B50D64913AECCD88E5DEE159D6923B052C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1596598e36e40e06fe5afb3f0f6457ad051f53c3f872b8000c798c8570f4fa5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12d520b50d64913aeccd88e5dee159d6923b052c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_rxbus_bottom.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-bottom.xml-DF19C28F6ECEBEB5E8B0F5BF69B3B03016B2CC71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aab82ecf479d118c19a5840399bb08d0acef0ed5ab23734b9d1fdfa5e7a24cff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df19c28f6ecebeb5e8b0f5bf69b3b03016b2cc71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_retrofit_async_task_death.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-retrofit-async-task-death.xml-8F59AED5A406E3F9DE61E408EFEFD831EB3EFADB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24496129542112c7317a9d00bfdfa906370160891c8119ca7de14edcb5ff7dae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f59aed5a406e3f9de61e408efefd831eb3efadb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_retrofit.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-retrofit.xml-D9D3947393F32F7C75DB6C15DD74C1829E188795",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc61da232ecc2c5bab6d8dbc19fcc19a12e5cca1995f2c5db73231d5cca9c664"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9d3947393f32f7c75db6c15dd74c1829e188795"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_rotation_persist.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-rotation-persist.xml-8E40C96F28422F7E3D872D5B22FEC49958250931",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c35b2ce3be0cba81625e8cbef1858709e14899d45c21b644c69d06e03a0f83e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e40c96f28422f7e3d872d5b22fec49958250931"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_rxbus_demo.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-demo.xml-C205EC81FACB2A2FA8D92BFB4E6B5A9FADE03A3F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "946c976a3dda161f21ff735c0ebce5321ab2dd41d0f4c033d56fa92142471c75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c205ec81facb2a2fa8d92bfb4e6b5a9fade03a3f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/DoubleBindingTextViewFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-DoubleBindingTextViewFragment.java-2FE288EF4DB444C01EFD086BAD5589E15DC8C34E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc505eef3df3e8d0aaac492e0a0b6c459c6f6ec6936f238799569266c03809a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fe288ef4db444c01efd086bad5589e15dc8c34e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_rxbus_frag3.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-frag3.xml-AE1E108174EB9F89E07AC7649613842436AF491D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3c09a73fe861363edddb57aa1791e765814a6e6b7d83e7274ede6516bc98d03"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae1e108174eb9f89e07ac7649613842436af491d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/PseudoCacheMergeFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-PseudoCacheMergeFragment.java-B2CD406DC4F14BAA2DFAD57ECA0913CF27DC9F35",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "683883b3b50b26e68e2de7da8db5b157dba5981a299f06dd516d26e21667247c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2cd406dc4f14baa2dfad57eca0913cf27dc9f35"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_volley.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-volley.xml-4DBE82BAA88E745FBD9A03C49064865CCA320F1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9521951d08400ff524907e4a3da6520ca0e25284dbc2ca573c69dfaf05aa41f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4dbe82baa88e745fbd9a03c49064865cca320f1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/item_log.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-item-log.xml-287BB01FB7078EE097C24AF53FB3730C0B17DD37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b15362091e9aa1ad63a73ac8090139e6b9d4721d3fda70aa0e37272df0f477b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "287bb01fb7078ee097c24af53fb3730c0b17dd37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_timer_demo.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-timer-demo.xml-13049CD8A6A0BD42C106FD0EC9E3403ED6C51B8A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87392238328870b88c9b49191614c440aaf7c6cafe1dd5b4c82cf45bb5213711"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13049cd8a6a0bd42c106fd0ec9e3403ed6c51b8a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/item_btn.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-item-btn.xml-45B12730594BAD4D477DDD7162A5DBFEDE56800E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c683fc5bcfc34dbbb6c2131b704a2036a9067ebd8589517f6e2cbfff8ee0fe26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "45b12730594bad4d477ddd7162a5dbfede56800e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/item_log_white.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-item-log-white.xml-EF1B4E5A573FAE7FFD77D0311F47389C8FD5DEC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f4c7ba43f7aa97d160a143b8a6e09c176f35d178748b6027913afc4de71d3ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef1b4e5a573fae7ffd77d0311f47389c8fd5dec5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/menu/demo.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-menu-demo.xml-DE3AC0A3477840E574BD39D096610F63953ABC2A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efb287a254aa17b34caa857fbb6739f176838586a2da006bb10d690bd194b775"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de3ac0a3477840e574bd39d096610f63953abc2a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-values-styles.xml-916E640C07335530477FBEE8FE32624074967D17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf1578aabd5dfe48adced7e5f50a4e7fcca54c5d3795ee61671bdb4cc109f856"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "916e640c07335530477fbee8fe32624074967d17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-EA53055BF0A03F1B9DEF876F493981459B3D1262",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72ebaaac63ad7170a0162a1c6115296d8ed9ef73e02a28d6a8b22c1062d30e06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ea53055bf0a03f1b9def876f493981459b3d1262"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/values-w820dp/dimens.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-values-w820dp-dimens.xml-D59EEF2DA25B27BFF7A768F67EE841C355A42046",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c797343469ccb9a6729c6a2a7303ecef73cfe1ba5052f208a6675a2199874fc1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d59eef2da25b27bff7a768f67ee841c355a42046"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/RetrofitAsyncTaskDeathFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RetrofitAsyncTaskDeathFragment.java-7D59345C3DCACA3031976F50B5227148F22AF076",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0748dd80b2b60aadb90ae705975db1289c0a54ff8e47b3401697a34e3e761e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d59345c3dcaca3031976f50b5227148f22af076"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/TimeoutDemoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-TimeoutDemoFragment.java-3A2ACC9110CE11E88C79A8A9FBB4335C1D443B0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3e38992f17342be119ca39070918b58556194cfe98bd40149ee84523636816b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a2acc9110ce11e88c79a8a9fbb4335c1d443b0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-values-strings.xml-1BE216546FED433BBC2E6DD989E835EDB7942AEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0a7df02c7092692603e51400bddfb24c53e7fa535aa44c479bc1f812cb49b6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1be216546fed433bbc2e6dd989e835edb7942aef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-1E4D48E40A1244E1DB27493DDE6FC539FC9B00E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5aa383418c504f386a84adc1a765a3d7a2b7f2534fd2a4d16e8dc4fb89fe4ce6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1e4d48e40a1244e1db27493dde6fc539fc9b00e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/retrofit/GithubService.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-GithubService.java-B062767E50022BE62A8741E06267EE187CAE46C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "052afe4d40bd1bf8a2d70747c9f388962ea1c4c1a1bb2a36317e5ebff09132cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b062767e50022be62a8741e06267ee187cae46c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/fragments/TimingDemoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-TimingDemoFragment.java-6783B06258F2D811946CC252940A63B15D63D969",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27cea11fa543e2b202ea7a806a34f6f63db2469c798fa356bea61efdf604944f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6783b06258f2d811946cc252940a63b15d63d969"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/retrofit/User.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-User.java-8A4A83BEACFEDE9FE3A7B678E6BB8D6B224E0B95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1376cb4262d6b677009e271e2cdcfaee1c026d5f61a752e83be5c9e65e49f02"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a4a83beacfede9fe3a7b678e6bb8d6b224e0b95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/volley/MyVolley.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-volley-MyVolley.java-16C27841B1E14383FD1570A0790D4549BA9C34AA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fad2d364622153e47ff38ed9101fae311b221176aa473316a251011251f8d62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16c27841b1e14383fd1570a0790d4549ba9c34aa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/drawable-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--app-src-main-res-drawable-hdpi-ic-launcher.png-4A5A9AFFBB731F195FC18FEA78D51BE7DB7536A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28c89918a8d235fcadf2e83bb14a6d9da9eab9e665857ad43b9f00e038f1f615"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a5a9affbb731f195fc18fea78d51be7db7536a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/java/com/morihacky/android/rxjava/volley/VolleyDemoFragment.java",
+      "SPDXID": "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-volley-VolleyDemoFragment.java-08D9165EB2F186FDC63F4088491CEEB4B285CF5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ee1b397eea0e3dd81819e20172efab6942c2e2e1ef43608bf91830c3662ffaf3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08d9165eb2f186fdc63f4088491ceeb4b285cf5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/drawable-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--app-src-main-res-drawable-mdpi-ic-launcher.png-7761BCEAF18ED25CDBA5F34BF00A55616D078ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb2a39a5c0c475a793e8814faaaf6afa92d303ec9f1fd65696be43eafbb3260d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7761bceaf18ed25cdba5f34bf00a55616d078acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_double_binding_textview.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-double-binding-textview.xml-7E13E67C4A9A1A758FF7B7211FC185AC38E4F033",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dadcf34fe28c37230d38a6f370ea9c64532bf14c8aa6a7cb48028d80a076dc51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e13e67c4a9a1a758ff7b7211fc185ac38e4f033"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_exponential_backoff.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-exponential-backoff.xml-1EFD6849CD524E30B1FC5AC586DC23A1E1BF1A77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bea8bf8c22df04c46bad4a24db9d09055085fad84b9dc48f4d7dbde51d7448b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1efd6849cd524e30b1fc5ac586dc23a1e1bf1a77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_pseudo_cache.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-pseudo-cache.xml-0EED907655FDD8A95CC1ED78F91825A854B42C01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13dbb45c440e0cbf253bfe1c031edf089b1edade3345f0c7aab2f97a8dfc528d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0eed907655fdd8a95cc1ed78f91825a854b42c01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_pseudo_cache_concat.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-pseudo-cache-concat.xml-12B109E03C19E18E6850F1F08B14734DB7329B97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df4487a77038dd6917eb5e44fe4301a426db038caa0ac0329d5cd9c691682998"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12b109e03c19e18e6850f1f08b14734db7329b97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_rxbus_top.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-top.xml-6063DF506D81CBDEB55D7580F00BD4EF7ACEB09D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8265d2d714630c56f107de02b71f80998e7939f8a8ad273c4ebf92450c3d557e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6063df506d81cbdeb55d7580f00bd4ef7aceb09d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-values-colors.xml-76DACD7C4934D08725424FDFD2F62E102045EA61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae5ef2251c657936d83f71252c6d678fa8ba028312c0848a8ab40bb341d583a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76dacd7c4934d08725424fdfd2f62e102045ea61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/layout/fragment_subject_timeout.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-layout-fragment-subject-timeout.xml-0B4861F769FE66C457D05E5C911344306BDBFA67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "edde1cbacf207f4c77dc13b7372873bb1bef6d0055029435bdd87038fe6e0924"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b4861f769fe66c457d05e5c911344306bdbfa67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--app-src-main-res-values-dimens.xml-A3E064967107D8055B580561876677753FC75394",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc55d014d6689f5b237127a2cbc5bf4f36ed5c9442b7843aaca9785d639113a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3e064967107d8055b580561876677753fc75394"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "RxJava-Android-Samples",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "846cea41c53bcc3acac6150b0daf22591acc79e0"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0-SNAPSHOT",
+      "supplier": "Organization: https://github.com/kaushikgopal/RxJava-Android-Samples",
+      "hasFiles": [
+        "SPDXRef-File--app-src-main-res-layout-fragment-pseudo-cache-concat.xml-12B109E03C19E18E6850F1F08B14734DB7329B97",
+        "SPDXRef-File--app-src-main-res-drawable-mdpi-ic-launcher.png-7761BCEAF18ED25CDBA5F34BF00A55616D078ACF",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-volley-VolleyDemoFragment.java-08D9165EB2F186FDC63F4088491CEEB4B285CF5E",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-volley-MyVolley.java-16C27841B1E14383FD1570A0790D4549BA9C34AA",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-User.java-8A4A83BEACFEDE9FE3A7B678E6BB8D6B224E0B95",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-TimingDemoFragment.java-6783B06258F2D811946CC252940A63B15D63D969",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-GithubService.java-B062767E50022BE62A8741E06267EE187CAE46C9",
+        "SPDXRef-File--app-src-main-res-layout-fragment-double-binding-textview.xml-7E13E67C4A9A1A758FF7B7211FC185AC38E4F033",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-1E4D48E40A1244E1DB27493DDE6FC539FC9B00E6",
+        "SPDXRef-File--app-src-main-res-values-strings.xml-1BE216546FED433BBC2E6DD989E835EDB7942AEF",
+        "SPDXRef-File--app-src-main-res-values-w820dp-dimens.xml-D59EEF2DA25B27BFF7A768F67EE841C355A42046",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-EA53055BF0A03F1B9DEF876F493981459B3D1262",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-TimeoutDemoFragment.java-3A2ACC9110CE11E88C79A8A9FBB4335C1D443B0C",
+        "SPDXRef-File--app-src-main-res-values-styles.xml-916E640C07335530477FBEE8FE32624074967D17",
+        "SPDXRef-File--app-src-main-res-values-dimens.xml-A3E064967107D8055B580561876677753FC75394",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--build.gradle-62A6E90399470C439E138B02456EFC105E21095E",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--gradle.properties-A34068B565CD1378E07D2A584FF5A05292DB3B0B",
+        "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-top.xml-6063DF506D81CBDEB55D7580F00BD4EF7ACEB09D",
+        "SPDXRef-File--app-src-main-res-layout-fragment-pseudo-cache.xml-0EED907655FDD8A95CC1ED78F91825A854B42C01",
+        "SPDXRef-File--app-src-main-res-layout-fragment-exponential-backoff.xml-1EFD6849CD524E30B1FC5AC586DC23A1E1BF1A77",
+        "SPDXRef-File--app-src-main-res-drawable-hdpi-ic-launcher.png-4A5A9AFFBB731F195FC18FEA78D51BE7DB7536A2",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RetrofitAsyncTaskDeathFragment.java-7D59345C3DCACA3031976F50B5227148F22AF076",
+        "SPDXRef-File--app-src-main-res-menu-demo.xml-DE3AC0A3477840E574BD39D096610F63953ABC2A",
+        "SPDXRef-File--app-src-main-res-layout-item-log-white.xml-EF1B4E5A573FAE7FFD77D0311F47389C8FD5DEC5",
+        "SPDXRef-File--app-src-main-res-layout-item-btn.xml-45B12730594BAD4D477DDD7162A5DBFEDE56800E",
+        "SPDXRef-File--app-src-main-res-layout-fragment-timer-demo.xml-13049CD8A6A0BD42C106FD0EC9E3403ED6C51B8A",
+        "SPDXRef-File--app-src-main-res-layout-item-log.xml-287BB01FB7078EE097C24AF53FB3730C0B17DD37",
+        "SPDXRef-File--app-src-main-res-layout-fragment-volley.xml-4DBE82BAA88E745FBD9A03C49064865CCA320F1B",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-PseudoCacheMergeFragment.java-B2CD406DC4F14BAA2DFAD57ECA0913CF27DC9F35",
+        "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-frag3.xml-AE1E108174EB9F89E07AC7649613842436AF491D",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-DoubleBindingTextViewFragment.java-2FE288EF4DB444C01EFD086BAD5589E15DC8C34E",
+        "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-demo.xml-C205EC81FACB2A2FA8D92BFB4E6B5A9FADE03A3F",
+        "SPDXRef-File--app-src-main-res-layout-fragment-rotation-persist.xml-8E40C96F28422F7E3D872D5B22FEC49958250931",
+        "SPDXRef-File--app-src-main-res-layout-fragment-retrofit.xml-D9D3947393F32F7C75DB6C15DD74C1829E188795",
+        "SPDXRef-File--app-src-main-res-layout-fragment-retrofit-async-task-death.xml-8F59AED5A406E3F9DE61E408EFEFD831EB3EFADB",
+        "SPDXRef-File--app-src-main-res-layout-fragment-rxbus-bottom.xml-DF19C28F6ECEBEB5E8B0F5BF69B3B03016B2CC71",
+        "SPDXRef-File--app-src-main-res-layout-fragment-polling.xml-12D520B50D64913AECCD88E5DEE159D6923B052C",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-DebounceSearchEmitterFragment.java-6FFEEB71875A3DECB1F941D9304220CD2F9584AD",
+        "SPDXRef-File--app-src-main-res-layout-fragment-pagination.xml-EFEE4736F34DB8134383C9A25AAFD8A7893C495F",
+        "SPDXRef-File--app-src-androidTest-java-com-morihacky-android-rxjava-app-ApplicationTest.java-19EB5527EC1512401BAC6B40AD6CF01E7CE00668",
+        "SPDXRef-File--app-src-main-res-layout-fragment-multicast-playground.xml-EC59955D9090C84984E7CA1B466D89BE76533FD2",
+        "SPDXRef-File--app-src-main-res-layout-fragment-main.xml-939E71564B601D0281272AD0D098C98287A73FB2",
+        "SPDXRef-File--app-src-main-res-layout-fragment-form-validation-comb-latest.xml-FD2CE090CF83EA0F7008ADF8010D93D664EB1BA0",
+        "SPDXRef-File--app-src-main-res-layout-fragment-network-detector.xml-6D08521B6A7C81A0F72CD86835540667C7722D57",
+        "SPDXRef-File--app-src-main-res-layout-fragment-demo-timing.xml-756DCED7E1EC6160CF0513E52033958AC951AE99",
+        "SPDXRef-File--app-src-main-res-layout-fragment-debounce.xml-2750B5A6A81128F0D5881DB00E3F0ACECF250F18",
+        "SPDXRef-File--app-src-main-res-drawable-xhdpi-ic-launcher.png-82ACDD75E3FCC36026109406625EDC69D4D7212D",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-wiring-LogAdapter.java-CD0ED5001FAFA2930F05FA1D7C202CCB2BA9BF51",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBus.java-F1392B832374D76EC5F2200745D24B04012EFB5E",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationAdapter.java-486853636A515E95814456462781920C59EA598C",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RetrofitFragment.java-90B645BC13D87314B74FB8C375EA925E868967E8",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-ExponentialBackoffFragment.java-EC34604D0CABED89DA5C9C2C2DD0D506749C48FE",
+        "SPDXRef-File--app-src-main-AndroidManifest.xml-1CB218C3F18DB157DC3EE5EA98B75DFB9EC484D3",
+        "SPDXRef-File--.git-objects-pack-pack-7f87bf1e329940e92f90e73415d4b15f0dbde3b9.pack-49B04CBC73F9F69177771F00918AE340A1B2B3C3",
+        "SPDXRef-File--app-src-main-res-drawable-btn-round.xml-952E68B1225CD7DAAEA66C9DF3B1CC61840708FB",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-TopFragment.java-E7F1B00A8CA63D1144A64885598632D0C91F1A47",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-GithubApi.java-22850B9CF16EF1157D85D7A8486896CBDB45994A",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist3Fragment.kt-F23D39EA4D96550265902B4BEDD515E786D88FB5",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-PseudoCacheFragment.java-079C4A13E5B15D5BB19A93083EAF6F95119EE95B",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-ConcurrencyWithSchedulersDemoFragment.java-A662B08C8E5F6DB64E11C6CD4DC377441D14DBF6",
+        "SPDXRef-File--app-build.gradle-D9CA4A0B30ECBE640F2DB5988527D5DF9E9D9BBD",
+        "SPDXRef-File--app-src-main-res-layout-fragment-buffer.xml-B61C9E5DA1B9C6ECBBB75ABD44CC82DF81DE0A28",
+        "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-fragments-MulticastPlaygroundFragment.kt-BED105340A4BCF4CEA08CB059FB3CA27A9A799C8",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-Bottom1Fragment.java-DAE9E056BB5D3D2BE905961BEBD3483D3FA10826",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationAutoFragment.java-DF297641389E8826DE0C8DFE7BACF908585915D0",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist1WorkerFragment.java-E6208D462CBDBECD1658574A12A275AE67228234",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-MainFragment.java-58F5E311254ED0033833D34F95869DFDA4A20EF5",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-MyApp.java-2A156A9334C94B75268F44B5AD5A37F313ADF40C",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--app-src-main-res-layout-fragment-concurrency-schedulers.xml-C3CDBE06E1008BB65336F35D05622F73DF316E90",
+        "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-fragments-PlaygroundFragment.kt-DFF4F8CED0DFF2EFE704AC7EC4E27DA34B2DDA87",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-Bottom2Fragment.java-B2C8EF3C31225046F4F52048FA16E6CA12E952D9",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationFragment.java-81AC20C50A8F50F7BA17C71FE867F2BC4F6A9BBC",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist2Fragment.java-A95FD0CD5E40E59D60B2DD2C3D7CC6F9E1F6D5CA",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-NetworkDetectorFragment.java-EA603287898CE4D3B0BE297D686AE98B881A3DFC",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-BaseFragment.java-C4AB74018373BC4ACD5075C48AE7BD62C299914B",
+        "SPDXRef-File--.idea-codeStyleSettings.xml-8D41658C880DD495A293F0A473B3C94030AFEF83",
+        "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-fragments-UsingFragment.kt-955572D870989CBB97E04A2E6005CBFCFD702FF3",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemo-Bottom3Fragment.java-14A0192B70D03ABC8055C9BDF6B5686F108B327B",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-retrofit-Contributor.java-75D6A0565866214773CCAB4DA75D92833AF08AB0",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist2WorkerFragment.java-C3A57E7C78FCF98DC19613EBBF6AA3BD09A9833C",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-PollingFragment.java-AF4B18F8333701A146F42B1782290560841933A0",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-BufferDemoFragment.java-127FE5BC2FD5A1F48809CFB40C7DC5DBE6A4CC8E",
+        "SPDXRef-File--app-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--app-src-main-res-drawable-xxhdpi-ic-launcher.png-39F9E1DDBBDA8ED4D69DE4241B12C279FA424E8D",
+        "SPDXRef-File--app-src-main-kotlin-com-morihacky-android-rxjava-ext-RxExt.kt-7FC6A088D2FB103432839045D6483A191C1D1365",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-rxbus-RxBusDemoFragment.java-8A9D0910E9E149FE6695783E0D993C6A55BC71CC",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-pagination-PaginationAutoAdapter.java-D597D4502AE41FD4BAE4610545DC9A9FC61290BA",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-RotationPersist1Fragment.java-BA052A56C6D3A31611D3EAD99865D9B37A6ED94E",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-fragments-FormValidationCombineLatestFragment.java-80C3E477EF8AA14679F74DE61B19F197C108EA33",
+        "SPDXRef-File--app-src-main-java-com-morihacky-android-rxjava-MainActivity.java-5BAC91CAC87B6508CEA88F036D817B404CAFD50D",
+        "SPDXRef-File--.git-refs-heads-master-1157FB8EB456901E1CDFC4C92CDC1AADD363EF13",
+        "SPDXRef-File--.git-logs-refs-heads-master-3DBA500DD3E0A7B521E5A907D3274BC82388558D",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-5A7ACE826149DDB0B2C9A2D03D038E9075266942",
+        "SPDXRef-File--gradlew.bat-7C678F4C2B00C9504B7DFAEA3752D92AF2450253",
+        "SPDXRef-File--app-proguard-rules.pro-A7C569397290826CD455EAF4EF981FAE923A847B",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-3DBA500DD3E0A7B521E5A907D3274BC82388558D",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--LICENSE-C50AE622FC514FC4DB40BA90F3E319035BA80C3B",
+        "SPDXRef-File--.git-objects-pack-pack-7f87bf1e329940e92f90e73415d4b15f0dbde3b9.idx-98C9E5B8B8E279C4D511571C0EAAE61F9F116AEA",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-E0255929C7F001E264A1343C47B7D6A93A1CEA73",
+        "SPDXRef-File--app-src-main-res-layout-fragment-subject-timeout.xml-0B4861F769FE66C457D05E5C911344306BDBFA67",
+        "SPDXRef-File--app-src-main-res-values-colors.xml-76DACD7C4934D08725424FDFD2F62E102045EA61",
+        "SPDXRef-File--.git-logs-HEAD-3DBA500DD3E0A7B521E5A907D3274BC82388558D",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-03601074B11C1CF5903096EA66D8410B9DB0FCC0",
+        "SPDXRef-File--gradlew-FB1C70995DDA74C4A8953DE4E778CE45D8B11EF0",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-602762E4B206696FA5A2107B2C5ABA5060E21CAA",
+        "SPDXRef-File--.gitignore-3ABBE9D299DBE480B2AA46AF0583B117456088E4",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-6634893432EF42220649B864515EBF4D36E941F0"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "RxJava-Android-Samples 1.0-SNAPSHOT",
+  "documentNamespace": "https://github.com/kaushikgopal/RxJava-Android-Samples/RxJava-Android-Samples/1.0-SNAPSHOT/BBGnZjvZWEOgfzVC1INU7g",
+  "creationInfo": {
+    "created": "2022-09-21T03:19:48Z",
+    "creators": [
+      "Organization: https://github.com/kaushikgopal/RxJava-Android-Samples",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

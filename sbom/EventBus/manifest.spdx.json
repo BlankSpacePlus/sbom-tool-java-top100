@@ -1,0 +1,3368 @@
+{
+  "files": [
+    {
+      "fileName": "./EventBus-Publish-Subscribe.png",
+      "SPDXID": "SPDXRef-File--EventBus-Publish-Subscribe.png-629501BCC1BD8B79D295F21F3AD33092E7C3CC1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "307c81b0dfb566ac01ed8185335a411b844d9e9c42ada9508606b9f786dc025e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "629501bcc1bd8b79d295f21f3ad33092e7c3cc1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-627629EAC74931517A18A5359F213AB151089CFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "299b4ab6cd9fb1c3f9681db5d18da38c105dbe49b866ff0f0e90ec45f39882f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "627629eac74931517a18a5359f213ab151089cff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-1DCDA0366A25C9CB4E4CC336D206BEB732E7EC77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d43cf42b1538c4cbba640a553c4e9baefe142a3d9766dcc8cf8617e00d9ec27c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1dcda0366a25c9cb4e4cc336d206beb732e7ec77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./COMPARISON.md",
+      "SPDXID": "SPDXRef-File--COMPARISON.md-70E54514F97ED339926EBDFE0B5E9C570CE354B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8fdd95f623e1d4d3633d9a15bcf5b7bf70b008843e661b462118e10c715c52c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70e54514f97ed339926ebdfe0b5e9c570ce354b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-9BDA1A2991CD050CC2FBF008FD3E5A9672B63EB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c15a47b60a4eeede9ffee33433fd990d8b6236607372b9bb1f6dc51b07b78c39"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bda1a2991cd050cc2fbf008fd3e5a9672b63eb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5c317cf754bba8ad745e83649e9ce7c17e2f691"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-8FEE7FE1C682CCCE78A160534AEAA7A690A71D1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d6de0f17f309cfb7ce0ddb1609e9138bfdf86a71758467d4cac23b7aaa55f57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8fee7fe1c682ccce78a160534aeaa7a690a71d1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-68460F8072EB3E408E36E49CF5B6F2C52780C1A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad8395f60e4a2e3f36171675fa70a5b90a50650838965b90d5c8be2e88353113"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68460f8072eb3e408e36e49cf5b6f2c52780c1a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/AsyncPoster.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-AsyncPoster.java-8BC01A38FEAD7F2B78E0EB3FA4D863F21359CB26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55e662d48496bbe429babdd88f2a938a5ca73ca59e2b5ecd340dc09606633388"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bc01a38fead7f2b78e0eb3fa4d863f21359cb26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/PendingPost.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-PendingPost.java-887E236B4B9798A52D3AFA3BAB1BD7DF13332C01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "020477a747f9c8c9e4d5ce3f7e87b54adabfffdb272fe17559277f41078bab25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "887e236b4b9798a52d3afa3bab1bd7df13332c01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/ThreadMode.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-ThreadMode.java-49B5542CA43D9C203323520011008E29B671255E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74e52c49717ad87ffed5fd0e01cf5bddfd4f3ea6c24342f44fbe522c40f89c33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49b5542ca43d9c203323520011008e29b671255e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/util/AsyncExecutor.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-AsyncExecutor.java-CEE569C64AACEBFFA89A3C06FFCBB5495A298CBC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e84906ba2d0cbfeffda7a2690ac42c564bc557918af9b7a481e19029f7890d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cee569c64aacebffa89a3c06ffcbb5495a298cbc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/README.md",
+      "SPDXID": "SPDXRef-File--eventbus-android-README.md-D90E5C09A1891B2A768D8F70547C4FC525E7E3DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1950e419fc215878bc3e16e7a4415306a6c16e6193b66762c80d4154f0fd028"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d90e5c09a1891b2a768d8f70547c4fc525e7e3da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusAnnotationProcessor/src/org/greenrobot/eventbus/annotationprocessor/EventBusAnnotationProcessor.java",
+      "SPDXID": "SPDXRef-File--EventBusAnnotationProcessor-src-org-greenrobot-eventbus-annotationprocessor-EventBusAnnotationProcessor.java-ED3F5F384472A667EE07F3F442A319E24E58B386",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07aaa824f2081cf3d95d3100d0a44d3cf7ce9bff7ef680da00bbf6ff5de9b091"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed3f5f384472a667ee07f3f442a319e24e58b386"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/drawable-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-drawable-mdpi-ic-launcher.png-7761BCEAF18ED25CDBA5F34BF00A55616D078ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb2a39a5c0c475a793e8814faaaf6afa92d303ec9f1fd65696be43eafbb3260d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7761bceaf18ed25cdba5f34bf00a55616d078acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/TestParams.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestParams.java-90D57F80427B99C9C8827FA9433FA78CEEE4D41C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "797e694988f3a9c66f6eae551022a55582bdde4f592d26311389cd040543628c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "90d57f80427b99c9c8827fa9433fa78ceee4d41c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/build.gradle",
+      "SPDXID": "SPDXRef-File--EventBusTest-build.gradle-B4A8AC6E35FA5216DC6186B47524515FD9B8580E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "098c9444f2c542b8753584aba11c2355d342df90bf32a365a7f07c9403950c92"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4a8ac6e35fa5216dc6186b47524515fd9b8580e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusAndroidOrderTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidOrderTest.java-B3758DE216685D814E25B576B25C6A45DD51AAA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cab2b3dd2ebd26551e747aafba0b52a11f03f35c5705476e932ca42b755342cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3758de216685d814e25b576b25c6a45dd51aaa1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusBasicTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusBasicTestWithIndex.java-454423B1C2010B621037D8A8D1E3D6DE40B1BC72",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8942f697c56f67804f4c2c4a737708bfbcefa81406509f2ecb25f16e50691620"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "454423b1c2010b621037d8a8d1e3d6de40b1bc72"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusMethodModifiersTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMethodModifiersTestWithIndex.java-BB74AA84D50460EB47255436F5B5A9EBCBC1884D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "972e1a0720766a49b0bbf8107dfbbccd0ac521896e8adc95d915a7d94bd62a2a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb74aa84d50460eb47255436f5b5a9ebcbc1884d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/Indexed.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-Indexed.java-FD61DCF6C2DDA4683CC53979C333B98D9B4D4B43",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0f88f8b3c929270178c2d537301079ebba1163894a26881630a9b2d31a4f057b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd61dcf6c2dda4683cc53979c333b98d9b4d4b43"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.md-BBB4F9635DAB5EB62C2793AA5BE449E1DF086673",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac8a5fb435deeb991ad2f0e481ad5aab70dc70683c950b133e4c968016983035"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbb4f9635dab5eb62c2793aa5be449e1df086673"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/Logger.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Logger.java-E5E3493C9CE6C1EA88BD2AE4637E520EADB26E81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf425be21d4717602a34b93be52b0088984d14347e46b6ef3adc364d980afdfe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5e3493c9ce6c1ea88bd2ae4637e520eadb26e81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/SubscriberMethod.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-SubscriberMethod.java-918F720A1FB987C540FA27215C769436ABB0CE95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f557d8a70d826951c953a527555f13f0d155d78be720ae112334c93a7dc99705"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "918f720a1fb987c540fa27215c769436abb0ce95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/meta/SubscriberInfo.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SubscriberInfo.java-DDC5C36C20911C1F0C0329607B3DAEA1149E4092",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95a07da8a7606bfc03b0dad28b52b7f36dfdd5dfc33d4da00ba2749f52c7c98b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddc5c36c20911c1f0c0329607b3daea1149e4092"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/build.gradle",
+      "SPDXID": "SPDXRef-File--eventbus-android-build.gradle-7637344B6F0CFD55F8C8FDC5335FDF2003DA72E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d389f4a72e6878d40dfa47106273edec17ec4096ddd762ee4384b7e0fc28bc8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7637344b6f0cfd55f8c8fdc5335fdf2003da72e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/src/main/java/org/greenrobot/eventbus/android/DefaultAndroidMainThreadSupport.java",
+      "SPDXID": "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-android-DefaultAndroidMainThreadSupport.java-7D32659E13F434AB7D8BE4DEF716FEDA953766EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2e688d8548035f24c3f5211657767cb73f1c827e07298e6b8aa4eddb6783845"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d32659e13f434ab7d8be4def716feda953766ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/project.properties",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-project.properties-AFDE10F683350B8492290C2056C6A7D2851E86CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43467c92be866f460c17b8159eb150683bffa3f3f1c5f87694d70ce2805e744d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afde10f683350b8492290c2056c6a7d2851e86ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/Test.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-Test.java-453CC857AD9C97B47FEEEB1AB62529CC5B8FCE60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e94b4c09733931324c198661b2e3625e1ddc58200a041cab1467436acb761137"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "453cc857ad9c97b47feeeb1ab62529cc5b8fce60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/testsubject/PerfTestOtto.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-testsubject-PerfTestOtto.java-8195DC4CF4FE7730F616444500DC1E09BA1A3415",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed9358310e6f83002256d8c11d235da65b03081cc4d16cd2d0a6bb785ea841dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8195dc4cf4fe7730f616444500dc1e09ba1a3415"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusAndroidActivityTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidActivityTest.java-8145904FC452165ED49CE46B68F944E5CCBE8A91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d39a2ee8e36e1c329534c0175a8c69c3690a9df11287b0a551d9297727e451e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8145904fc452165ed49ce46b68f944e5ccbe8a91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/TestBackgroundPoster.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-TestBackgroundPoster.java-C901F77F52E5C29F0A021DC12DA15D31B9BAC7D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "717c316667416841327b4eee2512895dbba9706e360ea46ba37f075a46d04e95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c901f77f52e5c29f0a021dc12da15d31b9bac7d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusInheritanceTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusInheritanceTestWithIndex.java-6CAEE60785D4CD9F503340646D7649727ECA49B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8251647000ceedaef601ef5f10f5bb9566a24bcff8b33e34b974a00b2e2dbb9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6caee60785d4cd9f503340646d7649727eca49b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusStickyEventTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusStickyEventTestWithIndex.java-61577EC21449C7122E7C559385E59907C29C7DEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9bccd85330d4f1da2abd7eb5e4c4cd9e5201009d9c6d1f785dd022478dec84b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "61577ec21449c7122e7c559385e59907c29c7def"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-DC46B944CC1C325F6AD34041E2EDAF2995CF630E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed7400a37c3211f09697e9b6af84e64edfeb6a1883221b9274ae158d25e78fdd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc46b944cc1c325f6ad34041e2edaf2995cf630e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-b6caddeccecc7b5c86d3362ecd9d86470946bdc3.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-b6caddeccecc7b5c86d3362ecd9d86470946bdc3.pack-0F243D7DA966FDB2EBC7D16C11D420A18BA30BE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aaff23a75d71a27a6bcfbc515b43312086cbffdd187de6d4e8f720c3ae13ea3f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f243d7da966fdb2ebc7d16c11d420a18ba30be5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/EventBusBuilder.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-EventBusBuilder.java-F768C189A447C9BFA887C94AA87FE3ADD9DBFD8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "546c67a52304c3fb35779383db2a2810a7b8d1b0775e1a0b6c5a65f18ba5e824"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f768c189a447c9bfa887c94aa87fe3add9dbfd8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/Subscribe.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Subscribe.java-350D99DCE2C42B09B0736013D7267050D580EA5F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba03e4904dff37818e6ff0bd07b1396f6bc3a8cb87c65f6aca089834775daa79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "350d99dce2c42b09b0736013d7267050d580ea5f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/meta/AbstractSubscriberInfo.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-AbstractSubscriberInfo.java-FBD769BDE592FB972BE68C2D73EE133DB84FA00A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "da3cf7c90be7445ba7a50b9d75b5099169e50d442b6cef400dda03b4841af51a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fbd769bde592fb972be68c2d73ee133db84fa00a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/util/ThrowableFailureEvent.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-ThrowableFailureEvent.java-3E6FBFA57144A52182E097F318177CFF480F7FF9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0c25901e6b1a7ae474c287b9d92f571c46e3eb7a124f0b22be8c640b4c8dde1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e6fbfa57144a52182e097f318177cff480f7ff9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/src/main/java/org/greenrobot/eventbus/android/AndroidComponentsImpl.java",
+      "SPDXID": "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-android-AndroidComponentsImpl.java-C8D83E1B2296BE5F3F54BD7E10BDB2AAD4928180",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48fcca07552f126b3ec3c91fee7aaa0df746ddb91b2a45981adc10c62e1ed094"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8d83e1b2296be5f3f54bd7e10bdb2aad4928180"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/build.gradle",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-build.gradle-C25E06AB208C3C57B74D2EE0002354FD956B0587",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2b29e30e1c355cacedcab7f6390b1a1dfd60574a6aec3d478c8597a9bc777f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c25e06ab208c3c57b74d2ee0002354fd956b0587"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/layout/activity_setuptests.xml",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-layout-activity-setuptests.xml-772202BE96D1C7F286649624CA6EA16DBCE7C640",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91af49b2ec94452479795e214503ca159678871922900a36290c43cc20105d17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "772202be96d1c7f286649624ca6ea16dbce7c640"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/TestSetupActivity.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestSetupActivity.java-8E767E85C1488FF11B4B7C4A71C12F6E5A06EDFA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd69af351063e1733776e7b9d91fba00bc58ad4f09cd7b239045ab20555fcadb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e767e85c1488ff11b4b7c4a71c12f6e5a06edfa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/AndroidComponentsAvailabilityTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-AndroidComponentsAvailabilityTest.java-2E530496AB2845AAD8F88F30E6D56C852795F685",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba72340589b0492fcd0d22b7aa128f83449d046f9e4841330b6d73d1c5437d09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e530496ab2845aad8f88f30e6d56c852795f685"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusMainThreadTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusMainThreadTest.java-EB3E01241B8AE179E49744D9DE1707D4DDD344D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9048aed93ff1412e7509801f189ce7014fee04f9fe6d8eb837d394d3bf4cb684"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb3e01241b8ae179e49744d9de1707d4ddd344d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-EE665B82A43265F40475DE696C3AA743CD6F919D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0cb447f39a71f9c4c4e6dbfd7145d0ab66aef8a1f71f20d75cfd05ea964e0fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee665b82a43265f40475de696c3aa743cd6f919d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-7F4007BC6652B45973DC9B68648CA0193EC70777",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "663fb3f72f31d63733cd7e9f2bb339ee4921dd7ebb79e2ab453aafa218785c04"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f4007bc6652b45973dc9b68648ca0193ec70777"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/EventBusException.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-EventBusException.java-3C614ACE31AF8433EAAA958617F029BDE345E496",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e5ef39c0a62596ffa25e58a9fa8ea760735fc6ab63fa45b209fac719f7fa6e61"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c614ace31af8433eaaa958617f029bde345e496"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/SubscriberExceptionEvent.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-SubscriberExceptionEvent.java-E9CB8D83476E4AAF5692D076FA17C13DAE1EA253",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d95676a42761c07fcbc44b5cb83303b4baeea25bd44086cfdad84a42709f9f29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9cb8d83476e4aaf5692d076fa17c13dae1ea253"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/meta/SimpleSubscriberInfo.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SimpleSubscriberInfo.java-B14747F4ACC72AE0837DC596431B3BC5C432B491",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f054382400faff6c2acbe5f730fef171f640efd41e43c9ab57c33fbed8756cf6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b14747f4acc72ae0837dc596431b3bc5c432b491"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/.gitignore",
+      "SPDXID": "SPDXRef-File--eventbus-android-.gitignore-FA0B121693FCB526DC3D1574FAAD10ABFB80541E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c3174b74edc6f2b9e0743594b8bd3c7f31e4f4405758cc9872b3fe1de1d28b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa0b121693fcb526dc3d1574faad10abfb80541e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/src/main/java/org/greenrobot/eventbus/android/AndroidLogger.java",
+      "SPDXID": "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-android-AndroidLogger.java-9337101373480139489253CF3004968D7293A1E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5589c74445d8ed1a90eca993d0a8619a069b4745e103380538d1409b7e18ec3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9337101373480139489253cf3004968d7293a1e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/proguard-project.txt",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-proguard-project.txt-87A189515A2DF10A1EFDA8B6AD445569DFA20BE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de725d9a2a6cc4d00d2490d17eb277abb160551e0df617e3129e8589da32e0c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87a189515a2df10a1efda8b6ad445569dfa20be1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-values-strings.xml-96512E7C650ACA3FD6D84FF420383B60A5D499E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d330eb4dd3d6a7475cf0d8b45716cfb0dfff73ae36891d86f8f2c16bcb5d2aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96512e7c650aca3fd6d84ff420383b60a5d499e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/testsubject/PerfTestEventBus.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-testsubject-PerfTestEventBus.java-E1959542A52F70BCF12747AB3F69DA8BCA628524",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfeb92bc3c6bbaead04b378ecdb701435c7a5b4f2c965a40e0ef6f455ee225f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1959542a52f70bcf12747ab3f69da8bca628524"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/ClassMapPerfTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-ClassMapPerfTest.java-0444EBFBF0A8290CDB452BF0FAEBCAB6DF9117CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "240ed18b01871bfbe2915e1218e25bd16cefaa596be1d4d25d5e4fe135362c49"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0444ebfbf0a8290cdb452bf0faebcab6df9117cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusMethodModifiersTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusMethodModifiersTest.java-964994C9DFC73EB59A0F703AA41F025794BAD0EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3693d2ce2dd633dc69a043efda7e9cb73b2c7f4bfde9b5d6412fb94abf9a0d2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "964994c9dfc73eb59a0f703aa41f025794bad0ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusInheritanceDisabledTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusInheritanceDisabledTestWithIndex.java-A608B0A2F2E0A9460621F949E362DBF9C97A4B75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a763de09556e014a27ea19d874f4321bee33f6db45fa657f54f437e39dc831d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a608b0a2f2e0a9460621f949e362dbf9c97a4b75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusRegistrationRacingTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusRegistrationRacingTestWithIndex.java-0D882DABC50E32B9B9888B3AE420EA558C2FACD6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73243239c1a4c186d7cb179171d107a10c09c4e93f7c2bfb75a92cda6a891a54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d882dabc50e32b9b9888b3ae420ea558c2facd6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusBasicTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusBasicTest.java-ED8461E8D8C0C9A93DAF1AA7F26D178490B0E3D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06cc16f8477315d3d479ea89fca476772382b74bf9784e863d6c5315b109a79d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed8461e8d8c0c9a93daf1aa7f26d178490b0e3d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-43665FC5BFF8552C89E9E57F95592D6CCE24DD46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ec248c3dc3a0403f0d466c05b4fbd5993c865a3a293e3cb467bae71dac72539"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43665fc5bff8552c89e9e57f95592d6cce24dd46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-68460F8072EB3E408E36E49CF5B6F2C52780C1A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad8395f60e4a2e3f36171675fa70a5b90a50650838965b90d5c8be2e88353113"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68460f8072eb3e408e36e49cf5b6f2c52780c1a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/build.gradle",
+      "SPDXID": "SPDXRef-File--EventBus-build.gradle-D26DEAD957D036B4C2B76B0E208639F6B8DDE3D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "260e24dd3041b53999688a919aeeaf70053ee634526c87ff3cdebd917671193f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d26dead957d036b4c2b76b0e208639f6b8dde3d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/NoSubscriberEvent.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-NoSubscriberEvent.java-2C5ED7AB31ECAD984BCFEAC301CDB551506A0A77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6097e2599e48ccd502d645841a0b065e9fbce53912b5acac87bb3339a073a79f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c5ed7ab31ecad984bcfeac301cdb551506a0a77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/Subscription.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Subscription.java-CB78F1E04C126EF20B23DDC778F957820D5D4D57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a089a18f9196fb181ab6ddbafac1a3f49e125d7b8e3f6e7c46475d5c7a16ef85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb78f1e04c126ef20b23ddc778f957820d5d4d57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/meta/SubscriberMethodInfo.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SubscriberMethodInfo.java-772B4304C0A88A25F325E9B525AC2440CF3569A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0dc0b7023e1cf5cd43397af3c5c24a29f754adc887ca75822669a5589159f3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "772b4304c0a88a25f325e9b525ac2440cf3569a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/proguard-rules.pro",
+      "SPDXID": "SPDXRef-File--eventbus-android-proguard-rules.pro-B0BBFCD49EEADB0BD1E946D70AF5EB52D6CE67DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48c84bd2ac064ce2665b62a6e7c0e87f3b4fe259708a76e16625c2b43e1bc078"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b0bbfcd49eeadb0bd1e946d70af5eb52d6ce67df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusAnnotationProcessor/res/META-INF/services/javax.annotation.processing.Processor",
+      "SPDXID": "SPDXRef-File--EventBusAnnotationProcessor-res-META-INF-services-javax.annotation.processing.Processor-E8720FEF21E9E669C6267277031891658AD7A078",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "147fd74693d376c6f03eb3f9dfa40b67ce20c82b474823852aef98804c849d55"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e8720fef21e9e669c6267277031891658ad7a078"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/drawable-ldpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-drawable-ldpi-ic-launcher.png-68B8AB0D3181D74D05641DA4C5ED13465EA1A997",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "145b4c322390c96bd9ecb3a08619ce6f42bc4886122f3c4964163ed3417c1d18"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68b8ab0d3181d74d05641da4c5ed13465ea1a997"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/TestFinishedEvent.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestFinishedEvent.java-F6A72ADCD71D9F75440D4A3B0E66D812DBA6CC37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d248898b9e2f2cc48b5b143b957265947ffe3f417b0353605f9ce794975f277c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6a72adcd71d9f75440d4a3b0e66d812dba6cc37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--EventBusTest-AndroidManifest.xml-DA84A0934DF7D90E8DDCE0514BD24AC5A8F4E141",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "991fce7721178e843d8175fc7632dd4d2532e3ee915352ad36bafcd235b91dde"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da84a0934df7d90e8ddce0514bd24ac5a8f4e141"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusAndroidMultithreadedTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidMultithreadedTest.java-5EBE290AE64A8C00FB9BC9F56039718809714DBE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2516003aa77c94be84dd42fd19c1fc0c48de886d437d67084ec849b5029a0ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ebe290ae64a8c00fb9bc9f56039718809714dbe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusBackgroundThreadTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusBackgroundThreadTestWithIndex.java-779AD4EC0E177ACBD3E058677C73562235AB2B49",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd8c26356fbd2c07681036c32534bd53c549f71f0b632e750660a04a1671f53d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "779ad4ec0e177acbd3e058677c73562235ab2b49"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusMainThreadTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMainThreadTestWithIndex.java-68C0EE3E93C6C72BD2C74D9E961E29F1E6C84501",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40eb089b85ef5310dbfb8f14892a3c0bf9308ce4d4175c281eac043ca8bec247"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68c0ee3e93c6c72bd2c74d9e961e29f1e6c84501"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusSubscriberInJarTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusSubscriberInJarTestWithIndex.java-FFAEDCF6DD7D8A5D25FE991BD2AFD00EB5DDBEB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93d5060d4a52ff804c86d12716690ac34868811941ce8cdf2b9ea55bcfe2359a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffaedcf6dd7d8a5d25fe991bd2afd00eb5ddbeb0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusFallbackToReflectionTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusFallbackToReflectionTest.java-AE4607530E01842F84C1B8F573279BCFD260FCC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fdc9e89a5ca0583b9b18d2ce9713b6893fa8dd0dd7d899f98b2846fb30862191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae4607530e01842f84c1b8f573279bcfd260fcc7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-4ADABF9FADEC956AE9A8052BC850F5CA3FE76B6F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d009b0403ce61d3a0cb3399ad195b3dec909b3ade81a3fa9c2e2397a70e9821e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4adabf9fadec956ae9a8052bc850f5ca3fe76b6f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-b6caddeccecc7b5c86d3362ecd9d86470946bdc3.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-b6caddeccecc7b5c86d3362ecd9d86470946bdc3.idx-8F8C72E7AB8464DCD925FE92887373A3D936BCB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4a0360ccd97e91b680bc6b059516a470190eadeb95e7ba810f41dfec9e3b6c2e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f8c72e7ab8464dcd925fe92887373a3d936bcb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/EventBus.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-EventBus.java-013FDFE4C5532F60CE8B4E5A6C2B08499A9FBA0E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5adeb23315b174e480a00fe475c962701e20454acd8787d9fe67c39a794fa00"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "013fdfe4c5532f60ce8b4e5a6c2b08499a9fba0e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/Poster.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Poster.java-81E7B03CF7955ABDDBE2D7A172ADC07B31542D3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2eca44cdd79ecf83edb8b95039eb45931641d0461ff69a2e4c512818259272f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81e7b03cf7955abddbe2d7a172adc07b31542d3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/android/AndroidDependenciesDetector.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-android-AndroidDependenciesDetector.java-F3914BDC7C96EE20C3A43A9A08557E517842E6EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9a8a981eaa26358f48a949de7e1e753035500ead537baacf0c36334c139482e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3914bdc7c96ee20c3a43a9a08557e517842e6ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/util/HasExecutionScope.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-HasExecutionScope.java-5BCD05DDBD5246E34D7FA8573A8B9E8690066F21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b93f70a7fa5708bd0f25efdd92270749d36dab6d5f3f23ab6a29a543d052a6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5bcd05ddbd5246e34d7fa8573a8b9e8690066f21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/src/main/java/org/greenrobot/eventbus/HandlerPoster.java",
+      "SPDXID": "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-HandlerPoster.java-F567A2F302ED52D45407F553D2CFDEDF398EC020",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "670c77b9f70a36d5b7db59e89ba978aaa1519c098143b625fb9db5d108b02d97"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f567a2f302ed52d45407f553d2cfdedf398ec020"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-AndroidManifest.xml-1A9152C7429F1E2A988775F546E8BE16049672CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef6514b3a911026e8f843367b68d340ce32ecf0bcb3439efeb5da2f45a52d9e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a9152c7429f1e2a988775f546e8be16049672cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/layout/activity_runtests.xml",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-layout-activity-runtests.xml-F1E155CCD12E3B6665FB5AE0854DAB71236D57F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d97a47e65bfd1722fd8b3a03bfa08d3593dd064c04c9c5bfb3daeaa0a8034ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1e155ccd12e3b6665fb5ae0854dab71236d57f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/TestRunnerActivity.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestRunnerActivity.java-53FC3D095573707DF5ABE2CA67B4D751D48428E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21b1ee627e2168291850e677f96933291f814f8e26d0138da49560f1074b4e7a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53fc3d095573707df5abe2ca67b4d751d48428e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/AbstractAndroidEventBusTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-AbstractAndroidEventBusTest.java-20B39C19F986ED9299A6BA35350D373DE9A2851D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42c5de672d798e11e3172d58e93af0af4f21f93751e9670aada655330c43a446"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20b39c19f986ed9299a6ba35350d373de9a2851d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusMainThreadRacingTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusMainThreadRacingTest.java-4821A86FDC83162FF68BF95C50BFEEA2DF6E814B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d5cef1391aa02f9223c728800111302d191a1c6f89d215aca0fafb0ad363e6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4821a86fdc83162ff68bf95c50bfeea2df6e814b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-68460F8072EB3E408E36E49CF5B6F2C52780C1A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad8395f60e4a2e3f36171675fa70a5b90a50650838965b90d5c8be2e88353113"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68460f8072eb3e408e36e49cf5b6f2c52780c1a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/BackgroundPoster.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-BackgroundPoster.java-B4270DDD472393855C8FE483F97DC4CAF4E9FAE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb0df5dee116bc918d429b043d1ab3064a2bf09a082a84968506eee2bec33f5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4270ddd472393855c8fe483f97dc4caf4e9fae0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/PendingPostQueue.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-PendingPostQueue.java-FACA749EEB97DC10E424EF8C8BA755B0E5B40608",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f024d6775685c05e02da636865734f6df09ce43247911940dec94e90c4321de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "faca749eeb97dc10e424ef8c8ba755b0e5b40608"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/android/AndroidComponents.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-android-AndroidComponents.java-2E1481341AE022807ECEF3B1849330065C0F55B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84001be2035860ca2f1308ac3339037720ff78275e7bdcb887d59814275fb045"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e1481341ae022807ecef3b1849330065c0f55b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/gradle.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-gradle.yml-8AA801C21D4EAECEA6D25F3E391BBBC898E72F79",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29304f21e78d622b46a637f1348bc2ff96ac220a347f8b32feee7195141ade25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8aa801c21d4eaecea6d25f3e391bbbc898e72f79"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/MainThreadSupport.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-MainThreadSupport.java-26C54438B8AB86030D6AA3C18DE9F15B21E37CEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf56a25e8a512cf8cc14036bec5c2bc84d8bf705bff029dccb5cf6e0243c6cb3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "26c54438b8ab86030d6aa3c18de9f15b21e37cef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/SubscriberMethodFinder.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-SubscriberMethodFinder.java-692152A20D30DEAC8601ED9574EBD013ED520CD3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0eb5e7def1858c729fa28676593d5de71d444eb38899aa6e405377b52d18acde"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "692152a20d30deac8601ed9574ebd013ed520cd3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/meta/SubscriberInfoIndex.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SubscriberInfoIndex.java-27470CB6048BCFC627B047442E23EDC78D805D4E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7f0ab20e1b31686969567217f75541ac173487a8e5ce910afd563f53071de759"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27470cb6048bcfc627b047442e23edc78d805d4e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/consumer-rules.pro",
+      "SPDXID": "SPDXRef-File--eventbus-android-consumer-rules.pro-D073F3B65548E616844D3E6EFF3191AB0BC921DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6330be0374ecf32ec35fcef27113e69e57a669f351aa4133241df16465f26f31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d073f3b65548e616844d3e6eff3191ab0bc921dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusAnnotationProcessor/build.gradle",
+      "SPDXID": "SPDXRef-File--EventBusAnnotationProcessor-build.gradle-076EA90EA9557F5D8E243C25A015357B8DE422CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5dc462b4f36a1a59568ea25b64c1471f6713d7072d309be5b55c754aa932568"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "076ea90ea9557f5d8e243c25a015357b8de422ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/drawable-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-drawable-hdpi-ic-launcher.png-4A5A9AFFBB731F195FC18FEA78D51BE7DB7536A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28c89918a8d235fcadf2e83bb14a6d9da9eab9e665857ad43b9f00e038f1f615"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a5a9affbb731f195fc18fea78d51be7db7536a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/TestEvent.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestEvent.java-53923E0B4280509598E91EDF59C668D3340BB5B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fc6a9ab071bafc476e1f3ef03aafb58c391b872eca1b0cc36827bb2526dafeb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53923e0b4280509598e91edf59c668d3340bb5b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/testsubject/SubscribeClassEventBusDefault.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-testsubject-SubscribeClassEventBusDefault.java-4C765A48D679CB55DFA99EFCA53AE44500C30988",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89147cb51d3beb9229b0e4644b2cc25d7f50e984f7ccbb212851a2bc8635f16f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c765a48d679cb55dfa99efca53ae44500c30988"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusAndroidCancelEventDeliveryTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidCancelEventDeliveryTest.java-76B5A974B7FA4D1A99744061E991896D70F22195",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "926b2ecbd6fccf6374f4586d937d80c2f2f187a2ad5fbd5ecf67b9454d6e1b6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76b5a974b7fa4d1a99744061e991896d70f22195"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusAndroidOrderTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusAndroidOrderTestWithIndex.java-9FF587DD34AF1067BBBF28AB7F1D6FA0DFF6DFB4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b509438945f1cc590aef8de377e3a3f2f380a97a52d55897409fdf4a730e990"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ff587dd34af1067bbbf28ab7f1d6fa0dff6dfb4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusMainThreadRacingTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMainThreadRacingTestWithIndex.java-1FF58FDE43A5D620DCFB8FAE76498AC1A8C07154",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "247822dc571e8c050d4678e35e2a045ccb38f6ceac1f962360b4c6fcdc104ff4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ff58fde43a5d620dcfb8fae76498ac1a8c07154"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusSubscriberExceptionTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusSubscriberExceptionTestWithIndex.java-3F08597ABC745435EC608181B80DA490EC2391A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9c50e88db864f55685f8282255e90b35c1e0a5d76c574d9f348be31b31894288"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f08597abc745435ec608181b80da490ec2391a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusCancelEventDeliveryTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusCancelEventDeliveryTest.java-2E156F0CB08A035B44B76E7EC48E3D509D613D1A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7cdc8d86876fe7592ce67cc9f6515ee147dec72c530d47e122c03423ab167a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e156f0cb08a035b44b76e7ec48e3d509d613d1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusInheritanceSubclassTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceSubclassTest.java-A372F3C6BCE74B7D692D99DBE44B41D060603E8F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27fb5ac7283b895dd2dfc20e43d0e2d4ee1dc4f868284aca3ef78489ab31fe96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a372f3c6bce74b7d692d99dbe44b41d060603e8f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusSubscriberInJarTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusSubscriberInJarTest.java-2A6148108387D71356A8389E7E6957CBD3CCA274",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f933a0bb8742be17654cec0c058479d2ac4a1e82aded58309dccb3d6280a2537"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a6148108387d71356a8389e7e6957cbd3cca274"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./javadoc-style/background.gif",
+      "SPDXID": "SPDXRef-File--javadoc-style-background.gif-98F3539691D595FA21DDAB9C3E44CBE255A79264",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a87cbc6daacd286bff54c745a9c79ce4d4638288a91523ef83fed2de9117fa0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98f3539691d595fa21ddab9c3e44cbe255a79264"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusInheritanceTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceTest.java-9A80031BB404BEA6BA0DB86489B4D78C6C8762F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf55dea87f2fe9c72595fa4c9d711366bfe85d21f5b6edbfa98fa13de3a60527"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a80031bb404bea6ba0db86489b4d78c6c8762f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusBuilderTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusBuilderTest.java-EDEA7B05D755D2961C3D3C23DAEC25911294CD8F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e3be18cdec9d5c67ae63bcb6d8bfaf78f014fdbd6766cea709591c906b78d48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "edea7b05d755d2961c3d3c23daec25911294cd8f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBus/src/org/greenrobot/eventbus/util/ExceptionToResourceMapping.java",
+      "SPDXID": "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-ExceptionToResourceMapping.java-FC8586505A6DAB1333FF415FF119A0517D3A3E51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "836686294ad24e3b8be2ef495d6040260d5c4b02b0f2a01d08fd7259d9e49a06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc8586505a6dab1333ff415ff119a0517d3a3e51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusFallbackToReflectionTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusFallbackToReflectionTestWithIndex.java-D3FBBB8BC69D87C7D38D525223C864B892BC7FFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "882f3a898afd6d2604ada54ad34a1104b48926d1dde1744e89a10e1234920e6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3fbbb8bc69d87c7d38d525223c864b892bc7ffd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusGenericsTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusGenericsTestWithIndex.java-2B713784F15039F2FFB9C6B556C106E457D93D0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a10eebac2de58f3447e7d39e4da793a2f12ce50bf212737dcdaa3e67b63e98a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b713784f15039f2ffb9c6b556c106e457d93d0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusGenericsTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusGenericsTest.java-C1087C63EA4224C6F3E171E71FD99A16BF971A5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08a65828f907657768f6168b40e9af8c928356a8cc828057efc969948afabdf5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1087c63ea4224c6f3e171e71fd99a16bf971a5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./eventbus-android/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--eventbus-android-src-main-AndroidManifest.xml-585E12C7D9546D74DF193B5530D33616D30D582D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e55483889a839ef1f959be4ca186dfaca4bf216aee06d102ab9e3c06ceb499db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "585e12c7d9546d74df193b5530d33616d30d582d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusSubscriberLegalTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusSubscriberLegalTest.java-8160CBF39D211C3214394F5D0CDF28796171A131",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ad3565be0773983563597b5489def6493a0f70fcf6e5481c6f3386bad44be2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8160cbf39d211c3214394f5d0cdf28796171a131"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusInheritanceDisabledTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceDisabledTest.java-B7679374F077C0871A5CC90B9E3C2AF49650AE4C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4babb62b883fba7bdb968fbd5c586c356aa2f486f90c82f2182bc22570d9de38"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b7679374f077c0871a5cc90b9e3c2af49650ae4c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusInheritanceSubclassNoMethodTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceSubclassNoMethodTest.java-963FB531C5F261489F181C764C3AA400905682FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36865606b647ea594dcb8db3efd75e5ba600967b3cd6b00c147a15c4f30bbf93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "963fb531c5f261489f181c764c3aa400905682ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusNoSubscriberEventTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusNoSubscriberEventTestWithIndex.java-6173DD13DCD45BA4B7DB574C11149888487F79BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e717227da843c5bf49ca8c9976d535b834a1efa647bed826ea369503979d1ee1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6173dd13dcd45ba4b7db574c11149888487f79ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusOrderedSubscriptionsTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusOrderedSubscriptionsTestWithIndex.java-8E4D1CE96D8C7829304FA3E91F666C5F9FE2F657",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "acaa6ea33b778d57e35a7311ae26dc810822d556e7a88196cc79b228588b6718"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e4d1ce96d8c7829304fa3e91f666c5f9fe2f657"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/.gitignore",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-.gitignore-1A0E060824B8E0E638855CA8DB372D2A58815F95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91726f2959bfcca7595b1c84713679bd2296bf69a9c0c48535994974f786f686"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a0e060824b8e0e638855ca8db372d2a58815f95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./javadoc-style/stylesheet.css",
+      "SPDXID": "SPDXRef-File--javadoc-style-stylesheet.css-E03191A051F2BF9B5344EC770F9D278F2A61851B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0bf6a9de7679499fc95029e94f31b5db2f683445b5a41272e36d2363e83a1c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e03191a051f2bf9b5344ec770f9d278f2a61851b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusMultithreadedTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusMultithreadedTest.java-C3B058E827C3A1011DDF9DC63DB5C4013149067C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6fce28b61c2ab349684bd4b52a33859b897db12bb32efeaf6eebd9c742e94ef7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3b058e827c3a1011ddf9dc63db5c4013149067c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusStickyEventTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusStickyEventTest.java-AC75ABF1F313FC00BA07527C787A4C259E7C06A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "caefe0d8d1d95ad3877afb2fc372eb6b0f199e33630a93bbd8685b5e7f3b2d59"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac75abf1f313fc00ba07527c787a4c259e7c06a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusSubscriberExceptionTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusSubscriberExceptionTest.java-CCDE901452979F12F89E80C3ADBE0D4F8ECEFFD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fdb78b9341792dee851e1ec00912db05089a65f1c5cf3da2b99d7eca6c4dc675"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ccde901452979f12f89e80c3adbe0d4f8eceffd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/res/drawable-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-res-drawable-xhdpi-ic-launcher.png-82ACDD75E3FCC36026109406625EDC69D4D7212D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9c73c0298e96e08af5c28896b8482503fce0bb9bc29696cadcbdc6e98218041"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82acdd75e3fcc36026109406625edc69d4d7212d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/IntTestEvent.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-IntTestEvent.java-8984283C73C9BDC177863DA661391D6EBECF7BDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f71c50641ffe638ea0bf38faac2cc5dd721f925107158b3a3d97ec4686692065"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8984283c73c9bdc177863da661391d6ebecf7bdd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-0E7772844A8DF0F0751AC76A6851069569548E20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c947117c355d67db39e760e5a29e7bbd24e7a67e0848ffbf91c9cfcf480355c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e7772844a8df0f0751ac76a6851069569548e20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/AbstractEventBusTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-AbstractEventBusTest.java-A85ACB3F3F2D5C4FDE95CC96304A027FA722B53A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa15e997ec850092a74864e618dc5032fd7b8fcc79c8b8ef6277fa1270fc21fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a85acb3f3f2d5c4fde95cc96304a027fa722b53a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2685E1A923D4C79DD549889406C6FFA9E8661744",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2685e1a923d4c79dd549889406c6ffa9e8661744"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusPerformance/src/org/greenrobot/eventbusperf/TestRunner.java",
+      "SPDXID": "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestRunner.java-B5E927EA2DA9DD495949666A4237D9F13797C3FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9203c529408f82beca90b69f1e07e3f278d1418407bf0c64ae3a6253e6ece668"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5e927ea2da9dd495949666a4237d9f13797c3fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusInheritanceDisabledSubclassTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceDisabledSubclassTest.java-6D2652063CB59237CB1DF0EF31EF2F280F648B71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b500181561f2336145d7deb3e3852036645260d494274bf51f84633e1a27a74"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d2652063cb59237cb1df0ef31ef2f280f648b71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/libs/EventBusTestSubscriberInJar-3.0.0.jar",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-libs-EventBusTestSubscriberInJar-3.0.0.jar-8B55E511A09540AEB3E14F5B94BDE6A99D70FDC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a23e235f473e51f3188642d120284178181a4e4f6af7cb88d3394584af4f710c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b55e511a09540aeb3e14f5b94bde6a99d70fdc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusRegistrationRacingTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusRegistrationRacingTest.java-1CB3D5B6976BB9ACD76FDA837404069C7AFA974E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7841e63d7967f126c4ff9892897eb8eb34e04864607cce7a08c5f8e9d09df744"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cb3d5b6976bb9acd76fda837404069c7afa974e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusInheritanceDisabledSubclassNoMethod.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceDisabledSubclassNoMethod.java-6E92656C72BB0D9FA1E03591B0B4F996161FB4A5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b2e649283e621fa5bbf64ce3899dbe11f005266b0d66e26b8e0aedca12f03af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e92656c72bb0d9fa1e03591b0b4f996161fb4a5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/publish.gradle",
+      "SPDXID": "SPDXRef-File--gradle-publish.gradle-B7309DD7CCE6A898314DC1BA919166909077524F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54c5cfebf17cde2d830b4dc33fcf686d9264269404deca87793105d3820d6922"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b7309dd7cce6a898314dc1ba919166909077524f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusOrderedSubscriptionsTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusOrderedSubscriptionsTest.java-ACCE35D969CB1CD3215962C611B7CA2A57280E0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd2307c121cb3e0c955d448764409c758c71ccd8ab5608623f182bbbff528fff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acce35d969cb1cd3215962c611b7ca2a57280e0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/libs/EventBusTestSubscriberInJar-3.0.0.jar",
+      "SPDXID": "SPDXRef-File--EventBusTest-libs-EventBusTestSubscriberInJar-3.0.0.jar-8B55E511A09540AEB3E14F5B94BDE6A99D70FDC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a23e235f473e51f3188642d120284178181a4e4f6af7cb88d3394584af4f710c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b55e511a09540aeb3e14f5b94bde6a99d70fdc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestSubscriberInJar/src/org/greenrobot/eventbus/SubscriberInJar.java",
+      "SPDXID": "SPDXRef-File--EventBusTestSubscriberInJar-src-org-greenrobot-eventbus-SubscriberInJar.java-E64A8158D6AAD8B131E78EA5E5AC460DBD80460F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "daca926d69b51e975c698066013c4a63cea3636a51a3e40e15dc59974b59ee1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e64a8158d6aad8b131e78ea5e5ac460dbd80460f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/EventBusBackgroundThreadTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusBackgroundThreadTest.java-CDDB5AB55777EDEE3214A0CFA97CA69250896D44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b30bb730d76903e860bea5a485334945b8b11b32e6860fdea539b6c86d020532"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cddb5ab55777edee3214a0cfa97ca69250896d44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusCancelEventDeliveryTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusCancelEventDeliveryTestWithIndex.java-1AC421622F33CCA4E21FC746C13A277CEEAB8698",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30803a15f270822446a8cf3ebb681a573a9adcf30643112bb9340158ee63904f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ac421622f33cca4e21fc746c13a277ceeab8698"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTest/src/org/greenrobot/eventbus/indexed/EventBusMultithreadedTestWithIndex.java",
+      "SPDXID": "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMultithreadedTestWithIndex.java-185F4E36087E18B789524308167B19138EA68460",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8cb6694a75d4c5e627bd2e2cf364c99c408fbbb7021f42f233c9879683ba8fff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "185f4e36087e18b789524308167b19138ea68460"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/build.gradle",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-build.gradle-D205A1D72F166E733AB62D4DFFAE512F0A943091",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e977d30b4241eb185baa344ea4acc4ead9c8916ccb9514469b7d6f1efb36c8b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d205a1d72f166e733ab62d4dffae512f0a943091"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusIndexTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusIndexTest.java-0B2CBE6DC7AB03712D46E38E989F327927E80C50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2939cc46c56049ce72c07d91de52e039c14047094eef6b3efd95e623fab78b34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b2cbe6dc7ab03712d46e38e989f327927e80c50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestJava/src/main/java/org/greenrobot/eventbus/EventBusNoSubscriberEventTest.java",
+      "SPDXID": "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusNoSubscriberEventTest.java-D5F6A67F9E04A024F6D11DF205D9D78FB3E50E99",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22bb6c00632439c8bd847bff931f382c109e97f48301d02f01aa1e0bf137c1e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5f6a67f9e04a024f6d11df205d9d78fb3e50e99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./EventBusTestSubscriberInJar/build.gradle",
+      "SPDXID": "SPDXRef-File--EventBusTestSubscriberInJar-build.gradle-BCEE2881F32CEA84C07B6B67DF6AD23987A02F44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a182cd43aa5ce034cf671f4d889edc8eaeb15d90d61af577da0da6a9a2bb55ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bcee2881f32cea84c07b6b67df6ad23987a02f44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "EventBus",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "9148d22d7bc9bca3667bf56911e35f9a8b1e8c7f"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.3.1",
+      "supplier": "Organization: https://github.com/greenrobot/EventBus",
+      "hasFiles": [
+        "SPDXRef-File--EventBusTest-libs-EventBusTestSubscriberInJar-3.0.0.jar-8B55E511A09540AEB3E14F5B94BDE6A99D70FDC2",
+        "SPDXRef-File--gradle-publish.gradle-B7309DD7CCE6A898314DC1BA919166909077524F",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMultithreadedTestWithIndex.java-185F4E36087E18B789524308167B19138EA68460",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusBackgroundThreadTest.java-CDDB5AB55777EDEE3214A0CFA97CA69250896D44",
+        "SPDXRef-File--EventBusTestSubscriberInJar-src-org-greenrobot-eventbus-SubscriberInJar.java-E64A8158D6AAD8B131E78EA5E5AC460DBD80460F",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusRegistrationRacingTest.java-1CB3D5B6976BB9ACD76FDA837404069C7AFA974E",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceDisabledSubclassTest.java-6D2652063CB59237CB1DF0EF31EF2F280F648B71",
+        "SPDXRef-File--EventBusTestJava-libs-EventBusTestSubscriberInJar-3.0.0.jar-8B55E511A09540AEB3E14F5B94BDE6A99D70FDC2",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2685E1A923D4C79DD549889406C6FFA9E8661744",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-0E7772844A8DF0F0751AC76A6851069569548E20",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusNoSubscriberEventTest.java-D5F6A67F9E04A024F6D11DF205D9D78FB3E50E99",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusIndexTest.java-0B2CBE6DC7AB03712D46E38E989F327927E80C50",
+        "SPDXRef-File--EventBusTestJava-build.gradle-D205A1D72F166E733AB62D4DFFAE512F0A943091",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusCancelEventDeliveryTestWithIndex.java-1AC421622F33CCA4E21FC746C13A277CEEAB8698",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusOrderedSubscriptionsTest.java-ACCE35D969CB1CD3215962C611B7CA2A57280E0C",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestRunner.java-B5E927EA2DA9DD495949666A4237D9F13797C3FB",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-IntTestEvent.java-8984283C73C9BDC177863DA661391D6EBECF7BDD",
+        "SPDXRef-File--EventBusPerformance-res-drawable-xhdpi-ic-launcher.png-82ACDD75E3FCC36026109406625EDC69D4D7212D",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusMultithreadedTest.java-C3B058E827C3A1011DDF9DC63DB5C4013149067C",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusSubscriberExceptionTest.java-CCDE901452979F12F89E80C3ADBE0D4F8ECEFFD0",
+        "SPDXRef-File--javadoc-style-stylesheet.css-E03191A051F2BF9B5344EC770F9D278F2A61851B",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusOrderedSubscriptionsTestWithIndex.java-8E4D1CE96D8C7829304FA3E91F666C5F9FE2F657",
+        "SPDXRef-File--eventbus-android-src-main-AndroidManifest.xml-585E12C7D9546D74DF193B5530D33616D30D582D",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusGenericsTest.java-C1087C63EA4224C6F3E171E71FD99A16BF971A5C",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusGenericsTestWithIndex.java-2B713784F15039F2FFB9C6B556C106E457D93D0A",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusFallbackToReflectionTestWithIndex.java-D3FBBB8BC69D87C7D38D525223C864B892BC7FFD",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-ExceptionToResourceMapping.java-FC8586505A6DAB1333FF415FF119A0517D3A3E51",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusBuilderTest.java-EDEA7B05D755D2961C3D3C23DAEC25911294CD8F",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceTest.java-9A80031BB404BEA6BA0DB86489B4D78C6C8762F2",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-android-AndroidComponents.java-2E1481341AE022807ECEF3B1849330065C0F55B9",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-PendingPostQueue.java-FACA749EEB97DC10E424EF8C8BA755B0E5B40608",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-BackgroundPoster.java-B4270DDD472393855C8FE483F97DC4CAF4E9FAE0",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-68460F8072EB3E408E36E49CF5B6F2C52780C1A0",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusMainThreadRacingTest.java-4821A86FDC83162FF68BF95C50BFEEA2DF6E814B",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-AbstractAndroidEventBusTest.java-20B39C19F986ED9299A6BA35350D373DE9A2851D",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestRunnerActivity.java-53FC3D095573707DF5ABE2CA67B4D751D48428E9",
+        "SPDXRef-File--EventBusPerformance-res-layout-activity-runtests.xml-F1E155CCD12E3B6665FB5AE0854DAB71236D57F4",
+        "SPDXRef-File--EventBusPerformance-AndroidManifest.xml-1A9152C7429F1E2A988775F546E8BE16049672CC",
+        "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-HandlerPoster.java-F567A2F302ED52D45407F553D2CFDEDF398EC020",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-HasExecutionScope.java-5BCD05DDBD5246E34D7FA8573A8B9E8690066F21",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-android-AndroidDependenciesDetector.java-F3914BDC7C96EE20C3A43A9A08557E517842E6EE",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Poster.java-81E7B03CF7955ABDDBE2D7A172ADC07B31542D3E",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-EventBus.java-013FDFE4C5532F60CE8B4E5A6C2B08499A9FBA0E",
+        "SPDXRef-File--.git-objects-pack-pack-b6caddeccecc7b5c86d3362ecd9d86470946bdc3.idx-8F8C72E7AB8464DCD925FE92887373A3D936BCB7",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-4ADABF9FADEC956AE9A8052BC850F5CA3FE76B6F",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusBasicTest.java-ED8461E8D8C0C9A93DAF1AA7F26D178490B0E3D5",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusRegistrationRacingTestWithIndex.java-0D882DABC50E32B9B9888B3AE420EA558C2FACD6",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusInheritanceDisabledTestWithIndex.java-A608B0A2F2E0A9460621F949E362DBF9C97A4B75",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusMethodModifiersTest.java-964994C9DFC73EB59A0F703AA41F025794BAD0EA",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-ClassMapPerfTest.java-0444EBFBF0A8290CDB452BF0FAEBCAB6DF9117CD",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-testsubject-PerfTestEventBus.java-E1959542A52F70BCF12747AB3F69DA8BCA628524",
+        "SPDXRef-File--EventBusPerformance-res-values-strings.xml-96512E7C650ACA3FD6D84FF420383B60A5D499E3",
+        "SPDXRef-File--EventBusPerformance-proguard-project.txt-87A189515A2DF10A1EFDA8B6AD445569DFA20BE1",
+        "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-android-AndroidLogger.java-9337101373480139489253CF3004968D7293A1E7",
+        "SPDXRef-File--eventbus-android-.gitignore-FA0B121693FCB526DC3D1574FAAD10ABFB80541E",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SimpleSubscriberInfo.java-B14747F4ACC72AE0837DC596431B3BC5C432B491",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-SubscriberExceptionEvent.java-E9CB8D83476E4AAF5692D076FA17C13DAE1EA253",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-EventBusException.java-3C614ACE31AF8433EAAA958617F029BDE345E496",
+        "SPDXRef-File--.git-refs-heads-master-7F4007BC6652B45973DC9B68648CA0193EC70777",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-EE665B82A43265F40475DE696C3AA743CD6F919D",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusMainThreadTest.java-EB3E01241B8AE179E49744D9DE1707D4DDD344D3",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-AndroidComponentsAvailabilityTest.java-2E530496AB2845AAD8F88F30E6D56C852795F685",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestSetupActivity.java-8E767E85C1488FF11B4B7C4A71C12F6E5A06EDFA",
+        "SPDXRef-File--EventBusPerformance-res-layout-activity-setuptests.xml-772202BE96D1C7F286649624CA6EA16DBCE7C640",
+        "SPDXRef-File--EventBusPerformance-build.gradle-C25E06AB208C3C57B74D2EE0002354FD956B0587",
+        "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-android-AndroidComponentsImpl.java-C8D83E1B2296BE5F3F54BD7E10BDB2AAD4928180",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-ThrowableFailureEvent.java-3E6FBFA57144A52182E097F318177CFF480F7FF9",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-AbstractSubscriberInfo.java-FBD769BDE592FB972BE68C2D73EE133DB84FA00A",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Subscribe.java-350D99DCE2C42B09B0736013D7267050D580EA5F",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-EventBusBuilder.java-F768C189A447C9BFA887C94AA87FE3ADD9DBFD8C",
+        "SPDXRef-File--.git-objects-pack-pack-b6caddeccecc7b5c86d3362ecd9d86470946bdc3.pack-0F243D7DA966FDB2EBC7D16C11D420A18BA30BE5",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-DC46B944CC1C325F6AD34041E2EDAF2995CF630E",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusStickyEventTestWithIndex.java-61577EC21449C7122E7C559385E59907C29C7DEF",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusInheritanceTestWithIndex.java-6CAEE60785D4CD9F503340646D7649727ECA49B6",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-TestBackgroundPoster.java-C901F77F52E5C29F0A021DC12DA15D31B9BAC7D3",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidActivityTest.java-8145904FC452165ED49CE46B68F944E5CCBE8A91",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-testsubject-PerfTestOtto.java-8195DC4CF4FE7730F616444500DC1E09BA1A3415",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-Test.java-453CC857AD9C97B47FEEEB1AB62529CC5B8FCE60",
+        "SPDXRef-File--EventBusPerformance-project.properties-AFDE10F683350B8492290C2056C6A7D2851E86CA",
+        "SPDXRef-File--eventbus-android-src-main-java-org-greenrobot-eventbus-android-DefaultAndroidMainThreadSupport.java-7D32659E13F434AB7D8BE4DEF716FEDA953766EF",
+        "SPDXRef-File--eventbus-android-build.gradle-7637344B6F0CFD55F8C8FDC5335FDF2003DA72E4",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SubscriberInfo.java-DDC5C36C20911C1F0C0329607B3DAEA1149E4092",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-SubscriberMethod.java-918F720A1FB987C540FA27215C769436ABB0CE95",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Logger.java-E5E3493C9CE6C1EA88BD2AE4637E520EADB26E81",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--CONTRIBUTING.md-BBB4F9635DAB5EB62C2793AA5BE449E1DF086673",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceDisabledSubclassNoMethod.java-6E92656C72BB0D9FA1E03591B0B4F996161FB4A5",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-AbstractEventBusTest.java-A85ACB3F3F2D5C4FDE95CC96304A027FA722B53A",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusStickyEventTest.java-AC75ABF1F313FC00BA07527C787A4C259E7C06A9",
+        "SPDXRef-File--EventBusPerformance-.gitignore-1A0E060824B8E0E638855CA8DB372D2A58815F95",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusNoSubscriberEventTestWithIndex.java-6173DD13DCD45BA4B7DB574C11149888487F79BA",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceSubclassNoMethodTest.java-963FB531C5F261489F181C764C3AA400905682FF",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceDisabledTest.java-B7679374F077C0871A5CC90B9E3C2AF49650AE4C",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusSubscriberLegalTest.java-8160CBF39D211C3214394F5D0CDF28796171A131",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusFallbackToReflectionTest.java-AE4607530E01842F84C1B8F573279BCFD260FCC7",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusSubscriberInJarTestWithIndex.java-FFAEDCF6DD7D8A5D25FE991BD2AFD00EB5DDBEB0",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMainThreadTestWithIndex.java-68C0EE3E93C6C72BD2C74D9E961E29F1E6C84501",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusBackgroundThreadTestWithIndex.java-779AD4EC0E177ACBD3E058677C73562235AB2B49",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidMultithreadedTest.java-5EBE290AE64A8C00FB9BC9F56039718809714DBE",
+        "SPDXRef-File--EventBusTest-AndroidManifest.xml-DA84A0934DF7D90E8DDCE0514BD24AC5A8F4E141",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestFinishedEvent.java-F6A72ADCD71D9F75440D4A3B0E66D812DBA6CC37",
+        "SPDXRef-File--EventBusPerformance-res-drawable-ldpi-ic-launcher.png-68B8AB0D3181D74D05641DA4C5ED13465EA1A997",
+        "SPDXRef-File--EventBusAnnotationProcessor-res-META-INF-services-javax.annotation.processing.Processor-E8720FEF21E9E669C6267277031891658AD7A078",
+        "SPDXRef-File--eventbus-android-proguard-rules.pro-B0BBFCD49EEADB0BD1E946D70AF5EB52D6CE67DF",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SubscriberMethodInfo.java-772B4304C0A88A25F325E9B525AC2440CF3569A9",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-Subscription.java-CB78F1E04C126EF20B23DDC778F957820D5D4D57",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-NoSubscriberEvent.java-2C5ED7AB31ECAD984BCFEAC301CDB551506A0A77",
+        "SPDXRef-File--EventBus-build.gradle-D26DEAD957D036B4C2B76B0E208639F6B8DDE3D8",
+        "SPDXRef-File--.git-logs-HEAD-68460F8072EB3E408E36E49CF5B6F2C52780C1A0",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-43665FC5BFF8552C89E9E57F95592D6CCE24DD46",
+        "SPDXRef-File--javadoc-style-background.gif-98F3539691D595FA21DDAB9C3E44CBE255A79264",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusSubscriberInJarTest.java-2A6148108387D71356A8389E7E6957CBD3CCA274",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusInheritanceSubclassTest.java-A372F3C6BCE74B7D692D99DBE44B41D060603E8F",
+        "SPDXRef-File--EventBusTestJava-src-main-java-org-greenrobot-eventbus-EventBusCancelEventDeliveryTest.java-2E156F0CB08A035B44B76E7EC48E3D509D613D1A",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusSubscriberExceptionTestWithIndex.java-3F08597ABC745435EC608181B80DA490EC2391A9",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMainThreadRacingTestWithIndex.java-1FF58FDE43A5D620DCFB8FAE76498AC1A8C07154",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusAndroidOrderTestWithIndex.java-9FF587DD34AF1067BBBF28AB7F1D6FA0DFF6DFB4",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidCancelEventDeliveryTest.java-76B5A974B7FA4D1A99744061E991896D70F22195",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-testsubject-SubscribeClassEventBusDefault.java-4C765A48D679CB55DFA99EFCA53AE44500C30988",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestEvent.java-53923E0B4280509598E91EDF59C668D3340BB5B1",
+        "SPDXRef-File--EventBusPerformance-res-drawable-hdpi-ic-launcher.png-4A5A9AFFBB731F195FC18FEA78D51BE7DB7536A2",
+        "SPDXRef-File--EventBusAnnotationProcessor-build.gradle-076EA90EA9557F5D8E243C25A015357B8DE422CE",
+        "SPDXRef-File--eventbus-android-consumer-rules.pro-D073F3B65548E616844D3E6EFF3191AB0BC921DC",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-meta-SubscriberInfoIndex.java-27470CB6048BCFC627B047442E23EDC78D805D4E",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-SubscriberMethodFinder.java-692152A20D30DEAC8601ED9574EBD013ED520CD3",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-MainThreadSupport.java-26C54438B8AB86030D6AA3C18DE9F15B21E37CEF",
+        "SPDXRef-File--.github-workflows-gradle.yml-8AA801C21D4EAECEA6D25F3E391BBBC898E72F79",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-Indexed.java-FD61DCF6C2DDA4683CC53979C333B98D9B4D4B43",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusMethodModifiersTestWithIndex.java-BB74AA84D50460EB47255436F5B5A9EBCBC1884D",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-indexed-EventBusBasicTestWithIndex.java-454423B1C2010B621037D8A8D1E3D6DE40B1BC72",
+        "SPDXRef-File--EventBusTest-src-org-greenrobot-eventbus-EventBusAndroidOrderTest.java-B3758DE216685D814E25B576B25C6A45DD51AAA1",
+        "SPDXRef-File--EventBusTest-build.gradle-B4A8AC6E35FA5216DC6186B47524515FD9B8580E",
+        "SPDXRef-File--EventBusPerformance-src-org-greenrobot-eventbusperf-TestParams.java-90D57F80427B99C9C8827FA9433FA78CEEE4D41C",
+        "SPDXRef-File--EventBusPerformance-res-drawable-mdpi-ic-launcher.png-7761BCEAF18ED25CDBA5F34BF00A55616D078ACF",
+        "SPDXRef-File--EventBusAnnotationProcessor-src-org-greenrobot-eventbus-annotationprocessor-EventBusAnnotationProcessor.java-ED3F5F384472A667EE07F3F442A319E24E58B386",
+        "SPDXRef-File--eventbus-android-README.md-D90E5C09A1891B2A768D8F70547C4FC525E7E3DA",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-util-AsyncExecutor.java-CEE569C64AACEBFFA89A3C06FFCBB5495A298CBC",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-ThreadMode.java-49B5542CA43D9C203323520011008E29B671255E",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-PendingPost.java-887E236B4B9798A52D3AFA3BAB1BD7DF13332C01",
+        "SPDXRef-File--EventBus-src-org-greenrobot-eventbus-AsyncPoster.java-8BC01A38FEAD7F2B78E0EB3FA4D863F21359CB26",
+        "SPDXRef-File--.git-logs-refs-heads-master-68460F8072EB3E408E36E49CF5B6F2C52780C1A0",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-8FEE7FE1C682CCCE78A160534AEAA7A690A71D1B",
+        "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+        "SPDXRef-File--EventBusTestSubscriberInJar-build.gradle-BCEE2881F32CEA84C07B6B67DF6AD23987A02F44",
+        "SPDXRef-File--gradlew-9BDA1A2991CD050CC2FBF008FD3E5A9672B63EB6",
+        "SPDXRef-File--LICENSE-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+        "SPDXRef-File--.gitignore-1DCDA0366A25C9CB4E4CC336D206BEB732E7EC77",
+        "SPDXRef-File--build.gradle-627629EAC74931517A18A5359F213AB151089CFF",
+        "SPDXRef-File--COMPARISON.md-70E54514F97ED339926EBDFE0B5E9C570CE354B2",
+        "SPDXRef-File--EventBus-Publish-Subscribe.png-629501BCC1BD8B79D295F21F3AD33092E7C3CC1C"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "EventBus 3.3.1",
+  "documentNamespace": "https://eventbus.greenrobot.org/EventBus/3.3.1/kFqXPLoQekqMTfJt7T1Ylw",
+  "creationInfo": {
+    "created": "2022-09-20T03:27:48Z",
+    "creators": [
+      "Organization: https://github.com/greenrobot/EventBus",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,3348 @@
+{
+  "files": [
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-0EA9151A8B9BD9662A79A1A9D48702F3DCBF7B8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d5cfe86cec8718e743fca5b55d006b34fae68547752f9329c2a13d0dfaa854c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ea9151a8b9bd9662a79a1a9d48702f3dcbf7b8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1f7bbd6029d20bafae22755bf7c2ea3782bcf5251991694e1318a2d1943fd09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bc8eed14c590a2e5ff425d83ef11c552643576"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-21A57EA6FBDB31DE6E15A61657582B48BF71BE3C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4ee2f8829e1cd4f75f2590173caf0882cdef6ef42d61a01bcd7202a85bf9a2d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21a57ea6fbdb31de6e15a61657582b48bf71be3c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-C08B8155CDF18000F457C40EBC0153CDAE388B47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ffe4a7d2b273c3c70a2efcfc10bb811048e63d33cc1ba5055308424f92e5f2d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c08b8155cdf18000f457c40ebc0153cdae388b47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-9B03AFB278AD184FEB357CCEB4754FE6F86A595B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10e8d373e492ebd09e32d0a14d9964447d40de19752121c089ea3add7cb2d469"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9b03afb278ad184feb357cceb4754fe6f86a595b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-9171C118F161E9973C38153D67FC25838426B1C0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6a9ee5ec3c94906c52eafbbdf731d14e552ef97ef213cdfbb280113833be0f1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9171c118f161e9973c38153d67fc25838426b1c0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-501A6C6F39FF326417CC288EA399C71B0F9EF516",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08c7efad7edfb2c05de62102d1f065a59303fdbc3c05a4b9a4ede32b80677c0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "501a6c6f39ff326417cc288ea399c71b0f9ef516"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-B1585E1E3F45D96253E8614C67073DD8FA6A59EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "776e451f4fd1adb1fe7745d819918c6af3f44311eec04164317ee8ada594796f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1585e1e3f45d96253e8614c67073dd8fa6a59ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.md-FA53AC25A1DEB9915BDE79D919790000C66F7CC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0397aa3b58728c4b326ddb3eabd6a2de7b08a622456f7d3aa69b7795d1c30347"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa53ac25a1deb9915bde79d919790000c66f7cc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf68b95a4029e352fe1ee002bb367ac1b686f9ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./NOTICE.txt",
+      "SPDXID": "SPDXRef-File--NOTICE.txt-777A8891FA956113042D826F9AB1A18221BAECF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "717dc6cb6b1cdf29cedbda4036c0fa2cafba268f997137b19958e774d4c66f1c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "777a8891fa956113042d826f9ab1a18221baecf8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-86219AD1C96F1D3C121ED7D025AABF6406B766FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b348fef5f293cbbf8ca1d7bcbef3aa8e51b0df3ea6b6f8eee196ad3b29b51f54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "86219ad1c96f1d3c121ed7d025aabf6406b766fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-0EF642316D6EFF6F87477C34BA231E0FD2BDE914",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a22e5d6a83228f896c8ce1627c66513b7199626fd89579704de23b318fad0ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ef642316d6eff6f87477c34ba231e0fd2bde914"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-45DCBBFB2E3F17B6E8FB9670856E2929C5100892",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7740da42808c0d8394e05f828f5a961d99d78a6bfa7463692194688eaf9d624b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "45dcbbfb2e3f17b6e8fb9670856e2929c5100892"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/Base64.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-Base64.java-7C9DF5E3EBD20CD02A0D9D1161D9021C15089B4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e5686b96e8a99035b06fb81f5219479995fb0cd0992e197ae6ac66fbd73c9196"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c9df5e3ebd20cd02a0d9d1161d9021c15089b4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/DataAsyncHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-DataAsyncHttpResponseHandler.java-100E165946AEC2F839636236B430E26B8EC9ED09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68b4d2c15cb8b3e2a83218489681bf9bd1c81d479d79e51cf441f6c4127c5419"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "100e165946aec2f839636236b430e26b8ec9ed09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/LogInterface.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-LogInterface.java-D937A0B30F02CCE68472146A82F9FC92EA6FF0E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c192160e19501184f8812c55ca0dc36e7123cd7c2406c0c873e8fa37af1d76e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d937a0b30f02cce68472146a82f9fc92ea6ff0e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/RequestParams.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-RequestParams.java-492336F267FB1564BE043C57F20DA1A4F5158AC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "204d7a457c3e71546351ca5fb9dbe371cde35b8e8d4b55cf1b586348a4100187"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "492336f267fb1564be043c57f20da1a4f5158ac7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/TokenCredentials.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-TokenCredentials.java-1DC81EC92A3C7AB0B19B940FF931F68EC0C00728",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b3f28c1468c77ad6d1c6d9c226363f95890721008f08e9b620ed52cccb6293f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1dc81ec92a3c7ab0b19b940ff931f68ec0c00728"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./maven_push.gradle",
+      "SPDXID": "SPDXRef-File--maven-push.gradle-D7557B45CF46482FFE628D5ABFDCC89B30A8C641",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "204fa62de8d33c4f60276abfcd6a44de0f2ff1036a9c8d0c08114ac9395790c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7557b45cf46482ffe628d5abfdcc89b30a8c641"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-C4A29950E22602113A77FDF8E2F149638E04BBB5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c83a1763a86cadb9b79932a96138e6a4475eed67e4253af3e4aebac0e358a15"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4a29950e22602113a77fdf8e2f149638e04bbb5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-0EF642316D6EFF6F87477C34BA231E0FD2BDE914",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a22e5d6a83228f896c8ce1627c66513b7199626fd89579704de23b318fad0ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ef642316d6eff6f87477c34ba231e0fd2bde914"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-7C1E9E9613F350F1797FF30013C39689C86A5325",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "718d7b25ea60b357fc4cb2212ce10b3f03dfd0e6fe5f23f565b15553ec46bb7e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c1e9e9613f350f1797ff30013c39689c86a5325"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/AsyncHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-AsyncHttpResponseHandler.java-10480D63828501E3FBD22F0CCC88CE23DB4102A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b92caa3db13c0c214dde662ceb39069d784d0b485d8e111461ab634493cbe6cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10480d63828501e3fbd22f0ccc88ce23db4102a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/ConscryptSSLProvider.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-ConscryptSSLProvider.java-4D76FA581786DC3964890A2EC85A365D3F5F260E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6020aa31b5dcc4bb256dafb073891b103e2df056235e3995424b381c38f935ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d76fa581786dc3964890a2ec85a365d3f5f260e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/LogHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-LogHandler.java-D592CA4765879D3480BDA5C9419A458C47F9FF6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4bccaf8ccc3cbe1a7c0ee7b0b0266cdd169c05d237475fdf88d99826f38a5662"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d592ca4765879d3480bda5c9419a458c47f9ff6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/RequestHandle.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-RequestHandle.java-2CD7293DA780A90F80BB55B7E9B6D883D2F64628",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "732ae8f8b880d4975fe0a004c6aed0c3f9f457e03d849ff1a1c835d38ad1cb34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2cd7293da780a90f80bb55b7e9b6d883d2f64628"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.md",
+      "SPDXID": "SPDXRef-File--LICENSE.md-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/gradle-wrapper-validation.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-gradle-wrapper-validation.yml-28CCA120243FADA2BB1BD9F51FB0D28979FF19B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3036e5fe95da1356411e24c42bfaf23b34d83607060332fabb6d170a9b7eb5e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28cca120243fada2bb1bd9f51fb0d28979ff19b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/AsyncHttpRequest.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-AsyncHttpRequest.java-FC7CCEAE719A0384643D6C5B22BF1D9A2721D4CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd2c60422cab5e8c0d9ee2abe57f9ce20fdedb7d1b85f98c431cd2d16a5fe510"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc7cceae719a0384643d6c5b22bf1d9a2721d4cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/BlackholeHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-BlackholeHttpResponseHandler.java-1AA00A3103F2DD74776624ACF3ED1EDE302BC323",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22dd817c1b882f38051503d3eea45a48f60930e6101abbe9134592ac11edd11c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1aa00a3103f2dd74776624acf3ed1ede302bc323"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/JsonValueInterface.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-JsonValueInterface.java-FCC3B85255812BD0870C3EC6962B87271BD7268A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2010c336ddaff7d87d3c4afd5e082399f1769c3f2585d8aeffbcd68039538eac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fcc3b85255812bd0870c3ec6962b87271bd7268a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/RangeFileAsyncHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-RangeFileAsyncHttpResponseHandler.java-CBE8C43E045043BEC74F20D7A8A441B9E59A8F17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76d1fd223dd1bf6e879730961f880b11e79984c924125e48c75df3c3c00e643d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cbe8c43e045043bec74f20d7a8a441b9e59a8f17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/SyncHttpClient.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-SyncHttpClient.java-143E8EE4D354A362739882E4772E934D46EA72C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8067f2a7d9d52fc01e59dd70d62d632a03b1c22aa9fad8b729e2c391bb3ce6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "143e8ee4d354a362739882e4772e934d46ea72c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./PUBLISHING.md",
+      "SPDXID": "SPDXRef-File--PUBLISHING.md-E428FE42BF6698882D675D7764EA2DC87B65DF84",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00bfad323cb3cd7b1dea0322e2d3193aab618bcb082c9ef8e229a982e11d8b1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e428fe42bf6698882d675d7764ea2dc87b65df84"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-0EF642316D6EFF6F87477C34BA231E0FD2BDE914",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a22e5d6a83228f896c8ce1627c66513b7199626fd89579704de23b318fad0ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ef642316d6eff6f87477c34ba231e0fd2bde914"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/build.gradle",
+      "SPDXID": "SPDXRef-File--library-build.gradle-209F07980154F9DE163564CE9C18735EC04181A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44338fdbbb7994182de562d45be2671260f44481762ec6b548924745ca3ff65c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "209f07980154f9de163564ce9c18735ec04181a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/Base64DataException.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-Base64DataException.java-CBBA2936023A71B8F11F3C89F19F1BD704090E0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af37417302681cdd61c834b63527a13379578af42156a5bde0ce7ac925b70324"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cbba2936023a71b8f11f3c89f19f1bd704090e0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/FileAsyncHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-FileAsyncHttpResponseHandler.java-FB0EE5B5F27E93E1E549FDA8F48868A04A244A6F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "055f70ef7f110fc444f4d485037b15eec8a07c3e085cfe3254fab3eca8a8975a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb0ee5b5f27e93e1e549fda8f48868a04a244a6f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/MyRedirectHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-MyRedirectHandler.java-3AFA92EB9895A3443D9B351D8DA7623045C71787",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07f96dc7cef221047473836788280c82c1dc6f586ce69c5eb6aa71dbaddc324f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3afa92eb9895a3443d9b351d8da7623045c71787"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/ResponseHandlerInterface.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-ResponseHandlerInterface.java-B6C6355C2DDA2A3A6BF54F25CD57DFD4F4EA2CAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce22b821618293716bccbdeb52a86eea1eccd8a47a9420cc37768f25ea654481"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6c6355c2dda2a3a6bf54f25cd57dfd4f4ea2cad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/Utils.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-Utils.java-3E7706F88E16B155507640487A14EA464442BBE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cac4b036fc52dee94e56aa2592b7811fe8d53783d3297e24df037de325e854d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e7706f88e16b155507640487a14ea464442bbe0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-1BD55116AF33CA4D2815D296A4993F1BD29CDC9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e5909b366fdf0ad39d98b23ccf44a1261dbb8f621356f28774e4f83da6b41f02"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1bd55116af33ca4d2815d296a4993f1bd29cdc9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-b6a7020555a526eaa2c51b9375aa82ebc9f8af55.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-b6a7020555a526eaa2c51b9375aa82ebc9f8af55.idx-69F3B6368CEE935E6A7C88C0F095FC9645CFCF05",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "574a00d7eee17e043abbe9e94910144b428049829d9884b5d8a15ed31dc7b610"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69f3b6368cee935e6a7c88c0f095fc9645cfcf05"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/gradle.properties",
+      "SPDXID": "SPDXRef-File--library-gradle.properties-0B89A90E8A9F12229240EA7CC0F50C5D6EAE24A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0acacdac447bf292620850c28131a75aabb5f4784555de5cbb0c3049c7a9f87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b89a90e8a9f12229240ea7cc0f50c5d6eae24a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/Base64OutputStream.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-Base64OutputStream.java-6F78AFD96E341F0CF6F6E475C848B169ADD3D4CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d331dda27e9c91db776807b8731c21cd9cdfa5ff62c2ab0dfa095d7214d82f9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f78afd96e341f0cf6f6e475c848b169add3d4cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/HttpDelete.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-HttpDelete.java-21B564FD655F9EDDF0E2A0C5B9B8B7DE7B31BFC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "231d7c049e276d916207355931579dfbb910ca64e2a681fa31a8edaa7cdbd034"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21b564fd655f9eddf0e2a0c5b9b8b7de7b31bfc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/MySSLSocketFactory.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-MySSLSocketFactory.java-5B8C8E7F24F0239A15348A620A55C2FCA1693FF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c163be2bd498aca13e4df6ee427d6e0f7f4364c6d06bd620017636fb3ed0846a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b8c8e7f24f0239a15348a620a55c2fca1693ff8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/RetryHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-RetryHandler.java-664498A22A604249D665B58E353C401DD5094AC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb61f034968ca3ea789eb51a9c64ec5e0fb927bad27747fecf3b9fede88075c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "664498a22a604249d665b58e353c401dd5094ac5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.2.0.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.2.0.jar-3ACCDB704DBD52FB56AAE170ADA9F863313A4C71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f65215b0e231ca83563951a88b64b9a7b312de6df3579fc2f58df247ebfd59a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3accdb704dbd52fb56aae170ada9f863313a4c71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-b6a7020555a526eaa2c51b9375aa82ebc9f8af55.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-b6a7020555a526eaa2c51b9375aa82ebc9f8af55.pack-115A730FE223C3C8CC1963B946ED5C45DDB3D38A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0f738742e0a0cd5ce3e7d79a8056b7f383cdfd14f57b798af76995a8d647658"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "115a730fe223c3c8cc1963b946ed5c45ddb3d38a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/proguard.txt",
+      "SPDXID": "SPDXRef-File--library-proguard.txt-C4FE7953BC9612A48F41880E98A99B392036EFB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc5f2e6e1c9e6868fb72edd71116197aa7c893d1e50d0bb83c876042f8cae4d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4fe7953bc9612a48f41880e98a99b392036efb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/BaseJsonHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-BaseJsonHttpResponseHandler.java-BEDED7014FB4171AB6BFCB13137681AFA7354C83",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67e3c3788654ec041a871da26a8a5e51f4ba5a51ce093a950bb0ba5e06ff83ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "beded7014fb4171ab6bfcb13137681afa7354c83"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/HttpGet.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-HttpGet.java-1505172078F3CC1A51A0AC7423B464D7E36222A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a0a42e32aafbeaf198e009d50e2fd318cff50ac87e0504ef31ca471648a9965"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1505172078f3cc1a51a0ac7423b464d7e36222a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/package-info.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-package-info.java-2DF0D013DD3ED66FFE6051F487998ECA0C251AB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e080e909c09930c786426166f1645c66393959f5614e920ffc3cba55800fb004"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2df0d013dd3ed66ffe6051f487998eca0c251ab7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/SaxAsyncHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-SaxAsyncHttpResponseHandler.java-451E60AE5AE2E97B39911CB374875E1852B4A2A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "041f91395a1f3ef1d81436b81f5e6e8ce2935fb3b6e4de71ecfad872ef77fe6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "451e60ae5ae2e97b39911cb374875e1852b4a2a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.2.1.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.2.1.jar-F54B54572C508CD94D09994F01BF6E5E3E16E94C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36f3795d6fe9ed5cf95d328eece10a2454d88d98d58819312914be8d0691e51c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f54b54572c508cd94d09994f01bf6e5e3e16e94c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.4.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.4.jar-3BAE85A076241828810BF8FBCC12E5891D5FC34C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24121104b5bd10d6e3075660e588fe36ae5629fbef50e8dca6598847def3265c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3bae85a076241828810bf8fbcc12e5891d5fc34c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/AsyncHttpClient.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-AsyncHttpClient.java-F48BC7E17C34CD7E694D05C5AFEB11D1A3270A63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "345ccfc1b589d382b520c79e7a83fffc98cce27dfb7613f6753726a4c3de34b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f48bc7e17c34cd7e694d05c5afeb11d1a3270a63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/BinaryHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-BinaryHttpResponseHandler.java-DCD1E85E9DE9C2EEE6F50CD0732E91C7AD97264D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d8187d0163f30b2de2d13b6d3ef7a3c9d451ecf05021fe4daadbba9de7257ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dcd1e85e9de9c2eee6f50cd0732e91c7ad97264d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/JsonStreamerEntity.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-JsonStreamerEntity.java-9C717F0C532F4A98218FDAA6F2A201D08B90928B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23dde7e1e0ed6e580837bd0add7026341494b7a9177d99a8fecacf9f781926a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c717f0c532f4a98218fdaa6f2a201d08b90928b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/PreemptiveAuthorizationHttpRequestInterceptor.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-PreemptiveAuthorizationHttpRequestInterceptor.java-BE56BF614323FAF8018534485EF356B54DFC4C45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "339bc9c90e073f5976f7e46037d6afcca8d5797ffccde39896e75099e1a766ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "be56bf614323faf8018534485ef356b54dfc4c45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/SimpleMultipartEntity.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-SimpleMultipartEntity.java-A02C8B956ABB816404B878872BFC5B8A98DFBEAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "944dff7a721954b804e7654e8401cb5baf5c584ae4ee3b5aa0d15fd552528b6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a02c8b956abb816404b878872bfc5b8a98dfbeab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-0B36F683DC41E06170132E2A5DD4C0A17047598C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc23fcde52bee2a5fb1ae4aac859a7e76932dd701002b85c5f64497dd73523a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b36f683dc41e06170132e2a5dd4c0a17047598c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--library-src-main-AndroidManifest.xml-519907E31929648B2881FE34DC6BAD9346669269",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30b0a76c5e3af96b83acfff5e36cbf2a49e3b7c796f096a0600900e735ec0b89"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "519907e31929648b2881fe34dc6bad9346669269"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/BearerAuthSchemeFactory.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-BearerAuthSchemeFactory.java-15F3130148F8B1AAE7B629F3967876961FF70D76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fec6186254c9b36ffae69ab158f739f5d961c43c3358c61a2d6122efb2555ed0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15f3130148f8b1aae7b629f3967876961ff70d76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/JsonHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-JsonHttpResponseHandler.java-A55397D26D981D44B56181A00ECCE5ECC6E9200D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf34d89889cb43eb66132a75787f2638ee08532d7b6c6b9e75c51168a989f1ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a55397d26d981d44b56181a00ecce5ecc6e9200d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/PersistentCookieStore.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-PersistentCookieStore.java-2E5559D06C2D0DEA09A836EB5062FD5DD3D7FE11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "277187c7ae63b3bac7dfa6df091beaeef9c68c82da0faa91c89cb4f516e2f4ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e5559d06c2d0dea09a836eb5062fd5dd3d7fe11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/SerializableCookie.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-SerializableCookie.java-757D2647E831EDB3C11639BFDAD48F725EEAB895",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e568c1596ebc81041161ce443fac062f98f0252fd198b9259fd29af18228ed8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "757d2647e831edb3c11639bfdad48f725eeab895"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.3.0.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.3.0.jar-D20A704FEFC0AB07811A9785568878BFF01E0CAF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a81e42f5ddb04562f2eb4fc2d99c44e38e149c78c893a443bccdf7cb1bb8622"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d20a704fefc0ab07811a9785568878bff01e0caf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/com/loopj/android/http/TextHttpResponseHandler.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-com-loopj-android-http-TextHttpResponseHandler.java-B9E176EB7DF783C9C1DBA0EB41BFCDC036E7A1A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72da0335411f0f767828ceb6d7dc63ef7cce75c3d2d483f6471aa27e9949dea5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9e176eb7df783c9c1dba0eb41bfcdc036e7a1a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.0.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.0.jar-7653CD5DACEA2C85D4953D7B06A5ADF69DB706C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13d0d53882c303eb9fca8ed9a2a6071921fc17225523336b052fe3af396e1a09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7653cd5dacea2c85d4953d7b06a5adf69db706c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.8.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.8.jar-77BBFE240E437ECB396D982AFA0D3BD4F9090BA7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ded08eaf313d1debfaa715f2952fe72135980cf146a5869f22cb5dddb41479d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bbfe240e437ecb396d982afa0d3bd4f9090ba7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/CancelRequestHandleSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CancelRequestHandleSample.java-53DA141C53B1BCB483D84CCB03ACDE8DAA04FD4C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9cd2dcd5e0f7785b6a1d4e09c24a6fbdb6d7531d575b26248118dd8ca0087017"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53da141c53b1bcb483d84ccb03acde8daa04fd4c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/GetSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-GetSample.java-788AF2A86821E82D3497A3C5D9B5565ABE05208B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19a9ce2a593bed05c9152703fd9fd937e48242480a6cd849e66f07c9472c9cd7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "788af2a86821e82d3497a3c5d9b5565abe05208b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/PatchSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PatchSample.java-F34F51E2B82F04396F8D56254CC9340188F11893",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac1cd1d90daef0fdb9bc7fef69b69c5a39f0c0ea6f13a115dc2432d49f465055"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f34f51e2b82f04396f8d56254cc9340188f11893"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/ResumeDownloadSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-ResumeDownloadSample.java-DAFA5A49D1F951D8159C0FFD2FCB0FDAB6F7F243",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c467fc42f07687a514637847be3512c91a494a913aaca51f6394b5824673aff3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dafa5a49d1f951d8159c0ffd2fcb0fdab6f7f243"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.3.2.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.3.2.jar-D5F22BFE0AC8AE50DB1BE71F0FF375C4CC02085A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ba00a2d3ca05d3578cec40bc4b52bb5b2b59b1af421e0b8eb98e488c27e5e4f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5f22bfe0ac8ae50db1be71f0ff375c4cc02085a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.7.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.7.jar-CD78109020F9EC803EF4E652C17EE4615B03E20A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ee9e99d6904f7cb84e1c874827d74a5d78aa08f75f45fc0d636c7b45b26ff2a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd78109020f9ec803ef4e652c17ee4615b03e20a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/CancelRequestByTagSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CancelRequestByTagSample.java-9C3CD9819C4E5D5BCE08F81BA640CD2D144F689B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c245200e51a86ace198ecc0271741b28bed190589ac615d7ffe706e467ba7b0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c3cd9819c4e5d5bce08f81ba640cd2d144f689b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/FilesSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-FilesSample.java-B668506E40D138153F3806887335B31230644978",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9845fbe12aa6187177cc357188149df3054d4797c1270b9b1c1296037ad041bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b668506e40d138153f3806887335b31230644978"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/package-info.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-package-info.java-3EF570A743D87072E50C0F0B105F9E743BA643E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "955be6405b3e1663ab335e5ad68bbeea10cc4d738f1c3ec2bded22af1c36e02e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ef570a743d87072e50c0f0b105f9e743ba643e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/RequestParamsDebug.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-RequestParamsDebug.java-2CA76E3E530653DCC384A2665B703022CC239E0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "790d8d3051b096b2a86ed685680f6013813f771fad899154def33a092788959e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ca76e3e530653dcc384a2665b703022cc239e0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/UsePoolThreadSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-UsePoolThreadSample.java-FF61C51608432A3409DAF4CD6151C93AADB9B7E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9792f8f82b0d681fec575fc314fdd5cde09784076fab70286610355b8d65ea05"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff61c51608432a3409daf4cd6151c93aadb9b7e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/util/SampleJSON.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-SampleJSON.java-6C0EE60D945C7386B6DF8F8F5678B42B0FC730EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93e78e7e60e02b5671af3e6299538816347354cb5e8d19930ed1e8d310b79134"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c0ee60d945c7386b6df8f8f5678b42b0fc730ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.1.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.1.jar-F323E867632D06BBF20793512A0221604256B110",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2545dc9f3d2482333767c6c740e17766fb900992b9f7ae41209207178fff3a8b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f323e867632d06bbf20793512a0221604256b110"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/.gitignore",
+      "SPDXID": "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/ContentTypeForHttpEntitySample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-ContentTypeForHttpEntitySample.java-8FA780DBFDEC0A15CC17C36C8695A0CED559F0A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17696d4ca1904bcc8a30acf3e7fb3da8019c367477876c9db1c855b2f1ae806a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8fa780dbfdec0a15cc17c36c8695a0ced559f0a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/GzipSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-GzipSample.java-FDCF93E7F48EF82C717C04CB578837AC1D55448C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f54a62065ab33f4b88524aea702c9001eb2d8596bccfe2412b5d4470ea9322d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fdcf93e7f48ef82c717c04cb578837ac1d55448c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/PersistentCookiesSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PersistentCookiesSample.java-AAFDD34AF01B09CF12FAB87B0F8CCBDB4B04B3D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a4f48b5d39b4f65022b41ce09bf721d9436147b174adc758b4b708e76b0401f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aafdd34af01b09cf12fab87b0f8ccbdb4b04b3d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/RetryRequestSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-RetryRequestSample.java-028D5E9B57338742753F080640D5EE5FBB295E56",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1060c946c5279587fa51e6511478e5ec0877ec0db7642e7cce5a01693e69fd0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "028d5e9b57338742753f080640d5ee5fbb295e56"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/services/ExampleIntentService.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-services-ExampleIntentService.java-A9C15A6308EE54C8BEAC38F27894DA4EC8D11582",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e49a274e8216e75b888ce082fe1133da450d1d309d6df166158096536fd85a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9c15a6308ee54c8beac38f27894da4ec8d11582"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-launcher.png-E08BB33BAC930CB5ED72C1A6F6151476B74E8DC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0df9533ebc48aa57a36faed97a6345fd5a45a17f403f9e53a0f8c542ad0e554b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e08bb33bac930cb5ed72c1a6f6151476b74e8dc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/raw/custom_ca.txt",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-raw-custom-ca.txt-102DD0091BA526550DDC8424C90A698BEC31BED7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a562689442dbfeff7f7815a7fdc5f2cd60225227a195c32c5b6517025cd9de1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "102dd0091ba526550ddc8424c90a698bec31bed7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values-v14/styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-v14-styles.xml-57BF76BB0F2DF417C079BE64295195B4D9B92F87",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1401db510e71a1984f81644ad56b530a81621b6246f58ae3e424f9f098795d6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57bf76bb0f2df417c079be64295195b4d9b92f87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.2.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.2.jar-729C46FB5EF010A7FB4DDFE02D6F8466B7DCDE42",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f9d7b7199e614754f3e0a4073e76f436ffbe882b1069c28febaea215205e9db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "729c46fb5ef010a7fb4ddfe02d6f8466b7dcde42"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-3A1BC175178A86BE84DEB43130C2F05EC8F759EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61b84ca8edba3bc411a9d6cbc8b753446f0217df9e0e47958fe18f392c76ddf6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a1bc175178a86be84deb43130c2f05ec8f759ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/CustomCASample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CustomCASample.java-F0D9B76371B847F7DD744DD20FB28B67FE8A2C7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b136db1f725a1a7a4a7fa5dab313e4484aac1692b509100185c3e911471d0d29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0d9b76371b847f7dd744dd20fb28b67fe8a2c7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/HeadSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-HeadSample.java-F01FD8108F3EF89CAC47DB1EEF617183E2894B3D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e1ac7800d19d9053242023fb5bca1329468fb8da2cbd260f60b84a04271f456"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f01fd8108f3ef89cac47db1eef617183e2894b3d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/PostSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PostSample.java-1D420EE3B71AEDC10B2213AD204678CAA98165F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e54689e0fb97c895285b01d12a20702b5e79ce43da2f9f711e1745fadcb1cb3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d420ee3b71aedc10b2213ad204678caa98165f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/SampleInterface.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SampleInterface.java-3B9187739D22B96DBCE2749F6053B1FE3AEB6076",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "133a5f81a1f32cf921c10c6d40c595c7708d184cd8d78801eb1086e0bd555c6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3b9187739d22b96dbce2749f6053b1fe3aeb6076"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/services/package-info.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-services-package-info.java-C9D1A9038770BA7A3B491E3DDFE98CBB19540D30",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b3e5ebccb5185a5142724c774a7d37569c2306354522ddf93b0fb5303b31b3af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c9d1a9038770ba7a3b491e3ddfe98cbb19540d30"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-mdpi-ic-launcher.png-07993BEF99E6D8D96CFA7B3957E18FFA262FEBE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d280e3611825fdf677a2c63a0a30f8b96f58df0fa4746c7120c7e4b510f2e79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07993bef99e6d8d96cfa7b3957e18ffa262febe1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/raw/store.bks",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-raw-store.bks-3E9021FFBA0C893D110A2444A67B27A4C5ACFC5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb8757ffed3ee4bfabe407481df4676dbeabe5d287373b69ae3ea8cb48c0f404"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e9021ffba0c893d110a2444a67b27a4c5acfc5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.3.1.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.3.1.jar-60457872618D58E17DAFBE099AD43256BC933C77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a13e7fb8bcb7a844db7cb58c2ff5ea5e39f0f539941f2b82db29aacbb38a0cf4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "60457872618d58e17dafbe099ad43256bc933c77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/AsyncBackgroundThreadSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-AsyncBackgroundThreadSample.java-FE472BBBC64F6C63550004348469DD9505DF3F06",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "711b1a10cfd3c6e4035d4108fc1c1bf8b7b9d3100ebe2ceff3e6d5c25d4e59b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe472bbbc64f6c63550004348469dd9505df3f06"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.5.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.5.jar-77BF7CACF9CEFE19DC105E5425D2EB1BB5285881",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c58d38363f5bf8c0c47ed9e69697f5c90a89ded54e6749b75d3fa2734a32df37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bf7cacf9cefe19dc105e5425d2eb1bb5285881"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/parent_layout.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-parent-layout.xml-A35AFA6165B501257E7705265A2F68857C169AA7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a61764992359cc6653ce8eafbed1807ff9c115f361483230d37838ed1ae6478"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a35afa6165b501257e7705265a2f68857c169aa7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/WaypointsActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-WaypointsActivity.java-F3B8EC084C12D29064E852652EABFE886C130109",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b4134eb3d163b442ab07f6b6483a6d586e64d2a3810c00b07e0fdc2ab2ebb13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3b8ec084c12d29064e852652eabfe886c130109"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/standard/java/com/loopj/android/http/sample/SampleApplication.java",
+      "SPDXID": "SPDXRef-File--sample-src-standard-java-com-loopj-android-http-sample-SampleApplication.java-96C587703077D6F09DF22F0FC07FCC333C36A697",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb3940876aeb5af77867dd3d663f1c47104758d07b68ca2312413cf68a921af7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96c587703077d6f09df22f0fc07fcc333c36a697"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values-v11/styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-v11-styles.xml-D298D59D1F16DEF33014064DE655CC62A439327D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "262931752943114732db4268892a31c9a3bbf83e71483dcfaa400f6c48d865fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d298d59d1f16def33014064de655cc62a439327d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/DigestAuthSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-DigestAuthSample.java-91AC2E92459ED7799BAB0A7BF9C04F125062491D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0426916f61311e54a93f58e4c9bf8185637555e122b99bfc26c60b2a7f33004a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "91ac2e92459ed7799bab0a7bf9c04f125062491d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.6.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.6.jar-A845A88238BE0B5BE9D238652C1BC0605EF91F52",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "991d830991cc7d5cd825dc05080c4efe133d90f5dda87141906e8a8de8a75a34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a845a88238be0b5be9d238652c1bc0605ef91f52"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/BinarySample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-BinarySample.java-891E5574649D3D408B16A27AF5300B9F914225FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e4a292e7aa8e3fee344b1a782e620e52f606f40fc64d5cdc93cf535ec660564"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "891e5574649d3d408b16a27af5300b9f914225fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/util/SecureSocketFactory.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-SecureSocketFactory.java-F7BC08D58C99B9F92CF216C916CB9A36D2FED156",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b0a2b8e00a49002e34edaa7c18c2908415440541965fe936432db13d4b9ad62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f7bc08d58c99b9f92cf216c916cb9a36d2fed156"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/CancelAllRequestsSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CancelAllRequestsSample.java-96DA7441C5AD5B09DB0199B1B1A1CA182E47EB31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d752848762fd560d39e339012f49c5fbc427b57dd6ac821f313a99d1256bb3b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96da7441c5ad5b09db0199b1b1a1ca182e47eb31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/IntentServiceSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-IntentServiceSample.java-AE8E77D84839204502E3D3B21A8C0B73FB86A128",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28289ca4ada0c7171d4d313b4374ad1a6f2ee7d0ca6ddba43ab51e5514b9c3b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae8e77d84839204502e3d3b21a8c0b73fb86a128"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/DirectorySample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-DirectorySample.java-5F87D62DABFC28FFF29CDC8AB3BC13FB4D915F31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "861e5f901ec0bc353353dff6919af8d7ebde8d34bb59b19a0a1f35d041762ec2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f87d62dabfc28fff29cdc8ab3bc13fb4d915f31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout-v14/parent_layout.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-v14-parent-layout.xml-69C9F73256A2BDFDB3E18C9117CE9B84E6044D9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ed27c921547aee096bfd8dc221d6e6154ce91ffeb50dbfe0c50cc0fa9ed7c31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69c9f73256a2bdfdb3e18c9117ce9b84e6044d9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values-v14/colors.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-v14-colors.xml-B6E6D67DFE84BFBDBD68D8093F92F6FEC051259C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7d84535764d3f9b6fa2807e61a9c5a53356fb20c16135af242b4018729a6044"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6e6d67dfe84bfbdbd68d8093f92f6fec051259c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/FileSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-FileSample.java-814E076B673EF8457D37BD14CA820FB53F858452",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a056bf77f1d87be7e10759e6ee166f0ca3925e2841cb81e8fe0f349c2a45a76a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "814e076b673ef8457d37bd14ca820fb53f858452"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/JsonSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-JsonSample.java-5CDFF68CEC8167BDBD059225CA446F311D441C32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "508fdb1fdc19ebb655e3231419eebef0daa887dc8b93f9fe310a7b1c307387ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cdff68cec8167bdbd059225ca446f311d441c32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/PutSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PutSample.java-849655C6D2A0DB7224140B0FD7F8C0C919AF00CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e50846bf215cf18de983e3d1cce4a8f0385164510e43ee304febb63827ac1c07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "849655c6d2a0db7224140b0fd7f8c0c919af00cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/RangeResponseSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-RangeResponseSample.java-B2FEFB816BFC674537436A3B1EA4DE1D4720A5B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3161fb8479389dad9a41c00363e07ac970c1b0888341a5740fba404f7d4c85bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2fefb816bfc674537436a3b1ea4de1d4720a5b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/JsonStreamerSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-JsonStreamerSample.java-9681E9F136DCD61D637A039416002FEFD7E1B02D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64a60c5d58e949f816fa530005aa4099e2fe949a8f68ef28448fb15b5e995575"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9681e9f136dcd61d637a039416002fefd7e1b02d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/SaxSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SaxSample.java-E14EFF09C9E7116DEE543E79BF75F71FE1CD4EF9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa1c0349ed5e88a2ecfbf3edbeb94456b59a056e2f82d3f67b59c11dbf6e691e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e14eff09c9e7116dee543e79bf75f71fe1cd4ef9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/SynchronousClientSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SynchronousClientSample.java-76A6B5D518429D5D00798004112F8C920F9DE635",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "37c92571ab9acde04cfa7f5dc7eebde8f2688250b9d913ffaec0fd8482407361"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76a6b5d518429d5d00798004112f8c920f9de635"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./releases/android-async-http-1.4.3.jar",
+      "SPDXID": "SPDXRef-File--releases-android-async-http-1.4.3.jar-F70E680861FDF9449819003E7799A4E9ACA047F8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b495f2ec3f94c4f0797c686fe2e484452bcab8f740ee136ed29a430f6ca1d41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f70e680861fdf9449819003e7799a4e9aca047f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/util/FileUtil.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-FileUtil.java-ADEBEB67F5295651107A49DB38746F664C3C05C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb46ae68dd485f4c1799ba39eba80248a1361080c9d86d5cbf598c9c86070c75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "adebeb67f5295651107a49db38746f664c3c05c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/Redirect302Sample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-Redirect302Sample.java-18C8CBD46759FEF9CA988915CCACAA6EB6C9876C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7f403b6512bf3d5040baabd5fce7112cdf4b5daeaacdd56d4b86ed2fd268669e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18c8cbd46759fef9ca988915ccacaa6eb6c9876c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xxhdpi-ic-launcher.png-15B7ACDC1936A369018394410413A4E394B1BD9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "851937036e6f455e4d00e82b17a37b013a0ad8a42057e9a76bb0311312c060ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15b7acdc1936a369018394410413a4e394b1bd9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-E953442218103A2B9F24B4A014EC93BD3BEBE13E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d92faff01c391e8e844ed825ac6c3c02686614870247fd1a2030823522cd63e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e953442218103a2b9f24b4a014ec93bd3bebe13e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/util/IntentUtil.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-IntentUtil.java-8D58BBC0451940D5C79443A3B4B357289039F3D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38dcb4714c9fcbce3e44e19c3ed303328cc8d72988cba779f423f62bec5d36b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d58bbc0451940d5c79443a3b4b357289039f3d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/ThreadingTimeoutSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-ThreadingTimeoutSample.java-B2D2E240337C65FB9EB83A9D138104C9C0B9E40C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f4719ec35562e153ecbb3872e96a9409fc908625c6fc4d15fce28f5d2237550"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2d2e240337c65fb9eb83a9d138104c9c0b9e40c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xxxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xxxhdpi-ic-launcher.png-A47A32B376B29F4EF306FFB02067E0CE18BD3AF6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74e5f89b8eb87b6869d53efd1ce1464500822f888ee2a81b078673e15dbb1c4e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a47a32b376b29f4ef306ffb02067e0ce18bd3af6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-strings.xml-BD85E43785ABC0488A52FCA505E2A0C15B6DA69E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40e1337cff10fe9ee7a19fa74e11318409d1b538bc737d64240e16bb25933269"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd85e43785abc0488a52fca505e2a0c15b6da69e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-styles.xml-FCCC63F4B6D5BB06043BC555067EB618E0AB8859",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "442f4c300a2069d2e299331462c42da12ee648db6f5dd488ee6fdcd531ed76ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fccc63f4b6d5bb06043bc555067eb618e0ab8859"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/util/package-info.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-package-info.java-1DAEA3492E5A846502FD8ECC06207431C7311B40",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "adf7df4330a101af22a22f9fc9a56a03b3c2a2ba52c77c777a1d0bfb2b4a5f43"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1daea3492e5a846502fd8ecc06207431c7311b40"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/DeleteSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-DeleteSample.java-DB413B189CF4A92AA141203406E4F69436833EC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "500d88ec0a8300d4706e272a0bbd55936f20420964d1d791f84233d2206b7e8c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db413b189cf4a92aa141203406e4f69436833ec7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/credentials.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-credentials.xml-B2BB2F091BEB35BE8A27507AECB1247CC2311290",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70888906cc132bbd6a4e8f7782f0e9558fe9b829dac312f67cd8bb311f63ad0b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2bb2f091beb35be8a27507aecb1247cc2311290"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/Http401AuthSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-Http401AuthSample.java-4C6AC91A14BC0D728015BA14317B89BBD4D6798F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38e3e7032eb0b8adc1c2cc9229b7c28dc8dce3b6086d524e7e7bca03bf11aac1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c6ac91a14bc0d728015ba14317b89bbd4d6798f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values-v11/colors.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-v11-colors.xml-B6E6D67DFE84BFBDBD68D8093F92F6FEC051259C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7d84535764d3f9b6fa2807e61a9c5a53356fb20c16135af242b4018729a6044"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6e6d67dfe84bfbdbd68d8093f92f6fec051259c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/PrePostProcessingSample.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PrePostProcessingSample.java-EF979D6B8A610F6DD9F85500BA7D19E623719A85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56a4478437d4b60735f392b92384ef2ec2b9491e2c498d7b08b9e48e11db5b7e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef979d6b8a610f6dd9f85500ba7d19e623719a85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/SampleParentActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SampleParentActivity.java-DC3ED3694F4096C8785F2D0BDA83148E71E51166",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6b99afbd01788d5554f19e66e412ea66b9e0a282abcc27691d5b9a951da10d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc3ed3694f4096c8785f2d0bda83148e71e51166"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/loopj/android/http/sample/util/API8Util.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-API8Util.java-341B15E4757478F00B5AA6BEF5AF27351117A7A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1d410208f65ba39660522880bd4bd5251c80eadf2a84fd48d45bdf59958f8e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "341b15e4757478f00b5aa6bef5af27351117a7a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xhdpi-ic-launcher.png-C389CA93179C91F3A99BFA49EBF01DADA998E16C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b310addc6393115170579088505c30b8a30a74c05125ea1c5813ea9a23b91618"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c389ca93179c91f3a99bfa49ebf01dada998e16c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/colors.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-colors.xml-6EC59DC14626F2CF97F150DB21963FF62E7BBE81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1db51147c59dd121d1c0144e968a241d6ff37914b4f82bede0f958b33a7c658"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ec59dc14626f2cf97f150db21963ff62e7bbe81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/withLeakCanary/java/com/loopj/android/http/sample/SampleApplication.java",
+      "SPDXID": "SPDXRef-File--sample-src-withLeakCanary-java-com-loopj-android-http-sample-SampleApplication.java-8B4FC00C0D9BD6354AE85C1E544D03BAC9439A73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "358003370934e6fb1004f7a7bcfe10166d61199e386082343b3106e4497f3c7b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b4fc00c0d9bd6354ae85c1e544d03bac9439a73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "android-async-http",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "c6ae54ba78bf4bc7c602b24ccec9ba1df459ee91"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.11",
+      "supplier": "Organization: https://github.com/android-async-http/android-async-http",
+      "hasFiles": [
+        "SPDXRef-File--sample-src-withLeakCanary-java-com-loopj-android-http-sample-SampleApplication.java-8B4FC00C0D9BD6354AE85C1E544D03BAC9439A73",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-Http401AuthSample.java-4C6AC91A14BC0D728015BA14317B89BBD4D6798F",
+        "SPDXRef-File--sample-src-main-res-values-styles.xml-FCCC63F4B6D5BB06043BC555067EB618E0AB8859",
+        "SPDXRef-File--sample-src-main-res-values-strings.xml-BD85E43785ABC0488A52FCA505E2A0C15B6DA69E",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-IntentServiceSample.java-AE8E77D84839204502E3D3B21A8C0B73FB86A128",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-SecureSocketFactory.java-F7BC08D58C99B9F92CF216C916CB9A36D2FED156",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-IntentUtil.java-8D58BBC0451940D5C79443A3B4B357289039F3D2",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-JsonStreamerSample.java-9681E9F136DCD61D637A039416002FEFD7E1B02D",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PutSample.java-849655C6D2A0DB7224140B0FD7F8C0C919AF00CD",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-DigestAuthSample.java-91AC2E92459ED7799BAB0A7BF9C04F125062491D",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-API8Util.java-341B15E4757478F00B5AA6BEF5AF27351117A7A3",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PrePostProcessingSample.java-EF979D6B8A610F6DD9F85500BA7D19E623719A85",
+        "SPDXRef-File--sample-src-main-res-drawable-xxxhdpi-ic-launcher.png-A47A32B376B29F4EF306FFB02067E0CE18BD3AF6",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-ThreadingTimeoutSample.java-B2D2E240337C65FB9EB83A9D138104C9C0B9E40C",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-E953442218103A2B9F24B4A014EC93BD3BEBE13E",
+        "SPDXRef-File--sample-src-main-res-drawable-xxhdpi-ic-launcher.png-15B7ACDC1936A369018394410413A4E394B1BD9D",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-Redirect302Sample.java-18C8CBD46759FEF9CA988915CCACAA6EB6C9876C",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-FileUtil.java-ADEBEB67F5295651107A49DB38746F664C3C05C4",
+        "SPDXRef-File--releases-android-async-http-1.4.3.jar-F70E680861FDF9449819003E7799A4E9ACA047F8",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SynchronousClientSample.java-76A6B5D518429D5D00798004112F8C920F9DE635",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SaxSample.java-E14EFF09C9E7116DEE543E79BF75F71FE1CD4EF9",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-RangeResponseSample.java-B2FEFB816BFC674537436A3B1EA4DE1D4720A5B2",
+        "SPDXRef-File--sample-src-main-res-layout-v14-parent-layout.xml-69C9F73256A2BDFDB3E18C9117CE9B84E6044D9B",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-DirectorySample.java-5F87D62DABFC28FFF29CDC8AB3BC13FB4D915F31",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CancelAllRequestsSample.java-96DA7441C5AD5B09DB0199B1B1A1CA182E47EB31",
+        "SPDXRef-File--sample-src-main-res-values-v11-styles.xml-D298D59D1F16DEF33014064DE655CC62A439327D",
+        "SPDXRef-File--sample-src-standard-java-com-loopj-android-http-sample-SampleApplication.java-96C587703077D6F09DF22F0FC07FCC333C36A697",
+        "SPDXRef-File--releases-android-async-http-1.4.5.jar-77BF7CACF9CEFE19DC105E5425D2EB1BB5285881",
+        "SPDXRef-File--sample-src-main-res-values-v14-styles.xml-57BF76BB0F2DF417C079BE64295195B4D9B92F87",
+        "SPDXRef-File--sample-src-main-res-raw-custom-ca.txt-102DD0091BA526550DDC8424C90A698BEC31BED7",
+        "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-launcher.png-E08BB33BAC930CB5ED72C1A6F6151476B74E8DC1",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-services-ExampleIntentService.java-A9C15A6308EE54C8BEAC38F27894DA4EC8D11582",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-RetryRequestSample.java-028D5E9B57338742753F080640D5EE5FBB295E56",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PersistentCookiesSample.java-AAFDD34AF01B09CF12FAB87B0F8CCBDB4B04B3D5",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-GzipSample.java-FDCF93E7F48EF82C717C04CB578837AC1D55448C",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-ContentTypeForHttpEntitySample.java-8FA780DBFDEC0A15CC17C36C8695A0CED559F0A8",
+        "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--releases-android-async-http-1.4.1.jar-F323E867632D06BBF20793512A0221604256B110",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-ResumeDownloadSample.java-DAFA5A49D1F951D8159C0FFD2FCB0FDAB6F7F243",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PatchSample.java-F34F51E2B82F04396F8D56254CC9340188F11893",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-GetSample.java-788AF2A86821E82D3497A3C5D9B5565ABE05208B",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CancelRequestHandleSample.java-53DA141C53B1BCB483D84CCB03ACDE8DAA04FD4C",
+        "SPDXRef-File--releases-android-async-http-1.4.8.jar-77BBFE240E437ECB396D982AFA0D3BD4F9090BA7",
+        "SPDXRef-File--releases-android-async-http-1.4.0.jar-7653CD5DACEA2C85D4953D7B06A5ADF69DB706C2",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-TextHttpResponseHandler.java-B9E176EB7DF783C9C1DBA0EB41BFCDC036E7A1A0",
+        "SPDXRef-File--releases-android-async-http-1.2.0.jar-3ACCDB704DBD52FB56AAE170ADA9F863313A4C71",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-RetryHandler.java-664498A22A604249D665B58E353C401DD5094AC5",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-MySSLSocketFactory.java-5B8C8E7F24F0239A15348A620A55C2FCA1693FF8",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-HttpDelete.java-21B564FD655F9EDDF0E2A0C5B9B8B7DE7B31BFC4",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-Base64OutputStream.java-6F78AFD96E341F0CF6F6E475C848B169ADD3D4CF",
+        "SPDXRef-File--library-gradle.properties-0B89A90E8A9F12229240EA7CC0F50C5D6EAE24A8",
+        "SPDXRef-File--.git-objects-pack-pack-b6a7020555a526eaa2c51b9375aa82ebc9f8af55.idx-69F3B6368CEE935E6A7C88C0F095FC9645CFCF05",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-1BD55116AF33CA4D2815D296A4993F1BD29CDC9A",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-SyncHttpClient.java-143E8EE4D354A362739882E4772E934D46EA72C9",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-RangeFileAsyncHttpResponseHandler.java-CBE8C43E045043BEC74F20D7A8A441B9E59A8F17",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-JsonValueInterface.java-FCC3B85255812BD0870C3EC6962B87271BD7268A",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-BlackholeHttpResponseHandler.java-1AA00A3103F2DD74776624ACF3ED1EDE302BC323",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-AsyncHttpRequest.java-FC7CCEAE719A0384643D6C5B22BF1D9A2721D4CF",
+        "SPDXRef-File--.github-workflows-gradle-wrapper-validation.yml-28CCA120243FADA2BB1BD9F51FB0D28979FF19B3",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--LICENSE.md-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-TokenCredentials.java-1DC81EC92A3C7AB0B19B940FF931F68EC0C00728",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-RequestParams.java-492336F267FB1564BE043C57F20DA1A4F5158AC7",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-LogInterface.java-D937A0B30F02CCE68472146A82F9FC92EA6FF0E2",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-DataAsyncHttpResponseHandler.java-100E165946AEC2F839636236B430E26B8EC9ED09",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-Base64.java-7C9DF5E3EBD20CD02A0D9D1161D9021C15089B4F",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-45DCBBFB2E3F17B6E8FB9670856E2929C5100892",
+        "SPDXRef-File--.git-logs-refs-heads-master-0EF642316D6EFF6F87477C34BA231E0FD2BDE914",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-86219AD1C96F1D3C121ED7D025AABF6406B766FD",
+        "SPDXRef-File--NOTICE.txt-777A8891FA956113042D826F9AB1A18221BAECF8",
+        "SPDXRef-File--sample-src-main-res-values-colors.xml-6EC59DC14626F2CF97F150DB21963FF62E7BBE81",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SampleParentActivity.java-DC3ED3694F4096C8785F2D0BDA83148E71E51166",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-JsonSample.java-5CDFF68CEC8167BDBD059225CA446F311D441C32",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-FileSample.java-814E076B673EF8457D37BD14CA820FB53F858452",
+        "SPDXRef-File--sample-src-main-res-values-v14-colors.xml-B6E6D67DFE84BFBDBD68D8093F92F6FEC051259C",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-BinarySample.java-891E5574649D3D408B16A27AF5300B9F914225FA",
+        "SPDXRef-File--releases-android-async-http-1.4.6.jar-A845A88238BE0B5BE9D238652C1BC0605EF91F52",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-WaypointsActivity.java-F3B8EC084C12D29064E852652EABFE886C130109",
+        "SPDXRef-File--sample-src-main-res-layout-parent-layout.xml-A35AFA6165B501257E7705265A2F68857C169AA7",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-AsyncBackgroundThreadSample.java-FE472BBBC64F6C63550004348469DD9505DF3F06",
+        "SPDXRef-File--releases-android-async-http-1.3.1.jar-60457872618D58E17DAFBE099AD43256BC933C77",
+        "SPDXRef-File--sample-src-main-res-raw-store.bks-3E9021FFBA0C893D110A2444A67B27A4C5ACFC5E",
+        "SPDXRef-File--sample-src-main-res-drawable-mdpi-ic-launcher.png-07993BEF99E6D8D96CFA7B3957E18FFA262FEBE1",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-services-package-info.java-C9D1A9038770BA7A3B491E3DDFE98CBB19540D30",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-SampleInterface.java-3B9187739D22B96DBCE2749F6053B1FE3AEB6076",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-PostSample.java-1D420EE3B71AEDC10B2213AD204678CAA98165F5",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-HeadSample.java-F01FD8108F3EF89CAC47DB1EEF617183E2894B3D",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CustomCASample.java-F0D9B76371B847F7DD744DD20FB28B67FE8A2C7F",
+        "SPDXRef-File--sample-build.gradle-3A1BC175178A86BE84DEB43130C2F05EC8F759EF",
+        "SPDXRef-File--releases-android-async-http-1.4.2.jar-729C46FB5EF010A7FB4DDFE02D6F8466B7DCDE42",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-SampleJSON.java-6C0EE60D945C7386B6DF8F8F5678B42B0FC730EA",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-UsePoolThreadSample.java-FF61C51608432A3409DAF4CD6151C93AADB9B7E5",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-RequestParamsDebug.java-2CA76E3E530653DCC384A2665B703022CC239E0A",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-package-info.java-3EF570A743D87072E50C0F0B105F9E743BA643E7",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-FilesSample.java-B668506E40D138153F3806887335B31230644978",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-CancelRequestByTagSample.java-9C3CD9819C4E5D5BCE08F81BA640CD2D144F689B",
+        "SPDXRef-File--releases-android-async-http-1.4.7.jar-CD78109020F9EC803EF4E652C17EE4615B03E20A",
+        "SPDXRef-File--releases-android-async-http-1.3.2.jar-D5F22BFE0AC8AE50DB1BE71F0FF375C4CC02085A",
+        "SPDXRef-File--releases-android-async-http-1.3.0.jar-D20A704FEFC0AB07811A9785568878BFF01E0CAF",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-SerializableCookie.java-757D2647E831EDB3C11639BFDAD48F725EEAB895",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-PersistentCookieStore.java-2E5559D06C2D0DEA09A836EB5062FD5DD3D7FE11",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-JsonHttpResponseHandler.java-A55397D26D981D44B56181A00ECCE5ECC6E9200D",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-BearerAuthSchemeFactory.java-15F3130148F8B1AAE7B629F3967876961FF70D76",
+        "SPDXRef-File--library-src-main-AndroidManifest.xml-519907E31929648B2881FE34DC6BAD9346669269",
+        "SPDXRef-File--.git-refs-heads-master-0B36F683DC41E06170132E2A5DD4C0A17047598C",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-SimpleMultipartEntity.java-A02C8B956ABB816404B878872BFC5B8A98DFBEAB",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-PreemptiveAuthorizationHttpRequestInterceptor.java-BE56BF614323FAF8018534485EF356B54DFC4C45",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-JsonStreamerEntity.java-9C717F0C532F4A98218FDAA6F2A201D08B90928B",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-BinaryHttpResponseHandler.java-DCD1E85E9DE9C2EEE6F50CD0732E91C7AD97264D",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-AsyncHttpClient.java-F48BC7E17C34CD7E694D05C5AFEB11D1A3270A63",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--releases-android-async-http-1.4.4.jar-3BAE85A076241828810BF8FBCC12E5891D5FC34C",
+        "SPDXRef-File--releases-android-async-http-1.2.1.jar-F54B54572C508CD94D09994F01BF6E5E3E16E94C",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-SaxAsyncHttpResponseHandler.java-451E60AE5AE2E97B39911CB374875E1852B4A2A9",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-package-info.java-2DF0D013DD3ED66FFE6051F487998ECA0C251AB7",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-HttpGet.java-1505172078F3CC1A51A0AC7423B464D7E36222A0",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-BaseJsonHttpResponseHandler.java-BEDED7014FB4171AB6BFCB13137681AFA7354C83",
+        "SPDXRef-File--library-proguard.txt-C4FE7953BC9612A48F41880E98A99B392036EFB7",
+        "SPDXRef-File--.git-objects-pack-pack-b6a7020555a526eaa2c51b9375aa82ebc9f8af55.pack-115A730FE223C3C8CC1963B946ED5C45DDB3D38A",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-Utils.java-3E7706F88E16B155507640487A14EA464442BBE0",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-ResponseHandlerInterface.java-B6C6355C2DDA2A3A6BF54F25CD57DFD4F4EA2CAD",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-MyRedirectHandler.java-3AFA92EB9895A3443D9B351D8DA7623045C71787",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-FileAsyncHttpResponseHandler.java-FB0EE5B5F27E93E1E549FDA8F48868A04A244A6F",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-Base64DataException.java-CBBA2936023A71B8F11F3C89F19F1BD704090E0C",
+        "SPDXRef-File--library-build.gradle-209F07980154F9DE163564CE9C18735EC04181A1",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-0EF642316D6EFF6F87477C34BA231E0FD2BDE914",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--PUBLISHING.md-E428FE42BF6698882D675D7764EA2DC87B65DF84",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-RequestHandle.java-2CD7293DA780A90F80BB55B7E9B6D883D2F64628",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-LogHandler.java-D592CA4765879D3480BDA5C9419A458C47F9FF6D",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-ConscryptSSLProvider.java-4D76FA581786DC3964890A2EC85A365D3F5F260E",
+        "SPDXRef-File--library-src-main-java-com-loopj-android-http-AsyncHttpResponseHandler.java-10480D63828501E3FBD22F0CCC88CE23DB4102A8",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-7C1E9E9613F350F1797FF30013C39689C86A5325",
+        "SPDXRef-File--.git-logs-HEAD-0EF642316D6EFF6F87477C34BA231E0FD2BDE914",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-C4A29950E22602113A77FDF8E2F149638E04BBB5",
+        "SPDXRef-File--maven-push.gradle-D7557B45CF46482FFE628D5ABFDCC89B30A8C641",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--gradlew.bat-CF68B95A4029E352FE1EE002BB367AC1B686F9AD",
+        "SPDXRef-File--sample-src-main-res-drawable-xhdpi-ic-launcher.png-C389CA93179C91F3A99BFA49EBF01DADA998E16C",
+        "SPDXRef-File--sample-src-main-res-values-v11-colors.xml-B6E6D67DFE84BFBDBD68D8093F92F6FEC051259C",
+        "SPDXRef-File--CONTRIBUTING.md-FA53AC25A1DEB9915BDE79D919790000C66F7CC2",
+        "SPDXRef-File--settings.gradle-9171C118F161E9973C38153D67FC25838426B1C0",
+        "SPDXRef-File--gradle.properties-9B03AFB278AD184FEB357CCEB4754FE6F86A595B",
+        "SPDXRef-File--.git-config-21A57EA6FBDB31DE6E15A61657582B48BF71BE3C",
+        "SPDXRef-File--gradlew-77BC8EED14C590A2E5FF425D83EF11C552643576",
+        "SPDXRef-File--sample-src-main-res-layout-credentials.xml-B2BB2F091BEB35BE8A27507AECB1247CC2311290",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-DeleteSample.java-DB413B189CF4A92AA141203406E4F69436833EC7",
+        "SPDXRef-File--sample-src-main-java-com-loopj-android-http-sample-util-package-info.java-1DAEA3492E5A846502FD8ECC06207431C7311B40",
+        "SPDXRef-File--build.gradle-B1585E1E3F45D96253E8614C67073DD8FA6A59EC",
+        "SPDXRef-File--.gitignore-501A6C6F39FF326417CC288EA399C71B0F9EF516",
+        "SPDXRef-File--CHANGELOG.md-C08B8155CDF18000F457C40EBC0153CDAE388B47",
+        "SPDXRef-File--.travis.yml-0EA9151A8B9BD9662A79A1A9D48702F3DCBF7B8C"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "android-async-http 1.4.11",
+  "documentNamespace": "https://android-async-http.android.loopj.com/android-async-http/1.4.11/qV3dqaHFXECmTYQnNnzHDw",
+  "creationInfo": {
+    "created": "2022-09-20T16:59:11Z",
+    "creators": [
+      "Organization: https://github.com/android-async-http/android-async-http",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

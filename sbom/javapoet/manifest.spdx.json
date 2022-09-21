@@ -1,0 +1,1568 @@
+{
+  "files": [
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-EE80872C2ADA86AF690A3CBBA6AEA89FA0156372",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78580eb4c6c5bb166d10adfc734836bb8995386ddce30cbbcdb04393da04825b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee80872c2ada86af690a3cbba6aea89fa0156372"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./RELEASING.md",
+      "SPDXID": "SPDXRef-File--RELEASING.md-B1B0B3CC6E5377D073016B3046006A856B1D8B0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4e9333c177092f24782c7a15edf94285c5107a8066b9e31e809b4fd7b614bf0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1b0b3cc6e5377d073016b3046006a856b1d8b0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-B55ECFE95AE3D1A1B568B7AC1B283858DCCDD3B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f74de1f6de8a506b8d3700301e7bccf5ee723cf912fb578d655a780d20a9dd12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b55ecfe95ae3d1a1b568b7ac1b283858dccdd3b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-82BCCABA5AB631B8D227B46690D358B7755D1A81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7f212beed3854ffe23b741e86d9c160165e092d790586ccca9ea5865156168c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82bccaba5ab631b8d227b46690d358b7755d1a81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/settings.xml",
+      "SPDXID": "SPDXRef-File--.github-workflows-settings.xml-390CDBC87855066AB79C79F6E3F94F91FA8F4E32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7aa07679be64b88e9ec00f516aac93fdfe0a9f4754a65447cabad41fd228d06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "390cdbc87855066ab79c79f6e3f94f91fa8f4e32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/LineWrapper.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-LineWrapper.java-A5AA084CC867BA3B397DBE60522188C01C992F26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6cfc80d3711de088cdf6acbc39e213a073010f9c88f4d3bd705bab91d4998712"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5aa084cc867ba3b397dbe60522188c01c992f26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/Util.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-Util.java-3F9105B9CF679D160BDB9942F6AB7D1CB81C1E0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b3b4037d5d47d0a3b45a8a7dc3ec02fb2d53e9124ce2ebe7f092e80782617f3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f9105b9cf679d160bdb9942f6ab7d1cb81c1e0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/CodeWriterTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-CodeWriterTest.java-2BF88B8AC152D92FD699A695C47C8DCCE2C51903",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c5d6c79c623fbe553df30dea7b3225c9df6af53d99f0c0cbd28397b92d4b66b9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2bf88b8ac152d92fd699a695c47c8dcce2c51903"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/CodeBlock.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-CodeBlock.java-FC40885146160134AA8549D52AE01C21C0B377C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "084f21fe6f7c3120cbb53604c3f00f8c0ebd95ba4acbab035c4a574d2fcea0a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc40885146160134aa8549d52ae01c21c0b377c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/ParameterSpecTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-ParameterSpecTest.java-247BD80C0923028FACA7AC5C3849E72C63DBD974",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "035cf4d882ae7005942564a46082e5a04203d2df65691154fd400dcfd8058e29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "247bd80c0923028faca7ac5c3849e72c63dbd974"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/ParameterSpec.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-ParameterSpec.java-56561A493565D1FCCA13AFD3E16FBC8D4C2B4B13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d32101b762d70234030a68f00048e965184968807f7d91abcfcbc309e9921c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56561a493565d1fcca13afd3e16fbc8d4c2b4b13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/AnnotatedTypeNameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-AnnotatedTypeNameTest.java-264153E7A7F573A70D5F17BDD12AAE0F8B6712D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e578a9f471253c2f2ae1def3a7cee746f2cfac91274b6582e6aed08a5f979ffa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "264153e7a7f573a70d5f17bdd12aae0f8b6712d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/JavaFileTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-JavaFileTest.java-072DD94BB83F53C2362A92A58A2BCC9CDDC261D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "edadfa27b593ed755d745a97ee94f5b1a5020786aacbd573f9de20a011dbc4fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "072dd94bb83f53c2362a92a58a2bcc9cddc261d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/TypesEclipseTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-TypesEclipseTest.java-8F602550E92B80F5B8C12C57E3710206588376DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7539f67ac7fa828bfc50afd887c6b9c809733ca6305fb92661447aa40eb4b70"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f602550e92b80f5b8c12c57e3710206588376db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-7C4E0C6328D8EAB8EB118CB7889D2F93DA5ACE15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6850e1ee3a8768ce2d7733a00eeec197a30ef40eeec4a0df0179e5afd3d826dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c4e0c6328d8eab8eb118cb7889d2f93da5ace15"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-82BCCABA5AB631B8D227B46690D358B7755D1A81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7f212beed3854ffe23b741e86d9c160165e092d790586ccca9ea5865156168c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82bccaba5ab631b8d227b46690d358b7755d1a81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/build.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-build.yml-63CD65C17DB4CBB9945583DF96E07665F6BE33BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47f2de474bc0ebeb2ef2647c0c2d7a39e60e07fa29a80d67f5811d1f9d4dcad0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63cd65c17db4cbb9945583df96e07665f6be33bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/JavaFile.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-JavaFile.java-CB2A1BCB1E73CA282BFF5B919D4849C57230BDD6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4bfd796b339ed34afeb519f0e9107322d836553ae06608f1b48c6b783467b1ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb2a1bcb1e73ca282bff5b919d4849c57230bdd6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/TypeVariableName.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-TypeVariableName.java-89034C36E90D558A137F0AA91FD16985D10DBB6B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab065777da9a07e48302085d8746983afa06a1edb49924721169891305aa36dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89034c36e90d558a137f0aa91fd16985d10dbb6b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/CodeBlockTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-CodeBlockTest.java-0C6D6071B5BF56A6B6564452EC8736792B2E07C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62ce2015d65d11e7981e8ddc313d75606e06e9ff9047438d8799324d640359a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c6d6071b5bf56a6b6564452ec8736792b2e07c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-78403a0d5e19477bdecd18bc488004e16705d91b.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-78403a0d5e19477bdecd18bc488004e16705d91b.pack-62561A69ABAF3E6FCA5B7073CB7C2CE45629F65C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0712f8d8818e33e13a1795a350227ed55af836bb2abc68179c6993b30a56c83e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62561a69abaf3e6fca5b7073cb7c2ce45629f65c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/NameAllocatorTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-NameAllocatorTest.java-7250C9E90013517198ED12D49FC46FCC87164C6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4492ebbd4f2d69d3b78873d6b34556d05383bdaa68e56231349f79fbbdfa6571"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7250c9e90013517198ed12d49fc46fcc87164c6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/ArrayTypeName.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-ArrayTypeName.java-E1E0DB132A2931CF1EE680128CF9B1250F91362E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ab4d1019f8ef0fc83052cd15d65aea5388d753ccc1d177d04490766d70573fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1e0db132a2931cf1ee680128cf9b1250f91362e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-1B3BAC1B4BB6E103CD4C07ECA402B90E8DD51DF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ab3f638dfd8dbe85399128f4bef4d65247a0157c5ea7a8ac46851d4f0bb4210"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b3bac1b4bb6e103cd4c07eca402b90e8dd51df7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-78403a0d5e19477bdecd18bc488004e16705d91b.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-78403a0d5e19477bdecd18bc488004e16705d91b.idx-B06F72503820E723893FAA0BE97B575284AA44EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d686f318f27699878c8adf82c917eedb09379d9474950047c26d8d8958471cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b06f72503820e723893faa0be97b575284aa44ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/AnnotationSpec.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-AnnotationSpec.java-AC8EB8483E131A5A45E40FDDEAA849F5CEDD8D77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bff343a052cc78cb6aff5ad1dcf7cada4644509c3b4d51014e0ff27ca470220"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac8eb8483e131a5a45e40fddeaa849f5cedd8d77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/MethodSpec.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-MethodSpec.java-872C1252D70CC4D316DA901E41F6B9A8A29032E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1467789c8b66dafbbf4e49919308acadd1c78c225d143ab14296df01607e28dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "872c1252d70cc4d316da901e41f6b9a8a29032e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/WildcardTypeName.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-WildcardTypeName.java-0A60C46561E46EE2813B15F0A3CC01D405C0D1A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71438f2bfb47c254c07c5dac85b76d159d7809c9062ccf500ec4b056a1c74abe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a60c46561e46ee2813b15f0a3cc01d405c0d1a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/FieldSpecTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-FieldSpecTest.java-3E35A14AEC33760DDCE00EF9EC57FA24202F2D2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32fd35a80f8108f73555aa530e7cad9a72a5b6bd996417eadcad59ff8d881890"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e35a14aec33760ddce00ef9ec57fa24202f2d2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/TestFiler.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-TestFiler.java-A709DE24CFBE5684C2849C0E7C8C3179E16CB791",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ed52859c410feb50b37c15d44e52b4498d547d4e6da7e25c6ba3fb508053d8e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a709de24cfbe5684c2849c0e7c8c3179e16cb791"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/UtilTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-UtilTest.java-C1F95CA1B0EE8F83F62FABA93ABD15E56FACE3B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aef59bc1c45c944f0e89dd11d74baa1bc73710024dd09243d2b214e0e8575476"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1f95ca1b0ee8f83f62faba93abd15e56face3b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./checkstyle.xml",
+      "SPDXID": "SPDXRef-File--checkstyle.xml-4365232FBEE8FF371772F53BC342FF02B4A002E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4d2785aef6e2a6d2541060385a088de80bd36dd9b4de7a532a29086837d8024"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4365232fbee8ff371772f53bc342ff02b4a002e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-CD90CFA232FC723F23AAD0E42A43CA46722173EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a05c7e13dbb9d95299662cd27635050c69cdb1ca01b2d9f2cdd6f3bea3f8414"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd90cfa232fc723f23aad0e42a43ca46722173ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-82BCCABA5AB631B8D227B46690D358B7755D1A81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7f212beed3854ffe23b741e86d9c160165e092d790586ccca9ea5865156168c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82bccaba5ab631b8d227b46690d358b7755d1a81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/dependabot.yml",
+      "SPDXID": "SPDXRef-File--.github-dependabot.yml-AA95BAD45A232804E9FD3551DD949BDAF8D50099",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "148c61ce44582bf1e3e5ea3694c0e95f1bd0bae094ed646b1ae2d25fa89ad7dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa95bad45a232804e9fd3551dd949bdaf8d50099"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/FieldSpec.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-FieldSpec.java-DDA385D09B69223668D7C92E734DA6410A219815",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7834b5194e2da0143ec0004b080aeda5215278c54e4ad29446d1ff0f125feb6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dda385d09b69223668d7c92e734da6410a219815"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/TypeSpec.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-TypeSpec.java-3A2D9AEC781CA1758BDC30190717842F4070D08E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49188d721d2f92204506d9faabafbd63b68e8bbc2e439c4e33ad188572ec0859"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a2d9aec781ca1758bdc30190717842f4070d08e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/ClassNameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-ClassNameTest.java-6EE21BED6A9E92E2CBB29776734B5CC4FC203556",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0ad19e4dbd94d26f1906fd700294bd05f26485f4693b47c887a06a3fd5e4c1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ee21bed6a9e92e2cbb29776734b5cc4fc203556"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/MethodSpecTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-MethodSpecTest.java-868A5D7FD47E5104B6F078F7273F52051AFF15DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ee8a09e90346142d2da7007388307b596bc00dbb2e43ea4cd4f769dbc539ca46"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "868a5d7fd47e5104b6f078f7273f52051aff15dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-FFE358E64729EF872330C3E08E8FF73E0BCE92DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3dbd2891cddf5c5a39309658e7d614536df9dccc5c368b35593c4f790edda317"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffe358e64729ef872330c3e08e8ff73e0bce92dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/TypesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-TypesTest.java-B9D1BA4847D1E39363180304E9562B23280968B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45855a9517f6f09d60ecafa22962176c742488d523588035f97fd6fb73f1c142"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9d1ba4847d1e39363180304e9562b23280968b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--.github-CONTRIBUTING.md-7E44F6309A8865A4447E54DD707A510B3C981E47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1fe6a1c1e54fcc1943ac48e954374c1daf9da51bd5c8373941567b7029244f51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e44f6309a8865a4447e54dd707a510b3c981e47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/CodeWriter.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-CodeWriter.java-00A18A957E4DBC2738C1FA45EC1F61E052AF701D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03ee8e95228c9e854006213c8b6280de916571e2f08b8dae567963ccc2883404"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "00a18a957e4dbc2738c1fa45ec1f61e052af701d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/TypeName.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-TypeName.java-176482D8FF6E27FAD92F2D22A6F46744AD3B1C01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0653d4a40d53724e5ada3a2c98da0b010e401bbc75ecccbf3b1f166906602381"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "176482d8ff6e27fad92f2d22a6f46744ad3b1c01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/AnnotationSpecTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-AnnotationSpecTest.java-4AE92BBF3EB65BAA941FC529D4E055FED3A43ED7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a35257fa66c0238c272bb5eef1c109ec7705dc486f6188e796e894761695c112"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ae92bbf3eb65baa941fc529d4e055fed3a43ed7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/LineWrapperTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-LineWrapperTest.java-72ECE5BFDE844E3185EBC5E3833F53409B12BAA6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eed73aa44a9066894fb79ed966872f46656e924f34d8b0b42468e8ecebe70a89"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72ece5bfde844e3185ebc5e3833f53409b12baa6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/TypeSpecTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-TypeSpecTest.java-B2B2ED24D72C3F46B6DB5437021CC78136D6F612",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "066779d7fbc99b7b9d376ce60737c076f349bbe767fe9cd2830e27d230ad2729"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2b2ed24d72c3f46b6db5437021cc78136d6f612"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-DFB88151C329B5C6C1099D7F9FECE6AEDD8CEB3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59a670e19214378a425058f7ba36a5116c614f67d0f90745c5e670abb2bd78d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfb88151c329b5c6c1099d7f9fece6aedd8ceb3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-88919136E0AC9A9C8D91F6C9438B6C941BFE228A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30d4a1bed4492b34be7b38a38392e43baf2115569894ce9fe4a476c35b50ed87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "88919136e0ac9a9c8d91f6c9438b6c941bfe228a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/ClassName.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-ClassName.java-CB48EB351FF2D60EC0A057A13983CB21E22E13AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba9e5dade57e5dc5778819d986fe98cd02a07cc3ecf53b52c8578c9d683db82b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb48eb351ff2d60ec0a057a13983cb21e22e13ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/ParameterizedTypeName.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-ParameterizedTypeName.java-C072C05362BA542D1D88616F65D57740227CC7D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d145e35787ac2b3dc2b5cbffaa46e00ae2a463606dcbf4eb63d87ad281306353"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c072c05362ba542d1d88616f65d57740227cc7d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/AbstractTypesTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-AbstractTypesTest.java-C22D9B060D5EC0571335641BD46799B4875E9090",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "954f27cf043162e7e5a12cdce854baae822bdf3a80efb7e76f170958c0b1eb0a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c22d9b060d5ec0571335641bd46799b4875e9090"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/FileWritingTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-FileWritingTest.java-F3991FB7AC31DEB55B0A8EB6447182D767E318AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c789f0bb024d5ea7ca4c88f5359f3da3ae6af80dde95f65f85f88e8ab9870bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3991fb7ac31deb55b0a8eb6447182d767e318ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/TypeNameTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-TypeNameTest.java-C160D43FF27D456A94C565E8104DF1BC6C94F1E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7f45a2f61cd8e36ddbaa51acd9c60f8aea2a564ee0bab3cbac53d3b5bb5ba794"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c160d43ff27d456a94c565e8104df1bc6c94f1e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/squareup/javapoet/NameAllocator.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-squareup-javapoet-NameAllocator.java-31A4C39ED80F6CAF34B6EA41C3C6A0E085BAF718",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c65846df45983741112b215816bf2820a138beaa036d924c344557dc24e3a693"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31a4c39ed80f6caf34b6ea41c3c6a0e085baf718"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/ClassNameNoPackageTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-ClassNameNoPackageTest.java-C813CB7FECB35BDF3B194FCB0D532418C910857E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a07fbab6db1f588e42791d905a4255cb3525ef4c1435f87305d3b4055201ab08"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c813cb7fecb35bdf3b194fcb0d532418c910857e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/FileReadingTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-FileReadingTest.java-A26F6EE187F553F8122C6FF126D99D5643E42C37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b762f83d10a076445ebdcbb969da46c3acb9ce2274d3bd336e4722c42ddb7ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a26f6ee187f553f8122c6ff126d99d5643e42c37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/squareup/javapoet/TestUtil.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-squareup-javapoet-TestUtil.java-D54272456B6FF2DCC91F75122DA3903F55CBB586",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40981a837953793c3d5bda359ee7868313aeb6ca178ed7271214b2f1dff11d41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d54272456b6ff2dcc91f75122da3903f55cbb586"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "javapoet",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "f514bcbbd3da39d92ed8dfe4eb617c1a00303158"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.14.0-SNAPSHOT",
+      "supplier": "Organization: https://github.com/square/javapoet",
+      "hasFiles": [
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-FileReadingTest.java-A26F6EE187F553F8122C6FF126D99D5643E42C37",
+        "SPDXRef-File--src-test-java-ClassNameNoPackageTest.java-C813CB7FECB35BDF3B194FCB0D532418C910857E",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-ArrayTypeName.java-E1E0DB132A2931CF1EE680128CF9B1250F91362E",
+        "SPDXRef-File--.git-objects-pack-pack-78403a0d5e19477bdecd18bc488004e16705d91b.pack-62561A69ABAF3E6FCA5B7073CB7C2CE45629F65C",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-TypesEclipseTest.java-8F602550E92B80F5B8C12C57E3710206588376DB",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-JavaFileTest.java-072DD94BB83F53C2362A92A58A2BCC9CDDC261D7",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-AnnotatedTypeNameTest.java-264153E7A7F573A70D5F17BDD12AAE0F8B6712D2",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-ParameterSpec.java-56561A493565D1FCCA13AFD3E16FBC8D4C2B4B13",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-CodeBlock.java-FC40885146160134AA8549D52AE01C21C0B377C4",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--.gitignore-B55ECFE95AE3D1A1B568B7AC1B283858DCCDD3B2",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-NameAllocator.java-31A4C39ED80F6CAF34B6EA41C3C6A0E085BAF718",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-TypeSpecTest.java-B2B2ED24D72C3F46B6DB5437021CC78136D6F612",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-LineWrapperTest.java-72ECE5BFDE844E3185EBC5E3833F53409B12BAA6",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-AnnotationSpecTest.java-4AE92BBF3EB65BAA941FC529D4E055FED3A43ED7",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-TypeName.java-176482D8FF6E27FAD92F2D22A6F46744AD3B1C01",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-CodeWriter.java-00A18A957E4DBC2738C1FA45EC1F61E052AF701D",
+        "SPDXRef-File--.github-CONTRIBUTING.md-7E44F6309A8865A4447E54DD707A510B3C981E47",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--CHANGELOG.md-FFE358E64729EF872330C3E08E8FF73E0BCE92DC",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-TypeNameTest.java-C160D43FF27D456A94C565E8104DF1BC6C94F1E5",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-FileWritingTest.java-F3991FB7AC31DEB55B0A8EB6447182D767E318AD",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-AbstractTypesTest.java-C22D9B060D5EC0571335641BD46799B4875E9090",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-ParameterizedTypeName.java-C072C05362BA542D1D88616F65D57740227CC7D1",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-ClassName.java-CB48EB351FF2D60EC0A057A13983CB21E22E13AE",
+        "SPDXRef-File--.git-refs-heads-master-88919136E0AC9A9C8D91F6C9438B6C941BFE228A",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-DFB88151C329B5C6C1099D7F9FECE6AEDD8CEB3E",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-TestFiler.java-A709DE24CFBE5684C2849C0E7C8C3179E16CB791",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-FieldSpecTest.java-3E35A14AEC33760DDCE00EF9EC57FA24202F2D2F",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-WildcardTypeName.java-0A60C46561E46EE2813B15F0A3CC01D405C0D1A1",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-MethodSpec.java-872C1252D70CC4D316DA901E41F6B9A8A29032E1",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-AnnotationSpec.java-AC8EB8483E131A5A45E40FDDEAA849F5CEDD8D77",
+        "SPDXRef-File--.git-objects-pack-pack-78403a0d5e19477bdecd18bc488004e16705d91b.idx-B06F72503820E723893FAA0BE97B575284AA44EA",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-1B3BAC1B4BB6E103CD4C07ECA402B90E8DD51DF7",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-TestUtil.java-D54272456B6FF2DCC91F75122DA3903F55CBB586",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--RELEASING.md-B1B0B3CC6E5377D073016B3046006A856B1D8B0C",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-ParameterSpecTest.java-247BD80C0923028FACA7AC5C3849E72C63DBD974",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-CodeWriterTest.java-2BF88B8AC152D92FD699A695C47C8DCCE2C51903",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-Util.java-3F9105B9CF679D160BDB9942F6AB7D1CB81C1E0B",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-LineWrapper.java-A5AA084CC867BA3B397DBE60522188C01C992F26",
+        "SPDXRef-File--.github-workflows-settings.xml-390CDBC87855066AB79C79F6E3F94F91FA8F4E32",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-82BCCABA5AB631B8D227B46690D358B7755D1A81",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--pom.xml-EE80872C2ADA86AF690A3CBBA6AEA89FA0156372",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-UtilTest.java-C1F95CA1B0EE8F83F62FABA93ABD15E56FACE3B6",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-NameAllocatorTest.java-7250C9E90013517198ED12D49FC46FCC87164C6C",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-CodeBlockTest.java-0C6D6071B5BF56A6B6564452EC8736792B2E07C6",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-TypeVariableName.java-89034C36E90D558A137F0AA91FD16985D10DBB6B",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-JavaFile.java-CB2A1BCB1E73CA282BFF5B919D4849C57230BDD6",
+        "SPDXRef-File--.github-workflows-build.yml-63CD65C17DB4CBB9945583DF96E07665F6BE33BF",
+        "SPDXRef-File--.git-logs-refs-heads-master-82BCCABA5AB631B8D227B46690D358B7755D1A81",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-7C4E0C6328D8EAB8EB118CB7889D2F93DA5ACE15",
+        "SPDXRef-File--LICENSE.txt-47B573E3824CD5E02A1A3AE99E2735B49E0256E4",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-TypesTest.java-B9D1BA4847D1E39363180304E9562B23280968B2",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-MethodSpecTest.java-868A5D7FD47E5104B6F078F7273F52051AFF15DC",
+        "SPDXRef-File--src-test-java-com-squareup-javapoet-ClassNameTest.java-6EE21BED6A9E92E2CBB29776734B5CC4FC203556",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-TypeSpec.java-3A2D9AEC781CA1758BDC30190717842F4070D08E",
+        "SPDXRef-File--src-main-java-com-squareup-javapoet-FieldSpec.java-DDA385D09B69223668D7C92E734DA6410A219815",
+        "SPDXRef-File--.github-dependabot.yml-AA95BAD45A232804E9FD3551DD949BDAF8D50099",
+        "SPDXRef-File--.git-logs-HEAD-82BCCABA5AB631B8D227B46690D358B7755D1A81",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-CD90CFA232FC723F23AAD0E42A43CA46722173EA",
+        "SPDXRef-File--checkstyle.xml-4365232FBEE8FF371772F53BC342FF02B4A002E5"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "javapoet 1.14.0-SNAPSHOT",
+  "documentNamespace": "https://javapoet.squareup.com/javapoet/1.14.0-SNAPSHOT/90elmbOH3UCWx1ECz8MRcQ",
+  "creationInfo": {
+    "created": "2022-09-20T17:16:21Z",
+    "creators": [
+      "Organization: https://github.com/square/javapoet",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

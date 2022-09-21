@@ -1,0 +1,1648 @@
+{
+  "files": [
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-9758F46D115F8F8097593FCA747D333D427B1B1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1fb9c0e7be7778b8c34658b61e51a5700e172e6ff4d4cfdd1449b508f34bd47b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9758f46d115f8f8097593fca747d333d427b1b1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-9F4853D0C3F11CC5DCCECBEDC154CBF13C02E6BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1f8c3990fa24f636af1474f184bea01cf044d39fb54ce182bacd8683e55be0a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f4853d0c3f11cc5dccecbedc154cbf13c02e6ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-A1C5FFF0348B6ACACE7D3318032E9FCB520DCD20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6253cca004b9c460b77bc101ddbb335efb13a689e0a822854bc82bc487595ffc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1c5fff0348b6acace7d3318032e9fcb520dcd20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-07DA88B9DA6C68E08C5ABB8D2BCBF2E5A6C2494D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fb5f9d55ab8f19d334c7f6c6b5001a939f41e310690488d6cc38b03630a5601"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07da88b9da6c68e08c5abb8d2bcbf2e5a6c2494d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-10B07FF86033C20E6EA06FFA5656C449473B4F6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f471b0d0572c9bc405745df2158ee15561adc1864d484a1b4ffff76a337ca69"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10b07ff86033c20e6ea06ffa5656c449473b4f6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-52BA1C52B90E2184C19B711ACF05CDA79CDB84CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e7da92d06f3104765c8a05e7a6a8019e3f1ba34ad1d2b6b6c6d820810025a9e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52ba1c52b90e2184c19b711acf05cda79cdb84cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./art/how_it_works.png",
+      "SPDXID": "SPDXRef-File--art-how-it-works.png-A745E1142787B3C46692B40DC05477D4F0B9AEFE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a918291085275082445b7b9fa2e33261a0b5bf37918d1ac9064db84a4d70e93c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a745e1142787b3c46692b40dc05477d4f0b9aefe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/gradle.properties",
+      "SPDXID": "SPDXRef-File--logger-gradle.properties-A5CA60BE15C7E29E5745D72C30697F51F07655CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4df2eed495af2b676ce74890991faf55881c012952eb4a19a630b4395cbebb84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5ca60be15c7e29e5745d72c30697f51f07655cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE.md-C3A0920B0C2D10F3F566251D58EFEAD1AE8E42F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4bb4a5ef31251e5501d8f457672c5e52b3e6c470b3d354f1ef1ad4bc0528924c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3a0920b0c2d10f3f566251d58efead1ae8e42f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/LogcatLogStrategy.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LogcatLogStrategy.java-11348FB86D7A2CE5C289C2F1A0F1ECB2973D5E9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b03c3939d72ebabe21250e548f9456af39337981a8b9719c7b85d31c97527dd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11348fb86d7a2ce5c289c2f1a0f1ecb2973d5e9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./art/logger-logo.png",
+      "SPDXID": "SPDXRef-File--art-logger-logo.png-F2A06746B1BAC3F06D973D37B9D090A5B1609D45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7436fbd5a44b04d8f5ae0b90ff16eb4c70144ab2151e5aa4a8d264a9c9d0e9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2a06746b1bac3f06d973d37b9d090a5b1609d45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/CsvFormatStrategyTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-CsvFormatStrategyTest.kt-D266703E722907323AA149ADC73C6DED418321B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2835df1f315022c0958670f11be67fe306e5606376c48d575dea210029d30633"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d266703e722907323aa149adc73c6ded418321b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/AndroidLogAdapter.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-AndroidLogAdapter.java-2E29BD06128D3A7F1CEC5E511A6EC72A04EB5AA3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c806756bf9250a96bbeabe96afd46cf7fbeed11cfffef6ba69a54f3eee30b0f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e29bd06128d3a7f1cec5e511a6ec72a04eb5aa3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/LoggerPrinter.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LoggerPrinter.java-271B54CFBC6B8FD669339E7525BFB062BA1BBC70",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d0a1d35082a6c9658082cd291a49661c3602be6c33119bc5b5197a8a94b564d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "271b54cfbc6b8fd669339e7525bfb062ba1bbc70"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/UtilsTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-UtilsTest.kt-0FC72AB66CF104E0423B37FF841FE11964C40CFA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9e82650c2b82e3e516aca1ef272d8d91e2ecbad256fa4bc33cbe7f14ac81198"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fc72ab66cf104e0423b37ff841fe11964c40cfa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/DiskLogStrategyTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-DiskLogStrategyTest.kt-7DB91F74214CA78612E6F485A5C67E85CB552B31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "959836c8fa25562d759aafefa4149d67abe6fc9320e8e9082d6dcabe822dcab9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7db91f74214ca78612e6f485a5c67e85cb552b31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-71AA040FCFF8CB597F98751B8C1D9061A5103C2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a67d9dcd501437aafe30242a7621b42c381e2ea64f2bb55a2852a66d100c2a76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "71aa040fcff8cb597f98751b8c1d9061a5103c2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./checkstyle.xml",
+      "SPDXID": "SPDXRef-File--checkstyle.xml-F7A381672424356591115DB6211FC8C96BED4120",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6358dbebabd6579ddd74771ad073f5f3c28356ee286befa294428fdaa920c5c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f7a381672424356591115db6211fc8c96bed4120"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./art/logcat_options.png",
+      "SPDXID": "SPDXRef-File--art-logcat-options.png-824DF7AC7BCBF68A086D590FCAAAC5F22C93C146",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f148f9a3647d5afc6f9121d9ca9945ff12fd0333aa1b36e6e24c6d07e0a5cfd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "824df7ac7bcbf68a086d590fcaaac5f22c93c146"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--logger-src-main-AndroidManifest.xml-F6FFAF9707262ED671F584B269D790D0717A7C90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5cad020c1fd3c4845f905a6f3f6922acc9e402db27433918a32e66b14fff2718"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6ffaf9707262ed671f584b269d790d0717a7c90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/Logger.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-Logger.java-67E41083936325FEDFEA4CB776A54A475570DEF9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71ad501e6d18fddcaef6ff9441f941b529aee0ca6934b682bae9ebc429ed1445"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67e41083936325fedfea4cb776a54a475570def9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/DiskLogAdapterTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-DiskLogAdapterTest.kt-AF2347AC02F882469643A759B545968773939769",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d25bb8ff9a2aae932fe6cd398e9f68098555c5b7b0d4c59cabc17285c60d5c36"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "af2347ac02f882469643a759b545968773939769"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-7C678F4C2B00C9504B7DFAEA3752D92AF2450253",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0008d785920c9ff5cab17403e0270ccc7ceee8e169b6d67a82d96a5475fec5c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c678f4c2b00c9504b7dfaea3752d92af2450253"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-0B02482C33FC9E02FE6675DB6BFC9D0339FECC9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fa0cf8d53cb900a48a0eb1a0f70611b581d341400f3f4c5e164d0b9ec90a23a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b02482c33fc9e02fe6675db6bfc9d0339fecc9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-B5104FF5551FA1AA27FCC74BE3415E6C8AFD1ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce2fdedad928d4aa4145c140706c81f0b3fbbeff7e2eef37dc106a4d092686ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5104ff5551fa1aa27fcc74be3415e6c8afd1acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/vcs.xml",
+      "SPDXID": "SPDXRef-File--.idea-vcs.xml-D222C1E95BA289F2814D142867F8B3C8B656BCC6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d222c1e95ba289f2814d142867f8b3c8b656bcc6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/maven_push.gradle",
+      "SPDXID": "SPDXRef-File--gradle-maven-push.gradle-4E8A0CC83727DA758B69D624BD691C748FC0851A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fdf5df1ee2c8704817c6a9be65525d6cf09f9fef55c8fab1b6e24f15b9ef5af8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e8a0cc83727da758b69d624bd691c748fc0851a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/DiskLogAdapter.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-DiskLogAdapter.java-108C138EAD1D53BCBC933D1C93C08596F7EF079E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2652f8a9b8c4801dbac83245ec9a514cb5cb2f843d1ef10bdafddc6ecdafa753"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "108c138ead1d53bcbc933d1c93c08596f7ef079e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/PrettyFormatStrategy.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-PrettyFormatStrategy.java-99DDA11841A040DABE419153BC10E9C81D1CB4A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b6773533412c82a9ad2b91e3c01bef01949ef2e9dc9364f11772d1ac172ab22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "99dda11841a040dabe419153bc10e9c81d1cb4a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/LogcatLogStrategyTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LogcatLogStrategyTest.kt-0A51D2F545BC8428B5BBA7E56999E043E2D02E33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "504801bb60fe3a3b9de5b5ae5ef498e34938a44c7ef46b83bd48b4c4b76c8178"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a51d2f545bc8428b5bba7e56999e043e2d02e33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-F0BD74E3C6592D681A6CDAEEF30D7ACCFB56AB19",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77eb08e879f380892472cb7af17000dded845b5341a3f2e9f0f6b01a76d1c041"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0bd74e3c6592d681a6cdaeef30d7accfb56ab19"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-954D541EBD8C83E2E9B76783829B29216A8E183C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8a5050a3ebcf75d9c1fd59b35fee7fcee282dfa126e8509a9a4144b0a23b144"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "954d541ebd8c83e2e9b76783829b29216a8e183c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-8F0C2F45ADDF408C953628B4CFA325FD2FBA3541",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73265b62a1c8135f40224de4f35b0395a5398d3f2fb5a78b6979c18e4a538ea4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f0c2f45addf408c953628b4cfa325fd2fba3541"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-B5104FF5551FA1AA27FCC74BE3415E6C8AFD1ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce2fdedad928d4aa4145c140706c81f0b3fbbeff7e2eef37dc106a4d092686ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5104ff5551fa1aa27fcc74be3415e6c8afd1acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/encodings.xml",
+      "SPDXID": "SPDXRef-File--.idea-encodings.xml-65D30CDDBB47CEC7A750DADF3C762A20DE956A6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bda7acf016299ef2a21dcdb29a1bba7190ab836beb63b76751b704024c12bad7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65d30cddbb47cec7a750dadf3c762a20de956a6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./art/logger_output.png",
+      "SPDXID": "SPDXRef-File--art-logger-output.png-F333AB87F49C93089BAE95DACD24D0102DB02ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3adbe2497bd9c54296a0052d92d2d92e21881e89b21a65542711ae1c041e74c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f333ab87f49c93089bae95dacd24d0102db02acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/CsvFormatStrategy.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-CsvFormatStrategy.java-2D919A6D882F5D79A172FC8F472D5D6A897786E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de3878f1a71a0d7730631a44566966f53f4d9caab3c828f6bffe192b98843c9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d919a6d882f5d79a172fc8f472d5d6a897786e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/LogStrategy.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LogStrategy.java-582B0D0F06022EE2C1D1999AE828DFD88B4A400A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab34cc2245c696afa8750ad2d78e508b431cbba028fe5be6fb4216af8064c839"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "582b0d0f06022ee2c1d1999ae828dfd88b4a400a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/LogAssert.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LogAssert.kt-AB5DD5AF0CB754F9CDACFE8A4DABCD6CEE2EDD32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46da673d86b32ef3ba0702a88a3871db9ccad161ab98137b8d7ebf64188528fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab5dd5af0cb754f9cdacfe8a4dabcd6cee2edd32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/com/orhanobut/sample/MainActivity.java",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-com-orhanobut-sample-MainActivity.java-D22156164673250DB08987BBB8B9363B0AA63934",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af18d0dc62ba1dc119b2a4ef75612ed79864ace9c04c38bc415cf8154cfbf7f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d22156164673250db08987bbb8b9363b0aa63934"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-6B8F5769B47147A271F7D5A808B802DCB44FAB85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a07e9185cca870c556a44d5b4dff2bea516e0068ecf7984fd9c6818839bfd761"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b8f5769b47147a271f7d5a808b802dcb44fab85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-B5104FF5551FA1AA27FCC74BE3415E6C8AFD1ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce2fdedad928d4aa4145c140706c81f0b3fbbeff7e2eef37dc106a4d092686ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5104ff5551fa1aa27fcc74be3415e6c8afd1acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/caches/build_file_checksums.ser",
+      "SPDXID": "SPDXRef-File--.idea-caches-build-file-checksums.ser-AE7857DE50C0DAD21C1C2BD253927F0C122AA24A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46584a87a4162e07ebd87ce68474945e3f71bdc1a5e285d61dc5b2f4e1eb10f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae7857de50c0dad21c1c2bd253927f0c122aa24a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-636CF935A0FD1451657A4112974B3500CCE3AB84",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "381dff8aa434499aa93bc25572b049c8c586a67faff2c02f375e4f23e17e49de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "636cf935a0fd1451657a4112974b3500cce3ab84"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/DiskLogStrategy.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-DiskLogStrategy.java-AB8E70C7F9FAC8D47347D4FF8BED0029D79F1C27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fcf0460902ea2cadd8b12da01f3d0deb219cb1203bdaf4241e7a4fd2e4acdd18"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab8e70c7f9fac8d47347d4ff8bed0029d79f1c27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/Printer.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-Printer.java-0B4B65680839179BA3C7B2A0A39EC1E4527729A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0da4ac5cef62eb56a8ec6b719e4583e256e4f31f09b6cba6a9f75ca29ba6fe7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b4b65680839179ba3c7b2a0a39ec1e4527729a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/LoggerPrinterTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LoggerPrinterTest.kt-41AC9C7D043A882E5054E8E97A2F9C695E22F519",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17d2cba7ca7a164b03ad2043ece8922da90ad403f31985b181cf89b9144b1ef9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41ac9c7d043a882e5054e8e97a2f9c695e22f519"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-686313EDB48F7325EB1D68B7317FB6D76CA11DC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e183f47f7a74eb17e72acb17fecaa063932d3a2e8eaaa1a75c7ab2743f7e9f5e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "686313edb48f7325eb1d68b7317fb6d76ca11dc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxxhdpi-ic-launcher.png-429CFCB7C161E5FD60C9F155A6436BA5C78F7AF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77c2aa8ab1424e123ee86c4cb7b92e2b9b84bfeccc2cecb0d33df8d6410c939f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "429cfcb7c161e5fd60c9f155a6436ba5c78f7af7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-78CF60A359C88B7514DCB73EA8C1CDE38BD95FF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28d8ef6086eab5b32eeeabe2dce14550abdc417026962551360b28a853147ea2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78cf60a359c88b7514dcb73ea8c1cde38bd95ff5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-38b9c34b2f713424d09bb2dc3a028711b52de19a.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-38b9c34b2f713424d09bb2dc3a028711b52de19a.pack-E76C8441643B2C3675B0847009F90FB3D823BC79",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e08bdabb6dc097724741ade10da8ea30908e589ed2a14f372d3ea04a946a4c2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e76c8441643b2c3675b0847009f90fb3d823bc79"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/codeStyles/Project.xml",
+      "SPDXID": "SPDXRef-File--.idea-codeStyles-Project.xml-53F99A00BC123749D1212B6E09FDB63E52454F88",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4b802e4a6fe5c25c58dc6454460b9eb215620b01d73753b24a15dccf13a341c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53f99a00bc123749d1212b6e09fdb63e52454f88"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/build.gradle",
+      "SPDXID": "SPDXRef-File--logger-build.gradle-A1405411FE2540149275E379B5B6430403E99520",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "778bf817f128dc14047df63fdc6be58a9638ff3dc513a4962dc31a50e3d51a0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1405411fe2540149275e379b5b6430403e99520"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/LogAdapter.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LogAdapter.java-29931AD4AAD253086781F29FCD19BF55C9339B8A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76def2eeb7fa7e1fcdf7df3b02580540f4316148b306c8a4dbe5c8ab3b2e49bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29931ad4aad253086781f29fcd19bf55c9339b8a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-38b9c34b2f713424d09bb2dc3a028711b52de19a.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-38b9c34b2f713424d09bb2dc3a028711b52de19a.idx-D9D49493C853952866740A36785F7B5541AC7918",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43beea7749307f8741fefb6d92a23e88390233b2e12030b0a6acbd56ad1f9d57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9d49493c853952866740a36785f7b5541ac7918"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.idea/codeStyles/codeStyleConfig.xml",
+      "SPDXID": "SPDXRef-File--.idea-codeStyles-codeStyleConfig.xml-6BFBF32A784820A54C84C4512E6CBF86335B9265",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8e8720a8dd48f11d9c361a208d80dbecaa3922428da2b84323488a009e9700b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bfbf32a784820a54c84c4512e6cbf86335b9265"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-9465F154C532C18A87E1D3F5535AFAB12240D122",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "376e9c6a8a46d98701831d7b1af417b26fd408b838d0e99afa47f2c19c2542f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9465f154c532c18a87e1d3f5535afab12240d122"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/FormatStrategy.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-FormatStrategy.java-07EA37ED4CB2E47E82FC6834E57F2C33C7F93382",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "33dc64ba364ac2c77ab15ec6c032732b73efb8ba1fb6cb30125a92b21563e796"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07ea37ed4cb2e47e82fc6834e57f2c33c7f93382"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/main/java/com/orhanobut/logger/Utils.java",
+      "SPDXID": "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-Utils.java-BEFA76E1B04767ED61B87F36DDB714DE78CE4876",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecd98cf2a716313623905609803b832fd81ce9bacbd9d0c4eca7c67f8305de0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "befa76e1b04767ed61b87f36ddb714de78ce4876"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/LoggerTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LoggerTest.kt-F3F46C0FA567C3EE1D1F8AA8E6E1A945BBD7F788",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f7b4273c639ca99b93e6ec61a614f9553a9271b747eb531c1b034db496ad25c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3f46c0fa567c3ee1d1f8aa8e6e1a945bbd7f788"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-ACE34DDCF36A65288EADE6CB5768344C668CE8F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fea2b2359a088e75087afd05b2d923590c4a4bc868aadadb7d4de3054d7c79ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ace34ddcf36a65288eade6cb5768344c668ce8f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/AndroidLogAdapterTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-AndroidLogAdapterTest.kt-BD735C09B2D0CFFD8C47EC8E54F18C47DD8830C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "15af74af8f1c5ed65a30f30a71e2b3333ee63b35c616f77da90dbf7b3ffb24d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd735c09b2d0cffd8c47ec8e54f18c47dd8830c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logger/src/test/java/com.orhanobut.logger/PrettyFormatStrategyTest.kt",
+      "SPDXID": "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-PrettyFormatStrategyTest.kt-0A8398E8FFC2FB18939D3EE7FC184228173F7406",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c10ddfff3539a8ac0f05f0b9f70aeed400abe105b433211acd0853dd8e453a27"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a8398e8ffc2fb18939d3ee7fc184228173f7406"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "logger",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "3a24180cfdab30ac590cc9d9af67e723f3948caf"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.2.0",
+      "supplier": "Organization: https://github.com/orhanobut/logger",
+      "hasFiles": [
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-PrettyFormatStrategyTest.kt-0A8398E8FFC2FB18939D3EE7FC184228173F7406",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-AndroidLogAdapterTest.kt-BD735C09B2D0CFFD8C47EC8E54F18C47DD8830C5",
+        "SPDXRef-File--logger-build.gradle-A1405411FE2540149275E379B5B6430403E99520",
+        "SPDXRef-File--.idea-codeStyles-Project.xml-53F99A00BC123749D1212B6E09FDB63E52454F88",
+        "SPDXRef-File--.git-objects-pack-pack-38b9c34b2f713424d09bb2dc3a028711b52de19a.pack-E76C8441643B2C3675B0847009F90FB3D823BC79",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-686313EDB48F7325EB1D68B7317FB6D76CA11DC4",
+        "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-F0BD74E3C6592D681A6CDAEEF30D7ACCFB56AB19",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LogcatLogStrategyTest.kt-0A51D2F545BC8428B5BBA7E56999E043E2D02E33",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-PrettyFormatStrategy.java-99DDA11841A040DABE419153BC10E9C81D1CB4A1",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-DiskLogAdapter.java-108C138EAD1D53BCBC933D1C93C08596F7EF079E",
+        "SPDXRef-File--gradle-maven-push.gradle-4E8A0CC83727DA758B69D624BD691C748FC0851A",
+        "SPDXRef-File--.idea-vcs.xml-D222C1E95BA289F2814D142867F8B3C8B656BCC6",
+        "SPDXRef-File--.git-logs-refs-heads-master-B5104FF5551FA1AA27FCC74BE3415E6C8AFD1ACF",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-0B02482C33FC9E02FE6675DB6BFC9D0339FECC9B",
+        "SPDXRef-File--gradlew.bat-7C678F4C2B00C9504B7DFAEA3752D92AF2450253",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-DiskLogAdapterTest.kt-AF2347AC02F882469643A759B545968773939769",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-Logger.java-67E41083936325FEDFEA4CB776A54A475570DEF9",
+        "SPDXRef-File--logger-src-main-AndroidManifest.xml-F6FFAF9707262ED671F584B269D790D0717A7C90",
+        "SPDXRef-File--art-logcat-options.png-824DF7AC7BCBF68A086D590FCAAAC5F22C93C146",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--checkstyle.xml-F7A381672424356591115DB6211FC8C96BED4120",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LogAdapter.java-29931AD4AAD253086781F29FCD19BF55C9339B8A",
+        "SPDXRef-File--sample-src-main-res-mipmap-xxxhdpi-ic-launcher.png-429CFCB7C161E5FD60C9F155A6436BA5C78F7AF7",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LoggerTest.kt-F3F46C0FA567C3EE1D1F8AA8E6E1A945BBD7F788",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-Utils.java-BEFA76E1B04767ED61B87F36DDB714DE78CE4876",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-FormatStrategy.java-07EA37ED4CB2E47E82FC6834E57F2C33C7F93382",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-9465F154C532C18A87E1D3F5535AFAB12240D122",
+        "SPDXRef-File--.idea-codeStyles-codeStyleConfig.xml-6BFBF32A784820A54C84C4512E6CBF86335B9265",
+        "SPDXRef-File--.git-objects-pack-pack-38b9c34b2f713424d09bb2dc3a028711b52de19a.idx-D9D49493C853952866740A36785F7B5541AC7918",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-78CF60A359C88B7514DCB73EA8C1CDE38BD95FF5",
+        "SPDXRef-File--.gitignore-A1C5FFF0348B6ACACE7D3318032E9FCB520DCD20",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LoggerPrinterTest.kt-41AC9C7D043A882E5054E8E97A2F9C695E22F519",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-Printer.java-0B4B65680839179BA3C7B2A0A39EC1E4527729A2",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-DiskLogStrategy.java-AB8E70C7F9FAC8D47347D4FF8BED0029D79F1C27",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-636CF935A0FD1451657A4112974B3500CCE3AB84",
+        "SPDXRef-File--.idea-caches-build-file-checksums.ser-AE7857DE50C0DAD21C1C2BD253927F0C122AA24A",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-B5104FF5551FA1AA27FCC74BE3415E6C8AFD1ACF",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--LICENSE-6B8F5769B47147A271F7D5A808B802DCB44FAB85",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-UtilsTest.kt-0FC72AB66CF104E0423B37FF841FE11964C40CFA",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-CsvFormatStrategyTest.kt-D266703E722907323AA149ADC73C6DED418321B0",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LogcatLogStrategy.java-11348FB86D7A2CE5C289C2F1A0F1ECB2973D5E9B",
+        "SPDXRef-File--logger-gradle.properties-A5CA60BE15C7E29E5745D72C30697F51F07655CD",
+        "SPDXRef-File--art-how-it-works.png-A745E1142787B3C46692B40DC05477D4F0B9AEFE",
+        "SPDXRef-File--.git-refs-heads-master-52BA1C52B90E2184C19B711ACF05CDA79CDB84CC",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-07DA88B9DA6C68E08C5ABB8D2BCBF2E5A6C2494D",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-71AA040FCFF8CB597F98751B8C1D9061A5103C2B",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-DiskLogStrategyTest.kt-7DB91F74214CA78612E6F485A5C67E85CB552B31",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LoggerPrinter.java-271B54CFBC6B8FD669339E7525BFB062BA1BBC70",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-AndroidLogAdapter.java-2E29BD06128D3A7F1CEC5E511A6EC72A04EB5AA3",
+        "SPDXRef-File--art-logger-logo.png-F2A06746B1BAC3F06D973D37B9D090A5B1609D45",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE.md-C3A0920B0C2D10F3F566251D58EFEAD1AE8E42F2",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--gradle.properties-10B07FF86033C20E6EA06FFA5656C449473B4F6C",
+        "SPDXRef-File--build.gradle-9F4853D0C3F11CC5DCCECBEDC154CBF13C02E6BA",
+        "SPDXRef-File--sample-build.gradle-ACE34DDCF36A65288EADE6CB5768344C668CE8F3",
+        "SPDXRef-File--sample-src-main-java-com-orhanobut-sample-MainActivity.java-D22156164673250DB08987BBB8B9363B0AA63934",
+        "SPDXRef-File--logger-src-test-java-com.orhanobut.logger-LogAssert.kt-AB5DD5AF0CB754F9CDACFE8A4DABCD6CEE2EDD32",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-LogStrategy.java-582B0D0F06022EE2C1D1999AE828DFD88B4A400A",
+        "SPDXRef-File--logger-src-main-java-com-orhanobut-logger-CsvFormatStrategy.java-2D919A6D882F5D79A172FC8F472D5D6A897786E4",
+        "SPDXRef-File--art-logger-output.png-F333AB87F49C93089BAE95DACD24D0102DB02ACF",
+        "SPDXRef-File--.idea-encodings.xml-65D30CDDBB47CEC7A750DADF3C762A20DE956A6E",
+        "SPDXRef-File--.git-logs-HEAD-B5104FF5551FA1AA27FCC74BE3415E6C8AFD1ACF",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-8F0C2F45ADDF408C953628B4CFA325FD2FBA3541",
+        "SPDXRef-File--.travis.yml-9758F46D115F8F8097593FCA747D333D427B1B1B",
+        "SPDXRef-File--gradlew-954D541EBD8C83E2E9B76783829B29216A8E183C"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "logger 2.2.0",
+  "documentNamespace": "https://github.com/orhanobut/logger/logger/2.2.0/RHtfN9gITUaZ3klmXtBchQ",
+  "creationInfo": {
+    "created": "2022-09-20T16:03:51Z",
+    "creators": [
+      "Organization: https://github.com/orhanobut/logger",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

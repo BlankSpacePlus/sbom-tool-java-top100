@@ -1,0 +1,3468 @@
+{
+  "files": [
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-1F907302DE404270DF5F9C5F3A9AFBD8287B34D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24640c57484c6359a7363b8fc0dfc6871ee3940de384456079aaa13bd6621730"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f907302de404270df5f9c5f3a9afbd8287b34d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-4C386882B034DB583233F84171ECD04F91AC3CEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbc3f46160bc4161bcc7d05f363500e32a27d926499ef886c20d2d6776b8dd7a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c386882b034db583233f84171ecd04f91ac3cef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5c317cf754bba8ad745e83649e9ce7c17e2f691"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-6875C3499A0BB1CE0B5C4CFC805E5FF12754F2E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44ca3abf0cb57d1f3a9c442948018512943c4842631cc4ea82e9b96149fc0280"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6875c3499a0bb1ce0b5c4cfc805e5ff12754f2e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-20DF2AB576D30DB08D66A257ADF22C4744C78669",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4d27c5c2d45b615dba90b9b58703b98db049df2809d6481e5592276955482a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20df2ab576d30db08d66a257adf22c4744c78669"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-2BB91577D29B5B3C8370487F656D60752C78CA98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e8454f0888289298234d41aec555cadaed947f6b0b6ec1fbe79582ee88b14f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2bb91577d29b5b3c8370487f656d60752c78ca98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-F30E9B6ADE98B26637E2C843110CCE602703526A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7e2b67c8ce0020c3304f2ac5293e144f053da53224676179b76f8bf7045ed38"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f30e9b6ade98b26637e2c843110cce602703526a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/proguard-rules.txt",
+      "SPDXID": "SPDXRef-File--library-proguard-rules.txt-AB7BD30DB9E0806B87AADA7E8748565D83656CF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6d6f5a6fa4c0f1e2a83d10e5177d5c77bbc040bdebf276ff66ea9f4dfa3fd91"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab7bd30db9e0806b87aada7e8748565d83656cf2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-8573A513640A5F158924A2C70F636935540628D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0903ae205b5957930281ee09ea99323718c6fe665f461d3dfd54ffeef172fc75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8573a513640a5f158924a2c70f636935540628d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-a3a5398d62f6bc30cc25a5ff9dc92f352accee7c.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-a3a5398d62f6bc30cc25a5ff9dc92f352accee7c.pack-4DD6ADB88AAC631137250FFECD34AA26544AE955",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69dc9e6022d9efe5e1545cd57a7b1bf8b6573175b3d01f40f2ee36a38c9a3b70"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4dd6adb88aac631137250ffecd34aa26544ae955"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageView.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImageView.java-250CE8D22E910D47C7EBA7BF3C558708B4F27501",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f2a064c2f1218c815fbac723dad997f436d0a3d1deedf7b96a1293858cb9b0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "250ce8d22e910d47c7eba7bf3c558708b4f27501"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImage.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImage.java-C9B7EBF0112F93B54B9B6EEEE3C662FA6B72A533",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28365d315e5bde10268f830933ea61e64258006837ba1a1b74f8e6918155caad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c9b7ebf0112f93b54b9b6eeee3c662fa6b72a533"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/gradle.properties",
+      "SPDXID": "SPDXRef-File--library-gradle.properties-52C1EE69494B55BC226ACCC93580900AD4F90A33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "097226938880cf7b25fa393b750b49d08f6d0509a622efaef79b43e7fc7802dd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52c1ee69494b55bc226accc93580900ad4f90a33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageAlphaBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageAlphaBlendFilter.java-A09AC5308C9DC405A86E762D00AE3917B3BE69B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "94597c5f4d8d433bf366c7cc2965c31157a2ccc24580f6685d046c463a74d6e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a09ac5308c9dc405a86e762d00ae3917b3be69b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageRenderer.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImageRenderer.java-2D2D35F05BC3157125577B6700CDC428675AEF25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6427841fb7aec84e6ca17a68b77741090f9bb311cbc2af7ac349bdb084e08920"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d2d35f05bc3157125577b6700cdc428675aef25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageColorBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorBlendFilter.java-C282152A6B9C4733831FC710AF4894DB820C3E5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0215a111126dd6838be93115ff5a6363a10f1fe59ba0595b91587a194e1f0d75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c282152a6b9c4733831fc710af4894db820c3e5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageBoxBlurFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBoxBlurFilter.java-96C25250AC6F623CE5A21F057CBC49389C422BE8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "872c59826ece0639e182291356f86a211087cfb9c9583dadc376d690d9a78c0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96c25250ac6f623ce5a21f057cbc49389c422be8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageDifferenceBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDifferenceBlendFilter.java-08797D9ADBFC2F520B7C16A20E7906CEEFB1811D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b42087f7c26c3b4d6d0f777864e8e6b72617323958a9765802bdd90db1f7ea17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08797d9adbfc2f520b7c16a20e7906ceefb1811d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageColorDodgeBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorDodgeBlendFilter.java-C5DCF4CB67AECD68F63B9FD9DBCFD915CCA8B7E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d92d681cfdaa3507fe687efc7ebcd2ca04bdbd4e94379bdcf1bf78aab9f5f82"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5dcf4cb67aecd68f63b9fd9dbcfd915cca8b7e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageBrightnessFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBrightnessFilter.java-972F9F0C2C4A48163B8A7D03493294113B627F69",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "826cc8ac78c541126c9d3b1bb40ad6d19fe6a0d3f64c445c81f2295b5c69ac60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "972f9f0c2c4a48163b8a7d03493294113b627f69"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-A0E6CBF37E59F67909FE3CF422673BF7494F5374",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "380fc08c3922f1d42faeb2bb67655a7fd134df32400ac362ff45ff994d947a1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0e6cbf37e59f67909fe3cf422673bf7494f5374"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFalseColorFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageFalseColorFilter.java-714ED1906ED62883FD0B905B82CE075E41C2DB57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ffde5cbfa3e374048e4acbbfcaad6fef8540ea12c1b895c5a72281ce89786853"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "714ed1906ed62883fd0b905b82ce075e41c2db57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageColorInvertFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorInvertFilter.java-528B5DFDEA12CD244631B957A2B2371307C9AD8F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0401d79929f3438ef59d79a8248d93226e0e373fefe59f78cdedb7046bd80f1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "528b5dfdea12cd244631b957a2b2371307c9ad8f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageDirectionalSobelEdgeDetectionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDirectionalSobelEdgeDetectionFilter.java-9CCAB00D2608F66E1F579C4B91A93BF2C0BB4113",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60aca6714114bd2ce6a7bc7065a42f8d39e2c0bbfb55bcc956e88b45be08a302"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ccab00d2608f66e1f579c4b91a93bf2c0bb4113"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageHardLightBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHardLightBlendFilter.java-3E81609F15CCD310C2577C3BAD82D06D3CE8E166",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2db740b6b8d5dc3ead93dc8a4ceeec5357e21735c898c05417cb1514d80fc66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e81609f15ccd310c2577c3bad82d06d3ce8e166"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageDissolveBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDissolveBlendFilter.java-A069B7A9828236CD392E93E940F54A15029C008E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f905872510e27889739d74ec43db4e82f4c55ac6f872a36e09d43bbfeead61ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a069b7a9828236cd392e93e940f54a15029c008e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilterGroup.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageFilterGroup.java-68A36FD0972674557B76E0CBFE1B257EA0705A42",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "772f0b5e919f06abe1963f3fd54251b8c670708754697f21ec3c918af7a559f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68a36fd0972674557b76e0cbfe1b257ea0705a42"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageHighlightShadowFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHighlightShadowFilter.java-005E5401FAB52CF155BE0DDED8DA493771ACB8B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad1606345388f36db7f401a37cb2ab989deb64c44e667b45207ecbf05640b954"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "005e5401fab52cf155be0dded8da493771acb8b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLightenBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLightenBlendFilter.java-620387A8195D56B9ECC9EAFC4103A12BD63D10FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd6e9e6d7cb81025df015856e3cd0fc92c41a9fa280f63ed784093f0f2600dee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "620387a8195d56b9ecc9eafc4103a12bd63d10ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageMultiplyBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageMultiplyBlendFilter.java-206E4F4EF53D006EAEC2B67D79800AEE11CD0114",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50bd676898eb7ad6167eb94f013f5e88dc8a7f9a62f71e3ab73307220b268ae2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "206e4f4ef53d006eaec2b67d79800aee11cd0114"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageRGBFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageRGBFilter.java-40F6D34073DE262FF34676CB407A38B789D09F8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "996242a1cfaaaf8ab5bcd41d3e30014fa0a8527bdc69f3b8dda089480e4efe34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40f6d34073de262ff34676cb407a38b789d09f8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSobelEdgeDetectionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSobelEdgeDetectionFilter.java-149BC4F6CE5E465742A3F6449872D588F77032BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70c4df8b0a61623c128dfdda7a23914794491ecf30b3b8db292f21e62294a78e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "149bc4f6ce5e465742a3f6449872d588f77032bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageGammaFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGammaFilter.java-E24309BEC2F509B06ABF9CBD9F36FC4C80FDDBF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4093570347fc0a6fec24d85b98c25cc532d62470ef6aecb4b588a9048fd0feeb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e24309bec2f509b06abf9cbd9f36fc4c80fddbf7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageHueBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHueBlendFilter.java-2169F9EBBF3AE48FE93C2B41D0AE8DD80D61E566",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9f929d3ed4d54c294ef1a6fe8e78d0453a697cda56837f23c6ce99f6d29a1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2169f9ebbf3ae48fe93c2b41d0ae8dd80d61e566"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLuminanceFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLuminanceFilter.java-1FF002E250D21B72FC048B2D5C1EE528C3D7649F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85f2c6dea8bf6075d9f9256c2f07d65150ae7b202f27254a8fe71075b11a9d96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ff002e250d21b72fc048b2d5c1ee528c3d7649f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageOpacityFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageOpacityFilter.java-EB91103EE82A8EAEA1A676D8016F8F80D94BD3E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "466da670b7f0e1f1bcb9cff1e6f653d2d546835b15e46eb4e78cd63fc11f54db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb91103ee82a8eaea1a676d8016f8f80d94bd3e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageScreenBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageScreenBlendFilter.java-97C80674E55DB6F0D9C665B269C0C1D99CBC5A01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91f6309076f2c4c6aeadca2087f124203e3403a8440d5b7f403841b335430804"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97c80674e55db6f0d9c665b269c0c1d99cbc5a01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSolarizeFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSolarizeFilter.java-7ED22F092A8F949D348A07490906171085F43CB8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "534951387d94f20285667289aad36782b86c8ed7af69ff3335d3e0e9e300e9a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7ed22f092a8f949d348a07490906171085f43cb8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageTransformFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTransformFilter.java-EB3892FB6E5556EF62DAD9F5158E121FEA3F0D38",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "15a8e56b91e6664618db184aa4f048576c36e556d7e70ae81359c48411c50c26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb3892fb6e5556ef62dad9f5158e121fea3f0d38"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageZoomBlurFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageZoomBlurFilter.java-1A203BB367D592AFECC989E1C7197B9ADEA50406",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73bcb1cfacea57e8274b7cca28c318bb53b145a07c57e2f7c32acab1446bf15b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a203bb367d592afecc989e1c7197b9adea50406"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/GPUImageFilterTools.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-GPUImageFilterTools.kt-CB99863CC07FB0BF96FB833A61B1495AAF3409E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fb5c45644a52c229a1df265db9491582e18219a9d98bbcb27b78ea922e3d169"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb99863cc07fb0bf96fb833a61b1495aaf3409e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ViewExt.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-ViewExt.kt-F16AB7F5BEAAF28C9EC51C633A012FA363EC9AE6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82706a3535185d57d49a8c11f7261fd154391a44a160f4d98071810269b15842"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f16ab7f5beaaf28c9ec51c633a012fa363ec9ae6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xhdpi-ic-launcher.png-8126353892915E8741CB426F4A81A64C13C749D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68bfefb4cc2bf2c61cfb70dde4a64186ec417ba434129a6c6d14406c863ec65d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8126353892915e8741cb426f4a81a64c13c749d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-styles.xml-C5B64EB0D82EA0B9C8E6118EDC0168B7F544397B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "687d4d4e3f77f991af65a91ce955448de88f29eb6e9c1b7ffc7b2acf37e338c4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5b64eb0d82ea0b9c8e6118edc0168b7f544397b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--library-src-main-AndroidManifest.xml-3296CAC14CD1513EBBCCE0D83E3582D6E41316A5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59b2982202d886a57d97116ab53b7e55eeb7cf7384c7d9afb175efce1cdf3542"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3296cac14cd1513ebbcce0d83e3582d6e41316a5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/PixelBuffer.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-PixelBuffer.java-D14AF5908E2CBA2119ACFE3DA23B960ACCF07719",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b38efe6b5222aa559f73da31d465090f30638dead1eb90d8c087e15bb50807e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d14af5908e2cba2119acfe3da23b960accf07719"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageBulgeDistortionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBulgeDistortionFilter.java-E2F73711002937D2DDBD278455E0F1C78B8EA139",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc722409b5e19ea544a429dbe042990da5e365516d935d8e3b65772f81410001"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2f73711002937d2ddbd278455e0f1c78b8ea139"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageColorMatrixFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorMatrixFilter.java-ED330E521AF7984004A5C7699E1C4FECA1E22426",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "888c6a4c451ebb761b02e33c2baa2dd956b08f4ff170f32eabd7544b1bdac589"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed330e521af7984004a5c7699e1c4feca1e22426"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageDivideBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDivideBlendFilter.java-4D6C04456D3084ECAA0E8CB41697F0D5E6943AC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "396a362edb39f5afc39637373dfbda332cb9cdf931670118d9ce9bfb9a39c952"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d6c04456d3084ecaa0e8cb41697f0d5e6943ac2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageGaussianBlurFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGaussianBlurFilter.java-0FCCAA96D0FAF70B6F55E35B04C2102A7C4588CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bb79679baf187b6a44e7deb69c1c9d47ed3b4743da9dc99629a2bb70f640fb7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0fccaa96d0faf70b6f55e35b04c2102a7c4588cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageHueFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHueFilter.java-8488956BE4DE40EE28A7CCB77FA7745EEA5CBD8E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e2e7683ba59896084f5ca81d2fcea8b9b5f6efd23829ecddd5c02c416fedfd9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8488956be4de40ee28a7ccb77fa7745eea5cbd8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLuminanceThresholdFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLuminanceThresholdFilter.java-20E7EB19B2AD5E16605D739A8842FC57BC53CDD5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b63dedfa170c72e16f5681fd4f1530237d3159ac49bea96861775d7c1afdf3d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20e7eb19b2ad5e16605d739a8842fc57bc53cdd5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageOverlayBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageOverlayBlendFilter.java-C6DB869BF3783BAB0C16EBEB9E6730B6F365D728",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5880b3ec60a5c9c91e8d4ab888c5d84ed99e192a2ca8ef4401793fa3fa3d2152"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6db869bf3783bab0c16ebeb9e6730b6f365d728"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSepiaToneFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSepiaToneFilter.java-DD915C2756CB94529474219CDB002D0B50ECFCBB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f862ca25874e51bfcbbd3d2dcc1c57cbca8c7938286f8a749996fe66e8f13c7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd915c2756cb94529474219cdb002d0b50ecfcbb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSourceOverBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSourceOverBlendFilter.java-7E200028ED857B980D7A2031B6D400A66DC4214D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b50c8e22d8ac83aa8d0051b0bfadbb4e2a4a44d333f1b2d26b45282a413b2092"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e200028ed857b980d7a2031b6d400a66dc4214d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageTwoInputFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTwoInputFilter.java-C5A67CA8BA90AE1C03F108CDFE673F038FC90F5A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d109c9b102e0e8cb59c6e6a0e866ca79ecb2f3fdf5a41878ef58e9e0772ea945"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5a67ca8ba90ae1c03f108cdfe673f038fc90f5a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/util/OpenGlUtils.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-util-OpenGlUtils.java-27C97988D7DB25AB9E26628DC1BEB3A8A64112FC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "65da614507b46cce671737b60e47425620d591944730c4d6890bf44e7581bca6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27c97988d7db25ab9e26628dc1beb3a8a64112fc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/CameraActivity.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-activity-CameraActivity.kt-725B81B78648576E148C6AB564FC67E7A0F773D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "15faf5374e05a41a5d2c9b74d8bab0eedfdfefc8ca12c2e9db3696b0ea8de3cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "725b81b78648576e148c6ab564fc67e7a0f773d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-hdpi/ic_action_search.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-action-search.png-7EC7001FFD10CD29E137C2C3BAAB0C32E2EF76D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01bd248c26be3113d31576eb6e5fca400a107e4220cb874879f3ef0abe75570b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7ec7001ffd10cd29e137c2c3baab0c32e2ef76d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xxhdpi-ic-launcher.png-4567AD760664AB028A42289F3F3055AAE3D1FFEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ef28f7aa7bb9ac0757e003917760b5ebde1de3d49d0cc28dedbfc949fedf22b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4567ad760664ab028a42289f3f3055aae3d1ffef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./utils/Shader2String.py",
+      "SPDXID": "SPDXRef-File--utils-Shader2String.py-9042D9B0653DA30506768857766E3A957F29A179",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd5c79a4479ecf8558631158ecbfcb6b01df028cfc8c4d00c02de68af1378621"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9042d9b0653da30506768857766e3a957f29a179"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-EE1983D263749F6325867C6116C09A9C05F8F2F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be375aa2c7b2bbe4873d254cb28f1dbbe2bbcc9620e95fc9a4bb8525e2ad87da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1983d263749f6325867c6116c09a9c05f8f2f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-a3a5398d62f6bc30cc25a5ff9dc92f352accee7c.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-a3a5398d62f6bc30cc25a5ff9dc92f352accee7c.idx-1079B19D1A18256C2484BF5E08FA3C4C34641B6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ca8322469c60a7d64bd08d6c8b027000f5a00b30241a1201ff8f835e690dd23"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1079b19d1a18256c2484bf5e08fa3c4c34641b6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/build.gradle",
+      "SPDXID": "SPDXRef-File--library-build.gradle-B0BE2E33905107D8D041235FCEB03D66AB69DB0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e27df92b2af41800b11f0ddcae2ed89b2ff500a069314b9ab93853e470e4e25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b0be2e33905107d8d041235fceb03d66ab69db0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/GPUImageNativeLibrary.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImageNativeLibrary.java-2D157A0754060C35518F759328C09D462FBCABF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ca79fc2b777c1ab0c22a7446682de348a26b1394327c688136bb8737e88a6be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d157a0754060c35518f759328c09d462fbcabf5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageBilateralBlurFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBilateralBlurFilter.java-51191B7286DB6FF82205D3DBC271C023E3C62CAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b1dee8917af7b0f203c6a40bdd118e367462365b4bcd08bad71e80e85ab1fd3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51191b7286db6ff82205d3dbc271c023e3c62caa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageColorBurnBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorBurnBlendFilter.java-A5CFC2D54D0D19363B1501A9D3F0EFDAFA0F4E50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7268a2e780329cd18a78a08ea29f23a51f9f1d788a9372923c9f6fe65ee51e2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5cfc2d54d0d19363b1501a9d3f0efdafa0f4e50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageDilationFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDilationFilter.java-CE34A91B76D26412E7531868F085D2701073C9B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d15bf7fdb84034f0028b47ef156381cd701570fa0f38881eb8b7fba7aef5f765"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce34a91b76d26412e7531868f085d2701073c9b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageFilter.java-E5D0EF94CA41075F208359FFA3F6D77834E8181E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f5fde6543bb7c93e839ad7a88ac80aa42d8fedbd61fd81004af24e19b7906e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5d0ef94ca41075f208359ffa3f6d77834e8181e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageHazeFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHazeFilter.java-4A7B8AD005D0296F700545E9204B9B9F52CE4FD5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd41086645e7c05c04a99c2991b8d063f43071bbb110c92f13153f614303709a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a7b8ad005d0296f700545e9204b9b9f52ce4fd5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLinearBurnBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLinearBurnBlendFilter.java-DE8ED230AE5FA09CA899BB21CBC464A0E5EBEBF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a17cf70ac34cd238dd7bdd625b3debfdc23a4b8c9264f11eba8cb43ff2d2ff4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de8ed230ae5fa09ca899bb21cbc464a0e5ebebf1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageNonMaximumSuppressionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageNonMaximumSuppressionFilter.java-0E3F7EE4E7ADD27BC2D8FC87A626E5DE2A399FB3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71a58e0ac85fb1f0567e775b198d7a6dc1ecf58852e7e63947ebb53ad9e735c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e3f7ee4e7add27bc2d8fc87a626e5de2a399fb3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSaturationBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSaturationBlendFilter.java-44D231E5D321F94CFFB8227F94799B2A90FE3D8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3422beb53773c53521a4ad8b884be046e68cec2e5ba300dc5b1fe64134c838e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44d231e5d321f94cffb8227f94799b2a90fe3d8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSobelThresholdFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSobelThresholdFilter.java-5BA7C078DB26A4E3CAEF6821E2DC2DAA2391C2CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e72c44356a489fe27233d325699e6ba846191a7f20926321bc41800fc8aefb6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ba7c078db26a4e3caef6821e2dc2daa2391c2cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageToneCurveFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageToneCurveFilter.java-D9E3CB32149C27EE280461639F099AA6D94BE7B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31760eca7221b92e679cb244db65b48d59026ed0b79687c522f72b3654270d15"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9e3cb32149c27ee280461639f099aa6d94be7b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageWeakPixelInclusionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageWeakPixelInclusionFilter.java-E3EF6A211D01A65F9885406D05DFBBB84EC3432B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8df8c56c3733444c6b7a93c6750863404435fd84737dd3f408a93863b5ce375"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3ef6a211d01a65f9885406d05dfbbb84ec3432b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/proguard-project.txt",
+      "SPDXID": "SPDXRef-File--sample-proguard-project.txt-87A189515A2DF10A1EFDA8B6AD445569DFA20BE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de725d9a2a6cc4d00d2490d17eb277abb160551e0df617e3129e8589da32e0c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87a189515a2df10a1efda8b6ad445569dfa20be1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/CameraLoader.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-CameraLoader.kt-DBA6A92761ADFD49ACA853F8C07768CF6DC91CEB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c241db9a53a51f6e3e1b13de7bcb19fb4d5759cbeffb8034e2c4193352d274c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dba6a92761adfd49aca853f8c07768cf6dc91ceb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-nodpi/lookup_amatorka.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-nodpi-lookup-amatorka.png-98072A06E2E9591EFDF5FC89A8E8E49DB6E994D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81191b72c638c1d3cca1f52ae0b89c84334123b764cee9a501cdc31c3d0707cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98072a06e2e9591efdf5fc89a8e8e49db6e994d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/raw/tone_cuver_sample.acv",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-raw-tone-cuver-sample.acv-21920786C7D17CF3288D8D537E278C845CD1CC7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "886faf1ef4342519d58ecae38d3dfa06149a26fcb2b92d5811cecd479ba9478a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21920786c7d17cf3288d8d537e278c845cd1cc7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLookupFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLookupFilter.java-E5EBB72C5DB373A9351A936148A419C5A6C6F180",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f97e180840f258d6e2a36cc46e1f9be0d30d8db07066a9bfbb40bb8f3bbcc5ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5ebb72c5db373a9351a936148a419c5a6c6f180"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageNormalBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageNormalBlendFilter.java-5849DD0475F983287088D84AF7EE5B84C57DB66A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccb42edb929eec923185291af383d0d3bf447460b69774abb193b58baecce01e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5849dd0475f983287088d84af7ee5b84c57db66a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSaturationFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSaturationFilter.java-2690DDCE899FCE8CD8811A037FFCE03B93E61A11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38cb5cc40b351499b23e136c19e3148602e4521a2e4d2586bdd13d890b9a1563"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2690ddce899fce8cd8811a037ffce03b93e61a11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSoftLightBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSoftLightBlendFilter.java-3BF0FA0BBADA8139BA6A71DB30010AE2420D2B15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97204ff4621e980652589c9f99215f0296bc31249c2e152c17408ea8721cc575"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3bf0fa0bbada8139ba6a71db30010ae2420d2b15"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageToonFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageToonFilter.java-43023294E1CDB4C7416F6E1D9D844E292E193C57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28899b5934ea9a318fcf3a6e0956b5b05bf4fd318b281e93a64579cce3f0d87a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43023294e1cdb4c7416f6e1d9d844e292e193c57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageWhiteBalanceFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageWhiteBalanceFilter.java-85FAB75E886A1E4A3E00F8B0193AE5A0A1C66EE3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b782b6884792d86557d81dd97663f318526e9c35b3ab4aee956f7e3c8cc09ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "85fab75e886a1e4a3e00f8b0193ae5a0a1c66ee3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageThresholdEdgeDetectionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageThresholdEdgeDetectionFilter.java-52CAC29F69D774ACC8E7DBB2414996E8A4EC04D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "274a53cf07539884e2a483f77956c1fa29a7bd8e3cb56089b4d8c6665913fabd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52cac29f69d774acc8e7dbb2414996e8a4ec04d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageVignetteFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageVignetteFilter.java-983D644EB8B9A3095E6501E1EF2051341A7B623A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec3ced9100d3ee8ebc0ff9845d8cf5049255978ed1ced15da5d58b98a028e695"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "983d644eb8b9a3095e6501e1ef2051341a7b623a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-1B356677D5D45E2FB46F7EC8C1CD458D566CB4AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf191e16496df00bc08e669432889688e5fc22ad8c378828c305f5b0d11fc269"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b356677d5d45e2fb46f7ec8c1cd458d566cb4ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera2Loader.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-Camera2Loader.kt-D0BB2F1A72E5704852879DC28EE15DBDB52B9E17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7bfb2392543785747cb990cba43702e390bb31e7ba325b8038c0dedd84c155ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d0bb2f1a72e5704852879dc28ee15dbdb52b9e17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-0417970A742556CFEDA1162B65FD4A0FE9A1D8AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f09c3917477705c890c28da742032c4c633f86c3e5bd130d561c0081e54cd62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0417970a742556cfeda1162b65fd4a0fe9a1d8ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-mdpi-ic-launcher.png-B8FF4023215D0F8D83BDE5EF38AE98BE6AE81DE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85b1b1766f4f8cfa818eaf1c490ac0d8267cfc99c8b5e10285cfffffb96211e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8ff4023215d0f8d83bde5ef38ae98be6ae81de7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-9BDA1A2991CD050CC2FBF008FD3E5A9672B63EB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c15a47b60a4eeede9ffee33433fd990d8b6236607372b9bb1f6dc51b07b78c39"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bda1a2991cd050cc2fbf008fd3e5a9672b63eb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-88CEB033B9F1E6F3FC8D3812DCE170D07B1EFF0E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "457fb1d248425ec361be84604f076c95b5f293ca0964fa39eb8f55fd994c2465"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "88ceb033b9f1e6f3fc8d3812dce170d07b1eff0e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-F30E9B6ADE98B26637E2C843110CCE602703526A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7e2b67c8ce0020c3304f2ac5293e144f053da53224676179b76f8bf7045ed38"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f30e9b6ade98b26637e2c843110cce602703526a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2685E1A923D4C79DD549889406C6FFA9E8661744",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2685e1a923d4c79dd549889406c6ffa9e8661744"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/GLTextureView.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GLTextureView.java-0D8136074326F2B93283B0C6843A1038E8EEBD38",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a94fcffa168cc4d166c47a32371aa4ab6e6a13a6344cc9ac6a2c2c65f1582b30"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d8136074326f2b93283b0c6843a1038e8eebd38"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageAddBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageAddBlendFilter.java-0A58CB3DAA467587D349F17FF52598090FE76736",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88d6f4942f18771e1a0ab42d7e5fb256d15695212b553776edbd6791b217afe2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a58cb3daa467587d349f17ff52598090fe76736"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageColorBalanceFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorBalanceFilter.java-FBB061E89FE4FAF3047A196427F5AF5E70E51DF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "305972c00851b21ebf1fdcb80d36cb21e115465978b95e1ec18814c7bd71dbfb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fbb061e89fe4faf3047a196427f5af5e70e51df4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageDarkenBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDarkenBlendFilter.java-910BA5E8E6B79D06B6E32A91C3D7DB31DB61A34B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91f2fc30893fd615b9cc5b23216b261bf4b138417a1f2b38b8f906c9447d9d66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "910ba5e8e6b79d06b6e32a91c3d7db31db61a34b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageExposureFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageExposureFilter.java-E4B1FB88ADCE78A99AEECF67E96F4FD5F39993A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac2870d7be4b3153637b455d19e59671d189284ac81fd7471d25a9fa6a7463ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4b1fb88adce78a99aeecf67e96f4fd5f39993a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageHalftoneFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHalftoneFilter.java-5623645565AE793A22A6A4A121CD5AC4EDE8BA44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "409cef8f459d4d156f83edfdf07822dc78fd574fe896caf56d7f06eb063d02bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5623645565ae793a22a6a4a121cd5ac4ede8ba44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLevelsFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLevelsFilter.java-82F4C64A89B29E2FB740F6E5A07740DBD0ADC176",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b90ff1c54666c6c22dce3c5c4a82f45f6a223e427fba6274aa804735dd451c16"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82f4c64a89b29e2fb740f6e5a07740dbd0adc176"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageMonochromeFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageMonochromeFilter.java-9EFCCA52899B24F29A5C7E4042031FBA7A79A7AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f44e6ca359ec3c865bdb17e1b53957dcad1a40fb8a59ccdfe5f40ec866057859"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9efcca52899b24f29a5c7e4042031fba7a79a7af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageRGBDilationFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageRGBDilationFilter.java-680C523EFF762EDC350E945AD193157AB6AA0A86",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2030fbba9dc73108ed1beb5c54e4481af7344de60047e1eed7a626b7a5c3f81"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "680c523eff762edc350e945ad193157ab6aa0a86"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSmoothToonFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSmoothToonFilter.java-663A6A15955710E720D1951C19438EB123893131",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e5a9648e0235d068a1a766b19b8f9fce78d20dc90361ea2abaffb8f201f6919"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "663a6a15955710e720d1951c19438eb123893131"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSwirlFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSwirlFilter.java-4283622ACD77963CC80B22AA58D51BC55E852DE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "392255c057605823fc813f937155cbfc82b89f5dc7016860b2d7062a0d2a16cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4283622acd77963cc80b22aa58d51bc55e852de1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageVibranceFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageVibranceFilter.java-B462C04F754A8FBE2E574499DFE0ED49DA6AD31A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c67a0fda0afd1dbe0e5e3b000fd701908de16d65519deb7a5f46acec8a2610b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b462c04f754a8fbe2e574499dfe0ed49da6ad31a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/res/values/attrs.xml",
+      "SPDXID": "SPDXRef-File--library-src-main-res-values-attrs.xml-A7EC2AA87A5CB5A6BAB15B6A544112365A113E17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "65bff1f60a260f116ec4292bdcecc4b13975b0db0a8edd41db899061569376e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7ec2aa87a5cb5a6bab15b6a544112365a113e17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/Camera1Loader.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-Camera1Loader.kt-B22E0A92F2DE62C6E2EF3C248EB88F6ACAD141D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86e46c5b935d6ba3eb68448b21d4638d2ab8ba24d4a45f4adfb7fb72498b1d85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b22e0a92f2de62c6e2ef3c248eb88f6acad141d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-mdpi/ic_action_search.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-mdpi-ic-action-search.png-BCA2289CD09BC6A3B4A4507CFD6ECC23431826C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a376c7ed3895e8b6a4d3f43cec9c321c893314497a57932f1897d6d8e9623937"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bca2289cd09bc6a3b4a4507cfd6ecc23431826c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_gallery.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-gallery.xml-C854E15D10F50C26949B4293C1D5F24D38C38023",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1cfe485a5076d33768b0d83043fdecef34b60939bf6a0954de21d5827a1ed612"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c854e15d10f50c26949b4293c1d5f24d38c38023"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.md-E57263A9C1539608BDDC71981777AA10E6FAD686",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b75bc2fb00a5791d8005f64cdd560eb8ce874750e4934bf2d80b46532f4e0221"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e57263a9c1539608bddc71981777aa10e6fad686"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE.md-7761E0BE01635F14870E737519EA4CA505D48030",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd8298371d6ade85a0c2df19c0173960cdd37fba78342effe4a94b30fef04a51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7761e0be01635f14870e737519ea4ca505d48030"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/cpp/CMakeLists.txt",
+      "SPDXID": "SPDXRef-File--library-src-main-cpp-CMakeLists.txt-EDC176AF9D1D1E77599EEA0868078C6113ECA749",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0c17cebd663937097d4b7138b5324903fe80d7e621e6b52f59ea4b82b40fd34a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "edc176af9d1d1e77599eea0868078c6113eca749"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImage3x3ConvolutionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImage3x3ConvolutionFilter.java-65BA44160B840CBA60833C8F928AF51119E8E087",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc825ee85dd180e2370d8e8a2d0ff1d353320711d8509625385781d6425d6672"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65ba44160b840cba60833c8f928af51119e8e087"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageCGAColorspaceFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageCGAColorspaceFilter.java-6CDD3F3AD46202AB60A2928C1BF6ADBB4480F752",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9575b8437b045315ef4d130c85479a030f168ff976ffd2f61d308734111bd2e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6cdd3f3ad46202ab60a2928c1bf6adbb4480f752"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageContrastFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageContrastFilter.java-A9130E7F6C91885AC722BDC1C6720530DE048CE8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8fa48d336c4122217a4200ef772553004e41f26b60e1e552df9c23f709693304"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9130e7f6c91885ac722bdc1c6720530de048ce8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageEmbossFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageEmbossFilter.java-31CACE85943B995FA1D2F717DFDD355B0CC6EB70",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "954b4a69cf889a786346e420c9baabe62c618629e1af9a4e7ac08c85c8154d35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31cace85943b995fa1d2f717dfdd355b0cc6eb70"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageGlassSphereFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGlassSphereFilter.java-5792F486892F290422D01EB83122ACDD5BBC949E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "011847e2689b6372fabec4402408d07a652da9dcee7bfbeef9c1f6a1540390ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5792f486892f290422d01eb83122acdd5bbc949e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageKuwaharaFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageKuwaharaFilter.java-E503A10AC86748D63BD94A6F2BF1F1E18780470C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "35e6ab12d7e423b9044cecc05fe0823c2f67d5154520970b1b23c7fe8bd5a3ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e503a10ac86748d63bd94a6f2bf1f1e18780470c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLuminosityBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLuminosityBlendFilter.java-15FB3B73978A10A8A65295C5BA79FA1D44B9A74E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2dc4d3aa3ce4ff12a58a5ee47d18888d78832f02fd0b59cbf9547a0035e9e2d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15fb3b73978a10a8a65295c5ba79fa1d44b9a74e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImagePixelationFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImagePixelationFilter.java-7DEC99190D6B3D4AC0CFDDAA7B60FC350B80ACFA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1833e1bbe40e5ad1e889689e15bc747aacfd413476d7909e93dc51cf324230f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7dec99190d6b3d4ac0cfddaa7b60fc350b80acfa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSharpenFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSharpenFilter.java-D6B2EF4C4157C433AA4806A541F65030E7935992",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f807dc082d49ba54c73ec68e7fde805d3015fb74cce118b9510ce5006a1ee93b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6b2ef4c4157c433aa4806a541f65030e7935992"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSphereRefractionFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSphereRefractionFilter.java-45DF66F19150E1D84AB12A03BE908FCBDDFE8E24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc8e58be3d4f73326eb838bb594da61e1dfc6f06f4b4d2d1c54525b5f7ea0ab1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "45df66f19150e1d84ab12a03be908fcbddfe8e24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageTwoPassFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTwoPassFilter.java-E3D0526AF975113F874134A4A8233A5E5B023A95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0dd60df12ba976e112916dad66e3dabbbeaf4297396e2c3486028e5b4ba4be01"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3d0526af975113f874134a4a8233a5e5b023a95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/util/Rotation.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-util-Rotation.java-9BEC64676D75116C99B3ECCBC0BB0B61319B0B6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d500854650cddbbfad2483215559d35c10688fdddafbc921040017bbceb39d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bec64676d75116c99b3eccbc0bb0b61319b0b6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/GalleryActivity.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-activity-GalleryActivity.kt-EAEC0962832FA05605C041C8F529FC7068C3C5E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68db648b9829dff7b5fdf9dea2cbe3c025f897a20acf3c5881947d90ca920e47"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eaec0962832fa05605c041c8f529fc7068c3c5e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-launcher.png-B135AA8EB5860B86FF03A79F675C219D9315DEF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e72ac2a69ce3c23aff5443c514fa231997fe3a72c8cbb908a46a453ae754373b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b135aa8eb5860b86ff03a79f675c219d9315def3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xxxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xxxhdpi-ic-launcher.png-6514B68E50C14266E49B361BF10077BD53EEBF26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4f4454c808fe5843b4aa12a08d9a22817e9d0cc781c0159357d51364579dc20"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6514b68e50c14266e49b361bf10077bd53eebf26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-9BE6762C324C136ECB7042AA98D0E1DE53269FAE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed0e5f09d9bd379c1dcc9270e10e8897fc79d4b7454c010a514a9aa454264d1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9be6762c324c136ecb7042aa98d0e1de53269fae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-291C14AFDE8DA193605E20AF79025579721A01C0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a7be2cbaa167592a1d7d94e6fb6175d58c57c9eee46959db88143f5262a9b8f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "291c14afde8da193605e20af79025579721a01c0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-F30E9B6ADE98B26637E2C843110CCE602703526A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7e2b67c8ce0020c3304f2ac5293e144f053da53224676179b76f8bf7045ed38"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f30e9b6ade98b26637e2c843110cce602703526a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/PULL_REQUEST_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-PULL-REQUEST-TEMPLATE.md-1ADBDCB4B02687B7BACA4569ACD867D42839A62B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7cbed9a474d3aed4b9f2e9220bfc3880e3a7662f7a24d193737d005082e204ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1adbdcb4b02687b7baca4569acd867d42839a62b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/cpp/yuv-decoder.c",
+      "SPDXID": "SPDXRef-File--library-src-main-cpp-yuv-decoder.c-BFC1C463458C8ACA4C37446674FE8DB723138C50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39b3a3efcc573ab69a6f577527ce444e9b8eb04811d6591d04cfd4e2d516411d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfc1c463458c8aca4c37446674fe8db723138c50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImage3x3TextureSamplingFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImage3x3TextureSamplingFilter.java-E03244D574E8C793D1283483CB89A3A57223CA13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e92b13d8e0506d384a02d2f155af2f5e0bfd3d7e1822363bc4ce978a1dcfb442"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e03244d574e8c793d1283483cb89a3a57223ca13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageChromaKeyBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageChromaKeyBlendFilter.java-2CE689E7A51AA5B0A5F905CE09B06C4B2E8328BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "003a39fcfe4c7b6ffbd3b64e72d8cd61d61e4163de620e5dbeb06f8e6e986653"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ce689e7a51aa5b0a5f905ce09b06c4b2e8328bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageCrosshatchFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageCrosshatchFilter.java-5AF01288DFF054E2E9D953C5AEA8C89E6F1F4D8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ce839a741507eea496408cba76190443d8ec8b428d042ed676fcfedc904b510"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5af01288dff054e2e9d953c5aea8c89e6f1f4d8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageExclusionBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageExclusionBlendFilter.java-62910A6074DDA2F18EF5CE7E02E880251EFC2838",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c63b062b41038ab23529034c11bb8150c07413f7056246cc6e6eae0e974c4d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62910a6074dda2f18ef5ce7e02e880251efc2838"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageGrayscaleFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGrayscaleFilter.java-D316B135997C7D5880DACB567CF34F2C27F01930",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9c3c0a1c03b5f8b3eb70d9b43d7ec95e4a0a2cedb6d07fc9f0dc70edae6f31e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d316b135997c7d5880dacb567cf34f2c27f01930"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageLaplacianFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLaplacianFilter.java-E76AB878EBC9399C8E1BC351A05060053B149770",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4184380a575001ee0c0c5bb70a4dcc0a70c88be5ed2449df9eff85661bb5dcd8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e76ab878ebc9399c8e1bc351a05060053b149770"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageMixBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageMixBlendFilter.java-797B448C676AB602689C1BBD647C07633C9AFA97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2eaa24dfb428f14024f529da532e9eccb50030efd1993311191dd7ce543163ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "797b448c676ab602689c1bbd647c07633c9afa97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImagePosterizeFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImagePosterizeFilter.java-CAE635C1A30C8C23F7D1578067419E79E8E127BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63ab73b15f82a80ffaa77d9232b2d2a43e573889e5dac9c22ba53cc96d2e8b4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cae635c1a30c8c23f7d1578067419e79e8e127be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSketchFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSketchFilter.java-70110AE1B6B21FE3331DB6144A13D69A255DEF98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f575ff4378676186e5792756714314c5c6006e90c37fa9636cb1529f617143a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70110ae1b6b21fe3331db6144a13d69a255def98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageSubtractBlendFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSubtractBlendFilter.java-5707058F5AA019A72747FCFE936CA9F100727F16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d9e6fd832373939f4df073b68afcf0253e096ba7c321d8b85ea401acaa622b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5707058f5aa019a72747fcfe936ca9f100727f16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/filter/GPUImageTwoPassTextureSamplingFilter.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTwoPassTextureSamplingFilter.java-FE58067C3B612BBB16AAC2C132C3AC8C571B98F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f50d42924134af323c92d3ebe5a6e8b2b5acae955e87a3b1277fd0e38fc18d85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe58067c3b612bbb16aac2c132c3ac8c571b98f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-6F593EDCFED9FE249C8EB2C1422E9A0E6F9F52F8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba5f09185de2eaf8de84d8c493b06d33ee9eac9be2f0b506505159b21f61ca17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f593edcfed9fe249c8eb2c1422e9a0e6f9f52f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/utils/ImageExt.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-ImageExt.kt-C7FF7D4920271B066D39A70794AD642AC0745687",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c693df7b9706d5973686e9ef6d0ffd676d45e0c3fa5a3d78678c21bb34a439f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c7ff7d4920271b066d39a70794ad642ac0745687"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/jp/co/cyberagent/android/gpuimage/util/TextureRotationUtil.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-util-TextureRotationUtil.java-5CB0B583F5BA335ECCFBF201F230E220C720E0DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8296175f446be26a50d5031803a6dc632928f1a2ba00f6f5d253f4d6b202b86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cb0b583f5ba335eccfbf201f230e220c720e0db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-xhdpi/ic_action_search.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-xhdpi-ic-action-search.png-9396C0118B259887714F6EF3A240C711618AE79A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae9f837b869924bb4ff0b03563592efa2c9515dbc163579789868cc4785e9e96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9396c0118b259887714f6ef3a240c711618ae79a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/java/jp/co/cyberagent/android/gpuimage/sample/activity/MainActivity.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-activity-MainActivity.kt-3D0D065E4FE8E878D3538465A855F91AEC845ACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f81488d35ade47e1d4fc24d53faad17f15a83d17aa066cd910dadb460583c140"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d0d065e4fe8e878d3538465a855f91aec845acf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-strings.xml-04BD912E375FCB35AF1DFD117085FACFC693333C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e170fb3bf67baee070e69110310acbfa04e2acc527d0365bb37caa0b0c6dd7a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04bd912e375fcb35af1dfd117085facfc693333c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/drawable-hdpi/ic_switch_camera.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-switch-camera.png-966024BC3531A5B9050C66FE90C27FDFA7FECBBE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecd00ee58246c00200d132a153fddddfbacd6b083f75b67f54a7311b2fb981d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "966024bc3531a5b9050c66fe90c27fdfa7fecbbe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_camera.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-camera.xml-FE712169EA4964E328A42E4C38E9ED24F9241672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f70e8a4e343d2fe189e8fd74482e4e88a6986b6c4bc683e2021dd99c66db4f8d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe712169ea4964e328a42e4c38e9ed24f9241672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "android-gpuimage",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "10e78f089d57d7ab65425e2732b03496c7dd41c4"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "v2.0.4",
+      "supplier": "Organization: https://github.com/cats-oss/android-gpuimage",
+      "hasFiles": [
+        "SPDXRef-File--sample-src-main-res-values-strings.xml-04BD912E375FCB35AF1DFD117085FACFC693333C",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-0417970A742556CFEDA1162B65FD4A0FE9A1D8AC",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageWhiteBalanceFilter.java-85FAB75E886A1E4A3E00F8B0193AE5A0A1C66EE3",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageToonFilter.java-43023294E1CDB4C7416F6E1D9D844E292E193C57",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSoftLightBlendFilter.java-3BF0FA0BBADA8139BA6A71DB30010AE2420D2B15",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSaturationFilter.java-2690DDCE899FCE8CD8811A037FFCE03B93E61A11",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageNormalBlendFilter.java-5849DD0475F983287088D84AF7EE5B84C57DB66A",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLookupFilter.java-E5EBB72C5DB373A9351A936148A419C5A6C6F180",
+        "SPDXRef-File--sample-src-main-res-raw-tone-cuver-sample.acv-21920786C7D17CF3288D8D537E278C845CD1CC7F",
+        "SPDXRef-File--sample-src-main-res-drawable-nodpi-lookup-amatorka.png-98072A06E2E9591EFDF5FC89A8E8E49DB6E994D4",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-CameraLoader.kt-DBA6A92761ADFD49ACA853F8C07768CF6DC91CEB",
+        "SPDXRef-File--sample-proguard-project.txt-87A189515A2DF10A1EFDA8B6AD445569DFA20BE1",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageWeakPixelInclusionFilter.java-E3EF6A211D01A65F9885406D05DFBBB84EC3432B",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageToneCurveFilter.java-D9E3CB32149C27EE280461639F099AA6D94BE7B1",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSobelThresholdFilter.java-5BA7C078DB26A4E3CAEF6821E2DC2DAA2391C2CD",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSaturationBlendFilter.java-44D231E5D321F94CFFB8227F94799B2A90FE3D8D",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageNonMaximumSuppressionFilter.java-0E3F7EE4E7ADD27BC2D8FC87A626E5DE2A399FB3",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLinearBurnBlendFilter.java-DE8ED230AE5FA09CA899BB21CBC464A0E5EBEBF1",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHazeFilter.java-4A7B8AD005D0296F700545E9204B9B9F52CE4FD5",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageFilter.java-E5D0EF94CA41075F208359FFA3F6D77834E8181E",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDilationFilter.java-CE34A91B76D26412E7531868F085D2701073C9B9",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorBurnBlendFilter.java-A5CFC2D54D0D19363B1501A9D3F0EFDAFA0F4E50",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBilateralBlurFilter.java-51191B7286DB6FF82205D3DBC271C023E3C62CAA",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImageNativeLibrary.java-2D157A0754060C35518F759328C09D462FBCABF5",
+        "SPDXRef-File--library-build.gradle-B0BE2E33905107D8D041235FCEB03D66AB69DB0C",
+        "SPDXRef-File--.git-objects-pack-pack-a3a5398d62f6bc30cc25a5ff9dc92f352accee7c.idx-1079B19D1A18256C2484BF5E08FA3C4C34641B6D",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-EE1983D263749F6325867C6116C09A9C05F8F2F3",
+        "SPDXRef-File--sample-src-main-res-layout-activity-camera.xml-FE712169EA4964E328A42E4C38E9ED24F9241672",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-activity-MainActivity.kt-3D0D065E4FE8E878D3538465A855F91AEC845ACF",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTwoPassTextureSamplingFilter.java-FE58067C3B612BBB16AAC2C132C3AC8C571B98F3",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSubtractBlendFilter.java-5707058F5AA019A72747FCFE936CA9F100727F16",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSketchFilter.java-70110AE1B6B21FE3331DB6144A13D69A255DEF98",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImagePosterizeFilter.java-CAE635C1A30C8C23F7D1578067419E79E8E127BE",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageMixBlendFilter.java-797B448C676AB602689C1BBD647C07633C9AFA97",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLaplacianFilter.java-E76AB878EBC9399C8E1BC351A05060053B149770",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGrayscaleFilter.java-D316B135997C7D5880DACB567CF34F2C27F01930",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageExclusionBlendFilter.java-62910A6074DDA2F18EF5CE7E02E880251EFC2838",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageCrosshatchFilter.java-5AF01288DFF054E2E9D953C5AEA8C89E6F1F4D8C",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageChromaKeyBlendFilter.java-2CE689E7A51AA5B0A5F905CE09B06C4B2E8328BF",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImage3x3TextureSamplingFilter.java-E03244D574E8C793D1283483CB89A3A57223CA13",
+        "SPDXRef-File--library-src-main-cpp-yuv-decoder.c-BFC1C463458C8ACA4C37446674FE8DB723138C50",
+        "SPDXRef-File--.github-PULL-REQUEST-TEMPLATE.md-1ADBDCB4B02687B7BACA4569ACD867D42839A62B",
+        "SPDXRef-File--.git-logs-HEAD-F30E9B6ADE98B26637E2C843110CCE602703526A",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-291C14AFDE8DA193605E20AF79025579721A01C0",
+        "SPDXRef-File--gradle.properties-9BE6762C324C136ECB7042AA98D0E1DE53269FAE",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-ImageExt.kt-C7FF7D4920271B066D39A70794AD642AC0745687",
+        "SPDXRef-File--sample-src-main-res-values-styles.xml-C5B64EB0D82EA0B9C8E6118EDC0168B7F544397B",
+        "SPDXRef-File--sample-src-main-res-drawable-xhdpi-ic-launcher.png-8126353892915E8741CB426F4A81A64C13C749D8",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-ViewExt.kt-F16AB7F5BEAAF28C9EC51C633A012FA363EC9AE6",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-GPUImageFilterTools.kt-CB99863CC07FB0BF96FB833A61B1495AAF3409E2",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageZoomBlurFilter.java-1A203BB367D592AFECC989E1C7197B9ADEA50406",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTransformFilter.java-EB3892FB6E5556EF62DAD9F5158E121FEA3F0D38",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSolarizeFilter.java-7ED22F092A8F949D348A07490906171085F43CB8",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageScreenBlendFilter.java-97C80674E55DB6F0D9C665B269C0C1D99CBC5A01",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageOpacityFilter.java-EB91103EE82A8EAEA1A676D8016F8F80D94BD3E0",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLuminanceFilter.java-1FF002E250D21B72FC048B2D5C1EE528C3D7649F",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHueBlendFilter.java-2169F9EBBF3AE48FE93C2B41D0AE8DD80D61E566",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGammaFilter.java-E24309BEC2F509B06ABF9CBD9F36FC4C80FDDBF7",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDissolveBlendFilter.java-A069B7A9828236CD392E93E940F54A15029C008E",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorInvertFilter.java-528B5DFDEA12CD244631B957A2B2371307C9AD8F",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBrightnessFilter.java-972F9F0C2C4A48163B8A7D03493294113B627F69",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImageView.java-250CE8D22E910D47C7EBA7BF3C558708B4F27501",
+        "SPDXRef-File--library-proguard-rules.txt-AB7BD30DB9E0806B87AADA7E8748565D83656CF2",
+        "SPDXRef-File--.git-refs-heads-master-2BB91577D29B5B3C8370487F656D60752C78CA98",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-6875C3499A0BB1CE0B5C4CFC805E5FF12754F2E3",
+        "SPDXRef-File--build.gradle-4C386882B034DB583233F84171ECD04F91AC3CEF",
+        "SPDXRef-File--sample-src-main-res-drawable-xhdpi-ic-action-search.png-9396C0118B259887714F6EF3A240C711618AE79A",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-util-TextureRotationUtil.java-5CB0B583F5BA335ECCFBF201F230E220C720E0DB",
+        "SPDXRef-File--sample-src-main-res-drawable-xxxhdpi-ic-launcher.png-6514B68E50C14266E49B361BF10077BD53EEBF26",
+        "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-launcher.png-B135AA8EB5860B86FF03A79F675C219D9315DEF3",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-activity-GalleryActivity.kt-EAEC0962832FA05605C041C8F529FC7068C3C5E0",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-util-Rotation.java-9BEC64676D75116C99B3ECCBC0BB0B61319B0B6E",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTwoPassFilter.java-E3D0526AF975113F874134A4A8233A5E5B023A95",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSphereRefractionFilter.java-45DF66F19150E1D84AB12A03BE908FCBDDFE8E24",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSharpenFilter.java-D6B2EF4C4157C433AA4806A541F65030E7935992",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImagePixelationFilter.java-7DEC99190D6B3D4AC0CFDDAA7B60FC350B80ACFA",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLuminosityBlendFilter.java-15FB3B73978A10A8A65295C5BA79FA1D44B9A74E",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageKuwaharaFilter.java-E503A10AC86748D63BD94A6F2BF1F1E18780470C",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGlassSphereFilter.java-5792F486892F290422D01EB83122ACDD5BBC949E",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageEmbossFilter.java-31CACE85943B995FA1D2F717DFDD355B0CC6EB70",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageContrastFilter.java-A9130E7F6C91885AC722BDC1C6720530DE048CE8",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageCGAColorspaceFilter.java-6CDD3F3AD46202AB60A2928C1BF6ADBB4480F752",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImage3x3ConvolutionFilter.java-65BA44160B840CBA60833C8F928AF51119E8E087",
+        "SPDXRef-File--library-src-main-cpp-CMakeLists.txt-EDC176AF9D1D1E77599EEA0868078C6113ECA749",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE.md-7761E0BE01635F14870E737519EA4CA505D48030",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--CONTRIBUTING.md-E57263A9C1539608BDDC71981777AA10E6FAD686",
+        "SPDXRef-File--sample-src-main-res-layout-activity-gallery.xml-C854E15D10F50C26949B4293C1D5F24D38C38023",
+        "SPDXRef-File--sample-src-main-res-drawable-mdpi-ic-action-search.png-BCA2289CD09BC6A3B4A4507CFD6ECC23431826C5",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-Camera1Loader.kt-B22E0A92F2DE62C6E2EF3C248EB88F6ACAD141D9",
+        "SPDXRef-File--library-src-main-res-values-attrs.xml-A7EC2AA87A5CB5A6BAB15B6A544112365A113E17",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageVibranceFilter.java-B462C04F754A8FBE2E574499DFE0ED49DA6AD31A",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSwirlFilter.java-4283622ACD77963CC80B22AA58D51BC55E852DE1",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSmoothToonFilter.java-663A6A15955710E720D1951C19438EB123893131",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageRGBDilationFilter.java-680C523EFF762EDC350E945AD193157AB6AA0A86",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageMonochromeFilter.java-9EFCCA52899B24F29A5C7E4042031FBA7A79A7AF",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLevelsFilter.java-82F4C64A89B29E2FB740F6E5A07740DBD0ADC176",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHalftoneFilter.java-5623645565AE793A22A6A4A121CD5AC4EDE8BA44",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageExposureFilter.java-E4B1FB88ADCE78A99AEECF67E96F4FD5F39993A0",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDarkenBlendFilter.java-910BA5E8E6B79D06B6E32A91C3D7DB31DB61A34B",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorBalanceFilter.java-FBB061E89FE4FAF3047A196427F5AF5E70E51DF4",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageAddBlendFilter.java-0A58CB3DAA467587D349F17FF52598090FE76736",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GLTextureView.java-0D8136074326F2B93283B0C6843A1038E8EEBD38",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-2685E1A923D4C79DD549889406C6FFA9E8661744",
+        "SPDXRef-File--.git-logs-refs-heads-master-F30E9B6ADE98B26637E2C843110CCE602703526A",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-88CEB033B9F1E6F3FC8D3812DCE170D07B1EFF0E",
+        "SPDXRef-File--gradlew-9BDA1A2991CD050CC2FBF008FD3E5A9672B63EB6",
+        "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-switch-camera.png-966024BC3531A5B9050C66FE90C27FDFA7FECBBE",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSobelEdgeDetectionFilter.java-149BC4F6CE5E465742A3F6449872D588F77032BD",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageRGBFilter.java-40F6D34073DE262FF34676CB407A38B789D09F8B",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageMultiplyBlendFilter.java-206E4F4EF53D006EAEC2B67D79800AEE11CD0114",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLightenBlendFilter.java-620387A8195D56B9ECC9EAFC4103A12BD63D10FF",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHardLightBlendFilter.java-3E81609F15CCD310C2577C3BAD82D06D3CE8E166",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageFalseColorFilter.java-714ED1906ED62883FD0B905B82CE075E41C2DB57",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDifferenceBlendFilter.java-08797D9ADBFC2F520B7C16A20E7906CEEFB1811D",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorBlendFilter.java-C282152A6B9C4733831FC710AF4894DB820C3E5D",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageAlphaBlendFilter.java-A09AC5308C9DC405A86E762D00AE3917B3BE69B2",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImage.java-C9B7EBF0112F93B54B9B6EEEE3C662FA6B72A533",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-8573A513640A5F158924A2C70F636935540628D1",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-F30E9B6ADE98B26637E2C843110CCE602703526A",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--gradlew.bat-F5C317CF754BBA8AD745E83649E9CE7C17E2F691",
+        "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-6F593EDCFED9FE249C8EB2C1422E9A0E6F9F52F8",
+        "SPDXRef-File--sample-src-main-res-drawable-mdpi-ic-launcher.png-B8FF4023215D0F8D83BDE5EF38AE98BE6AE81DE7",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-utils-Camera2Loader.kt-D0BB2F1A72E5704852879DC28EE15DBDB52B9E17",
+        "SPDXRef-File--sample-build.gradle-1B356677D5D45E2FB46F7EC8C1CD458D566CB4AC",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageVignetteFilter.java-983D644EB8B9A3095E6501E1EF2051341A7B623A",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageThresholdEdgeDetectionFilter.java-52CAC29F69D774ACC8E7DBB2414996E8A4EC04D8",
+        "SPDXRef-File--utils-Shader2String.py-9042D9B0653DA30506768857766E3A957F29A179",
+        "SPDXRef-File--sample-src-main-res-drawable-xxhdpi-ic-launcher.png-4567AD760664AB028A42289F3F3055AAE3D1FFEF",
+        "SPDXRef-File--sample-src-main-res-drawable-hdpi-ic-action-search.png-7EC7001FFD10CD29E137C2C3BAAB0C32E2EF76D5",
+        "SPDXRef-File--sample-src-main-java-jp-co-cyberagent-android-gpuimage-sample-activity-CameraActivity.kt-725B81B78648576E148C6AB564FC67E7A0F773D0",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-util-OpenGlUtils.java-27C97988D7DB25AB9E26628DC1BEB3A8A64112FC",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageTwoInputFilter.java-C5A67CA8BA90AE1C03F108CDFE673F038FC90F5A",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSourceOverBlendFilter.java-7E200028ED857B980D7A2031B6D400A66DC4214D",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageSepiaToneFilter.java-DD915C2756CB94529474219CDB002D0B50ECFCBB",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageOverlayBlendFilter.java-C6DB869BF3783BAB0C16EBEB9E6730B6F365D728",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageLuminanceThresholdFilter.java-20E7EB19B2AD5E16605D739A8842FC57BC53CDD5",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHueFilter.java-8488956BE4DE40EE28A7CCB77FA7745EEA5CBD8E",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageGaussianBlurFilter.java-0FCCAA96D0FAF70B6F55E35B04C2102A7C4588CD",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDivideBlendFilter.java-4D6C04456D3084ECAA0E8CB41697F0D5E6943AC2",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorMatrixFilter.java-ED330E521AF7984004A5C7699E1C4FECA1E22426",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBulgeDistortionFilter.java-E2F73711002937D2DDBD278455E0F1C78B8EA139",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-PixelBuffer.java-D14AF5908E2CBA2119ACFE3DA23B960ACCF07719",
+        "SPDXRef-File--library-src-main-AndroidManifest.xml-3296CAC14CD1513EBBCCE0D83E3582D6E41316A5",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--CHANGELOG.md-A0E6CBF37E59F67909FE3CF422673BF7494F5374",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageHighlightShadowFilter.java-005E5401FAB52CF155BE0DDED8DA493771ACB8B4",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageFilterGroup.java-68A36FD0972674557B76E0CBFE1B257EA0705A42",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageDirectionalSobelEdgeDetectionFilter.java-9CCAB00D2608F66E1F579C4B91A93BF2C0BB4113",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageColorDodgeBlendFilter.java-C5DCF4CB67AECD68F63B9FD9DBCFD915CCA8B7E6",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-filter-GPUImageBoxBlurFilter.java-96C25250AC6F623CE5A21F057CBC49389C422BE8",
+        "SPDXRef-File--library-src-main-java-jp-co-cyberagent-android-gpuimage-GPUImageRenderer.java-2D2D35F05BC3157125577B6700CDC428675AEF25",
+        "SPDXRef-File--library-gradle.properties-52C1EE69494B55BC226ACCC93580900AD4F90A33",
+        "SPDXRef-File--.git-objects-pack-pack-a3a5398d62f6bc30cc25a5ff9dc92f352accee7c.pack-4DD6ADB88AAC631137250FFECD34AA26544AE955",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-20DF2AB576D30DB08D66A257ADF22C4744C78669",
+        "SPDXRef-File--.gitignore-1F907302DE404270DF5F9C5F3A9AFBD8287B34D3"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "android-gpuimage v2.0.4",
+  "documentNamespace": "https://github.com/cats-oss/android-gpuimage/android-gpuimage/v2.0.4/-4yFnDEhgEGhDHF9xQ723w",
+  "creationInfo": {
+    "created": "2022-09-21T01:43:24Z",
+    "creators": [
+      "Organization: https://github.com/cats-oss/android-gpuimage",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

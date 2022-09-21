@@ -1,0 +1,3048 @@
+{
+  "files": [
+    {
+      "fileName": "./codecov.yml",
+      "SPDXID": "SPDXRef-File--codecov.yml-E7AC026609A28682D02CCA6139B2451889A76A08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6584f669b13b90d14a9f374df123d3a60527a8dc0af3720448d31164f7eb0d47"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7ac026609a28682d02cca6139b2451889a76a08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-8E783C13222FD26D94288B9DD987B24AA6D737AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "14bc07b043159a6cce1cc6cdef40fead28406ee76a5e494d40dbb8452aa1628e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e783c13222fd26d94288b9dd987b24aa6d737af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./logo.png",
+      "SPDXID": "SPDXRef-File--logo.png-1B6EEBE25ED67A60A3E54C2BF7F324185AB42DF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6971a8d080099ab2b2b73d8e0df699195b92f62b1b09b46c72f67c0f32400c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b6eebe25ed67a60a3e54c2bf7f324185ab42df5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-3E08F4934BAF597FB3FD8DD86AAB68A3AF167A8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1469ee13ba95ff70cbb1047db8206ce78b178312c15cf533c5883b1663cc54e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e08f4934baf597fb3fd8dd86aab68a3af167a8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-24E69035545B2AADD9E1295D80197648406796DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc1f5d2d43c5531dfe0acaf4e950ea5dbe3e61e1850cf0e983bda7efc10d6693"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24e69035545b2aadd9e1295d80197648406796dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-EB96CA3B429D2872EA0713EBDCFACD4C85CD78C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bda77d7d12a90332080071375095fb080d8cd2a6702e6ee44552863a0ca4317e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb96ca3b429d2872ea0713ebdcfacd4c85cd78c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./install-jdk.sh",
+      "SPDXID": "SPDXRef-File--install-jdk.sh-C6082A5122C56FBDF04D159A44ACCF97492D8AE4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "960c06c1e7aa74f17bbdd2a8a59d2d6caa2a69e0f84fd0583beb01106b399f13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6082a5122c56fbdf04d159a44accf97492d8ae4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.editorconfig",
+      "SPDXID": "SPDXRef-File--.editorconfig-32093240BEE56B622FCD0E321661A9D256495590",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "576911d5a9f44371d12ec64982cbcb91dcebf11808db3770a086e81bfc2b92d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32093240bee56b622fcd0e321661a9d256495590"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGES",
+      "SPDXID": "SPDXRef-File--CHANGES-8EFB45E2408C735EB0E248EC02E43B2B3D38F6AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ee9e6f90d998135c4ca3660644adf17b6f3db292699b443f5371085ea3eb46d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8efb45e2408c735eb0e248ec02e43b2b3d38f6ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-AA5D0CC0BD60C12FC049F2123E6A61425CD832A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8cac02025d6e2f96a5e4acc1954f70c976acf764eb3e48c3bc28829872d09d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa5d0cc0bd60c12fc049f2123e6a61425cd832a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./osx-toolchains.xml",
+      "SPDXID": "SPDXRef-File--osx-toolchains.xml-AC0791345640E90F71791F819335ED8E1F7BE897",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a9add0b83791ffe28b3a17ac879195c3133f77a6605de1e78ac40684e1b7461"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac0791345640e90f71791f819335ed8e1f7be897"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-C6343B35ECFE56F1A2AB082C9BA99A41E0EB51ED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "654e66f816fd2084aeed986da69f8dfe66fdca671482b92afe0ecb7a9f4b877b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6343b35ecfe56f1a2ab082c9ba99a41e0eb51ed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/dev",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-dev-70B4815B3901D604E2D1192278B60CF866015725",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e5b64279d910d1a6a5773c66be4d2dc69802b3df2b616ff712a5961fd6f6512"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70b4815b3901d604e2d1192278b60cf866015725"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.settings/org.eclipse.jdt.apt.core.prefs",
+      "SPDXID": "SPDXRef-File--.settings-org.eclipse.jdt.apt.core.prefs-2CE8C253C87E8F3B69442F7822E5CF3624D42F26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49558fbd857177df41aefe501c645034a51997ccd2a73de760b3f6cebad82e20"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ce8c253c87e8f3b69442f7822e5cf3624d42f26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/HikariDataSource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariDataSource.java-72004281EA26C1BD3FAF533D54E1C31496C1C43C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1795c6ec9a5a63b99600dcea03c9e56b6255e1e29a30523bb55c293ec96161be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72004281ea26c1bd3faf533d54e1c31496c1c43c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/MetricsTrackerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-MetricsTrackerFactory.java-CB5D31F65B25DB1A33D5EA76854512B10FD5FCE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d7d98605f1108c09a049d82f2e0197377f53afa1dfa06639836ec3f7ae83424"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb5d31f65b25db1a33d5ea76854512b10fd5fce1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusHistogramMetricsTracker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTracker.java-CBA857BAB7A038297FD22367189282E4BE15DF2E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47fcf29584251a306c43f5415d1a232af3537890a872711f758cad8446dc620e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cba857bab7a038297fd22367189282e4be15df2e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-2C142208129B78A4616CBB6798F96F4FB3580296",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0099158467f3461db97f236cfd30b07c7414af93bcfb78ad79b6d7eb9992b5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c142208129b78a4616cbb6798f96f4fb3580296"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./documents/Welcome-To-The-Jungle.md",
+      "SPDXID": "SPDXRef-File--documents-Welcome-To-The-Jungle.md-824649185C3122974640DDEF0EB609AE2203DF26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34aeeb844f6fed0999d8af50535d820ec218bfebb6e6462c71149c948416b654"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "824649185c3122974640ddef0eb609ae2203df26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/hibernate/HikariConnectionProvider.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-hibernate-HikariConnectionProvider.java-F87684C1166E880CBA291DA668F5179245DA9FF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55c327e96131313a016b98a879a6d8421c20248c1507974abffb503e967b8aed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f87684c1166e880cba291da668f5179245da9ff5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./travis-toolchains.xml",
+      "SPDXID": "SPDXRef-File--travis-toolchains.xml-D08BA64E1AF63EC9B5BF9024724C0A62AD2E5772",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9afd33ebf09c9b707bd4304478dfd745b236b39317a75d1d9eae09c1a17f4af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d08ba64e1af63ec9b5bf9024724c0a62ad2e5772"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-96E0F4D173C21168B65C63E74E399D4F06D3DD27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "101366d21dfff21c273e649cc9bdcd82b99f621f5ca146ed714c4aee585bf963"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96e0f4d173c21168b65c63e74e399d4f06d3dd27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-70B4815B3901D604E2D1192278B60CF866015725",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e5b64279d910d1a6a5773c66be4d2dc69802b3df2b616ff712a5961fd6f6512"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70b4815b3901d604e2d1192278b60cf866015725"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.settings/org.eclipse.core.resources.prefs",
+      "SPDXID": "SPDXRef-File--.settings-org.eclipse.core.resources.prefs-7E96D456C5C22626661E8A595533D5E8B50949DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c53066dfde1d037005c639a6815dfd2c9d65c4531fbd03eb5ee8b5beb74937e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e96d456c5c22626661e8a595533d5e8b50949db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/HikariConfigMXBean.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariConfigMXBean.java-3EF6EEC2E637246E7DE095D3C2AF13A74D611A01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3039ab4f181e057ab26a6b2976538b38765246456f1d1ea6a71c28c0e08f6f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ef6eec2e637246e7de095d3c2af13a74d611a01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/MetricsTracker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-MetricsTracker.java-9B61639F9E36D6124C506DFEFE14C73BF7E26919",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a7b67b60a2058160e87d15c30621e94b1136256ca00ca9b82864faa5dca1e85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9b61639f9e36d6124c506dfefe14c73bf7e26919"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/prometheus/HikariCPCollector.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-HikariCPCollector.java-4E6EBBFA485B7E03DA8DAA19011AE49E14BDC908",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96fc29305821a2b83db871073e48fcbfdc5c587b4ff71de0bcc69adb3b16a6d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e6ebbfa485b7e03da8daa19011ae49e14bdc908"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pom.xml",
+      "SPDXID": "SPDXRef-File--pom.xml-6DE855CB1AE9DA62BDD594CDAD884F31AFD39B9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1a9e72df8325b5adc019d5bda65b2616030dd59458003a0ba6feb6f66e6d3aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6de855cb1ae9da62bdd594cdad884f31afd39b9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-70B4815B3901D604E2D1192278B60CF866015725",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e5b64279d910d1a6a5773c66be4d2dc69802b3df2b616ff712a5961fd6f6512"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70b4815b3901d604e2d1192278b60cf866015725"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.settings/org.eclipse.jdt.core.prefs",
+      "SPDXID": "SPDXRef-File--.settings-org.eclipse.jdt.core.prefs-5A6D6885E28FB82B1667C1C11C4A2C89B9EADC24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e38fdefc0359c1eec987a904658ce06ace673a4216d807c6f8f7c15d4f103b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a6d6885e28fb82b1667c1c11c4a2c89b9eadc24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/HikariJNDIFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariJNDIFactory.java-E52193AAEA87F3917A30D8885BC68A2AF73A670E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1cfcfad2fa14f9bd2e1eddbf881cb3b64072fe22c9ea4466b12329d8040553dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e52193aaea87f3917a30d8885bc68a2af73a670e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/PoolStats.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-PoolStats.java-F11C7F062B53FC29C1AB764CF4D3ADA1794DE259",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c4955c5151dbaceca17802135ea918df8f18e11c37bdffe80b78ee3bc19a676"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f11c7f062b53fc29c1ab764cf4d3ada1794de259"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-D76FCB7FEA8ED40E74C85944656E80969126FDBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c3513e1b5cf2f995fed3d5a74ea211ae126fa13743dbd9b8169b1d436eaf848"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d76fcb7fea8ed40e74c85944656e80969126fdbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-985104b33661e771fd6e89ed5c5d0acb88daaa78.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-985104b33661e771fd6e89ed5c5d0acb88daaa78.idx-67DF600AE264E2BFD9FC59A221F005A1611EC673",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "edfb958047f47e9373421787e600ca31c0f9f86cfab865156de54078572af583"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67df600ae264e2bfd9fc59a221f005a1611ec673"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyCallableStatement.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyCallableStatement.java-6C340CB97DD53FC86AE8485B5CED374BF1EF2188",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ff8a64050a995c1cb8e387401c9a08763ee6af0f8d3ef0576b4751c7c5d82edf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c340cb97dd53fc86ae8485b5ced374bf1ef2188"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusHistogramMetricsTrackerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTrackerFactory.java-8CD844A5A16790BDDC44FCC616C147BA57168B48",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6c7228c39d5e87be71bf493cff9d1c3eb02bd08402a3c9336b80594b56035f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cd844a5a16790bddc44fcc616c147ba57168b48"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/micrometer/MicrometerMetricsTracker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-micrometer-MicrometerMetricsTracker.java-366616EE69D8EB37D0E7F8A80793AD4BBB55B4C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e03bc9594932b69b83c65f8151b070a6bccebf5921e2da9944303bbad2c3d49d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "366616ee69d8eb37d0e7f8a80793ad4bbb55b4c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyConnection.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyConnection.java-7670BBECD2BE1F6DA160916CDD55D2B0C50B1006",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9abffa9a1c24ac7c18d5f480068f56af903d0770116d2348bef9d063b9594462"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7670bbecd2be1f6da160916cdd55d2b0c50b1006"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.settings/org.eclipse.m2e.core.prefs",
+      "SPDXID": "SPDXRef-File--.settings-org.eclipse.m2e.core.prefs-A112BE21C325D37EBC17BAAFD40C0386B5D09DF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a112be21c325d37ebc17baafd40c0386b5d09df1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/PoolBase.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-PoolBase.java-2BDCC848936667C8FCB8329EE82AFDD47EBC1B4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fafd666869983394cb73aadd7f5bbbd1d5c246c02dd43d9069e5a0df017d04ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2bdcc848936667c8fcb8329ee82afdd47ebc1b4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/ClockSource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-ClockSource.java-984969BDD5D9E3F76DE24FFEE8DFC57645BBE86A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4673532054fb903a790ca9a5a6986da1e725b98db226acdef2cdf7772c824a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "984969bdd5d9e3f76de24ffee8dfc57645bbe86a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/dev",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-dev-13C68BD8100C23BD5765602C89A163061C29A20C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4f46e99f918261ed35148c80d956424fa1c40f9294e8e3c2023f3cbef2dc6de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13c68bd8100c23bd5765602c89a163061c29a20c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyDatabaseMetaData.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyDatabaseMetaData.java-F78BA575FD64C8D0981964971F29863B731F189F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e60e2b86f3238156dad464d69d5fdb5ac6e6110ed5bd2bd22a2297b7ce6d8f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f78ba575fd64c8d0981964971f29863b731f189f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/ci.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-ci.yml-CDE9C3040352EC1A35ECC7D15FCB2BE5A5C1CCB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "98a031c55ce92b31be652705e4094b96b50df4d2188eb8f183e40d311b377abe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cde9c3040352ec1a35ecc7d15fcb2be5a5c1ccb0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyStatement.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyStatement.java-8241A54E8CF4AA43A411E430DBFE0DBA698D30D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99e6f8ce0d128585b5733e671ffd8137a0216c880180bad6d255c6588bbaedaa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8241a54e8cf4aa43a411e430dbfe0dba698d30d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/HikariPoolMXBean.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariPoolMXBean.java-2F1352965F98F7BCA99B1517DC8E57000876AA14",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2e2a91f646979078480d00b76fd63f765e5a580e4f8eb7f8bbbeca4f9a5b006"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2f1352965f98f7bca99b1517dc8e57000876aa14"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./documents/Wall-of-Fame.md",
+      "SPDXID": "SPDXRef-File--documents-Wall-of-Fame.md-52A40C9D5D1FA24FF092F54497EA649A948CE59B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "421b210240c43274f4e3d971b6d9549d6d0b22546ff2b363ef4cad6decd198b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52a40c9d5d1fa24ff092f54497ea649a948ce59b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/ConcurrentBag.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-ConcurrentBag.java-D493AE763E6E7A78DE1916FD821689512C91BAB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a761d46762e2345a481e7b1354e1f58ce20bd9b747303b58a61cd6da08c2a40f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d493ae763e6e7a78de1916fd821689512c91bab6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/UtilityElf.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-UtilityElf.java-CF9C35C63401650EA6E92B9442D1C343E90C458C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb332a3617a8642fede72291c877751a749762eb249958ab6dcaa254cc8a3ceb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf9c35c63401650ea6e92b9442d1c343e90c458c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/SuspendResumeLock.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-SuspendResumeLock.java-19F20CCF3B7EF6220015560435FE7EEB9DF01095",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bdafc32d8826316158d0996048872a0921620b43fff8e4c0d56057c6e2fc6e27"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19f20ccf3b7ef6220015560435fe7eeb9df01095"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyPreparedStatement.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyPreparedStatement.java-EEACD36BBCA2AD23D0BD116C69924B3EDB657E01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf9bb90d3cf48008f6eb9c7f67b95a1457fbfd03cfffba033364991168706b51"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eeacd36bbca2ad23d0bd116c69924b3edb657e01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodahaleHealthChecker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-dropwizard-CodahaleHealthChecker.java-854C519F3D6F9C8463ED88EB8A633A234AD4516F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72b77f7a09d0f24b728c102bb40b8e9ffcddf50bcd2c85eae453f40fb6e15017"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "854c519f3d6f9c8463ed88eb8a633a234ad4516f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java11/module-info.java",
+      "SPDXID": "SPDXRef-File--src-main-java11-module-info.java-9148743B133810103CFCACC7B841A519E0B154E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5475422168f716ab6ec0f32e6bc8578769daf60b7cd8001d97d7bad383d6b504"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9148743b133810103cfcacc7b841a519e0b154e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/HikariConfig.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariConfig.java-4A3ED6E2A887B725D2B66D51A1AC7630C40AFF74",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e6b8d9847c860af5866e2f93e0d65976e8a9bca747d09aef6c18071fe2b0e69"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a3ed6e2a887b725d2b66d51a1ac7630c40aff74"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/hibernate/HikariConfigurationUtil.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-hibernate-HikariConfigurationUtil.java-5FAA6A08BFC171B3B5148F4BB7986DD3142D8A2E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b4a11bba8c95ba544dc38b493677e73789157448d4f130d6a41f816b9a4fc67c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5faa6a08bfc171b3b5148f4bb7986dd3142d8a2e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/prometheus/PrometheusHistogramMetricsTrackerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTrackerFactoryTest.java-6202C1BD2D66E9FD8650BF8F0156B9C50B96F40F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "877330b278b760d25c9f36742a3d2a9c9baba6edc7f63d1705e33f73900e306c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6202c1bd2d66e9fd8650bf8f0156b9c50b96f40f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/prometheus/PrometheusHistogramMetricsTrackerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTrackerTest.java-55AF1C00361E277A61EF27772B6FC1D96A52038F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38defbe2d18591132a7a3d739c056a9a8dc99769c5005bb273035920b9ab09cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55af1c00361e277a61ef27772b6fc1d96a52038f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/IMetricsTracker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-IMetricsTracker.java-F0204C31C4957D7299460831914AA42EF0FD3E68",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "150937818ebf613dd975c0506d33ec49f762c7d440919f3a65a7016398bfa63a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0204c31c4957d7299460831914aa42ef0fd3e68"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusMetricsTracker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTracker.java-F260F905AEE49E1D2E35A962EE607120F3B0296B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54be13c8c6e632782fd21fe19eff303b05cc5c4107364e42c3edcc0d24779965"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f260f905aee49e1d2e35a962ee607120f3b0296b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/JavassistProxyFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-JavassistProxyFactory.java-A9E6D93A2914DE21E347A4CCCA77D367D01563FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d354d3b910c74fbaa877b8048fcf83db27e048320e407a5f20c2b24fb7b780a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9e6d93a2914de21e347a4ccca77d367d01563fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/prometheus/PrometheusMetricsTrackerFactoryTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTrackerFactoryTest.java-97C72532098B2ADDDB084C56C660794298164978",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "da4ce34051bf4660ce4a14f27569dfc00e615e96c5260fc842af535dcf6f534d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97c72532098b2adddb084c56c660794298164978"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodahaleMetricsTrackerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-dropwizard-CodahaleMetricsTrackerFactory.java-1F3F5DAD1D21A3156B03868344541F20E22DADC0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a7ee74121e5f5ee3eaf38326626544da022b31a802a123afd61471cd2b3f443a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f3f5dad1d21a3156b03868344541f20e22dadc0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubDriver.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubDriver.java-673863FF2C34B734C2163B19614400DAA2423C9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75f3e95516e46a4a80a98bb5fda1ba0c0be1581e78aa753b56e3cbc4b468e363"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "673863ff2c34b734c2163b19614400daa2423c9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubPoolStats.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubPoolStats.java-970B3540B85D7B97FA71A46DE56E40B34FA60724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0076c02a8847604dae9539444f96111630a409013f7fe57b649cfbdcfbf6302"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "970b3540b85d7b97fa71a46de56e40b34fa60724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/micrometer/MicrometerMetricsTrackerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-micrometer-MicrometerMetricsTrackerTest.java-CA41199DBC4C6E45EA24F08FD524ED26B16ED736",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b13a9862ca7a9cf5489fdc253251093e5850ffcae1c595bf048f2c680d66917"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca41199dbc4c6e45ea24f08fd524ed26b16ed736"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/micrometer/MicrometerMetricsTrackerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-micrometer-MicrometerMetricsTrackerFactory.java-163810E659C2F5DF9F91F0284217E278236B2595",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec50222886e28d5e31992ec50d0c08e5c31e62beff20520ac3056b99bc17856f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "163810e659c2f5df9f91f0284217e278236b2595"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyFactory.java-2C92134E73A6E08679B7E698B2A98DC0297123E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d00fe2aa0c921c9dc2b175a8c146f624f33e5db8f19f5b99b290a74e1f972e7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c92134e73a6e08679b7e698b2a98dc0297123e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubPreparedStatement.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubPreparedStatement.java-6054DF79D6BB05F50E410059C0E38D2387CDFE9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e26c70a9122951a5f45c69b5e5faaaff33ffaa0f99baf562a6553546cf53480"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6054df79d6bb05f50e410059c0e38d2387cdfe9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/ConnectionRaceConditionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConnectionRaceConditionTest.java-88AB773F838A21C9E1AA6F1FC084602CB3AB3319",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80996d8ed3f73bd64dbcbc62293e17dbb7a7bc9edff6fdf57f75c2ac9f62c842"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "88ab773f838a21c9e1aa6f1fc084602cb3ab3319"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/PoolEntry.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-PoolEntry.java-DB2FED80A7299D756873FDDB854CE15C10A2D12A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db48527c821fe0a9dfe052063c6b87fa41686539e232e6102f296f116b1d9b32"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db2fed80a7299d756873fddb854ce15c10a2d12a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/ConnectionPoolSizeVsThreadsTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConnectionPoolSizeVsThreadsTest.java-43F2B7BC29D02C186ABC9E2B5165680D30A138CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "561483573a83b254846a801ea9ffa13a73e20a488aa368f518d977aacb2eebfd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43f2b7bc29d02c186abc9e2b5165680d30a138cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubConnection.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubConnection.java-0764875A3E1C78D07FE15CC79B71A79036FD41DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd5981d926e69a02dfd454a909391659621de45b0045581854076e0708348e9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0764875a3e1c78d07fe15cc79b71a79036fd41de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/HikariPool.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-HikariPool.java-5699F667003A92F92DD56C29DA8B51B69C32DB24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "129936f41188338ffb0b9f89a850cd589989863e6750958a4f81e8bf9a5180c7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5699f667003a92f92dd56c29da8b51b69c32db24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/DriverDataSource.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-DriverDataSource.java-14E7B48F4CFCD6DCF80B6B77FD021593F9EAC955",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72b003d3963e68c0bd7602e3c183396d4e57c76913904440eadf1a085c0fe061"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14e7b48f4cfcd6dcf80b6b77fd021593f9eac955"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyResultSet.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyResultSet.java-0E5719950ADB15D6D5085F715D9E923B0D4DAFC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41791dcc8e9ea12c8ddda8332984d386105546ff37d29f17845837d813441d6f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e5719950adb15d6d5085f715d9e923b0d4dafc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/ConnectionStateTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConnectionStateTest.java-AFE0521A98CFC2502BC3FE72CBC43860B998477A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e294a20676e144c9249ff2e06ee1c686f1d5501decb209056b9c31b788ce3d74"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afe0521a98cfc2502bc3fe72cbc43860b998477a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/MiscTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-MiscTest.java-9BCA397FDC90924B98DAE21B7CD0D3681B27BE65",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3049d1c75ab0363e9338c37f47bd9da7fec776c5dc80649d284f123e03c686fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bca397fdc90924b98dae21b7cd0d3681b27be65"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-985104b33661e771fd6e89ed5c5d0acb88daaa78.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-985104b33661e771fd6e89ed5c5d0acb88daaa78.pack-AE42B8CEF90BE7EF666F4072BB25A60F981F7D4E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9145a674b757ea0a1507085b27ba999631e7cf05e337ff0f61a564ddd702ce54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae42b8cef90be7ef666f4072bb25a60f981f7d4e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyLeakTaskFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyLeakTaskFactory.java-71F4864FB72D03DE5BEDB5E1D2D3C430987E6DB8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c57b9e4d5ad7169ca3be36841b483406793cbb46533bc24991bdc21d467040d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "71f4864fb72d03de5bedb5e1d2d3c430987e6db8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/PostgresTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-PostgresTest.java-B8D12CF8EDCBDDFB53E3266F7FF97CB2DEA5C54E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "247341d9ef51f6df7545cc0579e12eb5cb50803ecf2fe4ddbd51c562d9475d84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8d12cf8edcbddfb53e3266f7ff97cb2dea5c54e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/osgi/OSGiBundleTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-osgi-OSGiBundleTest.java-CC0514808B06F1BD55351944BC252204A72F9A9F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9dcca3d10390bb0f0934db31ca8dc154945e777fd921b425edafbdf407298fe5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc0514808b06f1bd55351944bc252204a72f9a9f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.settings/org.eclipse.pde.core.prefs",
+      "SPDXID": "SPDXRef-File--.settings-org.eclipse.pde.core.prefs-486588D6E0B356D00BD8BE29EF1E0F6B8651B6A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8129cbd37306f9b0b19f063c2efdd9df045338d3c640fcc1a8a09d2d2c57b4ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "486588d6e0b356d00bd8be29ef1e0f6b8651b6a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/datasource/TestSealedConfig.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-datasource-TestSealedConfig.java-5B6A2DE52238FA068C54CAABB5F1AE484CA7A062",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "94646c434e3cce48b94e923c81920c95a06e1e12ee8379003d40f3656fa1343b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b6a2de52238fa068c54caabb5f1ae484ca7a062"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestConnectionTimeoutRetry.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConnectionTimeoutRetry.java-8A392E90A9C926EBBBB93BBFF096134703C66F2C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1c3d609a9a891b491ebcf1782a6680eaa6225b8a2a7566ecb515942e65fea1d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a392e90a9c926ebbbb93bbff096134703c66f2c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/RampUpDown.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-RampUpDown.java-5A1E28CF7B541831902BAF12FC41CADCADF4E7F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7c5c97a62f68e07b84bbec2362c4198eca831c4f89a9c8f170d9c48fd2e2b7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a1e28cf7b541831902baf12fc41cadcadf4e7f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/IsolationLevel.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-IsolationLevel.java-214657CDB9E0BD0CAA4A39541E6EEE347013BEA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae633da3b02e68cf01024c05fd03324da0deff1a673427c3640b4501660ca193"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "214657cdb9e0bd0caa4a39541e6eee347013bea1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestElf.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestElf.java-F5E7544D8E4B2E13A14B6F8CEE75BC04EC54A420",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8da75c2fdda5c9af01b488eb28b8e21d590b6e7357bfe0d027cdddad411f4bef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5e7544d8e4b2e13a14b6f8cee75bc04ec54a420"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/PropertyElf.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-PropertyElf.java-A9CF2A7B8D0FA880D56CEBCD65AE5DE584CF896D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "706d98c3c84e3aba89690f9afdfd2ba1197c981c45e3f5f6941d7d1fa1cdf9a1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9cf2a7b8d0fa880d56cebcd65ae5de584cf896d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/JdbcDriverTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-JdbcDriverTest.java-D1925113349BD7899C66E1B2018ED9D4A179ACF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02ac62186ad1e25155304c9bdd4b71e5f798ef195e7de8eba91dca562a8660ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d1925113349bd7899c66e1b2018ed9d4a179acf8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/SQLExceptionOverride.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-SQLExceptionOverride.java-1917AD3E69065FC8B44C550BFABE528D1EB00EEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "771efcb7fba27470edae343010cbd402af2cbef5ce4dea973fce16722470e568"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1917ad3e69065fc8b44c550bfabe528d1eb00eef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/prometheus/PrometheusMetricsTrackerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTrackerTest.java-77CBD2DC998307373D033D447DCCD603EFB7700A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "147282c6b99fb141d37f7264af66d89dfea8efb6a482ad3abb2310694d4ca271"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77cbd2dc998307373d033d447dccd603efb7700a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestHibernate.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestHibernate.java-6925CC1F50C5FAAA69AD4B016E46297F2257BB3A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6719fad3a2e8058324f02962d2694d5d088bfe3c21806d85af5b08d6dcb27637"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6925cc1f50c5faaa69ad4b016e46297f2257bb3a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestPropertySetter.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestPropertySetter.java-879B188362E89ABCC73D6D7258FA1591AFB176C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57a22404464cece1cb9b64f4bbb7c351f65293b1dfde6a9c59719fcaed3ca61c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "879b188362e89abcc73d6d7258fa1591afb176c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestConnectionCloseBlocking.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConnectionCloseBlocking.java-37120DAC3114D2358779569FD9DAEFD71091740F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2257eccb8ea6f1b9fab26e9a7d09ccc2a2671a896e85b3d8cbeac78075577eb6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37120dac3114d2358779569fd9daefd71091740f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/dropwizard/CodaHaleMetricsTrackerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-dropwizard-CodaHaleMetricsTrackerTest.java-8FDB2E15357816B10E200795D2087CABD15FF52C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dae46341b4de3e69f90f56c66693f5c7cb8c3ceb53df0d529199dfdab8551c40"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8fdb2e15357816b10e200795d2087cabd15ff52c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/metrics/prometheus/HikariCPCollectorTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-HikariCPCollectorTest.java-F35E00A4DE2CC9FF3138A7FAF60B63E2548FC5AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70d53e8a8e9026dfc6dfc847ee890ac8d9b3a7774ceb3d24ca62243c57c62e3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f35e00a4de2cc9ff3138a7faf60b63e2548fc5ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestProxies.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestProxies.java-2B4A2F45E28F0DE5B617A4C64C429EE6BDC69479",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "748230668d6c3324b3efec89f0138a96abc4a51ba802f71d761dec7804b2189a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b4a2f45e28f0de5b617a4c64c429ee6bdc69479"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestSaturatedPool830.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestSaturatedPool830.java-2666C95043A48139C8124335BB1E304FE8BB726B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef7e56e51fd018b3959aaad6dd69d7373efbbce4d5110bc89a64e76ac7a1190c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2666c95043a48139c8124335bb1e304fe8bb726b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodaHaleMetricsTracker.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-dropwizard-CodaHaleMetricsTracker.java-996FEB6B9B189CB6E74874EA9A390DC79F2A87F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e870f0e2d46b578a0b45246f77aa8efba598a64d96bc063d7cd9c1b2142552ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "996feb6b9b189cb6e74874ea9a390dc79f2a87f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubResultSet.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubResultSet.java-F9E4A4975936A9B65304F3D8617DD068585EB46C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e89d8b20e3ab7f5e6243384ef2883926e660ceebfe305a015dbf912f64b08594"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9e4a4975936a9b65304f3d8617dd068585eb46c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/util/TomcatConcurrentBagLeakTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-TomcatConcurrentBagLeakTest.java-B2F88F71C3D1EB66BE470C791990C305A3288532",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "deab50ad0bba36cbc0ac87cf255e16358d7bdeaebf48d99d4e372c57381280e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2f88f71c3d1eb66be470c791990c305a3288532"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubBaseConnection.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubBaseConnection.java-0DE40926AA24AF85EB107967FA4C6FBB64726B5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1531d2801cc22176a4370daf1766fee343afef769ea050ad303ef1fbb37715cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0de40926aa24af85eb107967fa4c6fbb64726b5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/util/UtilityElfTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-UtilityElfTest.java-057DC2EE51B970DB8D5499E8F4A2C62237E79B25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e79d4ae5c8c1615b4ed4e1bf79bdd10783a444bd213c15c3fac3e1faffe35a7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "057dc2ee51b970db8d5499e8f4a2c62237e79b25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubDataSource.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubDataSource.java-701F227160AD5687743682E0D2B22E44CAEC486A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0695f850eca6e83344c92521549020da63f3537db90220bd0fbda891c96cab45"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "701f227160ad5687743682e0d2b22e44caec486a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/hibernate.properties",
+      "SPDXID": "SPDXRef-File--src-test-resources-hibernate.properties-4B5CBC3E3387199A99C979582938238C0F8EF28D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b772fe93df26542cce649daeda7e3389594733a1145a3793145ce964d908e953"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b5cbc3e3387199a99c979582938238c0f8ef28d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestMBean.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestMBean.java-24546B0FB4BC80220FA63013A65243D0E6C35DAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea35a7d1aeebac2439f8aca691b38e558ec786ba75d55505bc12fdd3cb8c4477"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24546b0fb4bc80220fa63013a65243d0e6c35dac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/ExceptionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ExceptionTest.java-759D9239976F309D117455E37E6B9071FB89DC68",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4c582c93c2dff97f80d8b29e56b22677147e3f424b71707e315b2634f7776ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "759d9239976f309d117455e37e6b9071fb89dc68"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusMetricsTrackerFactory.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTrackerFactory.java-8AB6D5162F366299412AE6F6F22BAF3681729570",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "700629d80551c789281fbcb77576bb3d0a308238e4359037dc00488c7aa2060f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ab6d5162f366299412ae6f6f22baf3681729570"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/util/PropertyElfTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-PropertyElfTest.java-7683CAF40058DA3C684BEA1F16DAE769BAA9AFB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b4109394924a866ac21efc3022196d2ca5cc02d674778d1b480599da28611b5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7683caf40058da3c684bea1f16dae769baa9afb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/TestObject.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-TestObject.java-997645621DE56E4207B6CA16622D0D69082746E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "faf6acd2ce0c237992d531c6d4f6b91876635321ce61b83c24452509203d8d36"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "997645621de56e4207b6ca16622d0d69082746e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/ConcurrentCloseConnectionTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConcurrentCloseConnectionTest.java-206999306E1CF51E013D2B7DBABA5ABFD758A9CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62a5418b639e91171d8e81f7746c81033c547aebba78413a90ced7e50970a8fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "206999306e1cf51e013d2b7dbaba5abfd758a9cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/propfile3.properties",
+      "SPDXID": "SPDXRef-File--src-test-resources-propfile3.properties-8067A7BC9CF524A0E3801F15626F5F0DB43A2835",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "843b0f880750938c39c069b949c4248a35eae9d73247550406a489d3ab3a5ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8067a7bc9cf524a0e3801f15626f5f0db43a2835"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/ShutdownTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ShutdownTest.java-8F9FF760A8C94F7F9E99DD036422CED63A3C6127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfb6b762550b7e4a121ac72658d9f9077a5a74ba26ffd2c3cf8f86ddd40b5fda"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f9ff760a8c94f7f9e99dd036422ced63a3c6127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/IsolationTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-IsolationTest.java-569CB72BE4A73C5028C2B49281B193E61DF5FE5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29a37add2c3e6b669da4b5a9eb0202c19530775e771e2bf0384df9ab21e3e0df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "569cb72be4a73c5028c2b49281b193e61df5fe5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/pool/ProxyLeakTask.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyLeakTask.java-CAA6CB784921D4614EEF12B7796C2D878791C0D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7cb923f83b7563b272ac3154fbff3e30630954cdd8baf0f43c6b6ef827c526a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "caa6cb784921d4614eef12b7796c2d878791c0d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/MetricsTrackerTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-MetricsTrackerTest.java-36D840018FEA2A33D1EB5E2A098524B0FC795D97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c3da93de415a68bbe377ec5f93d7fbf4129f013e31302d87708f408db08d8e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36d840018fea2a33d1eb5e2a098524b0fc795d97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestIsRunning.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestIsRunning.java-84D47AEDC8AFD6F95BEB58F30B6C61DB05408636",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f137b115d7e2e9041405bfb05e71d2e3ecf4cff162ca08d183178878e217149f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84d47aedc8afd6f95beb58f30b6c61db05408636"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestConcurrentBag.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConcurrentBag.java-4128BD2BEC3AA7D6897465F0519E576931F32215",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6c0cd45d228a70b5e09133b51e684e43290e597425d19b60cec8138b739f061"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4128bd2bec3aa7d6897465f0519e576931f32215"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main/java/com/zaxxer/hikari/util/FastList.java",
+      "SPDXID": "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-FastList.java-97D67C91D50A15941B90F9195FA60AFD34E0F7F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72d2dccc1eb78384ab1f11f3f1260424fe7a766000e0887c0fc3ebf371d12c62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97d67c91d50a15941b90f9195fa60afd34e0f7f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestConnections.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConnections.java-89443F160EE6F3A82A2AE6E7FF9E8412F9F3C0B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32d50beb2220b366ef2d7f63e344a97ebc4901319e3cee942dcb201af94626ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89443f160ee6f3a82a2ae6e7ff9e8412f9f3c0b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestValidation.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestValidation.java-4EF5B87692BDBE3599673F17027F1CB7AF83606E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68ab858e34fc38395b55a904602d3966dd025534e3bb8dbd1a201167f6f1ec53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ef5b87692bdbe3599673f17027f1cb7af83606e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/db/BasicPoolTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-db-BasicPoolTest.java-F4F42C309B98B0BD0E7E313307E653CD2DCEECB8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d3abca6304a709c2453571d206af78de22862f316faeb0752f8917f09d61faf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f4f42c309b98b0bd0e7e313307e653cd2dceecb8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestJNDI.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestJNDI.java-2CE688BD162F2C181D58045E9C152C9B4A73495F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d0d7f72812dcae0085fe3179d16c71fc6d766c4cf7fbcc8283ce5fda2f0aa87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ce688bd162f2c181d58045e9c152c9b4a73495f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestMetrics.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestMetrics.java-97339590261D94A2AC0F6F781E58E151B8620D8E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d36deca3216df194ee5c020be911cb332ff1823b3823c74a1cb06d903c6df3d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97339590261d94a2ac0f6f781e58e151b8620d8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/log4j2-test.xml",
+      "SPDXID": "SPDXRef-File--src-test-resources-log4j2-test.xml-3BAD097DFB0805304B1A1FABE36E582B21CCEE05",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e11c66cd769551a2095af8a86aaf9ef127007ad2afc2bab59863056468f28717"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3bad097dfb0805304b1a1fabe36e582b21ccee05"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/util/ClockSourceTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-ClockSourceTest.java-A59A6D9E3D281FE355413BCD6D3ED0CC3B4D2478",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d82fd17e5b6aae14b9bda1e350416619094cb2e5982cbf2230dc10d2ade7504c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a59a6d9e3d281fe355413bcd6d3ed0cc3b4d2478"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/MockDataSource.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-MockDataSource.java-A06A13B248402212ED587846EE787BCBC3EF0985",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf8b333023002c1285e552368733a24a57c687021fbb28fb22fc9f205dc627fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a06a13b248402212ed587846ee787bcbc3ef0985"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/util/TestFastList.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-TestFastList.java-D04383E0D9C878C4C58E30910A50940E28C829E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53f9917914700985906d280c19fdc3dd441b2bee050d5d150155e8837857a96c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d04383e0d9c878c4c58e30910a50940e28c829e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/propfile2.properties",
+      "SPDXID": "SPDXRef-File--src-test-resources-propfile2.properties-264F98153895958F40B4EB54EDA6B7EB25DB5EA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4010b65b808f6c9e3c69507e3b6389c00519031a643ed2aa019a957648f1bab7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "264f98153895958f40b4eb54eda6b7eb25db5ea0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/mocks/StubStatement.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubStatement.java-810070113F2C7D11891C2ED42A6D2A4A6718DE6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db04a2bcd522a79851f4090cfeadd4f9cd0a9a95df72bf5176b1ab403bfab73a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "810070113f2c7d11891c2ed42a6d2a4a6718de6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/HouseKeeperCleanupTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-HouseKeeperCleanupTest.java-64F37F693AAD16EF274F7B4F0AF8A533587E6954",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24a33acaf6cc88f37b50a2d35f0bff0a5bfd72858d43e4728150e910fad094f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "64f37f693aad16ef274f7b4f0af8a533587e6954"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/StatementTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-StatementTest.java-B399FEBBD2B97FE8926D98B8D02C90BA89F3F26A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "023aa0c6da326e4b6dd0cbcb0db3df1d8e445944dea84aa61d6792989a599348"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b399febbd2b97fe8926d98b8d02c90ba89f3f26a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/TestJavassistCodegen.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestJavassistCodegen.java-B75411304898E688B55E2EBFB7DB6A4187039BB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cabe429976e9b42992360f1575c7f75991f0df421f7a38f0e06a641c1616769a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b75411304898e688b55e2ebfb7db6a4187039bb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/java/com/zaxxer/hikari/pool/UnwrapTest.java",
+      "SPDXID": "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-UnwrapTest.java-F5463831420788141DC3DDE73170665C6A794B0E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "791e1ee1e33110a85eabed216daecf9dfcf368d8ad568be2c37dacef5cf81ed6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5463831420788141dc3dde73170665c6a794b0e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/test/resources/propfile1.properties",
+      "SPDXID": "SPDXRef-File--src-test-resources-propfile1.properties-5FFAF036AC63F2488194FB0AAE259DFF0D2688BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9e1c1f1b9957efe2f2f9fbab42a0cd3019736bb53a134e31119969cf420ac67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ffaf036ac63f2488194fb0aae259dff0d2688be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "HikariCP",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "7c9f504b79b6fe4a3d77a7322edf6abff57a918c"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "5.0.2-SNAPSHOT",
+      "supplier": "Organization: https://github.com/brettwooldridge/HikariCP",
+      "hasFiles": [
+        "SPDXRef-File--src-test-resources-propfile1.properties-5FFAF036AC63F2488194FB0AAE259DFF0D2688BE",
+        "SPDXRef-File--src-test-resources-log4j2-test.xml-3BAD097DFB0805304B1A1FABE36E582B21CCEE05",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-FastList.java-97D67C91D50A15941B90F9195FA60AFD34E0F7F7",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyLeakTask.java-CAA6CB784921D4614EEF12B7796C2D878791C0D0",
+        "SPDXRef-File--src-test-resources-propfile3.properties-8067A7BC9CF524A0E3801F15626F5F0DB43A2835",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-StatementTest.java-B399FEBBD2B97FE8926D98B8D02C90BA89F3F26A",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-HouseKeeperCleanupTest.java-64F37F693AAD16EF274F7B4F0AF8A533587E6954",
+        "SPDXRef-File--src-test-resources-propfile2.properties-264F98153895958F40B4EB54EDA6B7EB25DB5EA0",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestJNDI.java-2CE688BD162F2C181D58045E9C152C9B4A73495F",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-db-BasicPoolTest.java-F4F42C309B98B0BD0E7E313307E653CD2DCEECB8",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConnections.java-89443F160EE6F3A82A2AE6E7FF9E8412F9F3C0B8",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-IsolationTest.java-569CB72BE4A73C5028C2B49281B193E61DF5FE5D",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ShutdownTest.java-8F9FF760A8C94F7F9E99DD036422CED63A3C6127",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConcurrentCloseConnectionTest.java-206999306E1CF51E013D2B7DBABA5ABFD758A9CD",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-TestObject.java-997645621DE56E4207B6CA16622D0D69082746E5",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-PropertyElfTest.java-7683CAF40058DA3C684BEA1F16DAE769BAA9AFB7",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ExceptionTest.java-759D9239976F309D117455E37E6B9071FB89DC68",
+        "SPDXRef-File--src-test-resources-hibernate.properties-4B5CBC3E3387199A99C979582938238C0F8EF28D",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-ClockSourceTest.java-A59A6D9E3D281FE355413BCD6D3ED0CC3B4D2478",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestMetrics.java-97339590261D94A2AC0F6F781E58E151B8620D8E",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestValidation.java-4EF5B87692BDBE3599673F17027F1CB7AF83606E",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConcurrentBag.java-4128BD2BEC3AA7D6897465F0519E576931F32215",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestIsRunning.java-84D47AEDC8AFD6F95BEB58F30B6C61DB05408636",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-MetricsTrackerTest.java-36D840018FEA2A33D1EB5E2A098524B0FC795D97",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-UtilityElfTest.java-057DC2EE51B970DB8D5499E8F4A2C62237E79B25",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubBaseConnection.java-0DE40926AA24AF85EB107967FA4C6FBB64726B5D",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTrackerFactory.java-8AB6D5162F366299412AE6F6F22BAF3681729570",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestMBean.java-24546B0FB4BC80220FA63013A65243D0E6C35DAC",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-TomcatConcurrentBagLeakTest.java-B2F88F71C3D1EB66BE470C791990C305A3288532",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-UnwrapTest.java-F5463831420788141DC3DDE73170665C6A794B0E",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubStatement.java-810070113F2C7D11891C2ED42A6D2A4A6718DE6C",
+        "SPDXRef-File--.git-HEAD-EB96CA3B429D2872EA0713EBDCFACD4C85CD78C6",
+        "SPDXRef-File--LICENSE-24E69035545B2AADD9E1295D80197648406796DC",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-util-TestFastList.java-D04383E0D9C878C4C58E30910A50940E28C829E4",
+        "SPDXRef-File--CHANGES-8EFB45E2408C735EB0E248EC02E43B2B3D38F6AE",
+        "SPDXRef-File--install-jdk.sh-C6082A5122C56FBDF04D159A44ACCF97492D8AE4",
+        "SPDXRef-File--.git-config-8E783C13222FD26D94288B9DD987B24AA6D737AF",
+        "SPDXRef-File--codecov.yml-E7AC026609A28682D02CCA6139B2451889A76A08",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestJavassistCodegen.java-B75411304898E688B55E2EBFB7DB6A4187039BB6",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-MockDataSource.java-A06A13B248402212ED587846EE787BCBC3EF0985",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubDataSource.java-701F227160AD5687743682E0D2B22E44CAEC486A",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubResultSet.java-F9E4A4975936A9B65304F3D8617DD068585EB46C",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-dropwizard-CodaHaleMetricsTracker.java-996FEB6B9B189CB6E74874EA9A390DC79F2A87F6",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestSaturatedPool830.java-2666C95043A48139C8124335BB1E304FE8BB726B",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestProxies.java-2B4A2F45E28F0DE5B617A4C64C429EE6BDC69479",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-HikariCPCollectorTest.java-F35E00A4DE2CC9FF3138A7FAF60B63E2548FC5AD",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-dropwizard-CodaHaleMetricsTrackerTest.java-8FDB2E15357816B10E200795D2087CABD15FF52C",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConnectionCloseBlocking.java-37120DAC3114D2358779569FD9DAEFD71091740F",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestPropertySetter.java-879B188362E89ABCC73D6D7258FA1591AFB176C9",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestHibernate.java-6925CC1F50C5FAAA69AD4B016E46297F2257BB3A",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTrackerTest.java-77CBD2DC998307373D033D447DCCD603EFB7700A",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-SQLExceptionOverride.java-1917AD3E69065FC8B44C550BFABE528D1EB00EEF",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-JdbcDriverTest.java-D1925113349BD7899C66E1B2018ED9D4A179ACF8",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-PropertyElf.java-A9CF2A7B8D0FA880D56CEBCD65AE5DE584CF896D",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestElf.java-F5E7544D8E4B2E13A14B6F8CEE75BC04EC54A420",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-IsolationLevel.java-214657CDB9E0BD0CAA4A39541E6EEE347013BEA1",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-RampUpDown.java-5A1E28CF7B541831902BAF12FC41CADCADF4E7F0",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-TestConnectionTimeoutRetry.java-8A392E90A9C926EBBBB93BBFF096134703C66F2C",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-datasource-TestSealedConfig.java-5B6A2DE52238FA068C54CAABB5F1AE484CA7A062",
+        "SPDXRef-File--.settings-org.eclipse.pde.core.prefs-486588D6E0B356D00BD8BE29EF1E0F6B8651B6A2",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-osgi-OSGiBundleTest.java-CC0514808B06F1BD55351944BC252204A72F9A9F",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-PostgresTest.java-B8D12CF8EDCBDDFB53E3266F7FF97CB2DEA5C54E",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyLeakTaskFactory.java-71F4864FB72D03DE5BEDB5E1D2D3C430987E6DB8",
+        "SPDXRef-File--.git-objects-pack-pack-985104b33661e771fd6e89ed5c5d0acb88daaa78.pack-AE42B8CEF90BE7EF666F4072BB25A60F981F7D4E",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-MiscTest.java-9BCA397FDC90924B98DAE21B7CD0D3681B27BE65",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConnectionStateTest.java-AFE0521A98CFC2502BC3FE72CBC43860B998477A",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyResultSet.java-0E5719950ADB15D6D5085F715D9E923B0D4DAFC4",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-DriverDataSource.java-14E7B48F4CFCD6DCF80B6B77FD021593F9EAC955",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-HikariPool.java-5699F667003A92F92DD56C29DA8B51B69C32DB24",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubConnection.java-0764875A3E1C78D07FE15CC79B71A79036FD41DE",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConnectionPoolSizeVsThreadsTest.java-43F2B7BC29D02C186ABC9E2B5165680D30A138CB",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-PoolEntry.java-DB2FED80A7299D756873FDDB854CE15C10A2D12A",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-pool-ConnectionRaceConditionTest.java-88AB773F838A21C9E1AA6F1FC084602CB3AB3319",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubPreparedStatement.java-6054DF79D6BB05F50E410059C0E38D2387CDFE9D",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyFactory.java-2C92134E73A6E08679B7E698B2A98DC0297123E3",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-micrometer-MicrometerMetricsTrackerFactory.java-163810E659C2F5DF9F91F0284217E278236B2595",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-micrometer-MicrometerMetricsTrackerTest.java-CA41199DBC4C6E45EA24F08FD524ED26B16ED736",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubPoolStats.java-970B3540B85D7B97FA71A46DE56E40B34FA60724",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-mocks-StubDriver.java-673863FF2C34B734C2163B19614400DAA2423C9A",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-dropwizard-CodahaleMetricsTrackerFactory.java-1F3F5DAD1D21A3156B03868344541F20E22DADC0",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTrackerFactoryTest.java-97C72532098B2ADDDB084C56C660794298164978",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-JavassistProxyFactory.java-A9E6D93A2914DE21E347A4CCCA77D367D01563FB",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusMetricsTracker.java-F260F905AEE49E1D2E35A962EE607120F3B0296B",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-IMetricsTracker.java-F0204C31C4957D7299460831914AA42EF0FD3E68",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTrackerTest.java-55AF1C00361E277A61EF27772B6FC1D96A52038F",
+        "SPDXRef-File--src-test-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTrackerFactoryTest.java-6202C1BD2D66E9FD8650BF8F0156B9C50B96F40F",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-hibernate-HikariConfigurationUtil.java-5FAA6A08BFC171B3B5148F4BB7986DD3142D8A2E",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariConfig.java-4A3ED6E2A887B725D2B66D51A1AC7630C40AFF74",
+        "SPDXRef-File--src-main-java11-module-info.java-9148743B133810103CFCACC7B841A519E0B154E5",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-dropwizard-CodahaleHealthChecker.java-854C519F3D6F9C8463ED88EB8A633A234AD4516F",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyPreparedStatement.java-EEACD36BBCA2AD23D0BD116C69924B3EDB657E01",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-SuspendResumeLock.java-19F20CCF3B7EF6220015560435FE7EEB9DF01095",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-UtilityElf.java-CF9C35C63401650EA6E92B9442D1C343E90C458C",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-ConcurrentBag.java-D493AE763E6E7A78DE1916FD821689512C91BAB6",
+        "SPDXRef-File--documents-Wall-of-Fame.md-52A40C9D5D1FA24FF092F54497EA649A948CE59B",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariPoolMXBean.java-2F1352965F98F7BCA99B1517DC8E57000876AA14",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyStatement.java-8241A54E8CF4AA43A411E430DBFE0DBA698D30D5",
+        "SPDXRef-File--.github-workflows-ci.yml-CDE9C3040352EC1A35ECC7D15FCB2BE5A5C1CCB0",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyDatabaseMetaData.java-F78BA575FD64C8D0981964971F29863B731F189F",
+        "SPDXRef-File--.git-refs-heads-dev-13C68BD8100C23BD5765602C89A163061C29A20C",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-util-ClockSource.java-984969BDD5D9E3F76DE24FFEE8DFC57645BBE86A",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-PoolBase.java-2BDCC848936667C8FCB8329EE82AFDD47EBC1B4F",
+        "SPDXRef-File--.settings-org.eclipse.m2e.core.prefs-A112BE21C325D37EBC17BAAFD40C0386B5D09DF1",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyConnection.java-7670BBECD2BE1F6DA160916CDD55D2B0C50B1006",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-micrometer-MicrometerMetricsTracker.java-366616EE69D8EB37D0E7F8A80793AD4BBB55B4C2",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTrackerFactory.java-8CD844A5A16790BDDC44FCC616C147BA57168B48",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-pool-ProxyCallableStatement.java-6C340CB97DD53FC86AE8485B5CED374BF1EF2188",
+        "SPDXRef-File--.git-objects-pack-pack-985104b33661e771fd6e89ed5c5d0acb88daaa78.idx-67DF600AE264E2BFD9FC59A221F005A1611EC673",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-D76FCB7FEA8ED40E74C85944656E80969126FDBF",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-PoolStats.java-F11C7F062B53FC29C1AB764CF4D3ADA1794DE259",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariJNDIFactory.java-E52193AAEA87F3917A30D8885BC68A2AF73A670E",
+        "SPDXRef-File--.settings-org.eclipse.jdt.core.prefs-5A6D6885E28FB82B1667C1C11C4A2C89B9EADC24",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-70B4815B3901D604E2D1192278B60CF866015725",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--pom.xml-6DE855CB1AE9DA62BDD594CDAD884F31AFD39B9A",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-HikariCPCollector.java-4E6EBBFA485B7E03DA8DAA19011AE49E14BDC908",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-MetricsTracker.java-9B61639F9E36D6124C506DFEFE14C73BF7E26919",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariConfigMXBean.java-3EF6EEC2E637246E7DE095D3C2AF13A74D611A01",
+        "SPDXRef-File--.settings-org.eclipse.core.resources.prefs-7E96D456C5C22626661E8A595533D5E8B50949DB",
+        "SPDXRef-File--.git-logs-HEAD-70B4815B3901D604E2D1192278B60CF866015725",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-96E0F4D173C21168B65C63E74E399D4F06D3DD27",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--travis-toolchains.xml-D08BA64E1AF63EC9B5BF9024724C0A62AD2E5772",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-hibernate-HikariConnectionProvider.java-F87684C1166E880CBA291DA668F5179245DA9FF5",
+        "SPDXRef-File--documents-Welcome-To-The-Jungle.md-824649185C3122974640DDEF0EB609AE2203DF26",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-2C142208129B78A4616CBB6798F96F4FB3580296",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-prometheus-PrometheusHistogramMetricsTracker.java-CBA857BAB7A038297FD22367189282E4BE15DF2E",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-metrics-MetricsTrackerFactory.java-CB5D31F65B25DB1A33D5EA76854512B10FD5FCE1",
+        "SPDXRef-File--src-main-java-com-zaxxer-hikari-HikariDataSource.java-72004281EA26C1BD3FAF533D54E1C31496C1C43C",
+        "SPDXRef-File--.settings-org.eclipse.jdt.apt.core.prefs-2CE8C253C87E8F3B69442F7822E5CF3624D42F26",
+        "SPDXRef-File--.git-logs-refs-heads-dev-70B4815B3901D604E2D1192278B60CF866015725",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-C6343B35ECFE56F1A2AB082C9BA99A41E0EB51ED",
+        "SPDXRef-File--osx-toolchains.xml-AC0791345640E90F71791F819335ED8E1F7BE897",
+        "SPDXRef-File--.travis.yml-AA5D0CC0BD60C12FC049F2123E6A61425CD832A0",
+        "SPDXRef-File--.editorconfig-32093240BEE56B622FCD0E321661A9D256495590",
+        "SPDXRef-File--.gitignore-3E08F4934BAF597FB3FD8DD86AAB68A3AF167A8B",
+        "SPDXRef-File--logo.png-1B6EEBE25ED67A60A3E54C2BF7F324185AB42DF5"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "HikariCP 5.0.2-SNAPSHOT",
+  "documentNamespace": "https://hikari.zaxxer.com/HikariCP/5.0.2-SNAPSHOT/I62k1HH9K0mpnkyN9HkR3Q",
+  "creationInfo": {
+    "created": "2022-09-20T06:45:59Z",
+    "creators": [
+      "Organization: https://github.com/brettwooldridge/HikariCP",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

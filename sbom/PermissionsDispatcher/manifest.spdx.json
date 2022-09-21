@@ -1,0 +1,4428 @@
+{
+  "files": [
+    {
+      "fileName": "./gradlew",
+      "SPDXID": "SPDXRef-File--gradlew-954D541EBD8C83E2E9B76783829B29216A8E183C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8a5050a3ebcf75d9c1fd59b35fee7fcee282dfa126e8509a9a4144b0a23b144"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "954d541ebd8c83e2e9b76783829b29216a8e183c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle.properties",
+      "SPDXID": "SPDXRef-File--gradle.properties-5EB8C66384C53F8DE295A4222658BC5578DD471E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e273389fc7b1f59fc0229eeef30422a142316d0dcce384855215260f061d245"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5eb8c66384c53f8de295a4222658bc5578dd471e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradlew.bat",
+      "SPDXID": "SPDXRef-File--gradlew.bat-7C678F4C2B00C9504B7DFAEA3752D92AF2450253",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0008d785920c9ff5cab17403e0270ccc7ceee8e169b6d67a82d96a5475fec5c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c678f4c2b00c9504b7dfaea3752d92af2450253"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-00F193A026EA6C20C55DC428793738B9F879FCD8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26730096c8817eef15dbf3885acecdc1fb114f96f9bbbf2b43cbca0c5b04eee9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "00f193a026ea6c20c55dc428793738b9f879fcd8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-CFE36CE2953F50278024E6032A4328E85230A852",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00961f9ce32a0d85f013c5685fdc9ccf758ebeaaf45ddcddc5f62a7010fb0a35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfe36ce2953f50278024e6032a4328e85230a852"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./build.gradle",
+      "SPDXID": "SPDXRef-File--build.gradle-CD687AD49BCD82D3EA22E304F6C89916A610A3D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a306b6e73ab71ca0b9f98878561ba663bf7c03723a89998fee5611411f35af8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd687ad49bcd82d3ea22e304f6c89916a610a3d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.md",
+      "SPDXID": "SPDXRef-File--CHANGELOG.md-862B5EBD2FC69DD43FA394CE8F4802525ABDBCE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5befd052fbe3d09c0bde12b328c474dffe09a1d9925a87b8fe6a1e48718489f9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "862b5ebd2fc69dd43fa394ce8f4802525abdbce5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./settings.gradle",
+      "SPDXID": "SPDXRef-File--settings.gradle-3D90635F227DB5AF39DE078DF080EA415560EA19",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea8631e376f5024c44d218f048b8288fb6bf8cfd7904e7b49b9cb41a58965207"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d90635f227db5af39de078df080ea415560ea19"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-2b31c8c97f1d3f986cbc43e9c9696180d0e01b4a.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-2b31c8c97f1d3f986cbc43e9c9696180d0e01b4a.pack-41BC16CD7485C616801F36C4882E6F7241C81427",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54eefb61b6f904de097a8b5f3592985aff7c192344d55a6fdfbd6bf67645c6cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41bc16cd7485c616801f36c4882e6f7241c81427"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/.gitignore",
+      "SPDXID": "SPDXRef-File--annotation-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/ISSUE_TEMPLATE.md",
+      "SPDXID": "SPDXRef-File--.github-ISSUE-TEMPLATE.md-7F766CF8CAC67A2BAC475283B15D6E45C2504CBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72c6179ff69bf74ba6fafeeb1bdb6c144c9658e63bb3130294b991f43d1b667b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f766cf8cac67a2bac475283b15d6e45c2504cbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/GrantableRequest.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-GrantableRequest.java-DD3D8986BB9293060F888BE5415BF3BA519EC6F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b51bf32cbd5814b69a12d28a127ca731b1a0f75283bed5eb5dd921908607c5cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd3d8986bb9293060f888be5415bf3ba519ec6f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./buildSrc/src/main/groovy/permissions/dispatcher/AarToJarDependencyPlugin.groovy",
+      "SPDXID": "SPDXRef-File--buildSrc-src-main-groovy-permissions-dispatcher-AarToJarDependencyPlugin.groovy-887A371764EB448FB8AEBDFA933BB789F0DECD76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9fb78f0551e420d95ce75345ed89c29263a63440a7cc72450554e7ab8b027ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "887a371764eb448fb8aebdfa933bb789f0decd76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.properties",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-40E3902D5D737D7ABC1D1CD35CD2BE1D9F0E97D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0007cc0bcea2eb950b050cbe9cdc5265bc339a6b0ee2b1a5069bf04453c54152"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40e3902d5d737d7abc1d1cd35cd2be1d9f0e97d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/KtxPermissionRequest.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-KtxPermissionRequest.kt-2891FDD25BF8772FC7460BD6470E18398C6C5EEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4806488922d4c27c4241c42f77b2acca0709139e11b41f17341738b43360b506"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2891fdd25bf8772fc7460bd6470e18398c6c5eef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/TypeAliases.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-TypeAliases.kt-203867104C2A652D3494741570C9AA5E665FF7F8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99b298165c51ea919d4e85931ed9e79cf9918201fb30f439757e5fa9c8ac0035"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "203867104c2a652d3494741570c9aa5e665ff7f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-AndroidManifest.xml-BBC01931A6C797E3027268958F59144E36ECEF8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7f65a12076ebc51d99671399c978e15edbad4779fa50d292ff77b82fc7435645"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbc01931a6c797e3027268958f59144e36ecef8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "552f9a01050827cc24c9bf50569fe8b0a121fb93297106e224986e7a4e9cc747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cac22ff594b3baf6d111f57405f27b485463a68c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/java/permissions/dispatcher/PermissionUtils.java",
+      "SPDXID": "SPDXRef-File--library-src-main-java-permissions-dispatcher-PermissionUtils.java-0442679BE8CF71EC221DE92D0A65E3C907AEDE84",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5db1cb067d51f81750f40265042c64026680b8e420d9b4ae565999d76e2c8c28"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0442679be8cf71ec221de92d0a65e3c907aede84"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/main/java/permissions/dispatcher/PermissionsDispatcherIssueRegistry.java",
+      "SPDXID": "SPDXRef-File--lint-src-main-java-permissions-dispatcher-PermissionsDispatcherIssueRegistry.java-38174BE4CFE1F6591376E635D2CF872EEFC45B77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b076d4318ff9d3dbe91dd8446e6426edab2b6a095b26196a7b6b5001df31875"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38174be4cfe1f6591376e635d2cf872eefc45b77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-37640EB3B2B05AA7CD45E476D3603F8D845D3A80",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0000bcf160c43d8f0062a4880a669be304ea924fe0046a752fac86095f20090b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37640eb3b2b05aa7cd45e476d3603f8d845d3a80"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-18C315DAD9CC6AB3B5BA57B64C39B08C538D8356",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0803f2d2e1a4fc28d39ed9cae8025105b73940ff9efcd5383f12f906d99a776"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18c315dad9cc6ab3b5ba57b64c39b08c538d8356"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/ktx-release.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-ktx-release.yml-599B8E2C30A15CB6891D3D60F0C39A88D0B07F17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58b1f19d637bc2706adbf59cb59596b0a5d215b068006cd84c2afca790032bcc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "599b8e2c30a15cb6891d3d60f0c39a88d0b07f17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/OnNeverAskAgain.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-OnNeverAskAgain.java-E36A63B55B8D835037C1C4D6CD5E6265A199300E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e35447f71aefc8921d8faed641ad4886a1a66d5e6b7fc260e6dd37939a3106ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e36a63b55b8d835037c1c4d6cd5e6265a199300e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./buildSrc/src/main/groovy/permissions/dispatcher/AndroidJarDependencyPlugin.groovy",
+      "SPDXID": "SPDXRef-File--buildSrc-src-main-groovy-permissions-dispatcher-AndroidJarDependencyPlugin.groovy-9E7AD33DB7157AEB3ECC9C31342C024C64C0BF73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82c85bb9c1b79fc83a503a72306c2478ff9e1c3ce5f950697ae9e2f1ee6fd78d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e7ad33db7157aeb3ecc9c31342c024c64c0bf73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/gradle.properties",
+      "SPDXID": "SPDXRef-File--ktx-gradle.properties-0633CE453218B15AFABCC29C6A04CE7EDFBE9CE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19a608c1afadb1bd9f67b3b9a2a1a3442079eeff22ccbb86d6653841424c6f22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0633ce453218b15afabcc29c6a04ce7edfbe9ce7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/PermissionRequestFragment.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestFragment.kt-4E1FD2683D1D2D1092C671B98EC2BF721502E711",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf441fcc5264accb81ce94ed9e8afa43cf5336d2c08509aa5ad2b148d3ab27f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e1fd2683d1d2d1092c671b98ec2bf721502e711"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/test/java/permissions/dispatcher/test/KtxPermissionRequestTest.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-KtxPermissionRequestTest.kt-F40899344EE99367BF9F1974B02517C0B2DF93A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "323aab384a39f932681a56b2bde2ac9fec5346d1629aaabecdfa8426aa99e106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f40899344ee99367bf9f1974b02517c0b2df93a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-DC52C697BF638CEF3CB3E432E3AFDBB28E18CFCC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d3a04cc5d2337d7b40a40210e3c328fe06c568a0c8fcddc39265efa16541150"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc52c697bf638cef3cb3e432e3afdbb28e18cfcc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-0BBF3CE555A11F376ADD10D7FFFD35245E271BFA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8202433304aa2a9ad82bd8f30f0458fe72a0a8cb8841dad7d5b058481b21f61"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0bbf3ce555a11f376add10d7fffd35245e271bfa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/build.gradle",
+      "SPDXID": "SPDXRef-File--annotation-build.gradle-6A80996C26226B12A1D08CEFB929122F5C337907",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60d722a0919b7159fe85da6a28d5feabb069d4763446f1bf28e3c25bef2152a1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a80996c26226b12a1d08cefb929122f5c337907"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/RuntimePermissions.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-RuntimePermissions.java-164EC53D7353B6D631C22089EC6681E17137A45B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bc75be7b7ae778b0a9192f62a3d36c29d9847e739af200949e322c340ba2b79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "164ec53d7353b6d631c22089ec6681e17137a45b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./doc/special_permissions.md",
+      "SPDXID": "SPDXRef-File--doc-special-permissions.md-E14DD98A8E8475BCEFEE81D04C1802893B3036E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e88d81b4d3e12773c5bff7c5d7c16d7ed1d369c475267d19f1200371cffd7b80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e14dd98a8e8475bcefee81d04c1802893b3036e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/Event.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-Event.kt-49186B749418E9EE168B2C9A0083923F6842F5C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bef637fb75792f808546f1838e3add5e89ed4b7d13832e6d22f65530ec12d1f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49186b749418e9ee168b2c9a0083923f6842f5c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/PermissionsRequester.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionsRequester.kt-A64A18CB0B0A414A45B5D57FEDE7D040FF4CC122",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2633d96e12aad9dfa5524229a03a04c34852eb48576ace7923c09df1d085403d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a64a18cb0b0a414a45b5d57fede7d040ff4cc122"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/.gitignore",
+      "SPDXID": "SPDXRef-File--ktx-sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "820e323f5506dc1dda3fad164e5fa0acd56a8266e4ea441db94e60fd9972d28a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a78f48fe9f9114f315dc79eff29452e93ffd709a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/gradle.properties",
+      "SPDXID": "SPDXRef-File--annotation-gradle.properties-4090A45745345FB0983318EE986A83895458036B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3c917272b1ad616020aa6bb134c6748f60c55e1713c57dabc89d57ab308a2fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4090a45745345fb0983318ee986a83895458036b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./buildSrc/build.gradle",
+      "SPDXID": "SPDXRef-File--buildSrc-build.gradle-5BA304E6CF111183828B6399871C8DD2F54FDF21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c91ce20afc4e95d95344be67623b7894dda7ba4b8fc1c7c0f60ecfbfe75208d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ba304e6cf111183828b6399871c8dd2f54fdf21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./gradle/wrapper/gradle-wrapper.jar",
+      "SPDXID": "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-B190CA945D84B2908B019FC245DA921E66C104EB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "660ab018b8e319e9ae779fdb1b7ac47d0321bde953bf0eb4545f14952cfdcaa3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b190ca945d84b2908b019fc245da921e66c104eb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/FragmentExtensions.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-FragmentExtensions.kt-89660E26694ED671B670B1617952E5C862D4EAD1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b66394fe61567dacd857c28e86e85b0ed75b44c12521c0fa7857ad145da95ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89660e26694ed671b670b1617952e5c862d4ead1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/PermissionsRequesterImpl.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionsRequesterImpl.kt-6098BECE1289A4BEC4416D4F51AAE1A41F322616",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d5ae73f679e272493f23c09b2d6d2c6cf95970f28338f69a6c00da363899454"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6098bece1289a4bec4416d4f51aae1a41f322616"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/build.gradle",
+      "SPDXID": "SPDXRef-File--ktx-sample-build.gradle-5303E4D77E4D01B5FD285C5591FA27D602E11DB3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdbb6d2119dbf38ce44165fc6389324cde6424bed897486e64f1b5d67ba86358"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5303e4d77e4d01b5fd285c5591fa27d602e11db3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f5bc4bf1364152b1943933b6910bafc913e7a813de5c1b0ba4723e33e58975"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae86c9f2fefeb0a12f9e350975339bc580efd813"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-CCF8919635BAF3125423C2F6A09373698E255EAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "525b1974092aff33117e6f5236d9f3331b922a105864a9e52f29d26d425a6a7e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ccf8919635baf3125423c2f6a09373698e255eaa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-18C315DAD9CC6AB3B5BA57B64C39B08C538D8356",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0803f2d2e1a4fc28d39ed9cae8025105b73940ff9efcd5383f12f906d99a776"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18c315dad9cc6ab3b5ba57b64c39b08c538d8356"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/deploy_snapshot.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-deploy-snapshot.yml-6547BB3610E758C9160CA02E990C1FF754E31FD6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa93ff20c115c242bf30e740c99ad0855bd0b337e565c9bb2b69295ea59fda16"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6547bb3610e758c9160ca02e990c1ff754e31fd6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/NeedsPermission.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-NeedsPermission.java-C22651BC82373D0909090171B820DE8B0C5F77D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec37257623998ea1f013db07b6ff0746a6ee99982dca3e20b9722cd59427acb9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c22651bc82373d0909090171b820de8b0c5f77d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./buildSrc/src/main/groovy/permissions/dispatcher/AndroidJarDependencyExtension.groovy",
+      "SPDXID": "SPDXRef-File--buildSrc-src-main-groovy-permissions-dispatcher-AndroidJarDependencyExtension.groovy-9E26D848734F6361DF63BBDB2A5DECA2218D18E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7658062fa2ea6408473afcec8527a19c50a7070ea6aa7500c5a2f4fccfd9eae7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e26d848734f6361df63bbdb2a5deca2218d18e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/build.gradle",
+      "SPDXID": "SPDXRef-File--ktx-build.gradle-611E3C51E4E89E8954830F1E4C3D41AA73897479",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9b332bbae1dcf2ee4757fd6641c16bfb1e93f260e4be72752abe19bb261aa5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "611e3c51e4e89e8954830f1e4c3d41aa73897479"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/LocationPermission.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-LocationPermission.kt-B60566B280393F76A612AA76273D731E1F8B71DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0302fedbaaee6d7e2244ff96d6b69aa64c96cc8228bf4fcbb2fe533d412a27fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b60566b280393f76a612aa76273d731e1f8b71dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/test/java/permissions/dispatcher/test/EventTest.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-EventTest.kt-6E46CE16E720DE22FBDC97D65255A6B894AAD642",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19f9f482652985219fca4d1d91017318678d926a7b7db8c50848e3287c6b5cd8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e46ce16e720de22fbdc97d65255a6b894aad642"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/java/permissions/dispatcher/ktx/sample/MainActivity.kt",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-java-permissions-dispatcher-ktx-sample-MainActivity.kt-A036A871B736BE10474B4168948D8C9DA9D09D31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb6c517ed0aad58c77d1c41fd5de5c28806c9dd6646eee85aad7d0e48a403506"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a036a871b736be10474b4168948d8c9da9d09d31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-4E24027A11DE867A5A882BDB77B7E36E6F6A4528",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df4b4ce55e9493dff475c00dc32a2c16b75388fd09440283c71801ff229f4a44"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e24027a11de867a5a882bdb77b7e36e6f6a4528"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-2b31c8c97f1d3f986cbc43e9c9696180d0e01b4a.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-2b31c8c97f1d3f986cbc43e9c9696180d0e01b4a.idx-291BD1CB4BBFA4B8CF41558645EC1382622C4A93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e038328c80fb46096cfe407d268382ace7150d66d180b831843cf363232e14b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "291bd1cb4bbfa4b8cf41558645ec1382622c4a93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/release.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-release.yml-CEEA7DFA922A1B1BB331632AC5421DC8E65F67B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af210eba486907e0adab45078615eca581830f35b59251d42a2edca909479d50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ceea7dfa922a1b1bb331632ac5421dc8e65f67b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/OnShowRationale.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-OnShowRationale.java-020FFDA1714F9145E187E5F04509406BEC9F4ABB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7101c39a3ea20748a7ad3e0eb94e3d8f7f824c2b3a9f75fe1af05395893d5b3f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "020ffda1714f9145e187e5f04509406bec9f4abb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./doc/maxsdkversion.md",
+      "SPDXID": "SPDXRef-File--doc-maxsdkversion.md-ADE3034D8DAA069264ED2E51C86E75822B09A12F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "038f6b2c89ffc61129a900ac54376994ee6d1de932840a3deca5d24b87d8d99d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ade3034d8daa069264ed2e51c86e75822b09a12f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--ktx-src-main-AndroidManifest.xml-909D15959A7A6A7D117DF81607CD15F96CEE8118",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b3966153e3baf71c51e8ec0c092d279106ba21c3a9db9cf8ec5263ac39064b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "909d15959a7a6a7d117df81607cd15f96cee8118"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/PermissionRequestType.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestType.kt-75C93E10FCB47285F7CB44DE2BE8360AF694CB2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02fe679ec2e5a65bfadb0be8097ad59ac94f252c76d6d2ab1ba7fc1b2af93f2d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "75c93e10fcb47285f7cb44de2be8360af694cb2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/test/java/permissions/dispatcher/test/PermissionRequestViewModelTest.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-PermissionRequestViewModelTest.kt-B6007E891D9396A578FF3EA835CA74AECF403ABC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aad4b70230761cdc0d99afd9efe2c0360e822e59230fa524b19daf2f5b5ba5b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6007e891d9396a578ff3ea835ca74aecf403abc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-18C315DAD9CC6AB3B5BA57B64C39B08C538D8356",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0803f2d2e1a4fc28d39ed9cae8025105b73940ff9efcd5383f12f906d99a776"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18c315dad9cc6ab3b5ba57b64c39b08c538d8356"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/PermissionRequest.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-PermissionRequest.java-832D37BA1F23C74A713E9CCEE8AEEF9E662DBDC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40c817105aabe96be2104885c6236e977892baa3d5a330475714717a38aab830"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "832d37ba1f23c74a713e9ccee8aeef9e662dbdc9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/gradle.properties",
+      "SPDXID": "SPDXRef-File--library-gradle.properties-E43D9134D18BEB1164A7C83E122E16F2BC68B1FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8bcdad31d9ed1cd717c8af0c8eaa0379200ebf784e5d736e44c898689cb6450"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e43d9134d18beb1164a7c83e122e16f2bc68b1fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/layout/fragment_camera.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-layout-fragment-camera.xml-2667533F04C5F486593EBEEAFFAC2B7F36787894",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56695a96337d6f02491ceab5536d47504596ab3cdc7ee19203b492cc615d642c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2667533f04c5f486593ebeeaffac2b7f36787894"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--library-src-main-AndroidManifest.xml-11B5982D734FF166B3A5CE27862E2EBF5AE2621E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bcbb066f86dad201c047d869b22c98a2cf657b153825797398365cc299740e25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11b5982d734ff166b3a5ce27862e2ebf5ae2621e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6e7620e6c5d9bf8020f7216117d8cb799f7936f232e28732443b1fe79521d6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dc154e4ffff91ab2b070a4ce0ad15e50571bea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/java/permissions/dispatcher/ktx/sample/MainFragment.kt",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-java-permissions-dispatcher-ktx-sample-MainFragment.kt-2EDC23742F9611D1F479CE02F80E24A5956BE55C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd02e16c376fe250a98c7226932b6120eaee1b504912ab38e649b10720e0c0c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2edc23742f9611d1f479ce02f80e24a5956be55c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/NoDelegateOnResumeDetectorTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoDelegateOnResumeDetectorTest.kt-5E3D839795EAF7448C4F0B61E3ADCF8A5D07613F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc8a1fcb3f49b2e16dc417383da12653cacb7526a00669aecf173474dba80502"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e3d839795eaf7448c4f0b61e3adcf8a5d07613f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/pull_request_ci.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-pull-request-ci.yml-CDE8A4B3CC1B6BAC3EC81BD50C7C4F2EF302712D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa38b01d6a602ef4dcfbe3296dddadc639f652b635e952c6a0d84b0dd2e0c453"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cde8a4b3cc1b6bac3ec81bd50c7c4f2ef302712d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./doc/migration_guide.md",
+      "SPDXID": "SPDXRef-File--doc-migration-guide.md-8CB58F0D31F95B7019A791EB8699505AFB1AF50B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3719b4996e8da1edb997e85c62eaf9e0d7e32643fe98839a402d81f4f6f7a832"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cb58f0d31f95b7019a791eb8699505afb1af50b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-values-dimens.xml-992FD0A286434A28BE6D3187D0A45398C90316A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "996b6f9454bd4cca10ee5fc993ac1978d438b634af5d4b33ac5da5593dee4452"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "992fd0a286434a28be6d3187d0a45398c90316a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/main/java/permissions/dispatcher/NoCorrespondingNeedsPermissionDetector.java",
+      "SPDXID": "SPDXRef-File--lint-src-main-java-permissions-dispatcher-NoCorrespondingNeedsPermissionDetector.java-0835E1729B384C99E6545A1FEAB61966C5DD026B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e74dd20c2de679a02632b6ed835e22ccaddf0bcd648f943b5b4c3daf5b6bc198"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0835e1729b384c99e6545a1feab61966c5dd026b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/main/java/permissions/dispatcher/NoDelegateOnResumeDetector.java",
+      "SPDXID": "SPDXRef-File--lint-src-main-java-permissions-dispatcher-NoDelegateOnResumeDetector.java-D726AF6F376AACD373A51D02BFD0663FF45FCD93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "999a57b42e5caa3f1581680302bc99bce11bd81276ba97608b2c8e8320ea46be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d726af6f376aacd373a51d02bfd0663ff45fcd93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/.gitignore",
+      "SPDXID": "SPDXRef-File--lint-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/values/template-styles.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-values-template-styles.xml-E0A69494FF287D76960934D1154E521DB84F52FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b988fcfe08d39e5834d808bdc552e6208a1e0eff00eaadcf865270b6fd0236b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0a69494ff287d76960934d1154e521db84f52fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/RuntimePermissionsElement.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-RuntimePermissionsElement.kt-F99AC021E0E719D3A08992623D9BDB4EADDE4326",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a84f117a2337c367a11a892ec02620e490da38bbe4f7cff5cd0ae4ccd615c2e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f99ac021e0e719d3a08992623d9bdb4eadde4326"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./annotation/src/main/java/permissions/dispatcher/OnPermissionDenied.java",
+      "SPDXID": "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-OnPermissionDenied.java-95EAFBF906265C91681E418B3C9CA8344883B75D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e59b6fc5b2178c237c5f79209059c332440b8a71df9ac5cf3937439f7364362"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95eafbf906265c91681e418b3c9ca8344883b75d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/src/test/java/permissions/dispatcher/ApiLevelTestSuite.java",
+      "SPDXID": "SPDXRef-File--library-src-test-java-permissions-dispatcher-ApiLevelTestSuite.java-8318B27D76A1BAD773C2BDF9925CA1125D5408B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4f826afdbf4a52a70404d9d253f0007d7240d7dbd514008b0fc924268b09c06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8318b27d76a1bad773c2bdf9925ca1125d5408b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/ActivityExtensions.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-ActivityExtensions.kt-22CD6F5F1F03E645598BA2846D1792123F50A6FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b6b53e64d8e1c6a3c39952bfca3c7ffae6325341fbbc01890535ce05c6b076c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "22cd6f5f1f03e645598ba2846d1792123f50a6fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/NoCorrespondingNeedsPermissionDetectorTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoCorrespondingNeedsPermissionDetectorTest.kt-5345088E6ADBBA5A2196597F51B15CCBBE5C435F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba86688d9272eeb676e431f6131ac233c37b27cd7edc5a7dcea40d4696eab9d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5345088e6adbba5a2196597f51b15ccbbe5c435f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/CallNeedsPermissionDetectorTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallNeedsPermissionDetectorTest.kt-D672E209E390FC90BE5D05A537D3125914C7EFBD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac9300b3e00a871b4202603c9e1e990aac02b0c39dc6c702eeaeb26efff144a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d672e209e390fc90be5d05a537d3125914c7efbd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/NoDelegateOnResumeDetectorKtTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoDelegateOnResumeDetectorKtTest.kt-EABD6DEF071DEE993D0DF4901D145CBA1EAD23FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "65721d35d5d0662459034c73316142f87e35a0b96c157297562833390ed4892f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eabd6def071dee993d0df4901d145cba1ead23fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./doc/java_usage.md",
+      "SPDXID": "SPDXRef-File--doc-java-usage.md-0F1D4032D931FB61402FDDE797C6513A9B1F4484",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfce12370180b1b792d2131349167fb3f38b14910879bde69362913a56031595"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f1d4032d931fb61402fdde797c6513a9b1f4484"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/main/java/permissions/dispatcher/CallNeedsPermissionDetector.java",
+      "SPDXID": "SPDXRef-File--lint-src-main-java-permissions-dispatcher-CallNeedsPermissionDetector.java-20D25C851FC87C18E32B78FE922FE6742D17F1F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a92d9b389b28b1c4737bcdaa514f2d4cd0ddb5dbf2e143149522e95daeb00f10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20d25c851fc87c18e32b78fe922fe6742d17f1f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/SpecialPermissionsWithNeverAskAgainException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-SpecialPermissionsWithNeverAskAgainException.kt-E4C472F1E989E8C5F6B23D162532813F750F1A90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5c7fc7e8f6b6d35edce422a1f05ffe53ed713d17508985c2c8ac9e288a5da06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4c472f1e989e8c5f6b23d162532813f750f1a90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/CallNeedsPermissionDetectorKtTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallNeedsPermissionDetectorKtTest.kt-D5DC09078318D8386423D38C91B3F40EDA4EC9AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10b041a6fa2f0fb2f293f75634e6ac4ac97364688178ab67e6774dd7e30690be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5dc09078318d8386423d38c91b3f40eda4ec9ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/ProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-ProcessorUnit.kt-81F356CDF0A45139C94C053A3D35B815510CA217",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "080cec3f4d2771a8a11c3b2494545d918b1435afc6f746e144ad59166d08bf83"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "81f356cdf0a45139c94c053a3d35b815510ca217"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/Utils.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-Utils.kt-55E15DE7DCB03945ECF3327BC3DD52A132210A30",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91f98bc197949819e2327cad530b337da5074a0378df1ee4d6765f24c96d748a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55e15de7dcb03945ecf3327bc3dd52a132210a30"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/PermissionRequestViewModel.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestViewModel.kt-274ED994E355A39EEFD6B0762840513EB7DC955D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "35f010807c87c617abfd077bd9354ac0cb65dec1987d1b959a34915aede6df3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "274ed994e355a39eefd6b0762840513eb7dc955d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/RequestCodeProvider.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-RequestCodeProvider.kt-99FC89D4288F1C04DE43EC0ED3347A4782D49FBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3543ac14c8fdba00bb4af793a52b728a54a7bed25f3ba0622dd85691d9bc87b9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "99fc89d4288f1c04de43ec0ed3347a4782d49fba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/java/SystemAlertWindowHelper.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-SystemAlertWindowHelper.kt-E491C9FF6A9EDF325924FBDEA564057B59621720",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c1242794a96d3735f9418c899a4f8a2dd333888a560817a5233c6374cccab96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e491c9ff6a9edf325924fbdea564057b59621720"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/CallOnRequestPermissionsResultDetectorTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallOnRequestPermissionsResultDetectorTest.kt-54FB5506A4C29D430DDA3538E708D79AF1BC139E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b944a8d0634b585aa5c0fb8484df58cc0b61e2676f86e17034189dbda21ad74a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "54fb5506a4c29d430dda3538e708d79af1bc139e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/NoThrowsAllowedException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-NoThrowsAllowedException.kt-5BD8FC7B9FD6B627959E78AED6EB008AB927A9BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ff28cf62032c17eaad711148dee6cd3ad0f81fcbe5e14e6c461e796e42596e4c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5bd8fc7b9fd6b627959e78aed6eb008ab927a9be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/DuplicatedValueException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-DuplicatedValueException.kt-975526585DDE1D2E8D664D019AE5DA248759AC00",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d50a5563e1329fd5451a195f5d277458f69c8106bd6849186eaa2d0f3589834"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "975526585dde1d2e8d664d019ae5da248759ac00"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/PermissionsDispatcherIssueRegistryTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-PermissionsDispatcherIssueRegistryTest.kt-9D5B4FD3806AE76BFDF2045F048AE9943787BE2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe20ee6f1aea5a6e7eef99a95e110ffd10d521ce8fd653702daa6c9f264680fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d5b4fd3806ae76bfdf2045f048ae9943787be2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/README.md",
+      "SPDXID": "SPDXRef-File--ktx-README.md-0A05A82B050EE49BC14259EAD1C1B9E8310D7E19",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c8f35624e5fefd20158bfa8d010d30575ad9e6ee186f15071ed7d79aaa070ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a05a82b050ee49bc14259ead1c1b9e8310d7e19"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker",
+      "SPDXID": "SPDXRef-File--ktx-src-test-resources-mockito-extensions-org.mockito.plugins.MockMaker-C85A50828866E7F5329F39E7B79C950887E6D986",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad854cde62cc375ac4d837bcd1769fb17feb26bd4096ce837ca9164903514e93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c85a50828866e7f5329f39e7b79c950887e6d986"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/PrivateMethodException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-PrivateMethodException.kt-9E33987BE261F41E98F343AE409FA22E6CAF9644",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39188bf2155cb3fe037a9d21e08f0eaa344f63353b2b482e24e0da9073dcf686"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e33987be261f41e98f343ae409fa22e6caf9644"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/gradle.properties",
+      "SPDXID": "SPDXRef-File--processor-gradle.properties-B2C289A67A799CC8462671B281CFEB991970D30F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aed21f82321ec7f751b5b3cb6434fe24092a0b27667c23acceb727af07085e77"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2c289a67a799cc8462671b281cfeb991970d30f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/util/Constants.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Constants.kt-62F1EC159236448BE55C25F8D1E1ABEFDAFD36D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac12f4c51e2d6651abc5bcc21dcbf71a257088c4637f8c94f17c34ad8d34d276"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62f1ec159236448be55c25f8d1e1abefdafd36d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/WrongParametersException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-WrongParametersException.kt-87716A926DD1CE6526771F5DCA3859EE49A342F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ef46693eae20177105b5614b607370d4fe98389ca9fa0d65bc4d465c851db06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87716a926dd1ce6526771f5dca3859ee49a342f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/main/java/permissions/dispatcher/ktx/PermissionRequestResult.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestResult.kt-9C679D9BB69A4A3E8E55525B4E63FB0D31D0B798",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "52a14b209d5aa5af5d027878b52981acb65c34033f8764d0a2fbade33f0f1a16"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9c679d9bb69a4a3e8e55525b4e63fb0d31d0b798"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/java/JavaFragmentProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-JavaFragmentProcessorUnit.kt-ECCC2B635EBD538ECA52FB516A149259EA0D658C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ed6e57423bc106f2baa7490dcd5a38a9bdcd139c26d8fc9227800897878e58f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eccc2b635ebd538eca52fb516a149259ea0d658c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/layout/fragment_main.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-layout-fragment-main.xml-4B59045AD852106D564026FAA265C461DBF13D20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fcbee8da53887f5d91d38878a449fdc499ee9cc3afcb25f89a2944ebb12b48b9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b59045ad852106d564026faa265c461dbf13d20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/java/SensitivePermissionInterface.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-SensitivePermissionInterface.kt-AD40B1E56A9E4E4351E7C774727DB72A1AAB7EB2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e90fc41a56611b65346a516f7454b46767b07de88c46b370b27e80f8915a94ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ad40b1e56a9e4e4351e7c774727db72a1aab7eb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/DuplicatedMethodNameException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-DuplicatedMethodNameException.kt-F05B4D93AE52E3F6D746D8AC5E0127BB00C84752",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f07ce2df4607d36719597a3e874f84687865d1324c61636e50df41a941cea043"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f05b4d93ae52e3f6d746d8ac5e0127bb00c84752"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/NoAnnotatedMethodsException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-NoAnnotatedMethodsException.kt-4864D3F6B36C28255466FFA7B16356F86944A392",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca7df688f3843443aa769a8f525a9d0b1250ac8e6cae9cded2fb81489bf3c087"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4864d3f6b36c28255466ffa7b16356f86944a392"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/kotlin/SystemAlertWindowHelper.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-SystemAlertWindowHelper.kt-85E8CFF2CB661B5141F3F5D9176A8BBFD176C895",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b12191c23444ec7f7d2b0e54716b36c68a21258ecd41e0610574e1b3f1c2ca4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "85e8cff2cb661b5141f3f5d9176a8bbfd176c895"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/base/AndroidAwareClassLoader.java",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-AndroidAwareClassLoader.java-0F4A9E10BC0F8F526CB7C947F28A745DA9C73049",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77857c8902ab1d15bdb0a90459e831d2f1e5cd8dd2f777bc1703de3a8e745f5d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f4a9e10bc0f8f526cb7c947f28a745da9c73049"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./library/build.gradle",
+      "SPDXID": "SPDXRef-File--library-build.gradle-9AC511F412DBDC5C047AD06643F112BADE9B3666",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba7a57aa1a47067eaa4eebbb5fc25dc1c4547fcf3275ca077b19012855e00972"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ac511f412dbdc5c047ad06643f112bade9b3666"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx/src/test/java/permissions/dispatcher/test/LocationPermissionTest.kt",
+      "SPDXID": "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-LocationPermissionTest.kt-D86568D0E790F40EA9187F1333D65175C90D3F15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc7cf708f61fab68928a4c0783b49a385b1d4b253e8030393e770f8330a6fec7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d86568d0e790f40ea9187f1333d65175c90d3f15"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/kotlin/WriteSettingsHelper.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-WriteSettingsHelper.kt-43313E7F05E811B0AB8C97B97CEFAF739E72B710",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d876bccecc99ea39a50dbf5938343e6b6f12c620bfd37d61791527b70a46e74"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43313e7f05e811b0ab8c97b97cefaf739e72b710"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/kotlin/KotlinActivityProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-KotlinActivityProcessorUnit.kt-B2548A454CDC10ED41068D7B910B686FD999D203",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e5ac3811ab9794f25f9a89a3cff9e292f67f90d5a22271847163886785b0e79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2548a454cdc10ed41068d7b910b686fd999d203"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/build.gradle",
+      "SPDXID": "SPDXRef-File--sample-build.gradle-4CF6697E7E6D83FCD35ADF622843D3B04FA62B55",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7fc6add5c31c4c384531588e377f03e6305f7e58c080e12df4902a2433228fa7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4cf6697e7e6d83fcd35adf622843d3b04fa62b55"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/KtProcessorTestSuite.kt",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-KtProcessorTestSuite.kt-CACEB270DF4E29C7A4AA13FB49BC740DE90291BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d781f47d7962e6e6c8ebc1ebb8d9d84eb4dbf4982044cd131d9de44c520a725"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "caceb270df4e29c7a4aa13fb49bc740de90291be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker",
+      "SPDXID": "SPDXRef-File--processor-src-test-resources-mockito-extensions-org.mockito.plugins.MockMaker-C85A50828866E7F5329F39E7B79C950887E6D986",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad854cde62cc375ac4d837bcd1769fb17feb26bd4096ce837ca9164903514e93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c85a50828866e7f5329f39e7b79c950887e6d986"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/WrongClassException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-WrongClassException.kt-C89F9DD345D4CD5E90C19E723C42C4859B14F259",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c456189c4e00c930d4d36940f70fd6691838423537907ef7587fd2a6b10e333"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c89f9dd345d4cd5e90c19e723c42c4859b14f259"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/java/JavaActivityProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-JavaActivityProcessorUnit.kt-D64D53E40E6E9DD3802D22372302247BED1C73D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afdf57aa3e6979ef607afaee124a6344f491173e5f6dcc31ae69c97f5bede539"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d64d53e40e6e9dd3802d22372302247bed1c73d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/java/WriteSettingsHelper.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-WriteSettingsHelper.kt-4C93ACF4B402350AA5A622A0367D74B0EBF71395",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a39f0ec4fec3c489257615c35e2d028a232a125bc00440423a1e66f1298f3e22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c93acf4b402350aa5a622a0367d74b0ebf71395"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-layout-activity-main.xml-F12DD4B757F220A89ED692890F952D8CE17E2981",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8aacf3e09a7744ce52fa8b0afa47306df4f4831eab39446027a8778a493b9ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f12dd4b757f220a89ed692890f952d8ce17e2981"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/util/Helpers.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Helpers.kt-1A38AE6A8AD245B979DF362F2BA0CA3A876DEBF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4763864b7a9c910e2cef1c290a33e2c327edaf413a4ca4be4582a72f2ef89694"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a38ae6a8ad245b979df362f2ba0ca3a876debf7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/activity_main.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-46661A060B39D7B0A7C84742075F5DE8C89C4C9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e217b411af4fa9ae5deb329ae04e8511227a92e657da1bbecbc7b3d5bbabd771"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46661a060b39d7b0a7c84742075f5de8c89c4c9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/kotlin/KotlinFragmentProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-KotlinFragmentProcessorUnit.kt-E9668BC1EC0DF8775E58B637C40723E105BB9C17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4332e384681cc1db2635d0da1bebdf0a6afaf6fa724e79b35472193f202b4865"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9668bc1ec0df8775e58b637c40723e105bb9c17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/main/java/permissions/dispatcher/CallOnRequestPermissionsResultDetector.java",
+      "SPDXID": "SPDXRef-File--lint-src-main-java-permissions-dispatcher-CallOnRequestPermissionsResultDetector.java-EC26677B50DBB902D7173331E1B6498B1653F1C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "105369078c9937a6634c4b3e78867df8fc0f2e0c68a85f3b78c949c518d4274c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec26677b50dbb902d7173331e1b6498b1653f1c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/fragment_contacts.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-fragment-contacts.xml-D825A53959B435F83AE1302C8E7D17A19272A62D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1794d3c039e238ae2516c26d096b9980796f89b4dcfb8e168a1d869317fa4db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d825a53959b435f83ae1302c8e7d17a19272a62d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/ProcessorTestSuite.java",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-ProcessorTestSuite.java-9767258025BAEAC6542B473A34FE0CAC8478E160",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc5bfd40e0f7e157ebf6aee9c5bce6265df739f601809c2e1c059544d003d163"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9767258025baeac6542b473a34fe0cac8478e160"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ktx-sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--ktx-sample-src-main-res-values-strings.xml-C1E736E3FB7F0FF5A7BA9DA3D8C53EE5AC3124B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "111dfef5d10e020679c7b48aa32b6b88f58e3a997f077a9d4ffdfecbabf0b542"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1e736e3fb7f0ff5a7ba9da3d8c53ee5ac3124b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/resources/META-INF/gradle/incremental.annotation.processors",
+      "SPDXID": "SPDXRef-File--processor-src-main-resources-META-INF-gradle-incremental.annotation.processors-778F5671AC549088F9151E1C1217DA0DAC34F5E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "382a315dcdaf1b309b87c283ba601b1a8c69b7551e4af63af7148d842fbb102f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "778f5671ac549088f9151e1c1217da0dac34f5e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/.gitignore",
+      "SPDXID": "SPDXRef-File--test-.gitignore-97C60D9577300823ED51007A1CD66704D805867C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a46cd57315821d0cd450a15293058654f7c6edb71b3c2651a217370caf7d1189"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97c60d9577300823ed51007a1cd66704d805867c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/.gitignore",
+      "SPDXID": "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d96f1d5b78765c2d3024439e9b0d38adcc23ece44a4f6e7427d86f4ca2df6607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4031ed2beaab11dd4e1620bc85788b1ea7523672"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/build.gradle",
+      "SPDXID": "SPDXRef-File--lint-build.gradle-2936950562A18B064348F579BB43F424A07D2B32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f2c9cfedcf3dec75bb31837bd11d3cb09ae34f2002d65c5c2c40fe8ffd93456d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2936950562a18b064348f579bb43f424a07d2b32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/util/Extensions.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Extensions.kt-7F7FBFFC60520FE64584746940A4AF885C370398",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85e67baefef6f57674c8b6539c09a109a98507bc611842a4ae7af419958f82c2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f7fbffc60520fe64584746940a4af885c370398"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/base/StringEquals.java",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-StringEquals.java-1503C1D28FEDB348BB38A38979BAB958969DD110",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b09826773b181d00bc6d71d3ed4a8ec4f2b97dfe6ed2454970507f2e10f8861"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1503c1d28fedb348bb38a38979bab958969dd110"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithOnPermissionDenied.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithOnPermissionDenied.java-222F0D041A274958A1AFE72049AF37FAAE6F7AFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7762d9ea5b2ab9def21b977403ffa10967e58ef9f32ebec12810359638a29ac8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "222f0d041a274958a1afe72049af37faae6f7afc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/strings.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-strings.xml-F8C9EE51DBFDA7655D38062AD0EB3D34C57802D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c8ee25b4ecd27a22ae29fb916a44f45f3f6c5b600fb36502d232daf99847ad8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8c9ee51dbfda7655d38062ad0eb3d34c57802d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/NoCorrespondingNeedsPermissionDetectorKtTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoCorrespondingNeedsPermissionDetectorKtTest.kt-A43EDA1735CC38853B81E594F9920D7D244D4EEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "823bcd0133d404ba4abae86a32d4fa0a21e6631293866159846ec42746f9e7ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a43eda1735cc38853b81e594f9920d7d244d4eec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithNoParameterArgumentKt.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithNoParameterArgumentKt.kt-C8AEE9C2A6691893DD69210C030F42E0DFBB1EB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80fa474f4c022f0601977fba13b94bb7c04b0aa34b9929082c84923c30eff5ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8aee9c2a6691893dd69210c030f42e0dfbb1eb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowKtAllAnnotations.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKtAllAnnotations.kt-86B5F21FC96DF757DFD697FFB98B5B26661A66C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26d4203b64a76c6a96c3d63b5ad9e2def95672352d5364175e69a4d7c87ced9e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "86b5f21fc96df757dfd697ffb98b5b26661a66c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithAllAnnotationsKtPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithAllAnnotationsKtPermissionsDispatcherTest.kt-BB2DD00E3EEF82A12555B1178C29F090C7D8DC05",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8284d5ccf413482138d5afb9149d432c77496eeb3e326cdf14911c4e76f2731"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb2dd00e3eef82a12555b1178c29f090c7d8dc05"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/layout/fragment_camera.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-layout-fragment-camera.xml-2667533F04C5F486593EBEEAFFAC2B7F36787894",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56695a96337d6f02491ceab5536d47504596ab3cdc7ee19203b492cc615d642c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2667533f04c5f486593ebeeaffac2b7f36787894"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/template-styles.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-template-styles.xml-E0A69494FF287D76960934D1154E521DB84F52FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b988fcfe08d39e5834d808bdc552e6208a1e0eff00eaadcf865270b6fd0236b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0a69494ff287d76960934d1154e521db84f52fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithOnNeverAskAgain.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithOnNeverAskAgain.java-8CC35DAFEB42925AFC67141561E83EB7E4A16559",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75e51f6fcfd1155ad38180585152ec230824dc3ea031fdd3f498dc1cabe85460"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cc35dafeb42925afc67141561e83eb7e4a16559"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithWriteSetting.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSetting.java-14272E2FD51FA2BB71F1BC001673B7930C4E32FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4791a3abc0c199203e57cf7c0aa04205f313492df9201126df77258254ff148"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14272e2fd51fa2bb71f1bc001673b7930c4e32fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/base/BaseTest.java",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-BaseTest.java-29A196D57256D01B8A549347C152F36762D36EBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ff2ba3fbfef039fbcf94aae2f3fa863ce0a7f62201a60470b12e8749dde7b26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29a196d57256d01b8a549347c152f36762d36ebf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-AndroidManifest.xml-C33A7C16C8CE1AE214463817C6E8A5B26F87BCC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d18379ff500c7ecdd6b20a8e4f5adf55953f444f9ce9845d0af0dc9ac2251d0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c33a7c16c8ce1ae214463817c6e8a5b26f87bcc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithWriteSettingAllAnnotations.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSettingAllAnnotations.java-3BC3B3A8D163A8493E52C0B9EBDAEA9F604A47D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "234152348db1c18845f18dd4d681aba8e07d0c1fbdafe705c6f1d816b7ade5aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3bc3b3a8d163a8493e52c0b9ebdaea9f604a47d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithNoParameterArgumentKtPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithNoParameterArgumentKtPermissionsDispatcherTest.kt-AA1BF03C51FC0A66935C46D6EAAB21537EBC9E29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "350f86953b466e714b4811f0b589ceb0abf285ca6aa7fb3dbc77d963657559f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa1bf03c51fc0a66935c46d6eaab21537ebc9e29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowPermissionsDispatcherTest.kt-BC1A5931DF5D2D8CD2EA0D0EE595EB3BC53CBE25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "471b732aa8222585a3c3aab8f143e09fb9b881d78565250f04a163fb4d4aab92"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc1a5931df5d2d8cd2ea0d0ee595eb3bc53cbe25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./lint/src/test/java/permissions/dispatcher/CallOnRequestPermissionsResultDetectorKtTest.kt",
+      "SPDXID": "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallOnRequestPermissionsResultDetectorKtTest.kt-8D5EED597B73FDA1D69F3735EEA2E7076A89F56F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f8f3dd735e732f5cdabbabaeb9adc0851667bbd8d91e173e6bf02ba53ac5a6f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d5eed597b73fda1d69f3735eea2e7076a89f56f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/PermissionsProcessor.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-PermissionsProcessor.kt-876507297A0D57F1E1CB97A9EBBB54F80F347AEB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61a0b74b2b75a5a1d171e25a49da763cb055d1966db61de20748915463665b36"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "876507297a0d57f1e1cb97a9ebbb54f80f347aeb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/kotlin/permissions/dispatcher/sample/MainActivity.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-MainActivity.kt-2B6312D8461B54EC7A955BA1163E676CCC0EFC19",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af2a096d3dab5e49f932203111e8a9a1c5cab82ff365f04721d86c66189fe6c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b6312d8461b54ec7a955ba1163e676ccc0efc19"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90f5bc4bf1364152b1943933b6910bafc913e7a813de5c1b0ba4723e33e58975"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae86c9f2fefeb0a12f9e350975339bc580efd813"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/build.gradle",
+      "SPDXID": "SPDXRef-File--processor-build.gradle-3FF8C7389410F3F7C57B6007AAA70C413A012CDF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45f0713453b30fcded2047459b462ebfa70fcdfeb920721160fa9ad20de24c5a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ff8c7389410f3f7c57b6007aaa70c413a012cdf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "820e323f5506dc1dda3fad164e5fa0acd56a8266e4ea441db94e60fd9972d28a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a78f48fe9f9114f315dc79eff29452e93ffd709a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/AndroidManifest.xml",
+      "SPDXID": "SPDXRef-File--test-src-main-AndroidManifest.xml-9EACC1560F12196CB41475A8C76A938CE6D93998",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c91f77c3012a5243b392e18fa5ca8cc69bfbff75aac07b63f2c63d1c041e69a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9eacc1560f12196cb41475a8c76a938ce6d93998"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowKtAllAnnotationsTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKtAllAnnotationsTest.kt-F1268593EA0731B123BE989EC03B5E945F55FF18",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "048a95a0f78f8e9c12999f249128b06a5f12eb50843b331b5c88031f4390bf21"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1268593ea0731b123be989ec03b5e945f55ff18"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithAllAnnotationsPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithAllAnnotationsPermissionsDispatcherTest.kt-B89B26A480F90B01DC664706006705B6FD7AD924",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d6c8d5d82883ce0a49ef35c02913193c4878da5077d11c2ec44db224f113271e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b89b26a480f90b01dc664706006705b6fd7ad924"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/NoParametersAllowedException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-NoParametersAllowedException.kt-25D752C2C5040FA2B7816E4F85198719A2EDC805",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f551368943695e7018181711cc7675ac815e8ac21783dd9734f66358252008e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25d752c2c5040fa2b7816e4f85198719a2edc805"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/MixPermissionTypeException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-MixPermissionTypeException.kt-F7080FE2D2DBCFDDCD8B7FC27CC609CB37A4A2CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e27af735f354662f3364404ab62b20f3fc3cc7ac9a2ea48c5238e6001e41955a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f7080fe2d2dbcfddcd8b7fc27cc609cb37a4a2cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/data/Source.java",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-data-Source.java-0A734741735021FD62D5EABAE0D46E9CCB74110A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b698ad1d269ec0150dd7f8f2d930995f5c45ea451bfdc3ce55449356a566c578"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a734741735021fd62d5eabae0d46e9ccb74110a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/build.gradle",
+      "SPDXID": "SPDXRef-File--test-build.gradle-3F0EE23C914B14B2413BD7BBF9D5A604774A79F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e9afac9dc31dfcfa78a11f2892337458f711e2e73ab8deb320a6bdc20f3906b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f0ee23c914b14b2413bd7bbf9d5a604774a79f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithShowRationale.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithShowRationale.java-F8DB93137A143594A44D403B15481FF5077E4F7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d811b5b557f8d1fec070825e765ad4f13933736acf56418f64a7a2386e99e4f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8db93137a143594a44d403b15481ff5077e4f7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/FragmentWithAllAnnotationsKtPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-FragmentWithAllAnnotationsKtPermissionsDispatcherTest.kt-C68ED2BE6B2066C32BFFD1F701D5CB2753110C19",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f4ef7eb83dd46a8137b661d6e214f12e9e21d155b3ead0bd71721c8dac0c736"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c68ed2be6b2066c32bffd1f701d5cb2753110c19"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowKtTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKtTest.kt-5AF2F525A0BE5A941EB918566B0C1F0F1B46B67F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76d08a595d47e4923d6155e423c5efd6f21ef5149cfa46466c3f3f812eb64ff0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5af2f525a0be5a941eb918566b0c1f0f1b46b67f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/exception/WrongReturnTypeException.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-WrongReturnTypeException.kt-C2340BFB0558A67369C5A0B477B3A31F9C531BE2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23b05342ce4aa3bbd08ed61b6c01d67f14bb7815804df65c21174a050573be84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2340bfb0558a67369c5a0b477b3a31f9c531be2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/java/JavaBaseProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-JavaBaseProcessorUnit.kt-EBB66CFED31FC3BF4C0F4719D844E4C5E3FB2D9E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88b1ef15b7e9f027cf54c2f2e7fc03d632087ac6b791ea83f8797ce6ee0faa66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ebb66cfed31fc3bf4c0f4719d844e4c5e3fb2d9e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithWriteSettingKtAllAnnotations.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSettingKtAllAnnotations.kt-449DDC4363003DDA24B7ED588EC2C33EFAE0C78E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ab2031fbf0d95898dc289db22e21a85cab52942f41b80f2ef745e5fc50d0490"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "449ddc4363003dda24b7ed588ec2c33efae0c78e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithParametersKt.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithParametersKt.kt-BFEC7ED90EFA8251786F9CCBED330DA4AE099D2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "841f9d423f9eef89c16b34543ecf409fe57194c88fab2409e0857f4c8c1a1792"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfec7ed90efa8251786f9ccbed330da4ae099d2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/FragmentWithAllAnnotationsPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-FragmentWithAllAnnotationsPermissionsDispatcherTest.kt-A26AA26308DD6F27B4D7300ECC23CB4F15C3C7B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8732c0ede76a163005a70b38fec96ec309b989159c5272a84046ac070cd80112"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a26aa26308dd6f27b4d7300ecc23cb4f15c3c7b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/kotlin/SensitivePermissionInterface.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-SensitivePermissionInterface.kt-910285A8E7B3B9897A85CB749C9027211C9B0C33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0c9a49ec3a7becaa029c20a1ff4f153c38bdafffefdec14437d0c1fd5b24091"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "910285a8e7b3b9897a85cb749c9027211c9b0c33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/kotlin/permissions/dispatcher/sample/camera/CameraPreviewFragment.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-camera-CameraPreviewFragment.kt-BA6207EE81090440674B2CA276C39E15B5CD601C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45f548a0f714e2210f0e4ba3a99dfef1ab699f6e633dd4f45c21d1894724ba67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba6207ee81090440674b2ca276c39e15b5cd601c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6e7620e6c5d9bf8020f7216117d8cb799f7936f232e28732443b1fe79521d6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dc154e4ffff91ab2b070a4ce0ad15e50571bea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithWriteSettingKt.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSettingKt.kt-046390AC57511A2647DEAEA35785DFE8F41A2BA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fff3c2449d0ed776b2ed4146ce0a334fbcd18d4b535415b0ca137643af811bc7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "046390ac57511a2647deaea35785dfe8f41a2ba2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithOnPermissionDeniedPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithOnPermissionDeniedPermissionsDispatcherTest.kt-ED92784D2DE2EAACE9A320D87C1875751DF32882",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "842faa86dd39663c2cc9764cc452be17d820bd34a4434e26a6687d6fd3f50ba9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed92784d2de2eaace9a320d87c1875751df32882"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/impl/kotlin/KotlinBaseProcessorUnit.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-KotlinBaseProcessorUnit.kt-E017F4160AED884558FCF2BCA4B4CECDC76003DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1cce29924104f789056c60fb4629ef2ceb9d08d393725ef0cb0985d879d5dee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e017f4160aed884558fcf2bca4b4cecdc76003db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/resources/META-INF/services/javax.annotation.processing.Processor",
+      "SPDXID": "SPDXRef-File--processor-src-main-resources-META-INF-services-javax.annotation.processing.Processor-82C701D060ED1FE7D4E664512501CBB1624CB05F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0369175176e50906c7a7518d56a4f144e07f853f79f7cde1ebd26e198dd23c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82c701d060ed1fe7d4e664512501cbb1624cb05f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithAllAnnotations.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithAllAnnotations.java-8DD80D52C59D5DF3FC95B94D155346683DCA1A52",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a69e8f056ff18f31f18dcf71f70915c5ead296e20a127789761333d1edcf904"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8dd80d52c59d5df3fc95b94d155346683dca1a52"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithOnNeverAskAgainPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithOnNeverAskAgainPermissionsDispatcherTest.kt-BD723E31A41D49B9272C02B992B6F5D235D2AF48",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c294ba96f7c59dd0c58d8819777b7984cb4e2cf99c318000dfd500ffdc74ef1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd723e31a41d49b9272c02b992b6f5d235d2af48"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithWriteSettingKtAllAnnotationsTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingKtAllAnnotationsTest.kt-03438A413C56AE6CAB2C526F1241E640588638CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e674c577e3bce0e7eb46b929f40ee897c0c1804c2376fee69077fb04aa2750a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03438a413c56ae6cab2c526f1241e640588638ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowAllAnnotations.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowAllAnnotations.java-9980DD32218BEA2A1EAEB8E029188E26D4812009",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9043de7fdfcaf663f1b72d9616fea16aa1ed54c1514cc9e917ed106bd403da9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9980dd32218bea2a1eaeb8e029188e26d4812009"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/util/ExtensionsTest.kt",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-util-ExtensionsTest.kt-CDCCC11328B21D4550AC91D847CA0046C43FF394",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ceb6d64ae841a2e8a88e4e88448b0ce94faf42cf08c3a7fed7bf6d3baea5460"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cdccc11328b21d4550ac91d847ca0046c43ff394"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/main/kotlin/permissions/dispatcher/processor/util/Validators.kt",
+      "SPDXID": "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Validators.kt-5B47BC5F8A492AC97DD32A3B0E120F477E603F24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "20997b5a9df28bdb6a94f3a2703648b719bcb3f28d457e517770d4b6a36f82c7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b47bc5f8a492ac97dd32a3b0e120f477e603f24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithWriteSettingAllAnnotationsPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingAllAnnotationsPermissionsDispatcherTest.kt-A7E4637C162AC2A5468260355A0018B6A2538F2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5544de8ca96a673d5886ffffd43c4e132f1eec6c4e1f9c4976e86e24199afa4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7e4637c162ac2a5468260355a0018b6a2538f2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/FragmentWithAllAnnotationsKt.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-FragmentWithAllAnnotationsKt.kt-B99BBE317B78BA610DDB80C01F9A02448154366B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "124d1879c6074fc0637f491ab1067fd4c75e7a1cfa10a06db30fb043938c914f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b99bbe317b78ba610ddb80c01f9a02448154366b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./processor/src/test/java/permissions/dispatcher/processor/base/TestSuite.java",
+      "SPDXID": "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-TestSuite.java-852A7C771D4761B653D9602148961C927753A0BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a4dc0cd1191b7d005a6e182bb466e38f55b7e8c0c80596acc74322cc5d75373"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "852a7c771d4761b653d9602148961c927753a0ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/kotlin/permissions/dispatcher/sample/contacts/ContactsFragment.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-contacts-ContactsFragment.kt-1E5B62F54E3925EF52A81018EE8C60D0C54908C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a68963fc9becd6d9aad3af2ae809ba8907415ce43840faf24dc1e91b790fef39"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1e5b62f54e3925ef52a81018ee8c60d0c54908c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/values/dimens.xml",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-values-dimens.xml-992FD0A286434A28BE6D3187D0A45398C90316A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "996b6f9454bd4cca10ee5fc993ac1978d438b634af5d4b33ac5da5593dee4452"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "992fd0a286434a28be6d3187d0a45398c90316a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithShowRationalePermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithShowRationalePermissionsDispatcherTest.kt-998AE07D3B2854FD034F7BED7D8CC2B0A92B58B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22dedb79dcf69a9bf15ad71d444eb08eff895acbb201bae38822606d8d17ee00"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "998ae07d3b2854fd034f7bed7d8cc2b0a92b58b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/kotlin/permissions/dispatcher/sample/camera/CameraPreview.kt",
+      "SPDXID": "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-camera-CameraPreview.kt-A840D63DB0771540D28FC33352D7DEC6105C6238",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5901f5b57475275dceda1def6a724450bad6a78bce4cf97141470a5785bb12c8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a840d63db0771540d28fc33352d7dec6105c6238"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithAllAnnotationsKt.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithAllAnnotationsKt.kt-08AD8EE79202C5D9CEC83575D2B75F32B0BDA614",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9237c581e60dd1bd7a929cbeb5e807e7fc32378244dfea15303b4b9417e090ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08ad8ee79202c5d9cec83575d2b75f32b0bda614"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sample/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "SPDXID": "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "552f9a01050827cc24c9bf50569fe8b0a121fb93297106e224986e7a4e9cc747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cac22ff594b3baf6d111f57405f27b485463a68c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithWriteSettingPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingPermissionsDispatcherTest.kt-A8B16C438B38D68662A0D47ACA5E09A68E04CBB3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bec4a1ea9ca29bf035578d0da0915ef62163e89389c11b71a88c352e4338cf3f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a8b16c438b38d68662a0d47aca5e09a68e04cbb3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowKt.kt",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKt.kt-8F57B7A02137E5F696D12E036AAA6FEFA3BC5DED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "220a83adae2a77ec6566be48a86fb18665c6cef48e2ed351337faa782d43842c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f57b7a02137e5f696d12e036aaa6fefa3bc5ded"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityOnlyNeedsPermission.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityOnlyNeedsPermission.java-63AE6C7206BF9E688A20BBD1BDCB37CD90BC7EB4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5dbbf84ae5e971e8217b3bc7ceb24e7a1bbf031a6bc4fc3f77bf37a0c238b3b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63ae6c7206bf9e688a20bbd1bdcb37cd90bc7eb4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/ActivityWithSystemAlertWindow.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindow.java-921249E05D89FB7CCA26B8C2198F6EEE723C54C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fe1b0813f7f500c36e4e9b7ac1895d79572ce94d45adb242e50e3c48b9054bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "921249e05d89fb7cca26b8c2198f6eee723c54c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityOnlyNeedsPermissionPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityOnlyNeedsPermissionPermissionsDispatcherTest.kt-62927540AF7EF1A6D3CBFCC8F95F17A6AE96C6C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9d9a1e25fb4ec9d0eb0a98032d0f3ddcd64e92aacd02974b698de39598d60d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62927540af7ef1a6d3cbfcc8f95f17a6ae96c6c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/main/java/permissions/dispatcher/test/FragmentWithAllAnnotations.java",
+      "SPDXID": "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-FragmentWithAllAnnotations.java-D1B86DD0D6FE0485369A701FAABB78E6CC777F8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d9e8c79a784ffe92f80c41e36d4fb9f9f82340a2bf5541a87c5a51d798f4f9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d1b86dd0d6fe0485369a701faabb78e6cc777f8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithSystemAlertWindowAllAnnotationsPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowAllAnnotationsPermissionsDispatcherTest.kt-4438445304A85B2EDD71FC55EC711683F2BF6768",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "94fa22ac8174b765cf13c0d1b53f2b9e20af402ab388f89afb06405160d5846b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4438445304a85b2edd71fc55ec711683f2bf6768"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithParametersKtPermissionsDispatcherTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithParametersKtPermissionsDispatcherTest.kt-7B8B26FBC6683C0757826AA1D3783EBC1C839311",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a94e9ee026f860f3e93a7dcd6ff9e7bddc74eab90b87049f9d83b09234c3fd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7b8b26fbc6683c0757826aa1d3783ebc1c839311"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/Extensions.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-Extensions.kt-4B9D48F249EB4915CD4DCF524D822B0CB9264682",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40333d0500b755e27b5c844e778120ba2738c29999566452cfba63ed2be72e7a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b9d48f249eb4915cd4dcf524d822b0cb9264682"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test/src/test/java/permissions/dispatcher/test/ActivityWithWriteSettingKtTest.kt",
+      "SPDXID": "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingKtTest.kt-1A244773CA6406E68FDC3DDCB04D27B051838FC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23a6a28afdc927f0e0d5d0e994db1ad1becb39a28e1a68fb903a02e3ecfffe00"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a244773ca6406e68fdc3ddcb04d27b051838fc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "PermissionsDispatcher",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "cedd263f5e0576ad2affe09844e5a160f1da0556"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.8.0",
+      "supplier": "Organization: https://github.com/permissions-dispatcher/PermissionsDispatcher",
+      "hasFiles": [
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-Extensions.kt-4B9D48F249EB4915CD4DCF524D822B0CB9264682",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-FragmentWithAllAnnotations.java-D1B86DD0D6FE0485369A701FAABB78E6CC777F8D",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityOnlyNeedsPermission.java-63AE6C7206BF9E688A20BBD1BDCB37CD90BC7EB4",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingAllAnnotationsPermissionsDispatcherTest.kt-A7E4637C162AC2A5468260355A0018B6A2538F2F",
+        "SPDXRef-File--sample-src-main-res-values-dimens.xml-992FD0A286434A28BE6D3187D0A45398C90316A8",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Validators.kt-5B47BC5F8A492AC97DD32A3B0E120F477E603F24",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowAllAnnotations.java-9980DD32218BEA2A1EAEB8E029188E26D4812009",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingKtAllAnnotationsTest.kt-03438A413C56AE6CAB2C526F1241E640588638CA",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithParametersKtPermissionsDispatcherTest.kt-7B8B26FBC6683C0757826AA1D3783EBC1C839311",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityOnlyNeedsPermissionPermissionsDispatcherTest.kt-62927540AF7EF1A6D3CBFCC8F95F17A6AE96C6C6",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKt.kt-8F57B7A02137E5F696D12E036AAA6FEFA3BC5DED",
+        "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-camera-CameraPreview.kt-A840D63DB0771540D28FC33352D7DEC6105C6238",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-FragmentWithAllAnnotationsKt.kt-B99BBE317B78BA610DDB80C01F9A02448154366B",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-KotlinBaseProcessorUnit.kt-E017F4160AED884558FCF2BCA4B4CECDC76003DB",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithOnPermissionDeniedPermissionsDispatcherTest.kt-ED92784D2DE2EAACE9A320D87C1875751DF32882",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-FragmentWithAllAnnotationsPermissionsDispatcherTest.kt-A26AA26308DD6F27B4D7300ECC23CB4F15C3C7B3",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowAllAnnotationsPermissionsDispatcherTest.kt-4438445304A85B2EDD71FC55EC711683F2BF6768",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindow.java-921249E05D89FB7CCA26B8C2198F6EEE723C54C7",
+        "SPDXRef-File--sample-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-util-ExtensionsTest.kt-CDCCC11328B21D4550AC91D847CA0046C43FF394",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithOnNeverAskAgainPermissionsDispatcherTest.kt-BD723E31A41D49B9272C02B992B6F5D235D2AF48",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSettingKt.kt-046390AC57511A2647DEAEA35785DFE8F41A2BA2",
+        "SPDXRef-File--sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+        "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-camera-CameraPreviewFragment.kt-BA6207EE81090440674B2CA276C39E15B5CD601C",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithParametersKt.kt-BFEC7ED90EFA8251786F9CCBED330DA4AE099D2F",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSettingKtAllAnnotations.kt-449DDC4363003DDA24B7ED588EC2C33EFAE0C78E",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-WrongReturnTypeException.kt-C2340BFB0558A67369C5A0B477B3A31F9C531BE2",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-FragmentWithAllAnnotationsKtPermissionsDispatcherTest.kt-C68ED2BE6B2066C32BFFD1F701D5CB2753110C19",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithShowRationale.java-F8DB93137A143594A44D403B15481FF5077E4F7E",
+        "SPDXRef-File--test-build.gradle-3F0EE23C914B14B2413BD7BBF9D5A604774A79F9",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingPermissionsDispatcherTest.kt-A8B16C438B38D68662A0D47ACA5E09A68E04CBB3",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithAllAnnotations.java-8DD80D52C59D5DF3FC95B94D155346683DCA1A52",
+        "SPDXRef-File--processor-src-main-resources-META-INF-services-javax.annotation.processing.Processor-82C701D060ED1FE7D4E664512501CBB1624CB05F",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-SensitivePermissionInterface.kt-910285A8E7B3B9897A85CB749C9027211C9B0C33",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-JavaBaseProcessorUnit.kt-EBB66CFED31FC3BF4C0F4719D844E4C5E3FB2D9E",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKtTest.kt-5AF2F525A0BE5A941EB918566B0C1F0F1B46B67F",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-data-Source.java-0A734741735021FD62D5EABAE0D46E9CCB74110A",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-MixPermissionTypeException.kt-F7080FE2D2DBCFDDCD8B7FC27CC609CB37A4A2CB",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-NoParametersAllowedException.kt-25D752C2C5040FA2B7816E4F85198719A2EDC805",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithAllAnnotationsPermissionsDispatcherTest.kt-B89B26A480F90B01DC664706006705B6FD7AD924",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKtAllAnnotationsTest.kt-F1268593EA0731B123BE989EC03B5E945F55FF18",
+        "SPDXRef-File--test-src-main-AndroidManifest.xml-9EACC1560F12196CB41475A8C76A938CE6D93998",
+        "SPDXRef-File--sample-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+        "SPDXRef-File--processor-build.gradle-3FF8C7389410F3F7C57B6007AAA70C413A012CDF",
+        "SPDXRef-File--sample-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+        "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-MainActivity.kt-2B6312D8461B54EC7A955BA1163E676CCC0EFC19",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-PermissionsProcessor.kt-876507297A0D57F1E1CB97A9EBBB54F80F347AEB",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallOnRequestPermissionsResultDetectorKtTest.kt-8D5EED597B73FDA1D69F3735EEA2E7076A89F56F",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowPermissionsDispatcherTest.kt-BC1A5931DF5D2D8CD2EA0D0EE595EB3BC53CBE25",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithNoParameterArgumentKtPermissionsDispatcherTest.kt-AA1BF03C51FC0A66935C46D6EAAB21537EBC9E29",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSettingAllAnnotations.java-3BC3B3A8D163A8493E52C0B9EBDAEA9F604A47D1",
+        "SPDXRef-File--sample-src-main-AndroidManifest.xml-C33A7C16C8CE1AE214463817C6E8A5B26F87BCC2",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-BaseTest.java-29A196D57256D01B8A549347C152F36762D36EBF",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithWriteSetting.java-14272E2FD51FA2BB71F1BC001673B7930C4E32FE",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithOnNeverAskAgain.java-8CC35DAFEB42925AFC67141561E83EB7E4A16559",
+        "SPDXRef-File--sample-src-main-res-values-template-styles.xml-E0A69494FF287D76960934D1154E521DB84F52FA",
+        "SPDXRef-File--sample-src-main-res-layout-fragment-camera.xml-2667533F04C5F486593EBEEAFFAC2B7F36787894",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithAllAnnotationsKtPermissionsDispatcherTest.kt-BB2DD00E3EEF82A12555B1178C29F090C7D8DC05",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithSystemAlertWindowKtAllAnnotations.kt-86B5F21FC96DF757DFD697FFB98B5B26661A66C3",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithNoParameterArgumentKt.kt-C8AEE9C2A6691893DD69210C030F42E0DFBB1EB6",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoCorrespondingNeedsPermissionDetectorKtTest.kt-A43EDA1735CC38853B81E594F9920D7D244D4EEC",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithAllAnnotationsKt.kt-08AD8EE79202C5D9CEC83575D2B75F32B0BDA614",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithShowRationalePermissionsDispatcherTest.kt-998AE07D3B2854FD034F7BED7D8CC2B0A92B58B5",
+        "SPDXRef-File--sample-src-main-kotlin-permissions-dispatcher-sample-contacts-ContactsFragment.kt-1E5B62F54E3925EF52A81018EE8C60D0C54908C9",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-TestSuite.java-852A7C771D4761B653D9602148961C927753A0BA",
+        "SPDXRef-File--sample-src-main-res-values-strings.xml-F8C9EE51DBFDA7655D38062AD0EB3D34C57802D7",
+        "SPDXRef-File--test-src-main-java-permissions-dispatcher-test-ActivityWithOnPermissionDenied.java-222F0D041A274958A1AFE72049AF37FAAE6F7AFC",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-StringEquals.java-1503C1D28FEDB348BB38A38979BAB958969DD110",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Extensions.kt-7F7FBFFC60520FE64584746940A4AF885C370398",
+        "SPDXRef-File--lint-build.gradle-2936950562A18B064348F579BB43F424A07D2B32",
+        "SPDXRef-File--sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--test-.gitignore-97C60D9577300823ED51007A1CD66704D805867C",
+        "SPDXRef-File--processor-src-main-resources-META-INF-gradle-incremental.annotation.processors-778F5671AC549088F9151E1C1217DA0DAC34F5E2",
+        "SPDXRef-File--ktx-sample-src-main-res-values-strings.xml-C1E736E3FB7F0FF5A7BA9DA3D8C53EE5AC3124B3",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-ProcessorTestSuite.java-9767258025BAEAC6542B473A34FE0CAC8478E160",
+        "SPDXRef-File--sample-src-main-res-layout-fragment-contacts.xml-D825A53959B435F83AE1302C8E7D17A19272A62D",
+        "SPDXRef-File--lint-src-main-java-permissions-dispatcher-CallOnRequestPermissionsResultDetector.java-EC26677B50DBB902D7173331E1B6498B1653F1C9",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-KotlinFragmentProcessorUnit.kt-E9668BC1EC0DF8775E58B637C40723E105BB9C17",
+        "SPDXRef-File--sample-src-main-res-layout-activity-main.xml-46661A060B39D7B0A7C84742075F5DE8C89C4C9D",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Helpers.kt-1A38AE6A8AD245B979DF362F2BA0CA3A876DEBF7",
+        "SPDXRef-File--ktx-sample-src-main-res-layout-activity-main.xml-F12DD4B757F220A89ED692890F952D8CE17E2981",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-WriteSettingsHelper.kt-4C93ACF4B402350AA5A622A0367D74B0EBF71395",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-JavaActivityProcessorUnit.kt-D64D53E40E6E9DD3802D22372302247BED1C73D3",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-WrongClassException.kt-C89F9DD345D4CD5E90C19E723C42C4859B14F259",
+        "SPDXRef-File--processor-src-test-resources-mockito-extensions-org.mockito.plugins.MockMaker-C85A50828866E7F5329F39E7B79C950887E6D986",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-KtProcessorTestSuite.kt-CACEB270DF4E29C7A4AA13FB49BC740DE90291BE",
+        "SPDXRef-File--sample-build.gradle-4CF6697E7E6D83FCD35ADF622843D3B04FA62B55",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-KotlinActivityProcessorUnit.kt-B2548A454CDC10ED41068D7B910B686FD999D203",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-WriteSettingsHelper.kt-43313E7F05E811B0AB8C97B97CEFAF739E72B710",
+        "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-LocationPermissionTest.kt-D86568D0E790F40EA9187F1333D65175C90D3F15",
+        "SPDXRef-File--library-build.gradle-9AC511F412DBDC5C047AD06643F112BADE9B3666",
+        "SPDXRef-File--processor-src-test-java-permissions-dispatcher-processor-base-AndroidAwareClassLoader.java-0F4A9E10BC0F8F526CB7C947F28A745DA9C73049",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-kotlin-SystemAlertWindowHelper.kt-85E8CFF2CB661B5141F3F5D9176A8BBFD176C895",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-NoAnnotatedMethodsException.kt-4864D3F6B36C28255466FFA7B16356F86944A392",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-DuplicatedMethodNameException.kt-F05B4D93AE52E3F6D746D8AC5E0127BB00C84752",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-SensitivePermissionInterface.kt-AD40B1E56A9E4E4351E7C774727DB72A1AAB7EB2",
+        "SPDXRef-File--ktx-sample-src-main-res-layout-fragment-main.xml-4B59045AD852106D564026FAA265C461DBF13D20",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-JavaFragmentProcessorUnit.kt-ECCC2B635EBD538ECA52FB516A149259EA0D658C",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestResult.kt-9C679D9BB69A4A3E8E55525B4E63FB0D31D0B798",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-WrongParametersException.kt-87716A926DD1CE6526771F5DCA3859EE49A342F5",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-util-Constants.kt-62F1EC159236448BE55C25F8D1E1ABEFDAFD36D2",
+        "SPDXRef-File--processor-gradle.properties-B2C289A67A799CC8462671B281CFEB991970D30F",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-PrivateMethodException.kt-9E33987BE261F41E98F343AE409FA22E6CAF9644",
+        "SPDXRef-File--ktx-src-test-resources-mockito-extensions-org.mockito.plugins.MockMaker-C85A50828866E7F5329F39E7B79C950887E6D986",
+        "SPDXRef-File--ktx-README.md-0A05A82B050EE49BC14259EAD1C1B9E8310D7E19",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-PermissionsDispatcherIssueRegistryTest.kt-9D5B4FD3806AE76BFDF2045F048AE9943787BE2B",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-DuplicatedValueException.kt-975526585DDE1D2E8D664D019AE5DA248759AC00",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-NoThrowsAllowedException.kt-5BD8FC7B9FD6B627959E78AED6EB008AB927A9BE",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallOnRequestPermissionsResultDetectorTest.kt-54FB5506A4C29D430DDA3538E708D79AF1BC139E",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-impl-java-SystemAlertWindowHelper.kt-E491C9FF6A9EDF325924FBDEA564057B59621720",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-RequestCodeProvider.kt-99FC89D4288F1C04DE43EC0ED3347A4782D49FBA",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestViewModel.kt-274ED994E355A39EEFD6B0762840513EB7DC955D",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-Utils.kt-55E15DE7DCB03945ECF3327BC3DD52A132210A30",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-ProcessorUnit.kt-81F356CDF0A45139C94C053A3D35B815510CA217",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallNeedsPermissionDetectorKtTest.kt-D5DC09078318D8386423D38C91B3F40EDA4EC9AB",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-exception-SpecialPermissionsWithNeverAskAgainException.kt-E4C472F1E989E8C5F6B23D162532813F750F1A90",
+        "SPDXRef-File--lint-src-main-java-permissions-dispatcher-CallNeedsPermissionDetector.java-20D25C851FC87C18E32B78FE922FE6742D17F1F2",
+        "SPDXRef-File--doc-java-usage.md-0F1D4032D931FB61402FDDE797C6513A9B1F4484",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoDelegateOnResumeDetectorKtTest.kt-EABD6DEF071DEE993D0DF4901D145CBA1EAD23FA",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-CallNeedsPermissionDetectorTest.kt-D672E209E390FC90BE5D05A537D3125914C7EFBD",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoCorrespondingNeedsPermissionDetectorTest.kt-5345088E6ADBBA5A2196597F51B15CCBBE5C435F",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-ActivityExtensions.kt-22CD6F5F1F03E645598BA2846D1792123F50A6FE",
+        "SPDXRef-File--library-src-test-java-permissions-dispatcher-ApiLevelTestSuite.java-8318B27D76A1BAD773C2BDF9925CA1125D5408B5",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-OnPermissionDenied.java-95EAFBF906265C91681E418B3C9CA8344883B75D",
+        "SPDXRef-File--processor-src-main-kotlin-permissions-dispatcher-processor-RuntimePermissionsElement.kt-F99AC021E0E719D3A08992623D9BDB4EADDE4326",
+        "SPDXRef-File--ktx-sample-src-main-res-values-template-styles.xml-E0A69494FF287D76960934D1154E521DB84F52FA",
+        "SPDXRef-File--lint-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--lint-src-main-java-permissions-dispatcher-NoDelegateOnResumeDetector.java-D726AF6F376AACD373A51D02BFD0663FF45FCD93",
+        "SPDXRef-File--lint-src-main-java-permissions-dispatcher-NoCorrespondingNeedsPermissionDetector.java-0835E1729B384C99E6545A1FEAB61966C5DD026B",
+        "SPDXRef-File--ktx-sample-src-main-res-values-dimens.xml-992FD0A286434A28BE6D3187D0A45398C90316A8",
+        "SPDXRef-File--doc-migration-guide.md-8CB58F0D31F95B7019A791EB8699505AFB1AF50B",
+        "SPDXRef-File--.github-workflows-pull-request-ci.yml-CDE8A4B3CC1B6BAC3EC81BD50C7C4F2EF302712D",
+        "SPDXRef-File--lint-src-test-java-permissions-dispatcher-NoDelegateOnResumeDetectorTest.kt-5E3D839795EAF7448C4F0B61E3ADCF8A5D07613F",
+        "SPDXRef-File--ktx-sample-src-main-java-permissions-dispatcher-ktx-sample-MainFragment.kt-2EDC23742F9611D1F479CE02F80E24A5956BE55C",
+        "SPDXRef-File--ktx-sample-src-main-res-mipmap-xxhdpi-ic-launcher.png-41DC154E4FFFF91AB2B070A4CE0AD15E50571BEA",
+        "SPDXRef-File--library-src-main-AndroidManifest.xml-11B5982D734FF166B3A5CE27862E2EBF5AE2621E",
+        "SPDXRef-File--ktx-sample-src-main-res-layout-fragment-camera.xml-2667533F04C5F486593EBEEAFFAC2B7F36787894",
+        "SPDXRef-File--library-gradle.properties-E43D9134D18BEB1164A7C83E122E16F2BC68B1FE",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-PermissionRequest.java-832D37BA1F23C74A713E9CCEE8AEEF9E662DBDC9",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-18C315DAD9CC6AB3B5BA57B64C39B08C538D8356",
+        "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-PermissionRequestViewModelTest.kt-B6007E891D9396A578FF3EA835CA74AECF403ABC",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestType.kt-75C93E10FCB47285F7CB44DE2BE8360AF694CB2F",
+        "SPDXRef-File--ktx-src-main-AndroidManifest.xml-909D15959A7A6A7D117DF81607CD15F96CEE8118",
+        "SPDXRef-File--doc-maxsdkversion.md-ADE3034D8DAA069264ED2E51C86E75822B09A12F",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-OnShowRationale.java-020FFDA1714F9145E187E5F04509406BEC9F4ABB",
+        "SPDXRef-File--.github-workflows-release.yml-CEEA7DFA922A1B1BB331632AC5421DC8E65F67B4",
+        "SPDXRef-File--.git-objects-pack-pack-2b31c8c97f1d3f986cbc43e9c9696180d0e01b4a.idx-291BD1CB4BBFA4B8CF41558645EC1382622C4A93",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--README.md-4E24027A11DE867A5A882BDB77B7E36E6F6A4528",
+        "SPDXRef-File--ktx-sample-src-main-java-permissions-dispatcher-ktx-sample-MainActivity.kt-A036A871B736BE10474B4168948D8C9DA9D09D31",
+        "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-EventTest.kt-6E46CE16E720DE22FBDC97D65255A6B894AAD642",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-LocationPermission.kt-B60566B280393F76A612AA76273D731E1F8B71DD",
+        "SPDXRef-File--ktx-build.gradle-611E3C51E4E89E8954830F1E4C3D41AA73897479",
+        "SPDXRef-File--buildSrc-src-main-groovy-permissions-dispatcher-AndroidJarDependencyExtension.groovy-9E26D848734F6361DF63BBDB2A5DECA2218D18E9",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-NeedsPermission.java-C22651BC82373D0909090171B820DE8B0C5F77D1",
+        "SPDXRef-File--.github-workflows-deploy-snapshot.yml-6547BB3610E758C9160CA02E990C1FF754E31FD6",
+        "SPDXRef-File--.git-logs-HEAD-18C315DAD9CC6AB3B5BA57B64C39B08C538D8356",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-index-CCF8919635BAF3125423C2F6A09373698E255EAA",
+        "SPDXRef-File--ktx-sample-src-main-res-mipmap-mdpi-ic-launcher.png-AE86C9F2FEFEB0A12F9E350975339BC580EFD813",
+        "SPDXRef-File--ktx-sample-build.gradle-5303E4D77E4D01B5FD285C5591FA27D602E11DB3",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionsRequesterImpl.kt-6098BECE1289A4BEC4416D4F51AAE1A41F322616",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-FragmentExtensions.kt-89660E26694ED671B670B1617952E5C862D4EAD1",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.jar-B190CA945D84B2908B019FC245DA921E66C104EB",
+        "SPDXRef-File--buildSrc-build.gradle-5BA304E6CF111183828B6399871C8DD2F54FDF21",
+        "SPDXRef-File--annotation-gradle.properties-4090A45745345FB0983318EE986A83895458036B",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--ktx-sample-src-main-res-mipmap-hdpi-ic-launcher.png-A78F48FE9F9114F315DC79EFF29452E93FFD709A",
+        "SPDXRef-File--ktx-sample-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionsRequester.kt-A64A18CB0B0A414A45B5D57FEDE7D040FF4CC122",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-Event.kt-49186B749418E9EE168B2C9A0083923F6842F5C2",
+        "SPDXRef-File--doc-special-permissions.md-E14DD98A8E8475BCEFEE81D04C1802893B3036E8",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-RuntimePermissions.java-164EC53D7353B6D631C22089EC6681E17137A45B",
+        "SPDXRef-File--annotation-build.gradle-6A80996C26226B12A1D08CEFB929122F5C337907",
+        "SPDXRef-File--.git-refs-heads-master-0BBF3CE555A11F376ADD10D7FFFD35245E271BFA",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-config-DC52C697BF638CEF3CB3E432E3AFDBB28E18CFCC",
+        "SPDXRef-File--ktx-src-test-java-permissions-dispatcher-test-KtxPermissionRequestTest.kt-F40899344EE99367BF9F1974B02517C0B2DF93A8",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-PermissionRequestFragment.kt-4E1FD2683D1D2D1092C671B98EC2BF721502E711",
+        "SPDXRef-File--ktx-gradle.properties-0633CE453218B15AFABCC29C6A04CE7EDFBE9CE7",
+        "SPDXRef-File--buildSrc-src-main-groovy-permissions-dispatcher-AndroidJarDependencyPlugin.groovy-9E7AD33DB7157AEB3ECC9C31342C024C64C0BF73",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-OnNeverAskAgain.java-E36A63B55B8D835037C1C4D6CD5E6265A199300E",
+        "SPDXRef-File--.github-workflows-ktx-release.yml-599B8E2C30A15CB6891D3D60F0C39A88D0B07F17",
+        "SPDXRef-File--.git-logs-refs-heads-master-18C315DAD9CC6AB3B5BA57B64C39B08C538D8356",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-packed-refs-37640EB3B2B05AA7CD45E476D3603F8D845D3A80",
+        "SPDXRef-File--lint-src-main-java-permissions-dispatcher-PermissionsDispatcherIssueRegistry.java-38174BE4CFE1F6591376E635D2CF872EEFC45B77",
+        "SPDXRef-File--library-src-main-java-permissions-dispatcher-PermissionUtils.java-0442679BE8CF71EC221DE92D0A65E3C907AEDE84",
+        "SPDXRef-File--ktx-sample-src-main-res-mipmap-xhdpi-ic-launcher.png-CAC22FF594B3BAF6D111F57405F27B485463A68C",
+        "SPDXRef-File--ktx-sample-src-main-AndroidManifest.xml-BBC01931A6C797E3027268958F59144E36ECEF8B",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-TypeAliases.kt-203867104C2A652D3494741570C9AA5E665FF7F8",
+        "SPDXRef-File--ktx-src-main-java-permissions-dispatcher-ktx-KtxPermissionRequest.kt-2891FDD25BF8772FC7460BD6470E18398C6C5EEF",
+        "SPDXRef-File--gradle-wrapper-gradle-wrapper.properties-40E3902D5D737D7ABC1D1CD35CD2BE1D9F0E97D0",
+        "SPDXRef-File--buildSrc-src-main-groovy-permissions-dispatcher-AarToJarDependencyPlugin.groovy-887A371764EB448FB8AEBDFA933BB789F0DECD76",
+        "SPDXRef-File--annotation-src-main-java-permissions-dispatcher-GrantableRequest.java-DD3D8986BB9293060F888BE5415BF3BA519EC6F0",
+        "SPDXRef-File--.github-ISSUE-TEMPLATE.md-7F766CF8CAC67A2BAC475283B15D6E45C2504CBF",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--annotation-.gitignore-4031ED2BEAAB11DD4E1620BC85788B1EA7523672",
+        "SPDXRef-File--.git-objects-pack-pack-2b31c8c97f1d3f986cbc43e9c9696180d0e01b4a.pack-41BC16CD7485C616801F36C4882E6F7241C81427",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--settings.gradle-3D90635F227DB5AF39DE078DF080EA415560EA19",
+        "SPDXRef-File--CHANGELOG.md-862B5EBD2FC69DD43FA394CE8F4802525ABDBCE5",
+        "SPDXRef-File--build.gradle-CD687AD49BCD82D3EA22E304F6C89916A610A3D3",
+        "SPDXRef-File--.gitignore-CFE36CE2953F50278024E6032A4328E85230A852",
+        "SPDXRef-File--gradlew.bat-7C678F4C2B00C9504B7DFAEA3752D92AF2450253",
+        "SPDXRef-File--gradle.properties-5EB8C66384C53F8DE295A4222658BC5578DD471E",
+        "SPDXRef-File--test-src-test-java-permissions-dispatcher-test-ActivityWithWriteSettingKtTest.kt-1A244773CA6406E68FDC3DDCB04D27B051838FC1",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--LICENSE-00F193A026EA6C20C55DC428793738B9F879FCD8",
+        "SPDXRef-File--gradlew-954D541EBD8C83E2E9B76783829B29216A8E183C"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "PermissionsDispatcher 4.8.0",
+  "documentNamespace": "https://permissions-dispatcher.github.com/PermissionsDispatcher/4.8.0/lox-6EQXKUWrj6yLDeVJqw",
+  "creationInfo": {
+    "created": "2022-09-20T16:55:37Z",
+    "creators": [
+      "Organization: https://github.com/permissions-dispatcher/PermissionsDispatcher",
+      "Tool: Microsoft.SBOMTool-0.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}
