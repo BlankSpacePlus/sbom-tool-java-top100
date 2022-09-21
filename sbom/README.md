@@ -1,4 +1,4 @@
-# SBOM目录
+# SBOM产物
 
 1. [java-design-patterns](./java-design-patterns)
 2. [spring-boot](./spring-boot)

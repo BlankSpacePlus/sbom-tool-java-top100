@@ -1,4 +1,23 @@
-# 基于sbom-tool工具的Java项目SBOM生成
+# 基于SBOM-TOOL工具的Java项目SBOM生成
+
+[sbom-tool](https://github.com/microsoft/sbom-tool)是一款Microsoft开源的高度可扩展的企业级工具，可以为各种工件创建与SPDX2.2兼容的SBOM。
+
+目前v0.2.2版本的sbom-tool生成sbom的必备命令是：
+```shell
+generate -b <drop path> -bc <build components path> -pn <package name> -pv <package version> -ps <package supplier> -nsb <namespace uri base>
+```
+
+参照[官方参数手册](https://github.com/microsoft/sbom-tool/blob/main/docs/sbom-tool-arguments.md)，上述命令参数的含义如下：
+- `-b` : 将为其生成清单文件的放置目录的根文件夹
+- `-bc` : 包含构建组件和包的文件夹
+- `-pn` : 此SBOM表示的包的名称。如果未提供，将尝试从生成此包的构建中推断此名称，如果这也失败，则SBOM生成失败
+- `-pv` : 此SBOM表示的包的版本。如果未提供，将尝试从生成此包的构建中推断版本，如果这也失败，则SBOM生成失败
+- `-ps` : 此SBOM代表的包的供应商
+- `-nsb` : SBOM命名空间URI的基本路径
+
+命令启动工具后，`-b`参数指定的根目录下会创建新的文件夹`_manifest`，内含文件夹`spdx_2.2`，再内含两个文件`manifest.spdx.json`和`manifest.spdx.json.sha256`。
+
+## GitHub Java Top100
 
 1. [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
     ```shell
@@ -397,6 +416,6 @@
     sbom-tool generate -b C:\Users\blank\Desktop\SBOM\Android-Bootstrap -bc C:\Users\blank\Desktop\SBOM\Android-Bootstrap -pn Android-Bootstrap -pv 2.3.1 -ps https://github.com/Bearded-Hen/Android-Bootstrap -nsb https://androidbootstrap.beardedhen.com
     ```
 100. [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
-    ```shell
-    sbom-tool generate -b C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -bc C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -pn UltimateRecyclerView -pv v0.7.0 -ps https://github.com/cymcsg/UltimateRecyclerView -nsb https://github.com/cymcsg/UltimateRecyclerView
-    ```
+     ```shell
+     sbom-tool generate -b C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -bc C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -pn UltimateRecyclerView -pv v0.7.0 -ps https://github.com/cymcsg/UltimateRecyclerView -nsb https://github.com/cymcsg/UltimateRecyclerView
+     ```
