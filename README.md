@@ -17,6 +17,8 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
 
 命令启动工具后，`-b`参数指定的根目录下会创建新的文件夹`_manifest`，内含文件夹`spdx_2.2`，再内含两个文件`manifest.spdx.json`和`manifest.spdx.json.sha256`。
 
+[TOC]
+
 ## GitHub Java Top100
 
 1. [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
@@ -419,3 +421,296 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
      ```shell
      sbom-tool generate -b C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -bc C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -pn UltimateRecyclerView -pv v0.7.0 -ps https://github.com/cymcsg/UltimateRecyclerView -nsb https://github.com/cymcsg/UltimateRecyclerView
      ```
+
+## 异常情况
+
+1. 以下情况比较常见：
+    ```
+    [INFO] No instructions received to scan docker images.
+    ```
+2. Repo14出现：
+    ```
+    [INFO] Failed to find resolved dependency for @esbuild/linux-loong64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-android-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-android-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-darwin-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-freebsd-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-freebsd-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-32@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-arm@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-mips64le@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-ppc64le@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-riscv64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-s390x@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-netbsd-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-openbsd-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-sunos-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-windows-32@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-windows-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-windows-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for @esbuild/linux-loong64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-android-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-android-arm64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-darwin-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-freebsd-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-freebsd-arm64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-32@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-arm@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-arm64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-mips64le@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-ppc64le@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-riscv64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-linux-s390x@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-netbsd-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-openbsd-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-sunos-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-windows-32@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-windows-64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for esbuild-windows-arm64@npm:0.14.54
+    [INFO] Failed to find resolved dependency for @esbuild/linux-loong64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-android-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-android-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-darwin-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-freebsd-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-freebsd-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-32@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-arm@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-arm64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-mips64le@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-ppc64le@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-riscv64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-linux-s390x@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-netbsd-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-openbsd-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-sunos-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-windows-32@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-windows-64@npm:0.15.5
+    [INFO] Failed to find resolved dependency for esbuild-windows-arm64@npm:0.15.5
+    ```
+3. Repo31出现：
+    ```
+    [WARN] Failed to read a name for block fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>. The entry will be skipped.
+    [WARN] Failed to read a name for block resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>, resolve@patch:resolve@^1.9.0#~builtin<compat/resolve>. The entry will be skipped.
+    ```
+4. Repo35出现：
+    ```
+    [INFO] Getting Python data from https://pypi.org/pypi/需要的模块有以下几个，可以在python交互终端验证是否存在，我使用的python2.7都已存在，不需要额外安装/json
+    [INFO] Enumerated 3788 files and 838 directories in 00:00:00.2841186
+    [WARN] Received 404 Not Found from https://pypi.org/pypi/需要的模块有以下几个，可以在python交互终端验证是否存在，我使用 的python2.7都已存在，不需要额外安装/json
+    [WARN] Root dependency 需要的模块有以下几个，可以在python交互终端验证是否存在，我使用的python2.7都已存在，不需要额外安装 not found on pypi. Skipping package.
+    [INFO] Getting Python data from https://pypi.org/pypi/BaseHTTPServer/json
+    [WARN] Received 404 Not Found from https://pypi.org/pypi/BaseHTTPServer/json
+    [WARN] Root dependency BaseHTTPServer not found on pypi. Skipping package.
+    [INFO] Getting Python data from https://pypi.org/pypi/urllib/json
+    [WARN] Received 404 Not Found from https://pypi.org/pypi/urllib/json
+    [WARN] Root dependency urllib not found on pypi. Skipping package.
+    [INFO] Getting Python data from https://pypi.org/pypi/email/json
+    [INFO] Getting Python data from https://pypi.org/pypi/smtplib/json
+    [WARN] Received 404 Not Found from https://pypi.org/pypi/smtplib/json
+    [WARN] Root dependency smtplib not found on pypi. Skipping package.
+    [INFO] Getting Python data from https://pypi.org/pypi/sys/json
+    [WARN] Received 404 Not Found from https://pypi.org/pypi/sys/json
+    [WARN] Root dependency sys not found on pypi. Skipping package.
+    [INFO] Getting Python data from https://pypi.org/pypi/logging/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/3e/2f/cc7f91fe77774a7a2bfab50dbde0adaf0ce765d42f5a2d47884c0ce99dda/email-4.0.2-py2.4.egg
+    ```
+5. Repo47出现：
+    ```
+    [INFO] Go CLI was not found in the system
+    [INFO] Version '$version$$pre$' from C:\Users\blank\Desktop\SBOM\antlr4\runtime\Cpp\runtime\nuget\ANTLR4.Runtime.cpp.noarch.nuspec could not be parsed as a NuGet version
+    [INFO] Version '$version$$pre$' from C:\Users\blank\Desktop\SBOM\antlr4\runtime\Cpp\runtime\nuget\ANTLR4.Runtime.cpp.shared.nuspec could not be parsed as a NuGet version
+    [INFO] Go CLI was not found in the system
+    [INFO] Version '$version$$pre$' from C:\Users\blank\Desktop\SBOM\antlr4\runtime\Cpp\runtime\nuget\ANTLR4.Runtime.cpp.static.nuspec could not be parsed as a NuGet version
+    [INFO] Go CLI was not found in the system
+    [INFO] Enumerated 2305 files and 278 directories in 00:00:00.2178464
+    ```
+6. Repo48出现：
+    ```
+    [INFO] Getting Python data from https://pypi.org/pypi/keras-applications/json
+    [INFO] Enumerated 7936 files and 2168 directories in 00:00:00.3833651
+    [INFO] Getting Python data from https://pypi.org/pypi/huggingface-hub/json
+    [INFO] Getting Python data from https://pypi.org/pypi/tensorflow-hub/json
+    [INFO] Getting Python data from https://pypi.org/pypi/onnx/json
+    [INFO] Getting Python data from https://pypi.org/pypi/requests/json
+    [INFO] Getting Python data from https://pypi.org/pypi/pytest/json
+    [INFO] Getting Python data from https://pypi.org/pypi/torch-model-archiver/json
+    [INFO] Getting Python data from https://pypi.org/pypi/cchardet/json
+    [INFO] Getting Python data from https://pypi.org/pypi/tensorflow/json
+    [INFO] Getting Python data from https://pypi.org/pypi/transformers/json
+    [INFO] Getting Python data from https://pypi.org/pypi/scikit-learn/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/71/e3/19762fdfc62877ae9102edf6342d71b28fbfd9dea3d2f96a882ce099b03f/Keras_Applications-1.0.8-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/8a/27/d92a2d41373fc91045d9a2ba5f9e0664a0f1ba6c3b52d9bc40ff1eccb5be/huggingface_hub-0.9.1-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/filelock/json
+    [INFO] Getting Python data from https://pypi.org/pypi/tqdm/json
+    [INFO] Getting Python data from https://pypi.org/pypi/pyyaml/json
+    [INFO] Getting Python data from https://pypi.org/pypi/typing-extensions/json
+    [INFO] Getting Python data from https://pypi.org/pypi/packaging/json
+    [INFO] Getting Python data from https://pypi.org/pypi/importlib-metadata/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/29/32/899878aa65cae5429f30449cdda61224e3f4319e6a155027bc3af4c3f07b/tensorflow_hub-0.12.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/numpy/json
+    [INFO] Getting Python data from https://pypi.org/pypi/protobuf/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/56/15/57cd390fa0a8cb548dad706231c36a94af5f51868a53eafe784a924d74b3/onnx-1.12.0-cp310-cp310-macosx_10_12_x86_64.whl
+    ```
+7. Repo58出现：
+    ```
+    [INFO] C:\Users\blank\Desktop\SBOM\spring-boot-admin\spring-boot-admin-samples\spring-boot-admin-sample-custom-ui\package.json does not contain a name and/or version. These are required fields for a valid package.json file.It and its dependencies will not be registered.
+    [INFO] C:\Users\blank\Desktop\SBOM\spring-boot-admin\spring-boot-admin-server-ui\package.json does not contain a name and/or version. These are required fields for a valid package.json file.It and its dependencies will not be registered.
+    [INFO] Enumerated 946 files and 309 directories in 00:00:00.1539449
+    [INFO] C:\Users\blank\Desktop\SBOM\spring-boot-admin\spring-boot-admin-samples\spring-boot-admin-sample-custom-ui\package-lock.json does not contain a valid name and/or version. These are required fields for a valid package-lock.json file.It and its dependencies will not be registered.
+    [INFO] C:\Users\blank\Desktop\SBOM\spring-boot-admin\spring-boot-admin-server-ui\package-lock.json does not contain a valid name and/or version. These are required fields for a valid package-lock.json file.It and its dependencies will not be registered.
+    ```
+8. Repo72出现：
+    ```
+    [INFO] C:\Users\blank\Desktop\SBOM\cas\ci\tests\puppeteer\package.json does not contain a name and/or version. These are required fields for a valid package.json file.It and its dependencies will not be registered.
+    [INFO] Getting Python data from https://pypi.org/pypi/Flask/json
+    [INFO] Getting Python data from https://pypi.org/pypi/gevent/json
+    [INFO] Enumerated 9572 files and 8998 directories in 00:00:01.5708886
+    [INFO] Getting Python data from https://pypi.org/pypi/click/json
+    [INFO] Getting Python data from https://pypi.org/pypi/geventhttpclient-wheels/json
+    [WARN] Root dependency geventhttpclient-wheels not found on pypi. Skipping package.
+    [INFO] Getting Python data from https://pypi.org/pypi/idna/json
+    [INFO] Getting Python data from https://pypi.org/pypi/greenlet/json
+    [INFO] Getting Python data from https://pypi.org/pypi/Jinja2/json
+    [INFO] Getting Python data from https://pypi.org/pypi/itsdangerous/json
+    [INFO] Getting Python data from https://pypi.org/pypi/locust/json
+    [INFO] Getting Python data from https://pypi.org/pypi/MarkupSafe/json
+    [INFO] Getting Python data from https://pypi.org/pypi/msgpack-python/json
+    [INFO] Getting Python data from https://pypi.org/pypi/pyzmq/json
+    [INFO] Getting Python data from https://pypi.org/pypi/six/json
+    [INFO] Getting Python data from https://pypi.org/pypi/requests/json
+    [INFO] Getting Python data from https://pypi.org/pypi/Werkzeug/json
+    [INFO] Getting Python data from https://pypi.org/pypi/urllib3/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/b2/ad/6c17d4e83fec7d1b04cd2e999c0311948ed1138cd1d55be11e4526b5b88a/gevent-20.6.2-cp27-cp27m-macosx_10_15_x86_64.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/zope.event/json
+    [INFO] Getting Python data from https://pypi.org/pypi/zope.interface/json
+    [INFO] Getting Python data from https://pypi.org/pypi/cffi/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/d2/3d/fa76db83bf75c4f8d338c2fd15c8d33fdd7ad23a9b5e57eb6c5de26b430e/click-7.1.2-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/e4/89/d15f76364046b6fb052ff020c4b4982cc3349f2533feff2cf326be0cdb5c/greenlet-0.4.16-cp27-cp27m-manylinux1_x86_64.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/7e/c2/1eece8c95ddbc9b1aeb64f5783a9e07a286de42191b7204d67b7496ddf35/Jinja2-2.11.3-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/76/ae/44b03b253d6fade317f32c24d100b3b35c2239807046a4c953c7b89fa49e/itsdangerous-1.1.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/06/e4/19ad79ee0c39eb6cca876565ea0fb2188bf810ed4ceca925ed2dfb30f747/locust-1.1-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/msgpack/json
+    [INFO] Getting Python data from https://pypi.org/pypi/geventhttpclient/json
+    [INFO] Getting Python data from https://pypi.org/pypi/ConfigArgParse/json
+    [INFO] Getting Python data from https://pypi.org/pypi/psutil/json
+    [INFO] Getting Python data from https://pypi.org/pypi/Flask-BasicAuth/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/6d/d2/0ccd2c0e2cd93b35e765d9b3205cd6602e6b202b522fc7997531353715b3/MarkupSafe-1.1.1-cp27-cp27m-macosx_10_6_intel.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/36/0a/abb91b112d796c8cf572902b423a76553ffd5505a5be00c6a210a2d7e545/pyzmq-19.0.1-cp27-cp27m-macosx_10_9_intel.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/ee/ff/48bde5c0f013094d729fe4b0316ba2a24774b3ff1c52d924a8a4cb04078a/six-1.15.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/45/1e/0c169c6a5381e241ba7404532c16a21d86ab872c9bed8bdcd4c423954103/requests-2.24.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/chardet/json
+    [WARN] Candidate version (urllib3 1.26.5 - pip) for urllib3 already exists in map and the version is NOT valid.
+    [WARN] Specifiers: !=1.25.1,<1.26,!=1.25.0,>=1.21.1 for package requests caused this.
+    [WARN] Version Resolution for urllib3 failed, assuming last valid version is used.
+    [INFO] Getting Python data from https://pypi.org/pypi/certifi/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e9da21e5bacee597595b318f71d62e/Werkzeug-1.0.1-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/0c/cd/1e2ec680ec7b09846dc6e605f5a7709dfb9d7128e51a026e7154e18a234e/urllib3-1.26.5-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/9e/85/b45408c64f3b888976f1d5b37eed8d746b8d5729a66a49ec846fda27d371/zope.event-4.5.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/07/84/0f52108c5ad00e30869c030b37cfe5cd189befc5d9dec5a05e61d791e5da/zope.interface-5.4.0-cp27-cp27m-macosx_10_14_x86_64.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/3f/fa/dfc242febbff049509e5a35a065bdc10f90d8c8585361c2c66b9c2f97a01/cffi-1.15.1-cp27-cp27m-macosx_10_9_x86_64.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/pycparser/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/83/69/2f442b38fbba1cedc88bfce381b67d78b59145471a3c9581ec9417a8625b/msgpack-1.0.4-cp310-cp310-macosx_10_9_universal2.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/9d/89/6cc7633893f1e07dc56bd280a4d4d7d02cbec804c6ae5116a39136ca6aa3/geventhttpclient-2.0.2-cp310-cp310-macosx_10_9_universal2.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/brotli/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/af/cb/2a6620656f029b7b49c302853b433fac2c8eda9cbb5a3bc70b186b1b5b90/ConfigArgParse-1.5.3-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/37/a4/cb10e4c0faa3091de22eb78fa1c332566e60b9b59001bef326a4c1070417/psutil-5.9.2-cp27-cp27m-manylinux2010_i686.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/6a/34/cd29f4dd8a23ce45f2b8ce9631ff2d4205fb74eddb412a3dc4fd1e4aa800/certifi-2022.9.14-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/62/d5/5f610ebe421e85889f2e55e33b7f9a6795bd982198517d912eb1c76e1a53/pycparser-2.21-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/66/aa/7920fae008c4f127f07331964a66b842a5209ce6d52238672dd8aa8cbf36/Brotli-1.0.9-cp27-cp27m-macosx_10_9_x86_64.whl
+    ```
+9. Repo78出现：
+   ```
+   [INFO] C:\Users\blank\Desktop\SBOM\OpenRefine\main\webapp\package-lock.json does not contain a valid name and/or version. These are required fields for a valid package-lock.json file.It and its dependencies will not be registered.
+   [INFO] C:\Users\blank\Desktop\SBOM\OpenRefine\main\webapp\package.json does not contain a name and/or version. These are required fields for a valid package.json file.It and its dependencies will not be registered.
+   [INFO] Getting Python data from https://pypi.org/pypi/requests/json
+   [INFO] Enumerated 2183 files and 427 directories in 00:00:00.1876749
+   [INFO] Failed to find resolved dependency for react-loadable@npm:@docusaurus/react-loadable@5.5.2
+   [INFO] Failed to find resolved dependency for react-loadable@npm:@docusaurus/react-loadable@5.5.2
+   [INFO] Failed to find resolved dependency for react-loadable@npm:@docusaurus/react-loadable@5.5.2
+   [INFO] Processing file C:\Users\blank\Desktop\SBOM\OpenRefine\main\tests\cypress\yarn.lock
+   [INFO] Getting Python data from https://pypi.org/pypi/lxml/json
+   [INFO] Getting Python data from https://files.pythonhosted.org/packages/ca/91/6d9b8ccacd0412c08820f72cebaa4f0c0441b5cda699c90f618b6f8a1b42/requests-2.28.1-py3-none-any.whl
+   [INFO] Getting Python data from https://pypi.org/pypi/charset-normalizer/json
+   [INFO] Getting Python data from https://pypi.org/pypi/idna/json
+   [INFO] Getting Python data from https://pypi.org/pypi/urllib3/json
+   [INFO] Getting Python data from https://pypi.org/pypi/certifi/json
+   [INFO] Getting Python data from https://files.pythonhosted.org/packages/2f/09/dd2424b1ddff59402a89615b5157af1e68b548857e4e58a403b8d14719cb/lxml-4.9.1-cp27-cp27m-macosx_10_15_x86_64.whl
+   [INFO] Getting Python data from https://files.pythonhosted.org/packages/db/51/a507c856293ab05cdc1db77ff4bc1268ddd39f29e7dc4919aa497f0adbec/charset_normalizer-2.1.1-py3-none-any.whl
+   [INFO] Getting Python data from https://files.pythonhosted.org/packages/fc/34/3030de6f1370931b9dbb4dad48f6ab1015ab1d32447850b9fc94e60097be/idna-3.4-py3-none-any.whl
+   [INFO] Getting Python data from https://files.pythonhosted.org/packages/6f/de/5be2e3eed8426f871b170663333a0f627fc2924cc386cd41be065e7ea870/urllib3-1.26.12-py2.py3-none-any.whl
+   [INFO] Getting Python data from https://files.pythonhosted.org/packages/6a/34/cd29f4dd8a23ce45f2b8ce9631ff2d4205fb74eddb412a3dc4fd1e4aa800/certifi-2022.9.14-py3-none-any.whl
+   ```
+10. Repo88出现：
+    ```
+    [INFO] Getting Python data from https://pypi.org/pypi/Sphinx/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinx-autobuild/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinx-rtd-theme/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/11/d2/7002d5c3ab52c817f24622df0f0cad739169ab7af77b20dfc9dcfa4252dc/lesscpy-0.15.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/ply/json
+    [INFO] Getting Python data from https://pypi.org/pypi/six/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/83/74/318d8cd70cbde2164e3035f9e9ba0807e2de7d384e03784ad0afc98b891b/Sphinx-5.1.1-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinxcontrib-applehelp/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinxcontrib-devhelp/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinxcontrib-jsmath/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinxcontrib-htmlhelp/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinxcontrib-serializinghtml/json
+    [INFO] Getting Python data from https://pypi.org/pypi/sphinxcontrib-qthelp/json
+    [INFO] Getting Python data from https://pypi.org/pypi/Jinja2/json
+    [INFO] Getting Python data from https://pypi.org/pypi/Pygments/json
+    [INFO] Getting Python data from https://pypi.org/pypi/docutils/json
+    [INFO] Getting Python data from https://pypi.org/pypi/snowballstemmer/json
+    [INFO] Getting Python data from https://pypi.org/pypi/babel/json
+    [INFO] Getting Python data from https://pypi.org/pypi/alabaster/json
+    [INFO] Getting Python data from https://pypi.org/pypi/imagesize/json
+    [INFO] Getting Python data from https://pypi.org/pypi/requests/json
+    [INFO] Getting Python data from https://pypi.org/pypi/packaging/json
+    [INFO] Getting Python data from https://pypi.org/pypi/importlib-metadata/json
+    [INFO] Getting Python data from https://pypi.org/pypi/colorama/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/7e/7d/8fb7557b6c9298d2bcda57f4d070de443c6355dfb475582378e2aa16a02c/sphinx_autobuild-2021.3.14-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/livereload/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/e0/d2/3818e4730e314719e27f639c44164419e40eed826d63753dc480262036e8/sphinx_rtd_theme-1.0.0-py2.py3-none-any.whl
+    [WARN] Candidate version (docutils 0.19 - pip) for docutils already exists in map and the version is NOT valid.
+    [WARN] Specifiers: <0.18 for package sphinx-rtd-theme caused this.
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/4c/5e/6003a0d1f37725ec2ebd4046b657abb9372202655f96e76795dca8c0063c/docutils-0.17.1-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/a3/58/35da89ee790598a0700ea49b2a66594140f44dec458c07e8e3d4979137fc/ply-3.11-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/dc/47/86022665a9433d89a66f5911b558ddff69861766807ba685de2e324bd6ed/sphinxcontrib_applehelp-1.0.2-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/c5/09/5de5ed43a521387f18bdf5f5af31d099605c992fd25372b2b9b825ce48ee/sphinxcontrib_devhelp-1.0.2-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/c2/42/4c8646762ee83602e3fb3fbe774c2fac12f317deb0b5dbeeedd2d3ba4b77/sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/63/40/c854ef09500e25f6432dcbad0f37df87fd7046d376272292d8654cc71c95/sphinxcontrib_htmlhelp-2.0.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/c6/77/5464ec50dd0f1c1037e3c93249b040c8fc8078fdda97530eeb02424b6eea/sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/2b/14/05f9206cf4e9cfca1afb5fd224c7cd434dcc3a433d6d9e4e0264d29c6cdb/sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/bc/c3/f068337a370801f372f2f8f6bad74a5c140f6fda3d9de154052708dd3c65/Jinja2-3.1.2-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/MarkupSafe/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/4f/82/672cd382e5b39ab1cd422a672382f08a1fb3d08d9e0c0f3707f33a52063b/Pygments-2.13.0-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/ed/dc/c02e01294f7265e63a7315fe086dd1df7dacb9f840a804da846b96d01b96/snowballstemmer-2.2.0-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/2e/57/a4177e24f8ed700c037e1eca7620097fdfbb1c9b358601e40169adf6d364/Babel-2.10.3-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/10/ad/00b090d23a222943eb0eda509720a404f531a439e803f6538f35136cae9e/alabaster-0.7.12-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/ff/62/85c4c919272577931d407be5ba5d71c20f0b616d31a0befe0ae45bb79abd/imagesize-1.4.1-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/ca/91/6d9b8ccacd0412c08820f72cebaa4f0c0441b5cda699c90f618b6f8a1b42/requests-2.28.1-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/charset-normalizer/json
+    [INFO] Getting Python data from https://pypi.org/pypi/idna/json
+    [INFO] Getting Python data from https://pypi.org/pypi/urllib3/json
+    [INFO] Getting Python data from https://pypi.org/pypi/certifi/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/05/8e/8de486cbd03baba4deef4142bd643a3e7bbe954a784dc1bb17142572d127/packaging-21.3-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/pyparsing/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/d2/a2/8c239dc898138f208dd14b441b196e7b3032b94d3137d9d8453e186967fc/importlib_metadata-4.12.0-py3-none-any.whl
+    [INFO] Getting Python data from https://pypi.org/pypi/zipp/json
+    [INFO] Getting Python data from https://pypi.org/pypi/typing-extensions/json
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/77/8b/7550e87b2d308a1b711725dfaddc19c695f8c5fa413c640b2be01662f4e6/colorama-0.4.5-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/d9/60/94e9de017674f88a514804e2924bdede9a642aba179d2045214719d6ec76/MarkupSafe-2.1.1-cp310-cp310-macosx_10_9_universal2.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/db/51/a507c856293ab05cdc1db77ff4bc1268ddd39f29e7dc4919aa497f0adbec/charset_normalizer-2.1.1-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/fc/34/3030de6f1370931b9dbb4dad48f6ab1015ab1d32447850b9fc94e60097be/idna-3.4-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/6f/de/5be2e3eed8426f871b170663333a0f627fc2924cc386cd41be065e7ea870/urllib3-1.26.12-py2.py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/6a/34/cd29f4dd8a23ce45f2b8ce9631ff2d4205fb74eddb412a3dc4fd1e4aa800/certifi-2022.9.14-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/6c/10/a7d0fa5baea8fe7b50f448ab742f26f52b80bfca85ac2be9d35cdd9a3246/pyparsing-3.0.9-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/f0/36/639d6742bcc3ffdce8b85c31d79fcfae7bb04b95f0e5c4c6f8b206a038cc/zipp-3.8.1-py3-none-any.whl
+    [INFO] Getting Python data from https://files.pythonhosted.org/packages/ed/d6/2afc375a8d55b8be879d6b4986d4f69f01115e795e36827fd3a40166028b/typing_extensions-4.3.0-py3-none-any.whl
+    ```
