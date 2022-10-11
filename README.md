@@ -17,8 +17,6 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
 
 命令启动工具后，`-b`参数指定的根目录下会创建新的文件夹`_manifest`，内含文件夹`spdx_2.2`，再内含两个文件`manifest.spdx.json`和`manifest.spdx.json.sha256`。
 
-[TOC]
-
 ## GitHub Java Top100
 
 1. [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
