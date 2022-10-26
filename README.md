@@ -25,7 +25,7 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
 
 ## 爬取GitHub项目信息
 
-基于自己实现的[Axios项目](../../../javascript-get-github-java-repos)，通过调用GitHub接口，实现了爬取GitHub上Java排名前100的Repository信息，已开源。
+基于自己实现的[Axios项目](../../../javascript-get-github-repos)，通过调用GitHub接口，实现了爬取GitHub上Java排名前100的Repository信息，已开源。
 
 **[⬆ top](#基于sbom-tool工具的java项目sbom生成)**
 
