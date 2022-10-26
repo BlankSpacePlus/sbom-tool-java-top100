@@ -17,7 +17,19 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
 
 命令启动工具后，`-b`参数指定的根目录下会创建新的文件夹`_manifest`，内含文件夹`spdx_2.2`，再内含两个文件`manifest.spdx.json`和`manifest.spdx.json.sha256`。
 
-## GitHub Java Top100
+目录：
+- [爬取GitHub项目信息](#爬取github项目信息)
+- [具体项目的命令内容](#具体项目的命令内容)
+- [具体项目的生成异常](#具体项目的生成异常)
+- [批处理脚本的实现](#批处理脚本的实现)
+
+## 爬取GitHub项目信息
+
+基于自己实现的[Axios项目](../../../javascript-get-github-java-repos)，通过调用GitHub接口，实现了爬取GitHub上Java排名前100的Repository信息，已开源。
+
+**[⬆ top](#基于sbom-tool工具的java项目sbom生成)**
+
+## 具体项目的命令内容
 
 1. [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
     ```shell
@@ -420,7 +432,9 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
      sbom-tool generate -b C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -bc C:\Users\blank\Desktop\SBOM\UltimateRecyclerView -pn UltimateRecyclerView -pv v0.7.0 -ps https://github.com/cymcsg/UltimateRecyclerView -nsb https://github.com/cymcsg/UltimateRecyclerView
      ```
 
-## 异常情况
+**[⬆ top](#基于sbom-tool工具的java项目sbom生成)**
+
+## 具体项目的生成异常
 
 1. 以下情况比较常见：
     ```
@@ -712,3 +726,20 @@ generate -b <drop path> -bc <build components path> -pn <package name> -pv <pack
     [INFO] Getting Python data from https://files.pythonhosted.org/packages/f0/36/639d6742bcc3ffdce8b85c31d79fcfae7bb04b95f0e5c4c6f8b206a038cc/zipp-3.8.1-py3-none-any.whl
     [INFO] Getting Python data from https://files.pythonhosted.org/packages/ed/d6/2afc375a8d55b8be879d6b4986d4f69f01115e795e36827fd3a40166028b/typing_extensions-4.3.0-py3-none-any.whl
     ```
+
+**[⬆ top](#基于sbom-tool工具的java项目sbom生成)**
+
+## 批处理脚本的实现
+
+考虑到此工作的扩展性，为此工作编写了几个Shell脚本用于批处理：
+- [count_dicts.sh](shell/count_dicts.sh)：统计根目录下的文件夹数量，方便确认有无遗漏的repo
+- [delete_manifest.sh](shell/delete_manifest.sh)：清空所有repo目录下已生成的`_manifest`目录
+- [sbom_generate.sh](shell/generate_sbom.sh)：将[sbom.conf](shell/sbom.conf)中的所有配置参数赋给`sbom-tool.exe`，为每个repo生成含有SBOM文件的`_manifest`目录
+
+其中`sbom_generate.sh`需要配置文件[sbom.conf](shell/sbom.conf)。
+
+调用时，注意将所有clone下来的repository放到同一根目录下，再将这些脚本、配置文件、`sbom-tool.exe`(已把原来的exe重命名)放到此根目录下。
+
+Windows环境下，基于GitBash启动脚本即可，例如`./sbom_generate.sh`。
+
+**[⬆ top](#基于sbom-tool工具的java项目sbom生成)**
